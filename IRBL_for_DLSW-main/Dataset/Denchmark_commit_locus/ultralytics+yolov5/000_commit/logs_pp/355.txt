@@ -1,0 +1,2 @@
+use pathlib instead low level lowlevel module use pathlib instead low level lowlevel module use pathlib instead low level lowlevel module update detect update test reformat authored coauthoredby glenn jocher
+returns pytorch model config path join path dirname file models name yaml model yaml path config path file parent models name yaml model yaml path try model model config channels classes pretrained

@@ -1,0 +1,2 @@
+      Implement yaml.safe_load() (#2876)          * Implement yaml.safe_load()          * yaml.safe_dump() 
+                                                 'YOLOv5' if opt.project == 'runs/train' else Path(opt.project).stem)          print("Created dataset config file ", config_path)          with open(config_path) as f:             wandb_data_dict = yaml.load(f, Loader=yaml.SafeLoader)             wandb_data_dict = yaml.safe_load(f)          return wandb_data_dict        def setup_training(self, opt, data_dict): 

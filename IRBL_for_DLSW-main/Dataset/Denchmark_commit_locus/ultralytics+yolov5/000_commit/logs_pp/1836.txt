@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+def print biases printbiases self self model detect module sorted 혻from self modelf bias detach view conv bias print convd bias mean tolist mean 혻from bias detach view conv bias print convd bias weight shape mean tolist mean def print weights printweights self self model modules

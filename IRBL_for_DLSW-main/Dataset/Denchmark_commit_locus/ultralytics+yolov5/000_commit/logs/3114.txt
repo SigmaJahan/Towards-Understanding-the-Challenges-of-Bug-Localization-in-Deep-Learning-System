@@ -1,0 +1,2 @@
+      Add is_colab() function (#3018) 
+     print(colorstr('github: '), end='')      try:          assert Path('.git').exists(), 'skipping check (not a git repository)'         assert not isdocker(), 'skipping check (Docker image)'         assert not is_docker(), 'skipping check (Docker image)'          assert check_online(), 'skipping check (offline)'            cmd = 'git fetch && git config --get remote.origin.url' 

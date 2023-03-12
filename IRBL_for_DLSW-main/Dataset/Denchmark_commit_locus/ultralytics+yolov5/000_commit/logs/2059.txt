@@ -1,0 +1,2 @@
+      update test.py 
+             cocoEval.summarize()              map, map50 = cocoEval.stats[:2]  # update results (mAP@0.5:0.95, mAP@0.5)          except:             print('WARNING: pycocotools must be installed with numpy==1.17 to run correctly. '                   'See https://github.com/cocodataset/cocoapi/issues/356')             print('pycocotools not evaluated')        # Return results      model.float()  # for training 

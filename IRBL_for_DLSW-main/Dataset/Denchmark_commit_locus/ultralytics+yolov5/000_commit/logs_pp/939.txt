@@ -1,0 +1,2 @@
+coco evolution fix coco evolution fix cleanup update print print fix
+single cls singlecls opt single cls singlecls dataloader testloader save dir savedir save dir savedir save json savejson coco iscoco final epoch finalepoch verbose final epoch finalepoch plots plots final epoch finalepoch wandb logger wandblogger wandb logger wandblogger

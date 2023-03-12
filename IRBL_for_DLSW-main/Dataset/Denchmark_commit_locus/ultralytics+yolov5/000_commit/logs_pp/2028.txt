@@ -1,0 +1,2 @@
+add device argument torch pytorch hub models allow manual selection device torchhub models single line device nested torch device torch device device authored coauthoredby glenn jocher
+model names ckpt model names set class names attribute autoshape model model autoshape file uri pil inputs nms device select device selectdevice torch cuda available isavailable else cpu default gpu available device select device selectdevice torch cuda available isavailable else cpu device none else torch device device return model device except exception

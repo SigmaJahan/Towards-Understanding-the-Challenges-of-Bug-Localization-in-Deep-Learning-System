@@ -1,0 +1,2 @@
+      check_git_status() Windows fix (#2015)          * check_git_status() Windows fix          * Update general.py          * Update general.py          * Update general.py          * Update general.py          * Update general.py          * Update general.py 
+ import logging  import math  import os import platform  import random  import re  import subprocess 

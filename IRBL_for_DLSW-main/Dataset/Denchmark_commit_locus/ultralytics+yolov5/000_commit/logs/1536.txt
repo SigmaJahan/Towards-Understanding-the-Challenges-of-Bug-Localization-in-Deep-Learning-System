@@ -1,0 +1,2 @@
+      Hybrid auto-labelling support (#1646) 
+     else:  # called directly          set_logging()          device = select_device(opt.device, batch_size=batch_size)         save_txt = opt.save_txt  # save *.txt labels            # Directories          save_dir = Path(increment_path(Path(opt.project) / opt.name, exist_ok=opt.exist_ok))  # increment run 

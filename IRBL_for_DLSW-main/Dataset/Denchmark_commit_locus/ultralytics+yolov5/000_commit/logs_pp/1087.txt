@@ -1,0 +1,2 @@
+new colors class
+self shape inference bchw shape def display self pprint false show false save false crop false render false save dir savedir path colors color list colorlist pred enumerate zip self imgs self pred str image len self pred shape shape pred none

@@ -1,0 +1,2 @@
+switch default inference gpu
+niou iouv numel dataloader dataloader none dataloader none training img torch zeros imgsz imgsz device device init img model img half half else img device type cpu else none run fast conf thres confthres enable fast mode path data test opt task test else data val path val test images dataset load images labels loadimagesandlabels path

@@ -1,0 +1,2 @@
+objects update
+dir path dir dir mkdir parents true exist existok true make directory multi thread multithread thread pool threadpool imap lambda download one downloadone zip url repeat dir threads threads thread pool threadpool threads imap lambda download one downloadone zip url repeat dir multi threaded multithreaded else tuple url isinstance url str else url download one downloadone dir

@@ -1,0 +1,2 @@
+utils reorganization utils reorganization add new utils files cleanup simplify reduce datasets remove evolve load webcam loadwebcam cleanup
+classify false classify modelc load classifier loadclassifier name resnet initialize modelc load state dict loadstatedict torch load weights resnet map location maplocation device model load weights modelc device eval modelc load state dict loadstatedict torch load weights resnet map location maplocation device model device eval set dataloader vid path vidpath vid writer vidwriter none none

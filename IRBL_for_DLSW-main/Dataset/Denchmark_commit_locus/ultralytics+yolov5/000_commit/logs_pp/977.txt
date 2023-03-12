@@ -1,0 +1,2 @@
+check img size checkimgsize int update
+def check img size checkimgsize img size imgsize verify img size imgsize multiple stride new size newsize make divisible makedivisible img size imgsize ceil multiple gsmultiple new size newsize make divisible makedivisible img size imgsize int ceil multiple gsmultiple new size newsize img size imgsize print warning img size imgsize must multiple max stride updating img size imgsize new size newsize return new size newsize

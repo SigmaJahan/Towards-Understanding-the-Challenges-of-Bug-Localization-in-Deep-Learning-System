@@ -1,0 +1,2 @@
+switch default inference gpu
+save json savejson false single cls singlecls false augment false half false model none dataloader none fast false

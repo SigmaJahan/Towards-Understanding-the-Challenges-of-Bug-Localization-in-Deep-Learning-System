@@ -1,0 +1,2 @@
+evolution bug fix
+assert environ get wandbdisabled true except import error importerror assertion error assertionerror opt log imgs logimgs logger info install weights biases experiment logging via pip install wandb recommended train hyp opt device writer tbwriter wandb

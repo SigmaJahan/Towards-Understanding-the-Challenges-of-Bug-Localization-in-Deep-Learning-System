@@ -1,0 +1,2 @@
+fuse additional error checking
+def fuse self fuse model convd batch normd batchnormd layers print fusing layers self model modules type conv type conv hasattr conv non persistent buffers set nonpersistentbuffersset set pytorch compatability conv fuse conv fuseconvandbn conv update conv delattr remove batchnorm

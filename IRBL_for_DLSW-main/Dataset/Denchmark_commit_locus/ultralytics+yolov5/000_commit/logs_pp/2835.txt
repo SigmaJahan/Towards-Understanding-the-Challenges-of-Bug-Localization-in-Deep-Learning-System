@@ -1,0 +1,2 @@
+datasets self batch shapes batchshapes fix
+print opt task val test study opt task val default run normally opt task val test default run normally test opt data opt weights opt batch size batchsize

@@ -1,0 +1,2 @@
+add multi node multinode support ddp training add support multi node multinode ddp remove local rank localrank confusion fix spacing
+last opt weights print resuming training last opt weights last opt resume opt weights else opt weights opt local rank localrank opt local rank localrank rank environ environ rank check git status checkgitstatus opt cfg check file checkfile opt cfg check file opt data check file checkfile opt data check file

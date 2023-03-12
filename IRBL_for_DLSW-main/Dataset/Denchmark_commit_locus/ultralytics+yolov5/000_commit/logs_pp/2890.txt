@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+accumulate max interp nbs total batch size totalbatchsize round enumerate optimizer param groups paramgroups bias falls lrs rise interp else initial initiallr epoch interp hyp warmup bias warmupbiaslr else initial initiallr epoch momentum momentum interp hyp momentum momentum interp hyp warmup momentum warmupmomentum hyp momentum multi scale multiscale opt multi scale multiscale

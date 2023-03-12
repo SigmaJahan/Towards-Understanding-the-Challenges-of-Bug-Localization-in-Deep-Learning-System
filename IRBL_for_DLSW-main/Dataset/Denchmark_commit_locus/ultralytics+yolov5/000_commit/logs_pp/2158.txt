@@ -1,0 +1,2 @@
+auto anchor autoanchor bug fix
+std sigmas whitening dist kmeans iter points mean distance torch tensor torch tensor dtype torch float print results printresults plot

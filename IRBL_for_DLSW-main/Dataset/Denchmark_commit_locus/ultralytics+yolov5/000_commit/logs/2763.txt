@@ -1,0 +1,2 @@
+      Cache bug fix (#1513)          * Caching bug fix #1508          * np.zeros((0,5)) x2 
+             print(f'WARNING: No labels found in {path}. See {help_url}')            x['hash'] = get_hash(self.label_files + self.img_files)         x['results'] = [nf, nm, ne, nc, i]         x['results'] = [nf, nm, ne, nc, i + 1]          torch.save(x, path)  # save for next time          logging.info(f"New cache created: {path}")          return x 

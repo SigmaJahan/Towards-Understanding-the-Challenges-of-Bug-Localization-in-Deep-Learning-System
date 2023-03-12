@@ -1,0 +1,2 @@
+auto anchor autoanchor bug fix
+return max best bestx def fitness mutation fitness best metric best metric torch tensor dtype torch float return best best thr float mean fitness def print results printresults

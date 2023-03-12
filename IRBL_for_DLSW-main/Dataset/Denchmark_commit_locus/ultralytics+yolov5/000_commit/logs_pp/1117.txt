@@ -1,0 +1,2 @@
+update train
+open results file resultsfile file file write ckpt training results trainingresults write results txt epochs start epoch startepoch ckpt epoch epochs start epoch startepoch print trained epochs fine tuning finetuning additional epochs opt weights ckpt epoch epochs epochs ckpt epoch finetune additional epochs del ckpt mixed precision training https github com nvidia apex

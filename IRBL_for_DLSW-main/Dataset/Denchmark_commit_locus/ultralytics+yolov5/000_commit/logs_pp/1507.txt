@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+mutation probability sigma npr random npr seed int time time array gains len array meta values gains len meta ones mutate change occurs prevent duplicates npr random npr randn npr random clip

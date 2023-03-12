@@ -1,0 +1,2 @@
+      YOLOv5 PyTorch Hub results.save() method retains filenames (#2194)          * save results with name          * debug          * save original imgs names          * Update common.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+     def show(self):          self.display(show=True)  # show results       def save(self, save_dir=''):     def save(self, save_dir='results/'):         Path(save_dir).mkdir(exist_ok=True)          self.display(save=True, save_dir=save_dir)  # save results        def render(self): 

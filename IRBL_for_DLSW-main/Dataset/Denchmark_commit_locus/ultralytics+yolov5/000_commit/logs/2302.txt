@@ -1,0 +1,2 @@
+      Update hubconf.py for unified loading (#3005) 
+     if __name__ == '__main__':     model = create(name='yolov5s', pretrained=True, channels=3, classes=80, autoshape=True, verbose=True)  # pretrained     model = create(name='weights/yolov5s.pt', pretrained=True, channels=3, classes=80, autoshape=True,                    verbose=True)  # pretrained      # model = custom(path_or_model='path/to/model.pt')  # custom        # Verify inference 

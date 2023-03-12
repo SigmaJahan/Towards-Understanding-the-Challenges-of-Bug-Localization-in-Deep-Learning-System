@@ -1,0 +1,2 @@
+      W&B DDP fix (#2574) 
+             wandb_logger.wandb.log_artifact(str(final), type='model',                                              name='run_' + wandb_logger.wandb_run.id + '_model',                                              aliases=['last', 'best', 'stripped'])         wandb_logger.finish_run()      else:          dist.destroy_process_group()      torch.cuda.empty_cache()     wandb_logger.finish_run()      return results     

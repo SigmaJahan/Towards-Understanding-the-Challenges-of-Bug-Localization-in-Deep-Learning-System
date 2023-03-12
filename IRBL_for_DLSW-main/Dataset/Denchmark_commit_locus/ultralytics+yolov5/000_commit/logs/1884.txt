@@ -1,0 +1,2 @@
+      test during training default to FP16 
+          verbose=False):      # Initialize/load model and set device      if model is None:         training = False          device = torch_utils.select_device(opt.device, batch_size=batch_size)          half = device.type != 'cpu'  # half precision only supported on CUDA   

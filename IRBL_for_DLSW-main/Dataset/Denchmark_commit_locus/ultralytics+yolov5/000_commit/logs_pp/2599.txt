@@ -1,0 +1,2 @@
+updated testing settings rebalanced towards latency
+fast conf thres confthres fast mode fast merge false multi label multilabel false multi label multilabel multiple labels per box adds img else merge true merge best map adds img multi label multilabel multiple labels per box adds img

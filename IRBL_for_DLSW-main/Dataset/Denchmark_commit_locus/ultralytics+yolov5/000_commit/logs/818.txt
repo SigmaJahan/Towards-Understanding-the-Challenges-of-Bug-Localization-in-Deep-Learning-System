@@ -1,0 +1,2 @@
+      Update general.py (#823)          Fixes #822          `init_seeds` from `torch_utils` import is being overwritten by function `init_seeds` in `general.py` 
+ def init_seeds(seed=0):      random.seed(seed)      np.random.seed(seed)     init_seeds(seed=seed)     init_torch_seeds(seed=seed)      def get_latest_run(search_dir='./runs'): 

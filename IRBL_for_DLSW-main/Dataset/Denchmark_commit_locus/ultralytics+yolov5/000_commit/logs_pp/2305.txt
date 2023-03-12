@@ -1,0 +1,2 @@
+update detect without imshow opens window nothing visible
+stream results view img viewimg imshow str wait key waitkey millisecond save results image detections save img saveimg

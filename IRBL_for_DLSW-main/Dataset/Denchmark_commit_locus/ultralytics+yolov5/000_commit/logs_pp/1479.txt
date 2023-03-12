@@ -1,0 +1,2 @@
+verbose bug fix
+save json savejson false single cls singlecls false augment false verbose false model none dataloader none fast false verbose false fast false initialize load model set device model none training false

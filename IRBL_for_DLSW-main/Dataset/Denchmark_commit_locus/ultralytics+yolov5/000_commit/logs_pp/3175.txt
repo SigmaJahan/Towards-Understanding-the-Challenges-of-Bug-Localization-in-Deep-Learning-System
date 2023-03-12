@@ -1,0 +1,2 @@
+module updates
+return self self act self torch cat dim class narrow module def init self shortcut true chin chout shortcut groups super narrow self init hidden channels self conv self conv self add shortcut def forward self return self self self add else self self class origami module side layering def forward self pad return torch cat class conv plus convplus module standard convolution class conv plus convplus module plus shaped plusshaped convolution def init self bias true chin chout kernel stride groups super conv plus convplus self init self convd groups bias bias

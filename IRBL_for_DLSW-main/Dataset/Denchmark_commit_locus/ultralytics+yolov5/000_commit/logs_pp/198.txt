@@ -1,0 +1,2 @@
+hyperparameter expansion flips perspective mixup
+del scheduler https arxiv org pdf pdf https pytorch org docs stable modules torch optim scheduler lrscheduler html one cycle htmlonecyclelr lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda https discuss pytorch org problem occured resuming optimizer aproblemoccuredwhenresuminganoptimizer plot scheduler plotlrscheduler optimizer scheduler epochs load model

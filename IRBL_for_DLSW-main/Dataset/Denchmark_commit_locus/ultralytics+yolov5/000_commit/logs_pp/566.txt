@@ -1,0 +1,2 @@
+update autoshape print save
+str namesint cls conf label image draw imagedraw draw img rectangle box width outline colorsint cls plot pprint print str print str rstrip show img show image show img show image show save results jpg str saved img save save print saving end self else done render self imgsi asarray img

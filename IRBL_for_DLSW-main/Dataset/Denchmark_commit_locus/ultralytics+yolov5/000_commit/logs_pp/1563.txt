@@ -1,0 +1,2 @@
+fix ddp bug single process multiple device use cases
+world size worldsize number nodes rank node rank model torch parallel distributed data parallel distributeddataparallel model pip install torch torchvision https download pytorch org whl torch stable torchstable html dataset dataset load images labels loadimagesandlabels train path trainpath imgsz batch size batchsize

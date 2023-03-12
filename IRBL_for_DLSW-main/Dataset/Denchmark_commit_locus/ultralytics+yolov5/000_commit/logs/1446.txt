@@ -1,0 +1,2 @@
+       Pycocotools best.pt after COCO train (#1616)          * Pycocotools best.pt after COCO train          * cleanup 
+             eval.summarize()              map, map50 = eval.stats[:2]  # update results (mAP@0.5:0.95, mAP@0.5)          except Exception as e:             print('ERROR: pycocotools unable to run: %s' % e)             print(f'pycocotools unable to run: {e}')        # Return results      if not training: 

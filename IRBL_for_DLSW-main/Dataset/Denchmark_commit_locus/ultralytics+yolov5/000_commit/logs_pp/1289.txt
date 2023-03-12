@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+torch cuda get device properties getdeviceproperties else space cuda name total memory totalmemory bytes else cpu cpun logger info skip line logger info skip line return torch device cuda cuda else cpu

@@ -1,0 +1,2 @@
+update utils
+scatter histd cmap jet set xlabel setxlabel width set ylabel setylabel height plt savefig path join save dir savedir labels png dpi plt savefig path save dir savedir labels png dpi plt close

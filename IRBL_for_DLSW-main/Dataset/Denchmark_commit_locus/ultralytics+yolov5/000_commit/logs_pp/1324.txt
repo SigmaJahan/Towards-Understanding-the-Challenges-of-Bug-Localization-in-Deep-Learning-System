@@ -1,0 +1,2 @@
+ghost conv ghostconv update
+class ghost bottleneck ghostbottleneck module ghost bottleneck https github com huawei noah huaweinoah ghostnet def init self def init self chin chout kernel stride super ghost bottleneck ghostbottleneck self init self conv sequential ghost conv ghostconv

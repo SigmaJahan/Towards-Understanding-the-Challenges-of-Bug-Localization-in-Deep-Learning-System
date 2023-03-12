@@ -1,0 +1,2 @@
+multi gpu multigpu disabled test
+half model half device type cpu torch cuda device count devicecount model data parallel dataparallel model multi gpu multigpu disabled incompatible half device type cpu torch cuda device count devicecount model data parallel dataparallel model else called train training true

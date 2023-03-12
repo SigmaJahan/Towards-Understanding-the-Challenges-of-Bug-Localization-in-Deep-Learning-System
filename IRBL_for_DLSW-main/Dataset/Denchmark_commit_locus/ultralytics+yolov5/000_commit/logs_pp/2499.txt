@@ -1,0 +1,2 @@
+rearrange export input checks img size checks warnings rather errors current implementation allows improperly formed model inputs
+int max model stride grid size max stride opt img size imgsize check img size checkimgsize opt img size imgsize verify img size imgsize multiples gsmultiples input img torch zeros opt batch size batchsize opt img size imgsize image size detection idetection update model model named modules namedmodules non persistent buffers set nonpersistentbuffersset set pytorch compatibility

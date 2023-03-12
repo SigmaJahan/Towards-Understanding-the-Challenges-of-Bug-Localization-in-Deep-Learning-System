@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+compute loss training model loss hyperparameters loss compute loss computeloss float train trainout targets model giou obj cls loss compute loss computeloss float train trainout targets model box obj cls run nms time synchronized timesynchronized

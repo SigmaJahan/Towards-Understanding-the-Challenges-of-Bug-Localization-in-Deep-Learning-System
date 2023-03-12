@@ -1,0 +1,2 @@
+      Add file_size() function (#2911)          * Add file_size() function          * Update export.py 
+     model.model[-1].export = not opt.grid  # set Detect() layer grid export      for _ in range(2):          y = model(img)  # dry runs     print(f"\n{colorstr('PyTorch:')} starting from {opt.weights} ({file_size(opt.weights):.1f} MB)")        # TorchScript export -----------------------------------------------------------------------------------------------      prefix = colorstr('TorchScript:') 

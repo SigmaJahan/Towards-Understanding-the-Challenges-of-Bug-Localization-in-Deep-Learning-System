@@ -1,0 +1,2 @@
+      add mosaic and warmup to hyperparameters (#931) 
+           if self.augment:              # Augment imagespace             if not self.mosaic:             if not mosaic:                  img, labels = random_perspective(img, labels,                                                   degrees=hyp['degrees'],                                                   translate=hyp['translate'], 

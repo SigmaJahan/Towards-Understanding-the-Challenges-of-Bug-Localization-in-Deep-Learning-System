@@ -1,0 +1,2 @@
+revert test detect inference default fixed inference bug use half precision replace use half usehalf half replace space pep detect pep detect update half help comment update test revert space authored coauthoredby glenn jocher
+save txt savetxt opt save txt savetxt opt save hybrid savehybrid save hybrid savehybrid opt save hybrid savehybrid save conf saveconf opt save conf saveconf half precision halfprecision opt half opt opt

@@ -1,0 +1,2 @@
+update
+name main parser argparse argument parser argumentparser parser add argument addargument weights default weights yolovs help model path relative models parser add argument addargument weights default weights yolovs help weights path parser add argument addargument img size imgsize default help inference size pixels parser add argument addargument batch size batchsize default help batch size opt parser parse args parseargs

@@ -1,0 +1,2 @@
+curl update curl update curl update
+download url https dorc beijing kscnbeijing ksyun com data set dataset objects ebedaeeb objectsebedaeeb train download url zhiyuan objv train zhiyuanobjvtrain tar dir dir annotations json download url patch tar range dir dir images train threads download url patch tar range dir dir images train curl true threads labels coco coco dir zhiyuan objv train zhiyuanobjvtrain json

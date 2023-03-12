@@ -1,0 +1,2 @@
+update curve update curve legend outside list path glob
+pred cls predcls predicted object classes nparray target cls targetcls true object classes nparray plot plot precision recall precisionrecall curve map fname plot filename save dir savedir plot save directory returns average precision computed faster rcnn pyfasterrcnn

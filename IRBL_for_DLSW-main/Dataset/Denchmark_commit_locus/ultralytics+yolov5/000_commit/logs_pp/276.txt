@@ -1,0 +1,2 @@
+torch pytorch hub update
+ckpt name checkpoint filename google utils googleutils attempt download attemptdownload ckpt download found locally state dict statedict torch load ckpt model state dict statedict state dict statedict state dict statedict model state dict statedict numel numel filter state dict statedict state dict statedict items model state dict statedict numel numel filter model load state dict loadstatedict state dict statedict strict false load return model

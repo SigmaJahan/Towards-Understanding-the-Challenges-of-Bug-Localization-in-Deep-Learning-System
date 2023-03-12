@@ -1,0 +1,2 @@
+refactor test arguments remove opt test pass kwargs update comments revert accidental default change multiple img options add comments
+training device type cpu model torch zeros imgsz imgsz device type typeas next model parameters run task opt task opt task train val test else val path train val test images task task task train val test else val path train val test images dataloader create dataloader createdataloader datatask imgsz batch size batchsize single cls singlecls pad rect true prefix colorstr task

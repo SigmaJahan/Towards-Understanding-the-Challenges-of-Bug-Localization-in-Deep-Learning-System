@@ -1,0 +1,2 @@
+rename test
+print opt opt task val test run normally evaluate opt data opt weights opt batch size batchsize opt img size imgsize opt conf thres confthres opt iou thres iouthres opt save json savejson opt single cls singlecls opt augment opt verbose test opt data opt weights opt batch size batchsize opt img size imgsize opt conf thres confthres opt iou thres iouthres opt save json savejson opt single cls singlecls opt augment opt verbose elif opt task study run range settings save plot weights yolovs yolovm yolovl yolovx yolov spp yolovspp

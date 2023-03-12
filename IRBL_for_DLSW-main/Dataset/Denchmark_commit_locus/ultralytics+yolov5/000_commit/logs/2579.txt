@@ -1,0 +1,2 @@
+      remove NBSP 
+         r = wh[:, None] / k[None]          x = torch.min(r, 1. / r).min(2)[0]  # ratio metric          best = x.max(1)[0]  # best_x         return (best > 1. / thr).float().mean()  # 혻best possible recall         return (best > 1. / thr).float().mean()  # best possible recall        bpr = metric(m.anchor_grid.clone().cpu().view(-1, 2))      print('Best Possible Recall (BPR) = %.4f' % bpr, end='') 

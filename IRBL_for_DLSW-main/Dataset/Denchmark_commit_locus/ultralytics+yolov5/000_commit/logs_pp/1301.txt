@@ -1,0 +1,2 @@
+linear scheduler option linear scheduler option update train
+parser add argument addargument name default exp help save project name parser add argument addargument exist existok action store true storetrue help existing project name increment parser add argument addargument quad action store true storetrue help quad dataloader parser add argument addargument linear linearlr action store true storetrue help linear opt parser parse args parseargs set ddp variables

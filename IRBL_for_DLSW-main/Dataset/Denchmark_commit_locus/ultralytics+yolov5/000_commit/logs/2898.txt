@@ -1,0 +1,2 @@
+      update export.py 
+"""Exports a YOLOv5 *.pt model to *.onnx and *.torchscript formats """Exports a YOLOv5 *.pt model to ONNX and TorchScript formats    Usage:      $ export PYTHONPATH="$PWD" && python models/export.py --weights ./weights/yolov5s.pt --img 640 --batch 1 

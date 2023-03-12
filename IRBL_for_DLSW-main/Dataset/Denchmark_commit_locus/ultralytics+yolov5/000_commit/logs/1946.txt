@@ -1,0 +1,2 @@
+      PyTorch Hub updates 
+     class GhostBottleneck(nn.Module):     # Ghost Bottleneck https://github.com/huawei-noah/ghostnet      def __init__(self, c1, c2, k, s):          super(GhostBottleneck, self).__init__()          c_ = c2 // 2 

@@ -1,0 +1,2 @@
+add stride datasets
+elif mini shapesi mini self batch shapes batchshapes ceil array shapes img size imgsize pad astype int self batch shapes batchshapes ceil array shapes img size imgsize stride pad astype int stride cache labels self imgs none

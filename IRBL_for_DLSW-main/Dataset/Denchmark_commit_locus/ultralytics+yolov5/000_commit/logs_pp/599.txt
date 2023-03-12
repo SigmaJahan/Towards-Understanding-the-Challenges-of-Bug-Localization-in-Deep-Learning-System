@@ -1,0 +1,2 @@
+net panet update
+plot array linewidth markersize alpha label efficient det efficientdet grid set xlim setxlim set ylim setylim set xlabel setxlabel gpu latency set ylim setylim set yticks setyticks arange set xlabel setxlabel gpu speed img set ylabel setylabel coco val legend loc lower right grid plt savefig study map latency studymaplatency png dpi plt savefig replace txt png dpi

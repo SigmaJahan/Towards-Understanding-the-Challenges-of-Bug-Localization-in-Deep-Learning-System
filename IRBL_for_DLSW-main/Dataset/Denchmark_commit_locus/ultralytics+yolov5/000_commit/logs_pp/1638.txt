@@ -1,0 +1,2 @@
+release initial commit remove yolov spp yolovspp test study update study img range update map cleanup speed updates update readme plot
+return torch sigmoid class hard swish hardswish module staticmethod def forward return hardtanh true class memory efficient swish memoryefficientswish module class torch autograd function staticmethod

@@ -1,0 +1,2 @@
+daemon thread plotting daemon thread plotting remove process batch processbatch plot print
+project yol yolov opt project runs train else path opt project stem name save dir savedir stem ckpt get wandb wandbid ckpt locals else none loggers wandb wandb loggers dict resume start epoch startepoch best fitness bestfitness

@@ -1,0 +1,2 @@
+replace random affine randomaffine random perspective randomperspective signed signedoffby glenn jocher
+hsv hsvs image hsv saturation hsvsaturation augmentation fraction hsv hsvv image hsv value hsvvalue augmentation fraction degrees image rotation deg translate image translation fraction translate image translation fraction scale image scale gain shear image shear deg

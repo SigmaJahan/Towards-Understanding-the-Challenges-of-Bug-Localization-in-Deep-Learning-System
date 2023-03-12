@@ -1,0 +1,2 @@
+module updates
+self conv self convd bias false self convd bias false self conv self conv self batch normd batchnormd applied cat self act leaky leakyrelu inplace true self sequential bottleneck shortcut range

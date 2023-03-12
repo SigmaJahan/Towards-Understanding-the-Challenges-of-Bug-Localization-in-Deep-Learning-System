@@ -1,0 +1,2 @@
+multi gpu multigpu test bug fix
+view self self permute contiguous self training inference self gridi shape shape self gridi device device self gridi shape shape self gridi self make grid makegrid device sigmoid self gridi self stridei self gridi device self stridei self anchor gridi anchorgridi append view self

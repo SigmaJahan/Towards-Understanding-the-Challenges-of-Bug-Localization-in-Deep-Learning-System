@@ -1,0 +1,2 @@
+changed prints logging utils datasets authored coauthoredby glenn jocher
+utils general import xyxyxywh xywhxyxy utils torch utils torchutils import torch distributed zero first torchdistributedzerofirst logger logging get logger getlogger name parameters help url helpurl https github com ultralytics yolov wiki train custom data traincustomdata img formats imgformats bmp jpg jpeg png tif tiff dng acceptable image suffixes

@@ -1,0 +1,2 @@
+update check file checkfile update check file checkfile update datasets
+autodownload attempt download dataset found locally verbose print stats dictionary open check file checkfile path path open check file checkfile path data yaml safe load safeload data dict check dataset checkdataset data autodownload download dataset missing data number classes

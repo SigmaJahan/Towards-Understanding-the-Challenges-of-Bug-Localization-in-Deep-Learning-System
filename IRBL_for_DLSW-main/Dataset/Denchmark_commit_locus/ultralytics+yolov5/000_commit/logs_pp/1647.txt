@@ -1,0 +1,2 @@
+update test yaml safe loader safeloader
+model eval coco iscoco data endswith coco yaml coco dataset open data data yaml load loader yaml full loader fullloader model dict data yaml load loader yaml safe loader safeloader model dict check dataset checkdataset data check single cls singlecls else int data number classes iouv torch linspace device iou vector map

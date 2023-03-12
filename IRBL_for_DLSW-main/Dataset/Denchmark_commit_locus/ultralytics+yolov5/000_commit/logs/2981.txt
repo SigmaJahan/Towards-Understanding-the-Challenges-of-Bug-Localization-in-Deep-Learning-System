@@ -1,0 +1,2 @@
+      reformat code 
+             if i == 1:                  s = ' ' * len(s)              logger.info("%sdevice%g _CudaDeviceProperties(name='%s', total_memory=%dMB)" %                   (s, i, x[i].name, x[i].total_memory / c))                         (s, i, x[i].name, x[i].total_memory / c))      else:          logger.info('Using CPU')   

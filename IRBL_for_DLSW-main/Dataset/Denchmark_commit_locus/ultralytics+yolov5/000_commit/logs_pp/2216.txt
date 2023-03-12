@@ -1,0 +1,2 @@
+hyperparameter printout update
+print apex recommended faster mixed precision training https github com nvidia apex mixed precision mixedprecision false installed hyperparameters hyp optimizer sgd adam sgd none none default sgd hyp optimizer sgd adam sgd none none default sgd initial learning rate sgd adam momentum sgd momentum adam beta weight decay weightdecay optimizer weight decay

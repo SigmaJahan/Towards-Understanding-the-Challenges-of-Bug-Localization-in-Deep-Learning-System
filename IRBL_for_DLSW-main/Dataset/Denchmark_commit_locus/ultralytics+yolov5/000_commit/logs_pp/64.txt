@@ -1,0 +1,2 @@
+fix logging add logging setup fix fusing layers message fix logging end add logging change logging use logger update yolo tried cloned branch everything seems work fine update yolo authored coauthoredby glenn jocher
+rank dataloader sampler set epoch setepoch epoch pbar enumerate dataloader logging info epoch gpu mem gpumem giou obj cls total targets img size imgsize logger info epoch gpu mem gpumem giou obj cls total targets img size imgsize rank pbar tqdm pbar total progress bar optimizer zero grad zerograd

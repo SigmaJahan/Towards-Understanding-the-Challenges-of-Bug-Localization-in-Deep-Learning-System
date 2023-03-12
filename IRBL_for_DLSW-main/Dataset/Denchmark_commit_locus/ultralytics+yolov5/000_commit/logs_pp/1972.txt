@@ -1,0 +1,2 @@
+refactor test arguments remove opt test pass kwargs update comments revert accidental default change multiple img options add comments
+def test data weights none batch size batchsize imgsz conf thres confthres iou thres iouthres nms imgsz image size conf thres confthres confidence threshold iou thres iouthres nms iou threshold save json savejson false single cls singlecls false augment false

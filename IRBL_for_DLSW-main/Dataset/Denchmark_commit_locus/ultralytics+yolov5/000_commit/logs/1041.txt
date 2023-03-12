@@ -1,0 +1,2 @@
+      Streaming --save-txt bug fix (#1672)          * Streaming --save-txt bug fix          * cleanup 
+         self.files = images + videos          self.nf = ni + nv  # number of files          self.video_flag = [False] * ni + [True] * nv         self.mode = 'images'         self.mode = 'image'          if any(videos):              self.new_video(videos[0])  # new video          else: 

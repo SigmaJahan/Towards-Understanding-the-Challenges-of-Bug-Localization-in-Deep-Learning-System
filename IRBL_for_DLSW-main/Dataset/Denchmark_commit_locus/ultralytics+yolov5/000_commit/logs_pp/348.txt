@@ -1,0 +1,2 @@
+update detections times none fix results tolist method breaking yol yolov hub profiling rshttps prshttps github com ultralytics yolov pull https github com ultralytics yolov pull
+class detections detections class yol yolov inference results def init self imgs pred files times names none shape none def init self imgs pred files times none names none shape none super detections self init pred device device torch tensor shapei device imgs normalizations

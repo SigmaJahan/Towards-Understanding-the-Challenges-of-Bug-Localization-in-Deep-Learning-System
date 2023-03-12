@@ -1,0 +1,2 @@
+bbox iou bboxiou stability speed improvements
+elif ciou https github com zzh tju zzhtju ussd pytorch dioussdpytorch blob master utils box box utils boxutils pyl math torch pow torch atan torch atan torch grad nograd alpha eps iou alpha iou eps return iou rho alpha ciou else giou https arxiv org pdf pdf area carea eps convex area

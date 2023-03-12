@@ -1,0 +1,2 @@
+      gsutil cp hyp evolution bug fix (#876) 
+     print('\n%s\n%s\nEvolved fitness: %s\n' % (a, b, c))        if bucket:         os.system('gsutil cp gs://%s/evolve.txt .' % bucket)  # download evolve.txt         url = 'gs://%s/evolve.txt' % bucket         if gsutil_getsize(url) > (os.path.getsize('evolve.txt') if os.path.exists('evolve.txt') else 0):             os.system('gsutil cp %s .' % url)  # download evolve.txt if larger than local        with open('evolve.txt', 'a') as f:  # append result          f.write(c + b + '\n') 

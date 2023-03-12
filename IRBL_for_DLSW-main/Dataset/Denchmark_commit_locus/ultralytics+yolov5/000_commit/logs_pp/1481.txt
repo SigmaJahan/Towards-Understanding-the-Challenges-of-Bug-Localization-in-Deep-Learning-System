@@ -1,0 +1,2 @@
+cleanup
+check requirements checkrequirements path file parent requirements txt exclude tensorboard pycocotools thop def create name pretrained channels classes autoshape true verbose true def create name pretrained true channels classes autoshape true verbose true creates specified yol yolov model arguments

@@ -1,0 +1,2 @@
+logging add hyperparameters logging add hyperparameters hyp bug fix image logging updates plots wandb cleanup wandb gitignore add cleanup cleanup move wandb import top file wandb evolve update import wandb run finish default anchors
+model torch sync batch norm syncbatchnorm convert sync batchnorm convertsyncbatchnorm model device logger info using sync batch norm syncbatchnorm exponential moving average ema ema model ema modelema model rank else none ddp mode

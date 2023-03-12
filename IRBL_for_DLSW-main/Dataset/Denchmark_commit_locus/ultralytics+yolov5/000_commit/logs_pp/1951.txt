@@ -1,0 +1,2 @@
+fix labels missed image extension appears twice filename
+def imglabel paths imglabelpaths img paths imgpaths define label paths function image paths sep images sep sep labels sep images labels substrings return replace replace split txt img paths imgpaths return txt join replace rsplit split img paths imgpaths class load images labels loadimagesandlabels dataset training testing

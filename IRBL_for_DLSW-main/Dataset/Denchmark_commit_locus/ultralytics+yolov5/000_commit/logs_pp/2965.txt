@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+import numpy import torch import torch pil import image image draw imagedraw utils datasets import letterbox utils general import non max suppression nonmaxsuppression make divisible makedivisible scale coords scalecoords utils general import non max suppression nonmaxsuppression make divisible makedivisible scale coords scalecoords xyxyxywh utils plots import color list colorlist def autopad none kernel padding

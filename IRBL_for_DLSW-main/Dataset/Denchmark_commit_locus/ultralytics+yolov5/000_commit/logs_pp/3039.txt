@@ -1,0 +1,2 @@
+update check python checkpython minimum
+print err msg errmsg def check python checkpython minimum required true def check python checkpython minimum required true check current python version required python version current platform python version pythonversion result pkg parse version parseversion current pkg parse version parseversion minimum

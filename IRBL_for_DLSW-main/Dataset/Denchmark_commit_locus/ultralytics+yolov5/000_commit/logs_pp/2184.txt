@@ -1,0 +1,2 @@
+replace random affine randomaffine random perspective randomperspective signed signedoffby glenn jocher
+warp points ones targets reshape reshape transform perspective reshape rescale else affine reshape create new boxes

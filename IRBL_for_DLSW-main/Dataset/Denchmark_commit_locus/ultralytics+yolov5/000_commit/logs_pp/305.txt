@@ -1,0 +1,2 @@
+torch pytorch version screen cleanup create flatten recursive flattenrecursive helper function cleanup print torch version
+path exists path shutil rmtree path delete output folder makedirs path make new output folder def flatten recursive flattenrecursive path coco flatten recursive directory bringing files top level new path newpath path path flat create folder createfolder new path newpath file tqdm glob glob str path path recursive true shutil copyfile file new path newpath path file name

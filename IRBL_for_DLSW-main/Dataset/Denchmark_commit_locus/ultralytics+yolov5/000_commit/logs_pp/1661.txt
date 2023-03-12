@@ -1,0 +1,2 @@
+update mosaic border
+return img ratio def random affine randomaffine img targets degrees translate scale shear border def random affine randomaffine img targets degrees translate scale shear border torchvision transforms random affine randomaffine degrees translate scale shear https medium com uruvideo dataset augmentation random homographies afbd datasetaugmentationwithrandomhomographiesafbd targets cls xyxy height img shape border width img shape border height img shape border shape width img shape border rotation scale eye

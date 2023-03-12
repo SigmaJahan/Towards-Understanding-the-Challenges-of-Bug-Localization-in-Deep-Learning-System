@@ -1,0 +1,2 @@
+      Hybrid auto-labelling support (#1646) 
+              opt.single_cls,               opt.augment,               opt.verbose,              save_txt=opt.save_txt,              save_txt=opt.save_txt | opt.save_hybrid,              save_hybrid=opt.save_hybrid,               save_conf=opt.save_conf,               )   

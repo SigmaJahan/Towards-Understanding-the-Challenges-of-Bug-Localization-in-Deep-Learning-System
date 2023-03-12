@@ -1,0 +1,2 @@
+improved yolo profiling improved yolo profiling improved column order labelling update yolo
+self model detect module bias detach view conv bias logger info convd bias weight shape mean tolist mean logger info convd bias weight shape mean tolist mean def print weights printweights self self model modules

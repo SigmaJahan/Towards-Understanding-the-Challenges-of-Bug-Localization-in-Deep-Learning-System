@@ -1,0 +1,2 @@
+update build targets buildtargets signed signedoffby glenn jocher
+detections matrix xyxy conf cls multi label multilabel conf thres confthres nonzero tuple astuple false conf thres confthres nonzero tuple astuple false torch cat boxi none none float else best class conf max keepdim true

@@ -1,0 +1,2 @@
+      Update caching (#1496) 
+       # def __iter__(self):      #     self.count = -1     #     logger.info('ran dataset iter')     #     print('ran dataset iter')      #     #self.shuffled_vector = np.random.permutation(self.nF) if self.augment else np.arange(self.nF)      #     return self   

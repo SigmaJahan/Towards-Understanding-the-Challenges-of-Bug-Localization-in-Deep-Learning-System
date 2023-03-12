@@ -1,0 +1,2 @@
+      Utils reorganization (#1392)          * Utils reorganization          * Add new utils files          * cleanup          * simplify          * reduce datasets.py          * remove evolve.sh          * loadWebcam cleanup 
+     except ImportError:          fs = ''       logger.info(         'Model Summary: %g layers, %g parameters, %g gradients%s' % (len(list(model.parameters())), n_p, n_g, fs))     logger.info(f"Model Summary: {len(list(model.modules()))} layers, {n_p} parameters, {n_g} gradients{fs}")      def load_classifier(name='resnet101', n=2): 

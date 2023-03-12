@@ -1,0 +1,2 @@
+add parser arg hyp yaml file
+translate image translation fraction scale image scale gain shear image shear deg print hyp need printing every time print hyp overwrite hyp hyp txt optional glob glob hyp txt

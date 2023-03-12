@@ -1,0 +1,2 @@
+      Precision-Recall Curve Feature Addition (#1107)          * initial commit          * Update general.py          Indent update          * Update general.py          refactor duplicate code          * 200 dpi 
+               # Run NMS              t = time_synchronized()             output = non_max_suppression(inf_out, conf_thres=conf_thres, iou_thres=iou_thres, merge=merge)             output = non_max_suppression(inf_out, conf_thres=conf_thres, iou_thres=iou_thres)              t1 += time_synchronized() - t            # Statistics per image 

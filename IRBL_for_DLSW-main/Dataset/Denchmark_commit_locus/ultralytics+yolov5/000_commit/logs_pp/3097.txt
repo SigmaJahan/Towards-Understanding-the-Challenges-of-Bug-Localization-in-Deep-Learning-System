@@ -1,0 +1,2 @@
+add train run method update train explicit arguments update train add run method
+wandb logger wandblogger end epoch endepoch best result bestresult best fitness bestfitness save model opt nosave final epoch finalepoch opt evolve save nosave final epoch finalepoch evolve save ckpt epoch epoch best fitness bestfitness best fitness bestfitness training results trainingresults results file resultsfile read text readtext

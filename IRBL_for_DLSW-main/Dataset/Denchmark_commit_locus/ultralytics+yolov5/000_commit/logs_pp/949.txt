@@ -1,0 +1,2 @@
+update datasets
+system def imagelistfolder path data coco img cocoimg txt utils datasets import imagelistfolder def imagelistfolder path path images txt utils datasets import imagelistfolder copies images text file list images folder create folder createfolder path open path

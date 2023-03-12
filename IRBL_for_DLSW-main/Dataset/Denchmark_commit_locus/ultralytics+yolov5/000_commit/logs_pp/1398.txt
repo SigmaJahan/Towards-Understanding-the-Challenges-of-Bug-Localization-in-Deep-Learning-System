@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+del load model avoid multiple downloads torch distributed zero first torchdistributedzerofirst local rank localrank torch distributed zero first torchdistributedzerofirst rank google utils googleutils attempt download attemptdownload weights start epoch startepoch best fitness bestfitness weights endswith pytorch format

@@ -1,0 +1,2 @@
+add device argument torch pytorch hub models allow manual selection device torchhub models single line device nested torch device torch device device authored coauthoredby glenn jocher
+import torch def create name pretrained true channels classes autoshape true verbose true def create name pretrained true channels classes autoshape true verbose true device none creates specified yol yolov model arguments

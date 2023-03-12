@@ -1,0 +1,2 @@
+      Add variable-stride inference support (#2091) 
+     class LoadImages:  # for inference     def __init__(self, path, img_size=640):     def __init__(self, path, img_size=640, stride=32):          p = str(Path(path))  # os-agnostic          p = os.path.abspath(p)  # absolute path          if '*' in p: 

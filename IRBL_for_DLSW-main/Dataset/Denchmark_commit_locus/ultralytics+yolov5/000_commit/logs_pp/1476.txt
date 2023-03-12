@@ -1,0 +1,2 @@
+update export
+opt weights replace onnx filename model fuse onnx torch onnx export model img verbose false opset version opsetversion input names inputnames images output names outputnames output output names outputnames classes boxes output names outputnames classes boxes none else output checks onnx model onnxmodel onnx load load onnx model

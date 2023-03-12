@@ -1,0 +1,2 @@
+allow changed config variable
+model artifact name modelartifactname wandbartifactprefix model artifact name modelartifactname assert wandb install wandb resume wandb runs resume wandb artifact wandbartifact runs workaround overwriting wandb config self wandb run wandbrun wandb init run runid project project entity entity resume allow self wandb run wandbrun wandb init run runid project project entity entity resume allow allow val change allowvalchange true opt resume model artifact name modelartifactname elif self wandb self wandb run wandbrun wandb init config opt

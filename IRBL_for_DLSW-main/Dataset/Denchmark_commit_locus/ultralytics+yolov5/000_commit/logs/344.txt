@@ -1,0 +1,2 @@
+      W&B DDP fix (#2574) 
+   try:      import wandb     from wandb import init, finish  except ImportError:      wandb = None     print(f"{colorstr('wandb: ')}Install Weights & Biases for YOLOv5 logging with 'pip install wandb' (recommended)")    WANDB_ARTIFACT_PREFIX = 'wandb-artifact://'   

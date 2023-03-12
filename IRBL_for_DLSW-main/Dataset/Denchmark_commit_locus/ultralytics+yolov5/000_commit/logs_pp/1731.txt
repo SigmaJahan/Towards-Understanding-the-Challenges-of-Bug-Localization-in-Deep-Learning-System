@@ -1,0 +1,2 @@
+update yolo default cfg
+name main parser argparse argument parser argumentparser parser add argument addargument cfg type str default yolovm yolovmp yaml help model yaml parser add argument addargument cfg type str default yolovs yaml help model yaml parser add argument addargument device default help cuda device cpu opt parser parse args parseargs opt cfg check file checkfile opt cfg check file

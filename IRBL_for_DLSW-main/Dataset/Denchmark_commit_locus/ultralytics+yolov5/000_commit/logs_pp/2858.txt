@@ -1,0 +1,2 @@
+entity support entity support shorten wandb entity wandbentity entity authored coauthoredby jan hajek authored coauthoredby glenn jocher
+wandb run wandbrun wandb init config opt resume allow project yol yolov opt project runs train else path opt project stem name save dir savedir stem entity opt entity ckpt get wandb wandbid ckpt locals else none loggers wandb wandb loggers dict

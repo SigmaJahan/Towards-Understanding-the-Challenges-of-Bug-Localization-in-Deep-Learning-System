@@ -1,0 +1,2 @@
+update loss criteria constructor
+regression pxy sigmoid pwh sigmoid anchorsi pbox torch cat pxy pwh device predicted box pbox torch cat pxy pwh predicted box iou bbox iou bboxiou pbox tboxi xyxy false ciou true iou prediction target lbox iou mean iou loss

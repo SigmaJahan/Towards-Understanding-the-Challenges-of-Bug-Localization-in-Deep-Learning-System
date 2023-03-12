@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+hyperparameter evolution metadata mutation scale lower limit lowerlimit upper limit upperlimit meta initial learning rate sgd adam lrf final one cycle onecyclelr learning rate lrf momentum sgd momentum adam beta momentum sgd momentum adam beta weight decay weightdecay optimizer weight decay warmup epochs warmupepochs warmup epochs fractions warmup momentum warmupmomentum warmup initial momentum warmup bias warmupbiaslr warmup initial bias giou giou loss gain cls cls loss gain cls clspw cls bce loss bceloss positive weight positiveweight

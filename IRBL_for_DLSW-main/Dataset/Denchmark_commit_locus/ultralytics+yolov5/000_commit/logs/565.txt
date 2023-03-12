@@ -1,0 +1,2 @@
+      Update autoshape .print() and .save() (#2022) 
+     def display(self, pprint=False, show=False, save=False, render=False):          colors = color_list()          for i, (img, pred) in enumerate(zip(self.imgs, self.pred)):             str = f'Image {i + 1}/{len(self.pred)}: {img.shape[0]}x{img.shape[1]} '             str = f'image {i + 1}/{len(self.pred)}: {img.shape[0]}x{img.shape[1]} '              if pred is not None:                  for c in pred[:, -1].unique():                      n = (pred[:, -1] == c).sum()  # detections per class 

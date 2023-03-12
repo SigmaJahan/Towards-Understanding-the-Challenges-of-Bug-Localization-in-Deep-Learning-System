@@ -1,0 +1,2 @@
+      add replicate() to datasets.py 
+         self.mosaic_border = [-img_size // 2, -img_size // 2]          self.stride = stride             # Define labels          self.label_files = [x.replace('images', 'labels').replace(os.path.splitext(x)[-1], '.txt')                              for x in self.img_files] 

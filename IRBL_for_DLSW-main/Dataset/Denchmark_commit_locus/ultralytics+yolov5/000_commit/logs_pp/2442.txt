@@ -1,0 +1,2 @@
+update utils
+random seed seed torch utils torchutils init seeds initseeds seed seed def get latest run getlatestrun search dir searchdir runs get path recent last run dirs assumes recently saved last desired weights resume return path recent last runs resume last list lastlist glob glob search dir searchdir last recursive true latest max last list lastlist key path getctime return latest return max last list lastlist key path getctime def check git status checkgitstatus suggest git pull repo date

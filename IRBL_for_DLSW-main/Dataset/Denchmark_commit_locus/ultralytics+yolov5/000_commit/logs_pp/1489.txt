@@ -1,0 +1,2 @@
+zero target zerotarget training bug fix
+output count scaling lbox giou lobj obj else model lcls cls lcls cls tobj shape batch size loss lbox lobj lcls

@@ -1,0 +1,2 @@
+update run runonce lines
+colors random randint range names run inference device type cpu model torch zeros imgsz imgsz device type typeas next model parameters run time time img torch zeros imgsz imgsz device device init img model img half half else img device type cpu else none run path img ims vid cap vidcap dataset img torch numpy fromnumpy img device img img half half else img float uint

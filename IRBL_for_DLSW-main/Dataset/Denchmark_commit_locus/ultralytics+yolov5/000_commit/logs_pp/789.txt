@@ -1,0 +1,2 @@
+change weights dir wdir unique run log dir logdir
+print apex recommended faster mixed precision training https github com nvidia apex mixed precision mixedprecision false installed wdir weights sep weights dir makedirs wdir exist existok true last wdir last best wdir best results file resultsfile results txt hyperparameters hyp initial learning rate sgd adam

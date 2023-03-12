@@ -1,0 +1,2 @@
+resume custom anchors fix resume custom anchors fix update train
+anchors opt noautoanchor check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz model half float pre reduce prereduce anchor precision model parameters hyp box scale layers

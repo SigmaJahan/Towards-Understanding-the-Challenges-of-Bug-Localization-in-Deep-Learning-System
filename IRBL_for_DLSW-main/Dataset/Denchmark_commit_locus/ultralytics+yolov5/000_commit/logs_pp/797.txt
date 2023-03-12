@@ -1,0 +1,2 @@
+resume runs exp directory initial commit add weight backup dir resume
+writer tbwriter none opt global rank globalrank logger info start tensorboard tensorboard logdir view http localhost opt logdir writer tbwriter summary writer summarywriter log dir logdir increment dir incrementdir path opt logdir exp opt name runs exp writer tbwriter summary writer summarywriter log dir logdir log dir logdir runs exp train hyp opt device writer tbwriter

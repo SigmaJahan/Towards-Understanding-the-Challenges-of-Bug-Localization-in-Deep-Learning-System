@@ -1,0 +1,2 @@
+      utils.general comment updates/bug fixes 
+     print('\nPlot saved as evolve.png')     def plot_results_overlay(start=0, stop=0):  # from utils.utils import *; plot_results_overlay() def plot_results_overlay(start=0, stop=0):  # from utils.general import *; plot_results_overlay()      # Plot training 'results*.txt', overlaying train and val losses      s = ['train', 'train', 'train', 'Precision', 'mAP@0.5', 'val', 'val', 'val', 'Recall', 'mAP@0.5:0.95']  # legends      t = ['GIoU', 'Objectness', 'Classification', 'P-R', 'mAP-F1']  # titles 

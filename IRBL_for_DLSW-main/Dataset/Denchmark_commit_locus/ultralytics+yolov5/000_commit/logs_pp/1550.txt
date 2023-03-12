@@ -1,0 +1,2 @@
+classifier export torch seed updates
+import torch backends cudnn cudnn import torch import torch functional import torchvision models models logger logging get logger getlogger name def init seeds initseeds seed def init torch seeds inittorchseeds seed torch manual seed manualseed seed speed reproducibility speedreproducibility tradeoff https pytorch org docs stable notes randomness html

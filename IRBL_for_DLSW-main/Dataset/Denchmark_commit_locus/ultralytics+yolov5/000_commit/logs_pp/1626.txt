@@ -1,0 +1,2 @@
+update detect update detect update detect
+save img saveimg opt save crop savecrop view img viewimg add bbox image int cls integer class label none opt hide labels hidelabels else namesc opt hide conf hideconf else namesc conf plot one box plotonebox xyxy label label color colors true line thickness linethickness opt line thickness linethickness opt save crop savecrop save one box saveonebox xyxy ims file save dir savedir crops namesc stem jpg bgr true

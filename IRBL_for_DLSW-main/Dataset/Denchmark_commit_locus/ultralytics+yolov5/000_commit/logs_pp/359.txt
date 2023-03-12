@@ -1,0 +1,2 @@
+use pathlib instead low level lowlevel module use pathlib instead low level lowlevel module use pathlib instead low level lowlevel module update detect update test reformat authored coauthoredby glenn jocher
+opt name opt name isnumeric else fresults flast fbest log dir logdir results txt wdir last wdir best zip wdir last wdir best results file resultsfile flast fbest fresults path exists exists rename rename str endswith strip optimizer stripoptimizer strip optimizer

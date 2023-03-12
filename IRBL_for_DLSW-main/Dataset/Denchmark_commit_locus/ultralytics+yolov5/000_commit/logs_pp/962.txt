@@ -1,0 +1,2 @@
+add unzip flag download
+raise exception dataset found def download url dir threads def download url dir unzip true threads multi threaded multithreaded file download unzip function def download one downloadone url dir download file

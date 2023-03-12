@@ -1,0 +1,2 @@
+      update build_targets() (#589)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         gi, gj = gij.T  # grid xy indices            # Append         a = t[:, 6].long()  # anchor indices          indices.append((b, a, gj, gi))  # image, anchor, grid indices          tbox.append(torch.cat((gxy - gij, gwh), 1))  # box          anch.append(anchors[a])  # anchors 

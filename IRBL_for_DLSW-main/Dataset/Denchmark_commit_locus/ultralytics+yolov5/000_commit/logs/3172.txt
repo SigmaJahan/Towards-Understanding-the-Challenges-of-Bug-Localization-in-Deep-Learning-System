@@ -1,0 +1,2 @@
+      module updates 
+ from utils.utils import *     def DWConv(c1, c2, k=1, s=1, act=True):  # depthwise convolution def DWConv(c1, c2, k=1, s=1, act=True):     # Depthwise convolution      return Conv(c1, c2, k, s, g=math.gcd(c1, c2), act=act)     class Conv(nn.Module):  # standard convolution class Conv(nn.Module):     # Standard convolution      def __init__(self, c1, c2, k=1, s=1, g=1, act=True):  # ch_in, ch_out, kernel, stride, groups          super(Conv, self).__init__()          self.conv = nn.Conv2d(c1, c2, k, s, k // 2, groups=g, bias=False) 

@@ -1,0 +1,2 @@
+yaml constructor posixpath resume bug fix resume fix yaml constructor posixpath error fix update remove weights dir backup
+start epoch startepoch ckpt epoch opt resume assert start epoch startepoch training epochs finished nothing resume weights epochs shutil copytree wdir wdir parent weights backup epoch weightsbackupepoch start epoch startepoch save previous weights epochs start epoch startepoch logger info trained epochs fine tuning finetuning additional epochs weights ckpt epoch epochs

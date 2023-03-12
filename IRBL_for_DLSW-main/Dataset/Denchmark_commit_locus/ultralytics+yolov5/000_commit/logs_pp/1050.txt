@@ -1,0 +1,2 @@
+recursive directories dataset capability recursive directories dataset capability split glob glob sep recursive true glob glob str recursive true remove image vid formats txt txt str
+else raise exception error exist images files path splitext lower img formats imgformats videos files path splitext lower vid formats vidformats images files split lower img formats imgformats videos files split lower vid formats vidformats len images len videos self img size imgsize img size imgsize

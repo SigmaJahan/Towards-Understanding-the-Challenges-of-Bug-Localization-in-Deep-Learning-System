@@ -1,0 +1,2 @@
+update yolo
+profile img torch rand torch cuda available isavailable else device model img profile true print shape shape onnx export model model export true torch onnx export model img replace yaml onnx verbose true opset version opsetversion torch onnx export model img opt cfg replace yaml onnx verbose true opset version opsetversion tensorboard torch utils tensorboard import summary writer summarywriter

@@ -1,0 +1,2 @@
+ddp fix
+fitness array results reshape weighted combination map map best fitness bestfitness best fitness bestfitness wandb logger wandblogger end epoch endepoch best result bestresult best fitness bestfitness save model opt nosave final epoch finalepoch opt evolve save

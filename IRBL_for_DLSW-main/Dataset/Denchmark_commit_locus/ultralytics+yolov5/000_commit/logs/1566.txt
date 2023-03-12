@@ -1,0 +1,2 @@
+      Update caching (#1496) 
+         # Print          assert ret_val, 'Camera Error %s' % self.pipe          img_path = 'webcam.jpg'         logger.debug('webcam %g: ', self.count)         print('webcam %g: ' % self.count, end='')            # Padded resize          img = letterbox(img0, new_shape=self.img_size)[0] 

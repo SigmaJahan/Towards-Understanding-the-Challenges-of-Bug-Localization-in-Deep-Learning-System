@@ -1,0 +1,2 @@
+      Update matplotlib.use('Agg') tight (#1583)          * Update matplotlib tight_layout=True          * udpate          * udpate          * update          * png to ps          * update          * update 
+     ya = np.exp(x)      yb = torch.sigmoid(torch.from_numpy(x)).numpy() * 2       fig = plt.figure(figsize=(6, 3), dpi=150)     fig = plt.figure(figsize=(6, 3), tight_layout=True)      plt.plot(x, ya, '.-', label='YOLOv3')      plt.plot(x, yb ** 2, '.-', label='YOLOv5 ^2')      plt.plot(x, yb ** 1.6, '.-', label='YOLOv5 ^1.6') 

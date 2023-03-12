@@ -1,0 +1,2 @@
+      Update datasets.py (#494) 
+         return torch.stack(img, 0), torch.cat(label, 0), path, shapes     # Ancillary functions --------------------------------------------------------------------------------------------------  def load_image(self, index):      # loads 1 image from dataset, returns img, original hw, resized hw      img = self.imgs[index] 

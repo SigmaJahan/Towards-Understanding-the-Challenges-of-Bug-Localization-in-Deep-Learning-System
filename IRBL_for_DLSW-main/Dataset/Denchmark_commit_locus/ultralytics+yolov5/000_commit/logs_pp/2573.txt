@@ -1,0 +1,2 @@
+implement default class names
+logger info overriding model yaml self yaml self yaml override yaml value self model self save parse model parsemodel deepcopy self yaml model savelist chout self names str range self yaml default names print shape self forward torch zeros build strides anchors

@@ -1,0 +1,2 @@
+      Add tqdm pbar.close() (#2644)          When using tqdm, sometimes it can't print in one line and roll to next line. 
+               pbar.desc = f"{prefix}Scanning '{path.parent / path.stem}' images and labels... " \                          f"{nf} found, {nm} missing, {ne} empty, {nc} corrupted"          pbar.close()                       if nf == 0:              print(f'{prefix}WARNING: No labels found in {path}. See {help_url}')   

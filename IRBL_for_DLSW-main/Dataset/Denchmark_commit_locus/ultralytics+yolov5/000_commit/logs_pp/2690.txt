@@ -1,0 +1,2 @@
+update tensorboard update tensorboard update tensorboard version attempt address https github com ultralytics yolov issues tensorboard logging fail docker image cleanup
+opt evolve writer tbwriter none init loggers opt global rank globalrank logger info start tensorboard tensorboard logdir opt project view http localhost prefix colorstr tensorboard logger info prefix start tensorboard logdir opt project view http localhost writer tbwriter summary writer summarywriter opt save dir savedir tensorboard train hyp opt device writer tbwriter

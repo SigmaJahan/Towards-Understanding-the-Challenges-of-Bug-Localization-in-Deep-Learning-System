@@ -1,0 +1,2 @@
+torch pytorch update native amp torch pytorch automatic mixed precision amp training fixed problem inconsistent code length indentation fixed problem inconsistent code length indentation mixed precision training turned default
+scheduler scheduler step first process ddp mode allowed log save checkpoints ddp process single gpu singlegpu rank map ema none

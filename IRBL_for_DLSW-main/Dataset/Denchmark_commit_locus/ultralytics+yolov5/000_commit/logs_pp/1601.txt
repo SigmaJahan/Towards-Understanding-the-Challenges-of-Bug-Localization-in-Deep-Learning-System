@@ -1,0 +1,2 @@
+update imglabel paths imglabelpaths
+def imglabel paths imglabelpaths img paths imgpaths define label paths function image paths sep images sep sep labels sep images labels substrings return replace replace split txt img paths imgpaths return replace replace split txt img paths imgpaths try image files

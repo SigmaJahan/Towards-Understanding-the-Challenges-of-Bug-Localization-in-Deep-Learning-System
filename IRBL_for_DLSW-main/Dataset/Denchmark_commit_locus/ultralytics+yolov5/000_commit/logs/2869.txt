@@ -1,0 +1,2 @@
+      Update matplotlib.use('Agg') tight (#1583)          * Update matplotlib tight_layout=True          * udpate          * udpate          * update          * png to ps          * update          * update 
+     plt.grid()      plt.xlim(0, epochs)      plt.ylim(0)     plt.tight_layout()      plt.savefig(Path(save_dir) / 'LR.png', dpi=200)     

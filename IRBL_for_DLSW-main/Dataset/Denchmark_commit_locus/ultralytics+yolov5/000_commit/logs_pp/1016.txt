@@ -1,0 +1,2 @@
+add resume functionality option specify path get recent run
+hyperparameters hyp optimizer sgd adam sgd none none default sgd hyp optimizer sgd adam sgd none none default sgd initial learning rate sgd adam momentum sgd momentum adam beta weight decay weightdecay optimizer weight decay

@@ -1,0 +1,2 @@
+resume runs exp directory initial commit add weight backup dir resume
+resume opt resume resume interrupted run ckpt opt resume isinstance opt resume str else get latest run getlatestrun specified recent path log dir logdir path ckpt parent parent runs exp assert path isfile ckpt error resume checkpoint exist open path ckpt parent parent opt yaml open log dir logdir opt yaml opt argparse namespace yaml load loader yaml full loader fullloader replace opt cfg opt weights opt resume ckpt true logger info resuming training ckpt

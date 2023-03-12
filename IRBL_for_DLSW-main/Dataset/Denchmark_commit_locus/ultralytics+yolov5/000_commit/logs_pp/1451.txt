@@ -1,0 +1,2 @@
+pycocotools best coco train pycocotools best coco train cleanup
+def attempt download attemptdownload weights attempt download pretrained weights found locally weights weights strip replace weights str weights strip replace file path weights name lower msg weights missing try downloading https github com ultralytics yolov releases

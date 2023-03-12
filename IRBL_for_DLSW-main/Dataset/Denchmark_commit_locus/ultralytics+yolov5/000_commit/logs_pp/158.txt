@@ -1,0 +1,2 @@
+targets scaling bug fix
+nan show zero loss values normalize label labelsfi len labels else stem axi plot marker label label linewidth markersize axi plot marker label label linewidth markersize axi set title settitle share train val loss axes axi get shared yaxes getsharedyaxes join axi axi

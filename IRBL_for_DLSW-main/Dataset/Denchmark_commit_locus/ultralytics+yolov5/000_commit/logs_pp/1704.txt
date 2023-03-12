@@ -1,0 +1,2 @@
+feature improvements feature improvements add class labels caption bounding boxes display class name class confidence score project name set yolov run name set opt logdir cleanup remove parenthesis caption authored coauthoredby glenn jocher
+hyp none augment false cache false pad rect true seen names model names hasattr model names else model module names names enumerate model names hasattr model names else model module names cococlass coco coco class cocotocococlass class images targets map map map map

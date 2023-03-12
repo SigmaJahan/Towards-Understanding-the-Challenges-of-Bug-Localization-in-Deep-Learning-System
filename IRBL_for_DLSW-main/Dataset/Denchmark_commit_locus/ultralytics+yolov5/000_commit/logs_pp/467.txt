@@ -1,0 +1,2 @@
+update worldsize rank retrieval
+opt parser parse args parseargs set ddp variables opt world size worldsize int environ worldsize worldsize environ else opt global rank globalrank int environ rank rank environ else opt world size worldsize int getattr environ worldsize opt global rank globalrank int getattr environ rank set logging setlogging opt global rank globalrank opt global rank globalrank check git status checkgitstatus

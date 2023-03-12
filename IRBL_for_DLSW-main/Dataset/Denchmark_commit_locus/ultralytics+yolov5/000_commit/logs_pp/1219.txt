@@ -1,0 +1,2 @@
+replace ground truth labels replace ground truth labels using torch update
+image targets imagetargets targetstargets boxes xywhxyxy image targets imagetargets classes image targets imagetargets astype int image targets imagetargets shape ground truth conf column conf none else image targets imagetargets check confidence presence pred labels image targets imagetargets shape labels conf column conf none labels else image targets imagetargets check confidence presence label pred boxes boxes block blockx

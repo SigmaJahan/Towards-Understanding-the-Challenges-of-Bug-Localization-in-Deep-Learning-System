@@ -1,0 +1,2 @@
+update plot study txt plotstudytxt
+argmax plot linewidth markersize label path stem replace study coco studycoco replace yolo yolo label stem replace study coco studycoco replace yolo yolo plot array linewidth markersize alpha label efficient det efficientdet

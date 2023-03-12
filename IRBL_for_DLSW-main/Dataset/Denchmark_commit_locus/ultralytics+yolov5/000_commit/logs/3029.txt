@@ -1,0 +1,2 @@
+      autoShape() speed profiling update (#2460) 
+   class autoShape(nn.Module):      # input-robust model wrapper for passing cv2/np/PIL/torch inputs. Includes preprocessing, inference and NMS     img_size = 640  # inference size (pixels)      conf = 0.25  # NMS confidence threshold      iou = 0.45  # NMS IoU threshold      classes = None  # (optional list) filter by class 

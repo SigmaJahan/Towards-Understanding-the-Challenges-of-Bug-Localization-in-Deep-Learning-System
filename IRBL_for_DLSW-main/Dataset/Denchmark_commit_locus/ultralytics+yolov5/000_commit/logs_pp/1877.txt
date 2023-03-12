@@ -1,0 +1,2 @@
+torch pytorch hub crops results crop return values changing save one box saveonebox made work changes common pep single line bgr authored coauthoredby glenn jocher
+return def save one box saveonebox xyxy file image jpg gain pad square false bgr false save image crop file crop size multiplied gain padded pad pixels def save one box saveonebox xyxy file image jpg gain pad square false bgr false save true save image crop file crop size multiple gain pad pixels save return crop xyxy torch tensor xyxy view xyxyxywh xyxy boxes square

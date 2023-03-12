@@ -1,0 +1,2 @@
+      Streaming --save-txt bug fix (#1672)          * Streaming --save-txt bug fix          * cleanup 
+                 # Print results                  for c in det[:, -1].unique():                      n = (det[:, -1] == c).sum()  # detections per class                     s += '%g %ss, ' % (n, names[int(c)])  # add to string                     s += f'{n} {names[int(c)]}s, '  # add to string                    # Write results                  for *xyxy, conf, cls in reversed(det): 

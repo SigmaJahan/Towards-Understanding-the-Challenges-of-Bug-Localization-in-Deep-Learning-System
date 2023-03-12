@@ -1,0 +1,2 @@
+      pretrained model loading bug fix (#450)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ import argparse   import torch  import torch.distributed as dist  import torch.nn.functional as F  import torch.optim as optim  import torch.optim.lr_scheduler as lr_scheduler  import torch.utils.data from torch.utils.tensorboard import SummaryWriter  from torch.nn.parallel import DistributedDataParallel as DDP from torch.utils.tensorboard import SummaryWriter    import test  # import test.py to get mAP after each epoch  from models.yolo import Model 

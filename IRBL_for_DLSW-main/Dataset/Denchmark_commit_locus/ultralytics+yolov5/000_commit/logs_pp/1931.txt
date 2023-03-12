@@ -1,0 +1,2 @@
+export update
+model model export true set detect layer export true model img dry run export torch script torchscript torch script torchscript export try opt weights replace torchscript filename torch jit trace model img

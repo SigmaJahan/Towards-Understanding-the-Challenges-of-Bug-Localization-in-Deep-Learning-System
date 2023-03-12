@@ -1,0 +1,2 @@
+auto shape autoshape default torch pytorch hub models add autoshape parameter remove autoshape call read readme update hubconf file uri inputs autoshape check passthrough authored coauthoredby glenn jocher
+returns pytorch model return create yolovx pretrained channels classes return create yolovx pretrained channels classes autoshape def custom path model pathormodel path model def custom path model pathormodel path model autoshape true yol custom yolovcustom model https github com ultralytics yolov arguments options

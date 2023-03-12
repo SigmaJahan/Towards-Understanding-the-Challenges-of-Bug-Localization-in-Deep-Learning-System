@@ -1,0 +1,2 @@
+      fuse update 
+     # Initialize/load model and set device      if model is None:          training = False         merge = opt.merge  # use Merge NMS          device = torch_utils.select_device(opt.device, batch_size=batch_size)            # Remove previous 

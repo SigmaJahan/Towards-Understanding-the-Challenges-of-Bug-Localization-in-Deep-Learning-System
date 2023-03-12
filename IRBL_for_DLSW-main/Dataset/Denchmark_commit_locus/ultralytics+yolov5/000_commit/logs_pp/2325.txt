@@ -1,0 +1,2 @@
+unified project name results saving project name update update testing citesting yml address project path separator failure mode project name update address project path separator failure mode update testing citesting yml detect default name bug fix missing rstrip train exp train exp
+rank strip optimizers opt name opt name isnumeric else fresults flast fbest log dir logdir results txt wdir last wdir best fresults flast fbest save dir savedir results txt wdir last wdir best zip wdir last wdir best results file resultsfile flast fbest fresults exists rename rename

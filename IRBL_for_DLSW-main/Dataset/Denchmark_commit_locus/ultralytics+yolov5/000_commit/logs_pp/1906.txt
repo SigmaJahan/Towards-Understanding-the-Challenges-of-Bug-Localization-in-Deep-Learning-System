@@ -1,0 +1,2 @@
+update export
+try import coremltools print prefix starting export coremltools onnx version print prefix starting export coremltools version convert model torchscript apply pixel scaling per detect model convert inputs image type imagetype name image shape img shape scale bias opt weights replace mlmodel filename

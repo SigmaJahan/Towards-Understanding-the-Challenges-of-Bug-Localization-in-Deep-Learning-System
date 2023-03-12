@@ -1,0 +1,2 @@
+      check_anchors() bug fix #90 
+     mr = (m < thr).float().mean()  # match ratio      print(('AutoAnchor labels:' + '%10s' * 6) % ('n', 'mean', 'min', 'max', 'matching', 'recall'))      print(('                  ' + '%10.4g' * 6) % (wh.shape[0], wh.mean(), wh.min(), wh.max(), mr, bpr))       assert bpr > 0.9, 'Best possible recall %.3g (BPR) below 0.9 threshold. Training cancelled. ' \                        'Compute new anchors with utils.utils.kmeans_anchors() and update model before training.' % bpr   

@@ -1,0 +1,2 @@
+      Update loss criteria constructor (#1711) 
+             t[0] = time_synchronized()              y = m(x)              t[1] = time_synchronized()             _ = y.sum().backward()             t[2] = time_synchronized()             try:                 _ = y.sum().backward()                 t[2] = time_synchronized()             except:  # no backward method                 t[2] = float('nan')              dtf += (t[1] - t[0]) * 1000 / n  # ms per op forward              dtb += (t[2] - t[1]) * 1000 / n  # ms per op backward   

@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+plotting functions def histd histogram used labels png evolve png xedges yedges linspace min max linspace min max hist xedges yedges histogramd xedges yedges xidx clip digitize xedges hist shape yidx clip digitize yedges hist shape return log histxidx yidx def butter lowpass filtfilt butterlowpassfiltfilt data cutoff order https stackoverflow com questions filter smooth scipy numpy howtofiltersmoothwithscipynumpy def butter lowpass butterlowpass cutoff order

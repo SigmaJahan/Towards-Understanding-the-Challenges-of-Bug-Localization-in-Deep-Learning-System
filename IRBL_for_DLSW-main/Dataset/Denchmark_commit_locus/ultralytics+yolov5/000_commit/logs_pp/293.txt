@@ -1,0 +1,2 @@
+detection device bug fix
+self names names class names self xyxy pred xyxy pixels self xywh xyxyxywh pred xywh pixels torch tensor shapei imgs normalization gains pred device device torch tensor shapei device imgs normalizations self xyxyn zip self xyxy xyxy normalized self xywhn zip self xywh xywh normalized self len self pred

@@ -1,0 +1,2 @@
+      fix compatibility for hyper config (#1146)          * fix/hyper          * Hyp giou check to train.py          * restore general.py          * train.py overwrite fix          * restore general.py and pep8 update          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ import shutil  import time  from pathlib import Path from warnings import warn    import math  import numpy as np 

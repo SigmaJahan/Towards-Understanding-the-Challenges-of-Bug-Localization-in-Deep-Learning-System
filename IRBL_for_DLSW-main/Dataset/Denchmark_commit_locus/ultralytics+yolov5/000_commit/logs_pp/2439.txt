@@ -1,0 +1,2 @@
+new len names check
+yaml dump hyp sort keys sortkeys false open path log dir logdir opt yaml yaml dump vars opt sort keys sortkeys false epochs opt epochs batch size batchsize opt batch size batchsize weights opt weights initial training weights

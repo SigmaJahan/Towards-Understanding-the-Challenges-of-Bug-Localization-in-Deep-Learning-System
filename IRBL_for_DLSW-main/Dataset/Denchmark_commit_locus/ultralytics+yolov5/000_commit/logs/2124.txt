@@ -1,0 +1,2 @@
+      Daemon thread plotting (#1561)          * Daemon thread plotting          * remove process_batch          * plot after print 
+         sns.pairplot(x, corner=True, diag_kind='hist', kind='scatter', markers='o',                       plot_kws=dict(s=3, edgecolor=None, linewidth=1, alpha=0.02),                       diag_kws=dict(bins=50))         plt.savefig(Path(save_dir) / 'labels_correlogram.png', dpi=200)         plt.savefig(save_dir / 'labels_correlogram.png', dpi=200)          plt.close()      except Exception as e:          pass 

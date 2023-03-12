@@ -1,0 +1,2 @@
+auto anchor autoanchor fitness screen
+evolve npr random fitness shape fitness generations mutation prob sigma tqdm range gen desc evolving anchors genetic algorithm pbar tqdm range gen desc evolving anchors genetic algorithm progress bar pbar ones mutate change occurs prevent duplicates npr random npr random npr randn clip

@@ -1,0 +1,2 @@
+update train
+train opt evolve print start tensorboard tensorboard logdir runs view http localhost writer tbwriter summary writer summarywriter log dir logdir increment dir incrementdir runs exp opt name writer tbwriter summary writer summarywriter log dir logdir increment dir incrementdir runs sep exp opt name opt hyp update hyps open opt hyp hyp update yaml load loader yaml full loader fullloader

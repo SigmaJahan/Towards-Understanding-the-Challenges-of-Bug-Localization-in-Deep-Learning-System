@@ -1,0 +1,2 @@
+model fuse
+modelc load state dict loadstatedict torch load weights resnet map location maplocation device model load weights modelc device eval eval mode model device eval fuse convd batch normd batchnormd layers model fuse half precision half half device type cpu half precision supported cuda half

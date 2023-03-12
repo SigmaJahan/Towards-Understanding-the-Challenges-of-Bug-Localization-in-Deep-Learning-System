@@ -1,0 +1,2 @@
+      Add save_dir arg to test.test, use arg as location for saving batch jpgs 
+         half = device.type != 'cpu'  # half precision only supported on CUDA            # Remove previous         for f in glob.glob('test_batch*.jpg'):         for f in glob.glob(f'{save_dir}/test_batch*.jpg'):              os.remove(f)            # Load model 

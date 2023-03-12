@@ -1,0 +1,2 @@
+add colab iscolab function
+return max last list lastlist key path getctime last list lastlist else def isdocker def docker isdocker environment docker container return path workspace exists path dockerenv exists def colab iscolab environment google colab instance try import google colab return true except exception return false def emojis str return platform dependent platformdependent emoji safe emojisafe version string return str encode decode ascii ignore platform system windows else str

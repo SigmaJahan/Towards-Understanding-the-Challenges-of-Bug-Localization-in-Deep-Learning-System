@@ -1,0 +1,2 @@
+model yaml inherited dataset yaml
+remove create model model model opt cfg device assert model classes classes opt data opt cfg model model model opt cfg data dict datadict device image sizes int max model stride grid size max stride

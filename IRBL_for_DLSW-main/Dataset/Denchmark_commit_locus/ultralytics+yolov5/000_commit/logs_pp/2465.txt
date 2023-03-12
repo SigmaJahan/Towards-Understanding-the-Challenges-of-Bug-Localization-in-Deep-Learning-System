@@ -1,0 +1,2 @@
+read strip
+file lbfile path imglabel paths imglabelpaths str file imfile path file lbfile exists open file lbfile array split read splitlines dtype float labels array split read strip splitlines dtype float labels enumerate int class

@@ -1,0 +1,2 @@
+inference update
+plot images batch batchi test batchg testbatchggt jpg batch batchi filename plot images plotimages imgs targets paths names ground truth plot images plotimages img targets paths names ground truth test batchg pred testbatchgpred jpg batch batchi plot images plotimages imgs output target outputtotarget output width height paths names predictions plot images plotimages img output target outputtotarget output width height paths names predictions compute statistics stats concatenate zip stats numpy

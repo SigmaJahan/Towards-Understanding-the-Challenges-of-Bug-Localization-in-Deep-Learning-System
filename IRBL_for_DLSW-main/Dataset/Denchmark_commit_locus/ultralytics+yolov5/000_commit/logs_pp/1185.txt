@@ -1,0 +1,2 @@
+update export dry runs update export dry runs update export
+print prefix starting export onnx onnx version opt weights replace onnx filename torch onnx export model img verbose false opset version opsetversion input names inputnames images output names outputnames classes boxes none else output dynamic axes dynamicaxes images batch height width size output batch opt dynamic else none

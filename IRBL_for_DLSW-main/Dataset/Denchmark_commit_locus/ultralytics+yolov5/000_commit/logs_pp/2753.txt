@@ -1,0 +1,2 @@
+simplified torch pytorch hub custom models
+name main model create name yolovs pretrained true channels classes pretrained example model custom model path model custom example model custom path model pathormodel path model custom example model model autoshape pil inputs nms verify inference

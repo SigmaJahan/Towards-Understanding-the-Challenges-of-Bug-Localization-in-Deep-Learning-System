@@ -1,0 +1,2 @@
+refactoring cleanup refactoring cleanup update test
+open save dir savedir labels path stem txt write len line rstrip line logging media panel plots logging media panel plots len wandb images wandbimages check test operation wandb logger wandblogger current epoch currentepoch wandb logger wandblogger bbox interval bboxinterval box data boxdata position min minx xyxy min miny xyxy max maxx xyxy max maxy xyxy

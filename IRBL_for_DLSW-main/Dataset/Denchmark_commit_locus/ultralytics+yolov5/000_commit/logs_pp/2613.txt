@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+train logger info opt try import wandb except import error importerror wandb none prefix colorstr wandb logger info prefix install weights biases yol yolov logging pip install wandb recommended opt evolve writer tbwriter none init loggers opt global rank globalrank

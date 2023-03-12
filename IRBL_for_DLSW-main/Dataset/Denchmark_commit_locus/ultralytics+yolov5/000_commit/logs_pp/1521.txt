@@ -1,0 +1,2 @@
+update datasets add detect source glob command globcommand feature
+def init self path img size imgsize str path path agnostic osagnostic path abspath absolute path path isdir files sorted glob glob path join files sorted glob glob glob elif path isdir files sorted glob glob path join dir elif path isfile files files files else raise exception error exist

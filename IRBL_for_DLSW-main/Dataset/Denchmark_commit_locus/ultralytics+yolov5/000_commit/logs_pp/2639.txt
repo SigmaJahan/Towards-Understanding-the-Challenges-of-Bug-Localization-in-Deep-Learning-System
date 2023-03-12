@@ -1,0 +1,2 @@
+ema bug fix
+def init self model decay device make copy model accumulating moving average weights self ema deepcopy model create ema self ema deepcopy model module parallel isparallel model else model half ema self ema eval self updates number ema updates self decay lambda decay math exp decay exponential ramp help early epochs

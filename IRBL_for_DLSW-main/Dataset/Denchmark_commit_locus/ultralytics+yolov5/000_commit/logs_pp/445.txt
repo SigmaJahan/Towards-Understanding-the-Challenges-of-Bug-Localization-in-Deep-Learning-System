@@ -1,0 +1,2 @@
+sync train test iou thresh iouthresh sync train test iou thresh iouthresh sync train test iou thresh iouthresh weights names lower notebook update
+def test data weights none batch size batchsize batch size batchsize imgsz conf thres confthres iou thres iouthres nms

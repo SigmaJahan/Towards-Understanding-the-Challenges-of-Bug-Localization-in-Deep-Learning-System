@@ -1,0 +1,2 @@
+      Add check_imshow() (#2231)          * Add check_imshow()          * Update general.py          * Update general.py 
+     # Set Dataloader      vid_path, vid_writer = None, None      if webcam:         view_img = True         view_img = check_imshow()          cudnn.benchmark = True  # set True to speed up constant image size inference          dataset = LoadStreams(source, img_size=imgsz, stride=stride)      else: 

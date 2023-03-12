@@ -1,0 +1,2 @@
+rename test
+utils datasets import def evaluate data def test data weights none batch size batchsize imgsz

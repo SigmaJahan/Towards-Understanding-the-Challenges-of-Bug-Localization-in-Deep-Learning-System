@@ -1,0 +1,2 @@
+disable plot suppress warning message
+scheduler https arxiv org pdf pdf lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda plot scheduler plotlrscheduler optimizer scheduler epochs save dir savedir log dir logdir plot scheduler plotlrscheduler optimizer scheduler epochs save dir savedir log dir logdir load model google utils googleutils attempt download attemptdownload weights

@@ -1,0 +1,2 @@
+make cache saving optional
+hash get hash gethash self label files labelfiles self img files imgfiles results version cache version torch save path save next time logging info prefix new cache created path try torch save path save next time logging info prefix new cache created path except exception logging info prefix warning cache directory path parent writeable path writeable return def len self

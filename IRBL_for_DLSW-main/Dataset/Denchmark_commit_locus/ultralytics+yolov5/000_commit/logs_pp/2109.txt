@@ -1,0 +1,2 @@
+bug fix potential problem img fed model rectangular shape
+def scale coords scalecoords img shape imgshape coords img shape imgshape ratio pad ratiopad none rescale coords xyxy img shape imgshape img shape imgshape ratio pad ratiopad none calculate img shape imgshape gain max img shape imgshape max img shape imgshape gain old new gain min img shape imgshape img shape imgshape img shape imgshape img shape imgshape gain old new pad img shape imgshape img shape imgshape gain img shape imgshape img shape imgshape gain padding else gain ratio pad ratiopad

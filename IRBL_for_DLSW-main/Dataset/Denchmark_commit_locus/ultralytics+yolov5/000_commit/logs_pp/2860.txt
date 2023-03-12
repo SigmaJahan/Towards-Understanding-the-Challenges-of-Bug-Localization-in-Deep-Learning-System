@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+none none tqdm range kmeans points mean distance fig plt subplots figsize fig plt subplots figsize tight layout tightlayout true ravel plot arange array marker fig plt subplots figsize plot hist whwh hist whwh fig tight layout tightlayout fig savefig png dpi evolve

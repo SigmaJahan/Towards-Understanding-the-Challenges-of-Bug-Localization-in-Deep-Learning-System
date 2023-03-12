@@ -1,0 +1,2 @@
+update train remove save json savejson final epoch finalepoch
+results maps times test test opt data batch size batchsize total batch size totalbatchsize imgsz imgsz test imgsztest save json savejson final epoch finalepoch opt data endswith sep coco yaml model ema ema module hasattr ema ema module else ema ema single cls singlecls opt single cls singlecls dataloader testloader

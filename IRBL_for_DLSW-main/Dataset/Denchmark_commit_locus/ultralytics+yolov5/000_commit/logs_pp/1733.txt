@@ -1,0 +1,2 @@
+parameterize onnx opset version opsetversion
+print prefix starting export onnx onnx version opt weights replace onnx filename torch onnx export model img verbose false opset version opsetversion input names inputnames images torch onnx export model img verbose false opset version opsetversion opt opset version opsetversion input names inputnames images dynamic axes dynamicaxes images batch height width size output batch opt dynamic else none

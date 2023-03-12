@@ -1,0 +1,2 @@
+      update check_img_size() for model strides 
+     # torch.save(torch.load(weights, map_location=device), weights)  # update model if SourceChangeWarning      # model.fuse()      model.to(device).eval()     imgsz = check_img_size(imgsz, s=model.model[-1].stride.max())  # check img_size      if half:          model.half()  # to FP16   

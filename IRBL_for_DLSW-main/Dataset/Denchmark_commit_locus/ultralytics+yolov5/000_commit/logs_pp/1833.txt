@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+torch tensor anchors float view self self register buffer registerbuffer anchors shape self register buffer registerbuffer anchor grid anchorgrid clone view self shape self module list modulelist convd self self output conv self export false onnx export def forward self

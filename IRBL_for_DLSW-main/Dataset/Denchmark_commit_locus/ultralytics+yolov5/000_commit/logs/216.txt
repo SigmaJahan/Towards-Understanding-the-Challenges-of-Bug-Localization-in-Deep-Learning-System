@@ -1,0 +1,2 @@
+      comment updates 
+             a, t = at[j], t.repeat(na, 1, 1)[j]  # filter                # overlaps             g = 0.5  # offset              gxy = t[:, 2:4]  # grid xy              z = torch.zeros_like(gxy)              if style == 'rect2': 

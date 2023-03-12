@@ -1,0 +1,2 @@
+      change weights dir (wdir) to be unique to each run, under log_dir 
+     print('Apex recommended for faster mixed precision training: https://github.com/NVIDIA/apex')      mixed_precision = False  # not installed   wdir = 'weights' + os.sep  # weights dir os.makedirs(wdir, exist_ok=True) last = wdir + 'last.pt' best = wdir + 'best.pt' results_file = 'results.txt'    # Hyperparameters  hyp = {'lr0': 0.01,  # initial learning rate (SGD=1E-2, Adam=1E-3) 

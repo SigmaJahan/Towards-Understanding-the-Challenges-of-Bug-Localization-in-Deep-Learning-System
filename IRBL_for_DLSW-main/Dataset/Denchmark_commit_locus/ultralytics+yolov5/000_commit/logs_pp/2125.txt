@@ -1,0 +1,2 @@
+daemon thread plotting daemon thread plotting remove process batch processbatch plot print
+top right left bottom axa spiness set visible setvisible false plt savefig path save dir savedir labels png dpi plt savefig save dir savedir labels png dpi plt close loggers loggers items wandb log labels image str caption name save dir savedir glob labels png def plot evolution plotevolution yaml file yamlfile data hyp finetune yaml utils plots import plot evolution plotevolution plot hyperparameter evolution results evolve txt

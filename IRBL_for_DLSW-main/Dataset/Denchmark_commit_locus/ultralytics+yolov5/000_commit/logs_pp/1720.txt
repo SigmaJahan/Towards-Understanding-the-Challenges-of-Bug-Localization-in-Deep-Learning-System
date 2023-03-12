@@ -1,0 +1,2 @@
+leaf variable inplace bug fix
+self model detect module zip stride bias view conv bias math log obj objects per image math log none else torch log sum cls data math log obj objects per image data math log none else torch log sum cls bias torch parameter view requires grad requiresgrad true def print biases printbiases self

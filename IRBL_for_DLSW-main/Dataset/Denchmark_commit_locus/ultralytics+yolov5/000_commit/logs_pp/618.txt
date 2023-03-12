@@ -1,0 +1,2 @@
+fix img size imgsize naming hyperparameters logging
+writer tbwriter hparams dict tbhparamsdict hyp hparams dict tbhparamsdict update vars opt hparams dict tbhparamsdict img size imgsizew hparams dict tbhparamsdict img size imgsizeh hparams dict tbhparamsdict img size imgsize hparams dict tbhparamsdict img size train imgsizetrain hparams dict tbhparamsdict img size test imgsizetest hparams dict tbhparamsdict img size imgsize del hparams dict tbhparamsdict img size imgsize writer tbwriter add hparams addhparams hparams dict tbhparamsdict

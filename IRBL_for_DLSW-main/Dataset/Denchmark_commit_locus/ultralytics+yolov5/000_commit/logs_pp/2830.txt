@@ -1,0 +1,2 @@
+precision recall precisionrecall curve feature update precision recall precisionrecall curve feature update sentinel value update
+integrate area curve method interp methods continuous interp method interp linspace point interp coco linspace point interp coco trapz interp mrec mpre integrate else continuous mrec mrec points axis recall changes sum mreci mreci mprei area curve return return mpre mrec def bbox iou bboxiou box box xyxy true giou false diou false ciou false eps

@@ -1,0 +1,2 @@
+update datasets
+else raise exception exist subpath self img files imgfiles replace sep path splitext lower img formats imgformats path subpath except maybe avoid handling bare exceptions raise exception error loading data see path help url helpurl still need compatibility npy shape file saves isinstance path list path str path path else path str path path len self img files imgfiles assert images found see path help url helpurl floor arange batch size batchsize astype int batch index

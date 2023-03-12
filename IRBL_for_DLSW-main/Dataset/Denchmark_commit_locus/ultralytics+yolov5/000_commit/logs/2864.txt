@@ -1,0 +1,2 @@
+      Update matplotlib.use('Agg') tight (#1583)          * Update matplotlib tight_layout=True          * udpate          * udpate          * update          * png to ps          * update          * update 
+     ax.set_xlim(0, 1)      ax.set_ylim(0, 1)      plt.legend(bbox_to_anchor=(1.04, 1), loc="upper left")     fig.tight_layout()      fig.savefig(Path(save_dir) / 'precision_recall_curve.png', dpi=250) 

@@ -1,0 +1,2 @@
+      assert best possible recall > 0.9 before training 
+     plot_labels(labels)      tb_writer.add_histogram('classes', c, 0)       # Check anchors     check_best_possible_recall(dataset, anchors=model.model[-1].anchor_grid, thr=hyp['anchor_t'])       # Exponential moving average      ema = torch_utils.ModelEMA(model)   

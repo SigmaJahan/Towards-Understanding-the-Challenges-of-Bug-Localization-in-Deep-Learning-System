@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+environ numexprmaxthreads str min cpu count cpucount num expr numexpr max threads def set logging setlogging rank def set logging setlogging rank verbose true logging basic config basicconfig format message level logging info rank else logging warn level logging info verbose rank else logging warn def init seeds initseeds seed

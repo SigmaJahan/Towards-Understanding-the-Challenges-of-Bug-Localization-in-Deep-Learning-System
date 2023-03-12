@@ -1,0 +1,2 @@
+hyperparameter evolution update
+start training time time max number warmup iterations max epochs iterations min epochs start epoch startepoch limit warmup training maps zeros map per class results map val giou val objectness val classification scheduler last epoch lastepoch start epoch startepoch move

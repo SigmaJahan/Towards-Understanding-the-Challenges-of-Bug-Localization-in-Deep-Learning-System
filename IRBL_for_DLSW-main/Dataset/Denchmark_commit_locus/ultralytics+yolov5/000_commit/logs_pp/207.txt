@@ -1,0 +1,2 @@
+model fusion onnx export
+self modelf bias detach view conv bias print convd bias mean tolist mean def fuse self fuse model convd batch normd batchnormd layers print fusing layers self model modules type conv conv torch utils torchutils fuse conv fuseconvandbn conv update conv none remove batchnorm forward fuseforward update forward torch utils torchutils model info modelinfo self def parse model parsemodel model dict modeldict input channels inputchannels print nssss params module arguments

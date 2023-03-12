@@ -1,0 +1,2 @@
+fix bug
+mixed precision mixedprecision model optimizer amp initialize model optimizer opt level optlevel verbosity scheduler https arxiv org pdf pdf lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda scheduler last epoch lastepoch start epoch startepoch move https discuss pytorch org problem occured resuming optimizer aproblemoccuredwhenresuminganoptimizer plot scheduler plotlrscheduler optimizer scheduler epochs

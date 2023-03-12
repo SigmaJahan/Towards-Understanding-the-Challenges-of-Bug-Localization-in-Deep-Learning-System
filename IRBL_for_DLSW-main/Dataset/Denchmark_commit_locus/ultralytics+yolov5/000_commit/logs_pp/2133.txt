@@ -1,0 +1,2 @@
+fix imglabel paths imglabelpaths order fix imglabel paths imglabelpaths order fix
+def imglabel paths imglabelpaths img paths imgpaths define label paths function image paths sep images sep sep labels sep images labels substrings return txt join replace rsplit split img paths imgpaths return join rsplit rsplit txt img paths imgpaths class load images labels loadimagesandlabels dataset training testing

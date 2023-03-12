@@ -1,0 +1,2 @@
+update detections self comment python self len self pred number images batch size
+self xywh xyxyxywh pred xywh pixels self xyxyn zip self xyxy xyxy normalized self xywhn zip self xywh xywh normalized self len self pred self len self pred number images batch size self tuple timesi timesi self range timestamps self shape inference bchw shape

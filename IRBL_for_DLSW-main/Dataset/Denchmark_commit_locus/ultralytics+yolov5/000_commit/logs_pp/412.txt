@@ -1,0 +1,2 @@
+onnx simplifier onnx simplifier add onnx simplifier onnx export pipeline export auto install autoinstall onnx simplifier onnxsimplifier onnx installed onnx simplifier onnxsimplifier update general
+import models models experimental import attempt load attemptload utils activations import hardswish silu utils general import set logging setlogging check img size checkimgsize utils general import colorstr check img size checkimgsize check requirements checkrequirements set logging setlogging utils torch utils torchutils import select device selectdevice name main

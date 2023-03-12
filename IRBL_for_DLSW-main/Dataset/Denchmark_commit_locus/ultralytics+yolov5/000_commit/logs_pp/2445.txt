@@ -1,0 +1,2 @@
+update remove module attribute check
+def update attr updateattr self model update ema attributes model dict items startswith module process group processgroup reducer startswith process group processgroup reducer setattr self ema

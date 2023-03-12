@@ -1,0 +1,2 @@
+update torch utils torchutils
+return time time def parallel isparallel model model parallel ddp return type model parallel data parallel dataparallel parallel distributed data parallel distributeddataparallel def initialize weights initializeweights model model modules type

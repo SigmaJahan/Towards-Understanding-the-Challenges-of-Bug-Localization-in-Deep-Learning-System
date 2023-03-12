@@ -1,0 +1,2 @@
+add train run method update train explicit arguments update train add run method
+warnings catch warnings catchwarnings warnings simplefilter ignore suppress jit trace warning loggers add graph addgraph torch jit trace parallel deparallel model imgs strict false elif plots wandb logger wandblogger wandb wandb logger wandblogger log mosaics wandb logger wandblogger wandb image str caption name elif plots loggers wandb wandb logger wandblogger log mosaics loggers wandb image str caption name save dir savedir glob train jpg exists end batch

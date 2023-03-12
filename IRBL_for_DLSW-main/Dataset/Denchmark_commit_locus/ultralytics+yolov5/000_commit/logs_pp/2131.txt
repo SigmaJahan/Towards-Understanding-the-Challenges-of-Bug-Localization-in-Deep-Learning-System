@@ -1,0 +1,2 @@
+augmented inference
+scales enumerate torch utils torchutils scale img scaleimg flip shape sameshape false flip fliplr scale torch utils torchutils scale img scaleimg shape sameshape false scale torch utils torchutils scale img scaleimg flip flip fliplr scale torch utils torchutils scale img scaleimg scale imwrite imgg jpg numpy transpose append self forward forwardonce

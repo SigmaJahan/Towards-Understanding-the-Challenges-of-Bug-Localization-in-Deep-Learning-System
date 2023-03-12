@@ -1,0 +1,2 @@
+refactor detect arguments refactor detect arguments skalski skalskip kalen mike kalenmike unused comment arguments
+txt path txtpath str save dir savedir labels stem dataset mode image else frame img txt gxg img shape print string torch tensor shape normalization gain whwh imc copy opt save crop savecrop else opt save crop savecrop imc copy save crop savecrop else save crop savecrop len det rescale boxes img size imgsize size det scale coords scalecoords img shape det shape round

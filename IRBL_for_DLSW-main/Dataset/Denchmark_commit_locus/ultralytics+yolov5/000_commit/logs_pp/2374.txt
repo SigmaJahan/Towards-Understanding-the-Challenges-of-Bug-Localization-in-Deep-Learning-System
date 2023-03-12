@@ -1,0 +1,2 @@
+updated cache hashlib update cache include parent hash possible fix https github com ultralytics yolov issues update datasets
+break def get hash gethash files returns single hash value list files return sum path getsize files path isfile def get hash gethash paths returns single hash value list paths files dirs size sum path getsize paths path exists sizes hashlib str size encode hash sizes update join paths encode hash paths return hexdigest return hash def exif size exifsize img

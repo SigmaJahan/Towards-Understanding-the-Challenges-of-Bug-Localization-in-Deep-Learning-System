@@ -1,0 +1,2 @@
+check anchors checkanchors bug fix
+def non max suppression nonmaxsuppression prediction conf thres confthres iou thres iouthres fast false classes none agnostic false performs non maximum nonmaximum suppression inference results returns detections shape conf cls performs non maximum nonmaximum suppression nms inference results returns detections shape conf cls prediction dtype torch float prediction prediction float

@@ -1,0 +1,2 @@
+add multi node multinode support ddp training add support multi node multinode ddp remove local rank localrank confusion fix spacing
+device select device selectdevice opt device batch size batchsize opt batch size batchsize opt total batch size totalbatchsize opt batch size batchsize opt world size worldsize opt global rank globalrank ddp mode opt local rank localrank assert torch cuda device count devicecount opt local rank localrank

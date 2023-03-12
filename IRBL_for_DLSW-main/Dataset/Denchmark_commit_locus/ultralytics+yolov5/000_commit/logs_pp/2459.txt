@@ -1,0 +1,2 @@
+evolution bug fix
+dataloader testloader save dir savedir log dir logdir plots epoch final epoch finalepoch plot first last log imgs logimgs opt log imgs logimgs log imgs logimgs opt log imgs logimgs wandb else write open results file resultsfile

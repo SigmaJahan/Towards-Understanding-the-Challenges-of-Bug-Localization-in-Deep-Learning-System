@@ -1,0 +1,2 @@
+update autoanchor yaml safe loader safeloader
+isinstance path str yaml file open path data dict datadict yaml load loader yaml full loader fullloader model dict data dict datadict yaml load loader yaml safe loader safeloader model dict utils datasets import load images labels loadimagesandlabels dataset load images labels loadimagesandlabels data dict datadict train augment true rect true else

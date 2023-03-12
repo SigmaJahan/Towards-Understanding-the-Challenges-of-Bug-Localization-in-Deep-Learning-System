@@ -1,0 +1,2 @@
+update mosaic border
+self image weights imageweights image weights imageweights self rect false image weights imageweights else rect self mosaic self augment self rect load images time mosaic training self mosaic border mosaicborder none self stride stride define labels self label files labelfiles replace images labels replace path splitext txt

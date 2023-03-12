@@ -1,0 +1,2 @@
+torch pytorch hub models default cuda available torch pytorch hub models default cuda available device string bug fix
+def select device selectdevice device batch size batchsize none device cpu yol yolov git describe gitdescribe torch torch version string yol yolov �윓� git describe gitdescribe torch torch version string cpu device lower cpu cpu environ cudavisibledevices force torch cuda available isavailable false

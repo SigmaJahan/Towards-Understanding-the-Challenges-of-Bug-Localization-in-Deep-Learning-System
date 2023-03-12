@@ -1,0 +1,2 @@
+update train test batch size batchsize update train update loss
+final epoch finalepoch epoch epochs opt notest final epoch finalepoch calculate map results maps times test test opt data batch size batchsize total batch size totalbatchsize batch size batchsize batch size batchsize imgsz imgsz test imgsztest model ema ema single cls singlecls opt single cls singlecls

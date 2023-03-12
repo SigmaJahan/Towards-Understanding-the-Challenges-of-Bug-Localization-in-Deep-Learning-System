@@ -1,0 +1,2 @@
+expired pytorch hub cache bug fix
+return model except exception help url helpurl https github com ultralytics yolov issues print cache sncache date delete cache retry see help help url helpurl print cache sncache maybe date delete cache retry see help help url helpurl def yolovs pretrained false channels classes

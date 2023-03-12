@@ -1,0 +1,2 @@
+      Add colorstr() (#1887)          * Add colorful()          * update          * newline fix          * add git description          * --always          * update loss scaling          * update loss scaling 2          * rename to colorstr() 
+             from utils.autoanchor import *; _ = kmean_anchors()      """      thr = 1. / thr     prefix = colorstr('blue', 'bold', 'autoanchor') + ': '        def metric(k, wh):  # compute metrics          r = wh[:, None] / k[None] 

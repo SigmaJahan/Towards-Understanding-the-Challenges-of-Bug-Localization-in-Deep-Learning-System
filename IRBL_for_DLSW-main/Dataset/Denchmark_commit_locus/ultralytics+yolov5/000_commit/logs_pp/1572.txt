@@ -1,0 +1,2 @@
+update caching
+self shapes array shapes dtype float self img files imgfiles list cache keys update self label files labelfiles imglabel paths imglabelpaths cache keys update single cls singlecls self labels len shapes number images floor arange batch size batchsize astype int batch index

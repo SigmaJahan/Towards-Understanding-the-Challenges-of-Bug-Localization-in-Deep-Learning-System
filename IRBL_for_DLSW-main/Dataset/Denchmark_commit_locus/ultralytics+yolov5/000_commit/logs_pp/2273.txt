@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+self yaml anchors round anchors override yaml value self model self save parse model parsemodel deepcopy self yaml model savelist self names str range self yaml default names print shape self forward torch zeros logger info shape self forward torch zeros build strides anchors self model detect

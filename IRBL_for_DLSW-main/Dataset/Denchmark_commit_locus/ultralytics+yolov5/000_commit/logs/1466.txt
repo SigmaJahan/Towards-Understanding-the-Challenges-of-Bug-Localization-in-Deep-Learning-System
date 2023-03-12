@@ -1,0 +1,2 @@
+      Mode all optimizer settings to 'hyp.yaml', integrate proper momentum with Adam optimizer 
+     # Hyperparameters hyp = {'lr0': 0.01,  # initial learning rate (SGD=1E-2, Adam=1E-3)        'momentum': 0.937,  # SGD momentum hyp = {'optimizer': 'adam' #if none, default is SGD        'lr0': 0.01,  # initial learning rate (SGD=1E-2, Adam=1E-3)        'momentum': 0.937,  # SGD momentum/Adam beta1         'weight_decay': 5e-4,  # optimizer weight decay         'giou': 0.05,  # giou loss gain         'cls': 0.58,  # cls loss gain 

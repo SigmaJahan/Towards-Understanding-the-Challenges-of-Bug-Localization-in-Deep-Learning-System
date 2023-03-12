@@ -1,0 +1,2 @@
+      add mosaic and warmup to hyperparameters (#931) 
+             index = self.indices[index]            hyp = self.hyp         if self.mosaic:         mosaic = self.mosaic and random.random() < hyp['mosaic']         if mosaic:              # Load mosaic              img, labels = load_mosaic(self, index)              shapes = None 

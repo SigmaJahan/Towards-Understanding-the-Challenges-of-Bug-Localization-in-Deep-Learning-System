@@ -1,0 +1,2 @@
+      add logic for resuming and getting hyp for resume run 
+     os.makedirs(wdir, exist_ok=True)      last = wdir + 'last.pt'      best = wdir + 'best.pt'     results_file = 'results.txt'     results_file = wdir + 'results.txt'        epochs = opt.epochs  # 300      batch_size = opt.batch_size  # 64 

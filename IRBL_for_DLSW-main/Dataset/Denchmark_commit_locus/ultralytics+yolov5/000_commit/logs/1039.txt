@@ -1,0 +1,2 @@
+      Streaming --save-txt bug fix (#1672)          * Streaming --save-txt bug fix          * cleanup 
+               # Save results (image with detections)              if save_img:                 if dataset.mode == 'images':                 if dataset.mode == 'image':                      cv2.imwrite(save_path, im0)                 else:                 else:  # 'video'                      if vid_path != save_path:  # new video                          vid_path = save_path                          if isinstance(vid_writer, cv2.VideoWriter): 

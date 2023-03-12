@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+def xywhxyxy convert boxes top left topleft bottom right bottomright torch zeros like zeroslike isinstance torch tensor else zeros like zeroslike clone isinstance torch tensor else copy top left top left bottom right

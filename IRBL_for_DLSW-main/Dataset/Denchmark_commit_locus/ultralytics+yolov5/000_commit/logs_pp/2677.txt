@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+assert opt local rank localrank ddp mode implemented evolve opt notest opt nosave true true test save final epoch isinstance int float hyp values evolvable indices yaml file yamlfile path runs evolve hyp evolved hypevolved yaml save best result opt bucket system gsutil evolve txt opt bucket download evolve txt exists

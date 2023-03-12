@@ -1,0 +1,2 @@
+      update fuse_conv_and_bn() 
+       # Reshape output to n classes      filters = model.fc.weight.shape[1]     model.fc.bias = torch.nn.Parameter(torch.zeros(n), requires_grad=True)     model.fc.weight = torch.nn.Parameter(torch.zeros(n, filters), requires_grad=True)     model.fc.bias = nn.Parameter(torch.zeros(n), requires_grad=True)     model.fc.weight = nn.Parameter(torch.zeros(n, filters), requires_grad=True)      model.fc.out_features = n      return model   

@@ -1,0 +1,2 @@
+simplify autoshape post process postprocess simplify autoshape post process postprocess cleanup cleanup
+name main model create name yolovs pretrained true channels classes example model model fuse autoshape pil inputs nms model model autoshape pil inputs nms verify inference pil import image

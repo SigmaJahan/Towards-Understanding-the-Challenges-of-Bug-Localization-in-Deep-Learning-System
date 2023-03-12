@@ -1,0 +1,2 @@
+update tensor board tensorboard
+val box loss boxloss val obj loss objloss val cls loss clsloss val loss params tag zip list mloss list results tags writer tbwriter writer tbwriter add scalar addscalar tag epoch tensorboard loggers loggers add scalar addscalar tag epoch tensor board tensorboard wandb logger wandblogger wandb wandb logger wandblogger log tag

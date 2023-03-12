@@ -1,0 +1,2 @@
+update module
+return self self act self torch cat dim class module csp bottleneck convolutions def init self shortcut true chin chout number shortcut groups expansion super self init int hidden channels self conv self conv self conv act frelu self sequential bottleneck shortcut range self sequential cross conv crossconv shortcut range def forward self return self torch cat self self self dim class spp module spatial pyramid pooling layer used yol spp yolovspp def init self

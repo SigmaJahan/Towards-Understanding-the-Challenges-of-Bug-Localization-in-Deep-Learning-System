@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+     wh = wh0[(wh0 >= 2.0).any(1)]  # filter > 2 pixels        # Kmeans calculation     from scipy.cluster.vq import kmeans      print('Running kmeans for %g anchors on %g points...' % (n, len(wh)))      s = wh.std(0)  # sigmas for whitening      k, dist = kmeans(wh / s, n, iter=30)  # points, mean distance 

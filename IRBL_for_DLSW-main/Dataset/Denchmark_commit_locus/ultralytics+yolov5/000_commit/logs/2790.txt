@@ -1,0 +1,2 @@
+      single command --resume (#756)          * single command --resume          * else check files, remove TODO          * argparse.Namespace()          * tensorboard lr          * bug fix in get_latest_run() 
+                 scaler.step(optimizer)  # optimizer.step                  scaler.update()                  optimizer.zero_grad()                 if ema is not None:                 if ema:                      ema.update(model)                # Print 

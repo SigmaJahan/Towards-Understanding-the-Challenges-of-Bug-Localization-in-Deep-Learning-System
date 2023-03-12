@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+opt bucket system gsutil evolve txt opt bucket download evolve txt exists range generations evolve range generations evolve path exists evolve txt evolve txt exists select best hyps mutate select parent parent single parent selection method single weighted

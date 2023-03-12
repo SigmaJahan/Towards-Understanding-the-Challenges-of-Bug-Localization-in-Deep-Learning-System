@@ -1,0 +1,2 @@
+      gsutil cp yaml when evolving to GCP bucket 
+     x = x[np.argsort(-fitness(x))]  # sort      np.savetxt('evolve.txt', x, '%10.3g')  # save sort by fitness       if bucket:         os.system('gsutil cp evolve.txt gs://%s' % bucket)  # upload evolve.txt       # Save yaml      for i, k in enumerate(hyp.keys()):          hyp[k] = float(x[0, i + 7]) 

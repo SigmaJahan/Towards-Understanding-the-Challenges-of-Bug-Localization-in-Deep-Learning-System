@@ -1,0 +1,2 @@
+add label smoothing labelsmoothing eps argument train default add label smoothing option correct data type add log addlog remove log add log update loss remove comment versbose authored coauthoredby phattran authored coauthoredby glenn jocher
+eobj bceobj bce logits loss bcewithlogitsloss pos weight posweight torch tensor obj objpw device device class label smoothing https arxiv org pdf pdf eqn self self smooth bce smoothbce eps self self smooth bce smoothbce eps get label smoothing labelsmoothing positive negative bce targets focal loss gamma flgamma focal loss gamma

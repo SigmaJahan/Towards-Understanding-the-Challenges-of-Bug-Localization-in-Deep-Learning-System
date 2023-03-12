@@ -1,0 +1,2 @@
+      add NMS to pretrained pytorch hub models 
+   import torch  import torch.nn as nn from utils.general import non_max_suppression      def autopad(k, p=None):  # kernel, padding 

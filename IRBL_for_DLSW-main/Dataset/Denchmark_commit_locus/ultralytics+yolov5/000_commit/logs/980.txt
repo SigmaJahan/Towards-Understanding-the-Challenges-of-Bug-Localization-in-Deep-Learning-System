@@ -1,0 +1,2 @@
+      updates 
+     # Settings      merge = True  # merge for best mAP      min_wh, max_wh = 2, 4096  # (pixels) minimum and maximum box width and height     max_det = 300  # maximum number of detections per image      time_limit = 10.0  # seconds to quit after        t = time.time() 

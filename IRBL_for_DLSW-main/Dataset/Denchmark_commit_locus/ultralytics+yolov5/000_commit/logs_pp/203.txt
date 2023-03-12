@@ -1,0 +1,2 @@
+model fusion onnx export
+def forward self return self act self self conv def fuseforward self return self act self conv class bottleneck module def init self shortcut true chin chout shortcut groups expansion

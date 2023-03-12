@@ -1,0 +1,2 @@
+hyperparameter expansion flips perspective mixup
+degrees hyp degrees translate hyp translate scale hyp scale shear hyp shear shear hyp shear perspective hyp perspective augment colorspace augment hsv augmenthsv img hgain hyp hsv hsvh sgain hyp hsv hsvs vgain hyp hsv hsvv

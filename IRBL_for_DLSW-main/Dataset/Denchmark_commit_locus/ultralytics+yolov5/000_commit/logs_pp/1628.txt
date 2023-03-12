@@ -1,0 +1,2 @@
+default check git status checkgitstatus true
+print opt opt img size imgsize extend opt img size imgsize len opt img size imgsize extend sizes train test device torch utils torchutils select device selectdevice opt device apex mixed precision mixedprecision batch size batchsize opt batch size batchsize check git status checkgitstatus device type cpu mixed precision mixedprecision false

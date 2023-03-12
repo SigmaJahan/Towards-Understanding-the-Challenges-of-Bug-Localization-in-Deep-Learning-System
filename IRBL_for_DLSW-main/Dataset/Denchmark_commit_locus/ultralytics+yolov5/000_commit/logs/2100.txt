@@ -1,0 +1,2 @@
+      pretrained model loading bug fix (#450)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         yaml.dump(vars(opt), f, sort_keys=False)        epochs = opt.epochs  # 300     batch_size = opt.batch_size   # batch size per process.     batch_size = opt.batch_size  # batch size per process.      total_batch_size = opt.total_batch_size      weights = opt.weights  # initial training weights      local_rank = opt.local_rank 

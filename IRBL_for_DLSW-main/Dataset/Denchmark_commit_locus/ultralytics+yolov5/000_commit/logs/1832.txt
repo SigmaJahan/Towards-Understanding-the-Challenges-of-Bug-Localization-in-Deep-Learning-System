@@ -1,0 +1,2 @@
+      v2.0 Release (#491)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+     class Detect(nn.Module):     def __init__(self, nc=80, anchors=()):  # detection layer     def __init__(self, nc=80, anchors=(), ch=()):  # detection layer          super(Detect, self).__init__()          self.stride = None  # strides computed during build          self.nc = nc  # number of classes 

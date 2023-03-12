@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+class detect module def init self anchors detection layer def init self anchors detection layer super detect self init self stride none strides computed build self number classes

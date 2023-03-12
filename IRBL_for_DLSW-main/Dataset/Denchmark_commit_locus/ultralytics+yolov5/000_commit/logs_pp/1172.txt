@@ -1,0 +1,2 @@
+implement torch grad nograd decorator torch grad nograd decorator update detect
+utils torch utils torchutils import select device selectdevice load classifier loadclassifier time synchronized timesynchronized torch grad nograd def detect opt source weights view img viewimg save txt savetxt imgsz opt source opt weights opt view img viewimg opt save txt savetxt opt img size imgsize save img saveimg opt nosave source endswith txt save inference images

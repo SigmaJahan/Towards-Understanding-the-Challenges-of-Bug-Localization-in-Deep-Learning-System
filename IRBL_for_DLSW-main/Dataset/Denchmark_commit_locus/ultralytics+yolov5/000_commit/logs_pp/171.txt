@@ -1,0 +1,2 @@
+switch default inference gpu
+def detect save img saveimg false source weights half view img viewimg save txt savetxt imgsz opt output opt source opt weights opt half opt view img viewimg opt save txt savetxt opt img size imgsize source weights view img viewimg save txt savetxt imgsz opt output opt source opt weights opt view img viewimg opt save txt savetxt opt img size imgsize webcam source source startswith rtsp source startswith http source endswith txt initialize

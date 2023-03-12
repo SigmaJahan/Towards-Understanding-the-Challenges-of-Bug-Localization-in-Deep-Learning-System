@@ -1,0 +1,2 @@
+torch pytorch compatibility updates torch compatibility updates add inference verification
+name main model create name yolovs pretrained true channels classes example model model fuse eval autoshape autoshaping pil inputs nms verify inference pil import image img image open inference images zidane jpg model img print shape

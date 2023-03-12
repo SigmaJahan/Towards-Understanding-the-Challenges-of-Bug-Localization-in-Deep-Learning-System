@@ -1,0 +1,2 @@
+add multi node multinode support ddp training add support multi node multinode ddp remove local rank localrank confusion fix spacing
+train opt evolve writer tbwriter none opt local rank localrank opt global rank globalrank print start tensorboard tensorboard logdir runs view http localhost writer tbwriter summary writer summarywriter log dir logdir increment dir incrementdir runs exp opt name

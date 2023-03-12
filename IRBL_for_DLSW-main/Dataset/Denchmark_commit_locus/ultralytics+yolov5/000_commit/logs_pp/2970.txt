@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+multi label multilabel multiple labels per box adds img time time output none prediction shape output torch zeros prediction shape enumerate prediction image index image inference apply constraints max maxwh width height widthheight

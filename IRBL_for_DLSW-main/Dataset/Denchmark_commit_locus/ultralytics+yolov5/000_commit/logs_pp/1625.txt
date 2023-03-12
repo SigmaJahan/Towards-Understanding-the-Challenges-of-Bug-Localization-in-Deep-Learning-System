@@ -1,0 +1,2 @@
+update detect update detect update detect
+process detections det enumerate pred detections per image webcam batch size batchsize frame pathi imsi copy dataset count frame pathi imsi copy dataset count else frame path ims copy getattr dataset frame

@@ -1,0 +1,2 @@
+      update compute_loss() 
+                 j, k = ((gxy % 1. < g) & (gxy > 1.)).T                  a, t = torch.cat((a, a[j], a[k]), 0), torch.cat((t, t[j], t[k]), 0)                  offsets = torch.cat((z, z[j] + off[0], z[k] + off[1]), 0) * g               elif style == 'rect4':                  j, k = ((gxy % 1. < g) & (gxy > 1.)).T                  l, m = ((gxy % 1. > (1 - g)) & (gxy < (gain[[2, 3]] - 1.))).T 

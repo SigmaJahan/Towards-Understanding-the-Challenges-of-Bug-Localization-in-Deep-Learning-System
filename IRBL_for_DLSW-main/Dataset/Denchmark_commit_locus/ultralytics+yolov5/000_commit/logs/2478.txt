@@ -1,0 +1,2 @@
+      Add isdocker() (#2232)          * Add isdocker()          * Update general.py          * Update general.py 
+     return max(last_list, key=os.path.getctime) if last_list else ''     def isdocker():     # Is environment a Docker container     return Path('/workspace').exists()  # or Path('/.dockerenv').exists()    def check_online():      # Check internet connectivity      import socket 

@@ -1,0 +1,2 @@
+changed prints logging utils datasets authored coauthoredby glenn jocher
+def iter self self count print ran dataset iter logger info ran dataset iter self shuffled vector shuffledvector random permutation self self augment else arange self return self

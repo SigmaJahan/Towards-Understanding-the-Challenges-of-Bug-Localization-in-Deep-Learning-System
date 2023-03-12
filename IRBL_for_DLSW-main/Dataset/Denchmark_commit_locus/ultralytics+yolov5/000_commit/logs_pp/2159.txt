@@ -1,0 +1,2 @@
+auto anchor autoanchor bug fix
+evolve npr random fitness shape fitness generations mutation prob sigma tqdm range gen desc evolving anchors genetic algorithm tqdm range gen desc evolving anchors genetic algorithm ones mutate change occurs prevent duplicates npr random npr random npr randn clip

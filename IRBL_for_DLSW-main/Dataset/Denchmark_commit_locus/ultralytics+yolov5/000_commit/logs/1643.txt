@@ -1,0 +1,2 @@
+      v3.0 Release (#725)          * initial commit          * remove yolov3-spp from test.py study          * update study --img range          * update mAP          * cleanup and speed updates          * update README plot 
+     ax2.set_ylabel('COCO AP val')      ax2.legend(loc='lower right')      plt.savefig('study_mAP_latency.png', dpi=300)     plt.savefig(f.replace('.txt', '.png'), dpi=200)     plt.savefig(f.replace('.txt', '.png'), dpi=300)      def plot_labels(labels, save_dir=''): 

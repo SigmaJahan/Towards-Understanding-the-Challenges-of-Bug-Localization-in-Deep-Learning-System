@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+scheduler step first process ddp mode allowed log save checkpoints local rank localrank rank map ema none ema update attr updateattr model include hyp names stride

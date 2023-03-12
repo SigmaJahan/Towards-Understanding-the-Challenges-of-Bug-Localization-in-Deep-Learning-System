@@ -1,0 +1,2 @@
+streaming save txt savetxt bug fix streaming save txt savetxt bug fix cleanup
+process detections det enumerate pred detections per image webcam batch size batchsize path pathi imsi copy frame path pathi imsi copy dataset count else path path ims frame path path ims getattr dataset frame save path savepath str save dir savedir name txt path txtpath str save dir savedir labels stem dataset frame dataset mode video else txt path txtpath str save dir savedir labels stem dataset mode image else frame gxg img shape print string torch tensor shape normalization gain whwh len det

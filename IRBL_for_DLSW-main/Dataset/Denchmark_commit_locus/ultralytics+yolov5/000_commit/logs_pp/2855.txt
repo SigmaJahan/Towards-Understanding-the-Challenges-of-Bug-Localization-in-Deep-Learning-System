@@ -1,0 +1,2 @@
+rename test
+axis img size imgsize print running nrunning point evaluate opt data weights opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson test opt data weights opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson append results times savetxt fmt save system zip study zip study txt

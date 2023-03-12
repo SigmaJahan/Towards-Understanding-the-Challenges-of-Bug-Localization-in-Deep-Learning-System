@@ -1,0 +1,2 @@
+update utils
+lbox giou sum red sum else giou mean giou loss obj tobjb giou detach clamp type tobj dtype giou ratio tobjb model model giou detach clamp type tobj dtype giou ratio class cls loss multiple classes model cls loss multiple classes torch full like fulllike targets trange tclsi lcls ecls bcecls bce

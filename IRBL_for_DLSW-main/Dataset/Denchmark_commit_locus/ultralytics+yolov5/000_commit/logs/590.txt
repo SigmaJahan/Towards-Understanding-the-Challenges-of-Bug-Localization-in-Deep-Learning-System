@@ -1,0 +1,2 @@
+      Update datasets.py 
+         try:              path = str(Path(path))  # os-agnostic              parent = str(Path(path).parent) + os.sep              joined_path = os.path.join(os.getcwd(), parent)             print('Parent folder override for loading image files: %s' % (os.path.abspath(joined_path)))               if os.path.isfile(path):  # file                  with open(path, 'r') as f:                      f = f.read().splitlines() 

@@ -1,0 +1,2 @@
+      Minor import and spelling updates (#1133) 
+     if val and len(val):          val = [os.path.abspath(x) for x in (val if isinstance(val, list) else [val])]  # val path          if not all(os.path.exists(x) for x in val):             print('\nWARNING: Dataset not found, nonexistant paths: %s' % [*val])             print('\nWARNING: Dataset not found, nonexistent paths: %s' % [*val])              if s and len(s):  # download script                  print('Downloading %s ...' % s)                  if s.startswith('http') and s.endswith('.zip'):  # URL 

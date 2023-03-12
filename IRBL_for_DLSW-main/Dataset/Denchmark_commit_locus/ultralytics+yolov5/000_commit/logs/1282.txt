@@ -1,0 +1,2 @@
+      Add colorstr() (#1887)          * Add colorful()          * update          * newline fix          * add git description          * --always          * update loss scaling          * update loss scaling 2          * rename to colorstr() 
+         fg = anchor_fitness(kg)          if fg > f:              f, k = fg, kg.copy()             pbar.desc = 'Evolving anchors with Genetic Algorithm: fitness = %.4f' % f             pbar.desc = f'{prefix}Evolving anchors with Genetic Algorithm: fitness = {f:.4f}'              if verbose:                  print_results(k)   

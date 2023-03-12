@@ -1,0 +1,2 @@
+      autoShape() default for PyTorch Hub models (#1692)          * Add autoshape parameter          * Remove autoshape call in ReadMe          * Update hubconf.py          * file/URI inputs and autoshape check passthrough          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ set_logging()     def create(name, pretrained, channels, classes): def create(name, pretrained, channels, classes, autoshape):      """Creates a specified YOLOv5 model        Arguments: 

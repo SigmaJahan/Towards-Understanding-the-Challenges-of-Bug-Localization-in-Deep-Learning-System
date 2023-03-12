@@ -1,0 +1,2 @@
+add train run method update train explicit arguments update train add run method
+parser add argument addargument save period saveperiod type int default help log model every save period saveperiod epoch parser add argument addargument artifact alias artifactalias type str default latest help version dataset artifact used parser add argument addargument local rank localrank type int default help ddp parameter modify opt parser parse args parseargs opt parser parse known args parseknownargs known else parser parse args parseargs return opt

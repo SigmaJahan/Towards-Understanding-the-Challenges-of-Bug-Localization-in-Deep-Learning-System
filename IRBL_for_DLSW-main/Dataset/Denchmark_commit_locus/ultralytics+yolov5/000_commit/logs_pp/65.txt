@@ -1,0 +1,2 @@
+add histogram equalization fcn
+zip scale img scaleimg flip else int self stride max self forward forwardonce forward imwrite imgg jpg numpy transpose save imwrite img jpg cpu numpy transpose save scale descale img size imgsize flip deflip

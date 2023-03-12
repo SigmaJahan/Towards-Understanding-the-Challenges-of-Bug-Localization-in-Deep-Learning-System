@@ -1,0 +1,2 @@
+imread img imreadunchanged update datasets comment authored coauthoredby glenn jocher
+else read image self count img imread path bgr img imread path bgr imreadunchanged assert img none image found path print image self count self path end

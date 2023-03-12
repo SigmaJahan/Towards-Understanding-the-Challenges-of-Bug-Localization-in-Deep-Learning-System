@@ -1,0 +1,2 @@
+      f.read().strip() 
+                     f += glob.glob(str(p / '**' / '*.*'), recursive=True)                  elif p.is_file():  # file                      with open(p, 'r') as t:                         t = t.read().splitlines()                         t = t.read().strip().splitlines()                          parent = str(p.parent) + os.sep                          f += [x.replace('./', parent) if x.startswith('./') else x for x in t]  # local to global path                  else: 

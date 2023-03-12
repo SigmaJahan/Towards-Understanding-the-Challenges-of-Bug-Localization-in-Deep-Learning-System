@@ -1,0 +1,2 @@
+add auto shape autoshape speed profiling add auto shape autoshape speed profiling update common create readme update hubconf cleanuip
+self xyxyn zip self xyxy xyxy normalized self xywhn zip self xywh xywh normalized self len self pred self timesi timesi self range timestamps self shape inference bchw shape def display self pprint false show false save false render false save dir savedir colors color list colorlist

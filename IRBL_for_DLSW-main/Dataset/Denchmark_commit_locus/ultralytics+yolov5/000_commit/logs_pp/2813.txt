@@ -1,0 +1,2 @@
+improved model ema modelema checkpointing enhanced model ema modelema checkpointing update bug fix bug fix always save optimizer ema half remove model float model half carry ema model model float float always cleanup cleanup
+ddp process single gpu singlegpu rank map ema ema update attr updateattr model include yaml hyp names stride class weights classweights ema update attr updateattr model include yaml hyp names stride class weights classweights final epoch finalepoch epoch epochs opt notest final epoch finalepoch calculate map results maps times test test opt data

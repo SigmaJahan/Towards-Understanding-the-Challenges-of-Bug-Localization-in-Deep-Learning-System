@@ -1,0 +1,2 @@
+add yolov sys path subdir exec add yolov sys path subdir exec update export
+create model model model opt cfg device model train profile img torch rand torch cuda available isavailable else device model img profile true

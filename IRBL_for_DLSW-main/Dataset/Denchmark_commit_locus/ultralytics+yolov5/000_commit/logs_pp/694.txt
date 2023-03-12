@@ -1,0 +1,2 @@
+fix missing model stride ddp mode
+cuda rank model ddp model device ids deviceids opt local rank localrank output device outputdevice opt local rank localrank image sizes int max model stride grid size max stride imgsz imgsz test imgsztest check img size checkimgsize opt img size imgsize verify imgsz multiples gsmultiples trainloader dataloader dataset create dataloader createdataloader train path trainpath imgsz batch size batchsize opt hyp hyp augment true cache opt cache images cacheimages rect opt rect local rank localrank rank

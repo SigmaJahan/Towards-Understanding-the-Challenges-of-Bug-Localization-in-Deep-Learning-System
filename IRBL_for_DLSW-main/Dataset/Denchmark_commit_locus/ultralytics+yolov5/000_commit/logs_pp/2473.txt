@@ -1,0 +1,2 @@
+study changes
+opt augment elif opt task study run range settings save plot weights yolovs yolovm yolovl yolovx yolov spp yolovspp weights yolovs yolovm yolovl yolovx studyss txt path opt data stem path weights stem filename save list range axis list range axis axis img size imgsize print running nrunning point test opt data weights opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson append results times savetxt fmt save plot study txt plotstudytxt plot system zip study zip study txt plot study txt plotstudytxt plot

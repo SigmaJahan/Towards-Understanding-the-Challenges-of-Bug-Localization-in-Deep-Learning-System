@@ -1,0 +1,2 @@
+      Cache bug fix (#1513)          * Caching bug fix #1508          * np.zeros((0,5)) x2 
+                 assert (shape[0] > 9) & (shape[1] > 9), 'image size <10 pixels'                    # verify labels                 l = []                  if os.path.isfile(lb_file):                      nf += 1  # label found                      with open(lb_file, 'r') as f: 

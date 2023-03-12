@@ -1,0 +1,2 @@
+fix evolve wandb
+strip optimizer stripoptimizer strip optimizers opt bucket system gsutil final opt bucket weights upload wandb logger wandblogger wandb log stripped model wandb logger wandblogger wandb opt evolve log stripped model wandb logger wandblogger wandb log artifact logartifact str final type model name run wandb logger wandblogger wandb run wandbrun model aliases last best stripped

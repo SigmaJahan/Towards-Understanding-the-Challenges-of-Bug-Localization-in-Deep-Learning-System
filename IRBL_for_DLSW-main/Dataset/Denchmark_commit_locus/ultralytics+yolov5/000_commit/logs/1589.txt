@@ -1,0 +1,2 @@
+      Update loss criteria constructor (#1711) 
+         if opt.image_weights:              # Generate indices              if rank in [-1, 0]:                 cw = model.class_weights.cpu().numpy() * (1 - maps) ** 2  # class weights                 cw = model.class_weights.cpu().numpy() * (1 - maps) ** 2 / nc  # class weights                  iw = labels_to_image_weights(dataset.labels, nc=nc, class_weights=cw)  # image weights                  dataset.indices = random.choices(range(dataset.n), weights=iw, k=dataset.n)  # rand weighted idx              # Broadcast if DDP 

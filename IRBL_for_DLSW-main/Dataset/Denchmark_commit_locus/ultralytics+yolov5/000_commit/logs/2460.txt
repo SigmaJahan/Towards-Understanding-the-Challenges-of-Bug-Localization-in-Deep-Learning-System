@@ -1,0 +1,2 @@
+      W&B evolution bug fix (#1373) 
+                   assert os.environ.get('WANDB_DISABLED') != 'true'              except (ImportError, AssertionError):                 opt.log_imgs = 0                  logger.info("Install Weights & Biases for experiment logging via 'pip install wandb' (recommended)")            train(hyp, opt, device, tb_writer, wandb) 

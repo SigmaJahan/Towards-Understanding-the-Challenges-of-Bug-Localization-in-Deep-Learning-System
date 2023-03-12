@@ -1,0 +1,2 @@
+      Update general.py (#823)          Fixes #822          `init_seeds` from `torch_utils` import is being overwritten by function `init_seeds` in `general.py` 
+ from scipy.signal import butter, filtfilt  from tqdm import tqdm   from utils.torch_utils import init_seeds, is_parallel from utils.torch_utils import init_seeds as init_torch_seeds from utils.torch_utils import is_parallel    # Set printoptions  torch.set_printoptions(linewidth=320, precision=5, profile='long') 

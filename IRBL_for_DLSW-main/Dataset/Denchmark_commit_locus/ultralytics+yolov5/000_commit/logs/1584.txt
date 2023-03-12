@@ -1,0 +1,2 @@
+      There is no need to download extra packages, official bring it with you          I submitted it once in your yolov3 project, you seem to accept it? I'm not sure. I'll submit PR again. 
+ import torch.backends.cudnn as cudnn  import torch.nn as nn  import torch.nn.functional as F import torchvision.models as models      def init_seeds(seed=0): 

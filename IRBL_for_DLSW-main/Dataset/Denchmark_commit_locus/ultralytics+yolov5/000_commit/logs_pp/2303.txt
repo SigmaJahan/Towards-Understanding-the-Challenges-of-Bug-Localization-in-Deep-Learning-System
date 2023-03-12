@@ -1,0 +1,2 @@
+add torch warning
+mode cuda rank torch cuda device count devicecount logging warning recommended instead use torch distributed run best ddp multi gpu multigpu results see multi gpu multigpu tutorial https github com ultralytics yolov issues get started model torch data parallel dataparallel model sync batch norm syncbatchnorm

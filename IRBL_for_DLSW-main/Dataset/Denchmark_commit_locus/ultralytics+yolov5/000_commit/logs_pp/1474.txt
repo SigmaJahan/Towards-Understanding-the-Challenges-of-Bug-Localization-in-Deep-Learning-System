@@ -1,0 +1,2 @@
+update export
+model torch load opt weights map location maplocation torch device cpu model float model eval model model export true set detect layer export true model img dry run model img dry run torch script torchscript export try

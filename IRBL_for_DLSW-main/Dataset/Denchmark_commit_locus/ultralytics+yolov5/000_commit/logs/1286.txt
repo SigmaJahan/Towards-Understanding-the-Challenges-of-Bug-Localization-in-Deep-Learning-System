@@ -1,0 +1,2 @@
+      Add colorstr() (#1887)          * Add colorful()          * update          * newline fix          * add git description          * --always          * update loss scaling          * update loss scaling 2          * rename to colorstr() 
+           lobj += BCEobj(pi[..., 4], tobj) * balance[i]  # obj loss       s = 3 / no  # output count scaling     lbox *= h['box'] * s     lbox *= h['box']      lobj *= h['obj']     lcls *= h['cls'] * s     lcls *= h['cls']      bs = tobj.shape[0]  # batch size        loss = lbox + lobj + lcls 

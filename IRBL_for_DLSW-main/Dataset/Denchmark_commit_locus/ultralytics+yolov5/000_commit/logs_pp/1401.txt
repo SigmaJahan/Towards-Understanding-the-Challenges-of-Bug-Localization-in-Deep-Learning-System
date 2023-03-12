@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+check anchors opt noautoanchor check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz start training time time max number warmup iterations max epochs iterations maps zeros map per class results map val giou val objectness val classification scheduler last epoch lastepoch start epoch startepoch move local rank localrank rank print image sizes train test imgsz imgsz test imgsztest print using dataloader workers dataloader num workers numworkers print starting training epochs epochs

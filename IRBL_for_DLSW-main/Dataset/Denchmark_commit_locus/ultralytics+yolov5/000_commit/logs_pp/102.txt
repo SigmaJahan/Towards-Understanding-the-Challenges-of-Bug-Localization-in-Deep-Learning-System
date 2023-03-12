@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+hyp cls scale coco tuned cocotuned hyp cls current dataset model attach number classes model model hyp hyp attach hyperparameters model model giou loss ratio obj loss objloss giou model iou loss ratio obj loss objloss iou model class weights classweights labels class weights labelstoclassweights dataset labels device attach class weights model names names

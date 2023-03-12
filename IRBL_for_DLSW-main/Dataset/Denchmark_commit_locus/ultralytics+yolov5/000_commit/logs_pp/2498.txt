@@ -1,0 +1,2 @@
+rearrange export input checks img size checks warnings rather errors current implementation allows improperly formed model inputs
+set logging setlogging time time input img torch zeros opt batch size batchsize opt img size imgsize image size detection idetection load torch pytorch model model attempt load attemptload opt weights map location maplocation torch device cpu load model labels model names

@@ -1,0 +1,2 @@
+add save yaml opt hyp tensorboard log dir logdir train
+model class weights classweights labels class weights labelstoclassweights dataset labels device attach class weights model names data dict datadict names save hyperparamter training options run folder open path join log dir logdir hyp yaml yaml dump hyp open path join log dir logdir opt yaml yaml dump opt class frequency labels concatenate dataset labels torch tensor labels classes

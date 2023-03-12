@@ -1,0 +1,2 @@
+updates
+int ratio int ratio new size img interpolate img size mode bilinear align corners aligncorners false resize shape sameshape pad crop img pixels grid size pixels grid size math ceil ratio return pad img value value imagenet mean

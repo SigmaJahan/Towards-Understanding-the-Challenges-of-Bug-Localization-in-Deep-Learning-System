@@ -1,0 +1,12 @@
+albumentations-team+albumentations	0.5.1	760	M	3	0	0	0
+albumentations-team+albumentations	0.5.1	760	F+M	3	0	0	0
+albumentations-team+albumentations	0.5.1	760	BL+M	3	0	0	0
+albumentations-team+albumentations	v0.1.1	180	M	1	1	1.0	1.0
+albumentations-team+albumentations	v0.1.1	180	F+M	1	1	1.0	1.0
+albumentations-team+albumentations	v0.1.1	180	BL+M	1	1	1.0	1.0
+albumentations-team+albumentations	v0.1.1	186	M	4	35	0.02857142857142857	0.02039018797739728
+albumentations-team+albumentations	v0.1.1	186	F+M	4	19	0.05263157894736842	0.03305733919982298
+albumentations-team+albumentations	v0.1.1	186	BL+M	4	23	0.043478260869565216	0.025821411124293394
+albumentations-team+albumentations	v0.1.1	213	M	2	1	1.0	0.5073529411764706
+albumentations-team+albumentations	v0.1.1	213	F+M	2	2	0.5	0.27941176470588236
+albumentations-team+albumentations	v0.1.1	213	BL+M	2	1	1.0	0.5099009900990099

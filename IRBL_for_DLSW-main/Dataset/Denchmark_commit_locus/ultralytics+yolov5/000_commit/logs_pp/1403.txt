@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+dataset mosaic border mosaicborder imgsz height width borders mloss torch zeros device device mean losses local rank localrank rank dataloader sampler set epoch setepoch epoch pbar enumerate dataloader local rank localrank rank print epoch gpu mem gpumem giou obj cls total targets img size imgsize pbar tqdm pbar total progress bar optimizer zero grad zerograd

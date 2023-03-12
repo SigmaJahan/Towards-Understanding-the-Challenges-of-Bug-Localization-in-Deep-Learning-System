@@ -1,0 +1,2 @@
+      update compute_loss() 
+         BCEcls, BCEobj = FocalLoss(BCEcls, g), FocalLoss(BCEobj, g)        # per output     nt = 0  # targets     nt = 0  # number of targets     np = len(p)  # number of outputs      balance = [1.0, 1.0, 1.0]      for i, pi in enumerate(p):  # layer index, layer predictions          b, a, gj, gi = indices[i]  # image, anchor, gridy, gridx 

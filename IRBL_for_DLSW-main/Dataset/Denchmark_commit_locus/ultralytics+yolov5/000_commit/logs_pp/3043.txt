@@ -1,0 +1,2 @@
+update train hyp args accept hyp file dict
+assert opt image weights imageweights image weights imageweights argument compatible ddp training opt batch size batchsize opt total batch size totalbatchsize opt world size worldsize hyperparameters open opt hyp hyp yaml safe load safeload load hyps train logger info opt opt evolve

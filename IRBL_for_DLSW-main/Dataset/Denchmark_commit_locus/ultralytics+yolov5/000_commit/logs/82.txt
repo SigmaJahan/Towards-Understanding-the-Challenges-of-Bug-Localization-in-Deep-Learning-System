@@ -1,0 +1,2 @@
+      Ignore Seaborn plot warnings (#3576)          * Ignore Seaborn plot warnings          * Update plots.py          * Update metrics.py 
+         ax[0].set_xticklabels(names, rotation=90, fontsize=10)      else:          ax[0].set_xlabel('classes')     sns.histplot(x, x='x', y='y', ax=ax[2], bins=50, pmax=0.9)     sns.histplot(x, x='width', y='height', ax=ax[3], bins=50, pmax=0.9)     sn.histplot(x, x='x', y='y', ax=ax[2], bins=50, pmax=0.9)     sn.histplot(x, x='width', y='height', ax=ax[3], bins=50, pmax=0.9)        # rectangles      labels[:, 1:3] = 0.5  # center 

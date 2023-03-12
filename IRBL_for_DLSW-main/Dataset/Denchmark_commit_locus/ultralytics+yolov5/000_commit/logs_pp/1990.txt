@@ -1,0 +1,2 @@
+test task test updates
+pbar desc scanning labels found missing empty duplicate images cache path cachepath assert labels found see path dirname file sep help url helpurl warning labels found see path dirname file sep help url helpurl print assert augment train without labels cache images memory faster training warning large datasets may exceed system ram self imgs none

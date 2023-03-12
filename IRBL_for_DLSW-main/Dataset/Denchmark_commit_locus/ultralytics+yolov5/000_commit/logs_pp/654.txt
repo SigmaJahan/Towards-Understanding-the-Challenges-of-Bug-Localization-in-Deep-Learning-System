@@ -1,0 +1,2 @@
+move results txt weights log dir logdir
+makedirs wdir exist existok true last wdir last best wdir best results file resultsfile wdir results txt results file resultsfile log dir logdir results txt epochs opt epochs batch size batchsize opt batch size batchsize

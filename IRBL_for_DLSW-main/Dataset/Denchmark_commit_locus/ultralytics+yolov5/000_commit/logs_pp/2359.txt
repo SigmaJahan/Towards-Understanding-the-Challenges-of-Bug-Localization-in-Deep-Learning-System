@@ -1,0 +1,2 @@
+update utils
+system storage googleapis com files https storage googleapis com resultsg txt bucket else files glob glob path join save dir savedir results txt glob glob downloads results txt files glob glob str path save dir savedir results txt glob glob downloads results txt enumerate files try results loadtxt usecols ndmin

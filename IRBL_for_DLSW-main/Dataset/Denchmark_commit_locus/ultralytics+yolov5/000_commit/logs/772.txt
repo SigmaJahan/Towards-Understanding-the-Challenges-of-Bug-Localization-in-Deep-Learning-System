@@ -1,0 +1,2 @@
+      Update PR curve (#1428)          * Update PR curve          * legend outside          * list(Path().glob()) 
+         pred_cls:  Predicted object classes (nparray).          target_cls:  True object classes (nparray).          plot:  Plot precision-recall curve at mAP@0.5         fname:  Plot filename         save_dir:  Plot save directory      # Returns          The average precision as computed in py-faster-rcnn.      """ 

@@ -1,0 +1,2 @@
+      Utils reorganization (#1392)          * Utils reorganization          * Add new utils files          * cleanup          * simplify          * reduce datasets.py          * remove evolve.sh          * loadWebcam cleanup 
+     class InfiniteDataLoader(torch.utils.data.dataloader.DataLoader):     """ Dataloader that reuses workers.     """ Dataloader that reuses workers       Uses same syntax as vanilla DataLoader.     Uses same syntax as vanilla DataLoader      """        def __init__(self, *args, **kwargs): 

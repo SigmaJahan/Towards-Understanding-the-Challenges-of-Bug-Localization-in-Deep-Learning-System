@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+def colorstr input colors string https wikipedia org wiki ansi escape code ansiescapecode colorstr blue hello world prefix string input color arguments string args string input len input else blue bold input color arguments string colors black basic colors red green

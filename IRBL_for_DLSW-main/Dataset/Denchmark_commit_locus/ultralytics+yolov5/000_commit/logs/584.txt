@@ -1,0 +1,2 @@
+      YOLOv5 PyTorch Hub models >> check_requirements() (#2592)          Improved user-feedback following requirements auto-update. 
+     return Path('/workspace').exists()  # or Path('/.dockerenv').exists()     def emojis(str=''):     # Return platform-dependent emoji-safe version of string     return str.encode().decode('ascii', 'ignore') if platform.system() == 'Windows' else str    def check_online():      # Check internet connectivity      import socket 

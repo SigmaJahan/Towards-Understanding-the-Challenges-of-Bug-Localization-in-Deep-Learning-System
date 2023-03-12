@@ -1,0 +1,2 @@
+add option disable half precision test authored coauthoredby glenn jocher
+plots true wandb logger wandblogger none compute loss computeloss none half precision halfprecision true coco iscoco false initialize load model set device training model none

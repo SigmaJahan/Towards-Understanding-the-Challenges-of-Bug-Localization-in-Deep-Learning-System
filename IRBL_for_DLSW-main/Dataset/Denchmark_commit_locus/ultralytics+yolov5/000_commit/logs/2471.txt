@@ -1,0 +1,2 @@
+      Remove image open on macos (#1086)          * added option to not open on save          * Update detect.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+       if save_txt or save_img:          print('Results saved to %s' % Path(out))         if platform.system() == 'Darwin' and not opt.update:  # MacOS             os.system('open ' + save_path)        print('Done. (%.3fs)' % (time.time() - t0))   

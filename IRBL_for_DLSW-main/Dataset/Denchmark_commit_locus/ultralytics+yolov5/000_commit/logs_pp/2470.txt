@@ -1,0 +1,2 @@
+update yolo model info modelinfo verbose false
+self info return self def info self print model information model info modelinfo self def info self verbose false print model information model info modelinfo self verbose def parse model parsemodel model dict modeldict input channels inputchannels

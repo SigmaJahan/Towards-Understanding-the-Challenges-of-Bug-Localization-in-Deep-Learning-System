@@ -1,0 +1,2 @@
+pretrained model loading bug fix signed signedoffby glenn jocher
+load model try ckpt model ckpt model float state dict statedict items model state dict statedict ckpt model ckpt model float state dict statedict items model state dict statedict model state dict statedict shape shape model load state dict loadstatedict ckpt model strict false except key error keyerror compatible may due model differences may date

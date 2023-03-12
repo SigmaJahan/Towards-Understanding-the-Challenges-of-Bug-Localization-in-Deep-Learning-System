@@ -1,0 +1,2 @@
+improved corruption handling scan cache
+self img files imgfiles list cache keys update self label files labelfiles imglabel paths imglabelpaths cache keys update len shapes number images floor arange batch size batchsize astype int batch index number batches self batch batch index image self rectangular training self rect sort aspect ratio

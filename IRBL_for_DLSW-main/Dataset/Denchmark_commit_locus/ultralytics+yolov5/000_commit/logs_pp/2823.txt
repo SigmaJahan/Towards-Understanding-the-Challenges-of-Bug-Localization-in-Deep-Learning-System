@@ -1,0 +1,2 @@
+updated filename attributes yol yolov hub bytes bytesio fix model predict forward fail pil image filename attribute
+isinstance str filename uri asarray image open requests get stream true raw startswith http else elif isinstance image image pil image asarray getattr filename asarray getattr filename files append path suffix withsuffix jpg name shape image chw transpose reverse dataloader transpose

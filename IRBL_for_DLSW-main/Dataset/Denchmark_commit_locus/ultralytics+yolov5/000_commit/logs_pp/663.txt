@@ -1,0 +1,2 @@
+simplified inference
+img torch rand torch cuda available isavailable else device model img profile true onnx export model model export true torch onnx export model img opt cfg replace yaml onnx verbose true opset version opsetversion tensorboard torch utils tensorboard import summary writer summarywriter writer tbwriter summary writer summarywriter

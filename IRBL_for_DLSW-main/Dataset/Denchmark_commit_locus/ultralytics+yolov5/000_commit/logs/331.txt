@@ -1,0 +1,2 @@
+      Add file_size() function (#2911)          * Add file_size() function          * Update export.py 
+         model = ct.convert(ts, inputs=[ct.ImageType(name='image', shape=img.shape, scale=1 / 255.0, bias=[0, 0, 0])])          f = opt.weights.replace('.pt', '.mlmodel')  # filename          model.save(f)         print(f'{prefix} export success, saved as {f}')         print(f'{prefix} export success, saved as {f} ({file_size(f):.1f} MB)')      except Exception as e:          print(f'{prefix} export failure: {e}')   

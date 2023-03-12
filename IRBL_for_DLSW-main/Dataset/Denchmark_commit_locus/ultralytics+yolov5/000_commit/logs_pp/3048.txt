@@ -1,0 +1,2 @@
+simplify autoshape post process postprocess simplify autoshape post process postprocess cleanup cleanup
+post process postprocess batch none scale coords scalecoords shape shapei scale coords scalecoords shape shapei return detections imgs self names

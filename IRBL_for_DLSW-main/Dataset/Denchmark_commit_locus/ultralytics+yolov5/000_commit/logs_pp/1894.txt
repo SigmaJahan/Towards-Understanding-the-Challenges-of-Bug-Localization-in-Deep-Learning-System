@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+print newline check common shapes stack letterbox new shape newshape self img size imgsize shape self imgs inference shapes stack letterbox self img size imgsize stride self stride shape self imgs shapes self rect unique axis shape rect inference shapes equal self rect print warning different stream shapes detected optimal performance supply similarly shaped similarlyshaped streams

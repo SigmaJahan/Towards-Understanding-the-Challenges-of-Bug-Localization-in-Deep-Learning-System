@@ -1,0 +1,2 @@
+torch pytorch hub models default cuda available torch pytorch hub models default cuda available device string bug fix
+else cpun logger info skip line logger info encode decode ascii ignore platform system windows else emoji safe emojisafe return torch device cuda cuda else cpu

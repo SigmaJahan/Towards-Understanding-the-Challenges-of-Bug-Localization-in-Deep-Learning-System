@@ -1,0 +1,2 @@
+update test profiling update test profiling half precision halfprecision half inplace
+print namesc seen ntc api api print speeds tuple seen imgsz imgsz batch size batchsize tuple tuple seen speeds per image training print speed inference nms total per gxg image batch size batchsize shape batch size batchsize imgsz imgsz print speed fms pre process preprocess fms inference fms nms per image shape shape plots plots

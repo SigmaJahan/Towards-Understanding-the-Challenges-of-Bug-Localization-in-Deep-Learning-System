@@ -1,0 +1,2 @@
+      add support for DWConv fuse operation (#898)          * the value should be a list to unpacking          * filter the None labels          * update readme to remove apex dependency          * add support for DWConv fuse operation 
+                               kernel_size=conv.kernel_size,                                stride=conv.stride,                                padding=conv.padding,                               groups=conv.groups,                                bias=True).to(conv.weight.device)            # prepare filters 

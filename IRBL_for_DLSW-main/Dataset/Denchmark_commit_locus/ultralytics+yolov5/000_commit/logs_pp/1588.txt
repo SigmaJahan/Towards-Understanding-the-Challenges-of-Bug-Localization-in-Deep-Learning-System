@@ -1,0 +1,2 @@
+update loss criteria constructor
+model attach number classes model model hyp hyp attach hyperparameters model model iou loss ratio obj loss objloss iou model class weights classweights labels class weights labelstoclassweights dataset labels device attach class weights model class weights classweights labels class weights labelstoclassweights dataset labels device attach class weights model names names start training

@@ -1,0 +1,2 @@
+      Update train.py with yaml.SafeLoader (#1972) 
+       # Hyperparameters      with open(opt.hyp) as f:         hyp = yaml.load(f, Loader=yaml.FullLoader)  # load hyps         hyp = yaml.load(f, Loader=yaml.SafeLoader)  # load hyps        # Train      logger.info(opt) 

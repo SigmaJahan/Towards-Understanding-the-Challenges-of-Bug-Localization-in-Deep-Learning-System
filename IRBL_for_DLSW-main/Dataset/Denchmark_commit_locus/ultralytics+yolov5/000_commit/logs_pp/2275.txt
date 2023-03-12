@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+range append time synchronized timesynchronized print fms type logger info fms type run append self save else none save output profile print fms total sum logger info fms total sum return def initialize biases initializebiases self none initialize biases detect class frequency

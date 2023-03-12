@@ -1,0 +1,2 @@
+increase pycocotools robustness
+img torch zeros imgsz imgsz device device init img model img half half else img device type cpu else none run path data test opt task test else data val path val test images dataloader create dataloader createdataloader path imgsz batch size batchsize model stride max opt hyp none augment false cache false pad rect true dataloader create dataloader createdataloader path imgsz batch size batchsize model stride max opt pad rect true seen names enumerate model names hasattr model names else model module names

@@ -1,0 +1,2 @@
+logging add hyperparameters logging add hyperparameters hyp bug fix image logging updates plots wandb cleanup wandb gitignore add cleanup cleanup move wandb import top file wandb evolve update import wandb run finish default anchors
+logger logging get logger getlogger name try import wandb except import error importerror wandb none logger info install weights biases experiment logging via pip install wandb recommended def train hyp opt device writer tbwriter none wandb none logger info hyperparameters hyp

@@ -1,0 +1,2 @@
+read strip
+glob glob str recursive true elif file isfile file open read splitlines read strip splitlines parent str parent sep replace parent startswith else local global path else

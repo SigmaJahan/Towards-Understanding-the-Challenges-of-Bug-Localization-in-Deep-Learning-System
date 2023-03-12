@@ -1,0 +1,2 @@
+cache improved corrupt image label reporting cache improved corrupt image label reporting fix https github com ultralytics yolov issues issuecomment cleanup
+else label missing zeros dtype float return file imfile shape segments return file imfile shape segments except exception logging info prefix warning ignoring corrupted image label file imfile return none none none none msg prefix warning ignoring corrupted image label file imfile return none none none none msg def dataset stats datasetstats path coco yaml autodownload false verbose false

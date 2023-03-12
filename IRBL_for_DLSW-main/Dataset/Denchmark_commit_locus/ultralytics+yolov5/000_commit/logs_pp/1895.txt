@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+raise stop iteration stopiteration letterbox img letterbox new shape newshape self img size imgsize auto self rect img img letterbox self img size imgsize auto self rect stride self stride img stack img stack img

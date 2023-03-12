@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+evolve npr random anchor fitness anchorfitness shape fitness generations mutation prob sigma pbar tqdm range gen desc evolving anchors genetic algorithm progress bar pbar tqdm range gen desc prefix evolving anchors genetic algorithm progress bar pbar ones mutate change occurs prevent duplicates

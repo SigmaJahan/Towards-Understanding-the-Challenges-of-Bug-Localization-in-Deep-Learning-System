@@ -1,0 +1,2 @@
+plotting improvements signed signedoffby glenn jocher
+yidx clip digitize yedges hist shape return log histxidx yidx labels labels transpose classes boxes int max number classes fig plt subplots figsize tight layout tightlayout true ravel hist bins int max hist bins linspace rwidth set xlabel setxlabel classes scatter histd cmap jet set xlabel setxlabel

@@ -1,0 +1,2 @@
+ddp autoanchor reorder
+anchors opt noautoanchor check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz model half float pre reduce prereduce anchor precision model half float pre reduce prereduce anchor precision ddp mode cuda rank model ddp model device ids deviceids opt local rank localrank output device outputdevice opt local rank localrank model parameters hyp box scale layers

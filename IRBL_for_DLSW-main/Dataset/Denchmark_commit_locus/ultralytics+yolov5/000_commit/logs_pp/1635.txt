@@ -1,0 +1,2 @@
+release initial commit remove yolov spp yolovspp test study update study img range update map cleanup speed updates update readme plot
+start epoch startepoch ckpt epoch epochs start epoch startepoch logger info trained epochs fine tuning finetuning additional epochs weights ckpt epoch epochs weights ckpt epoch epochs epochs ckpt epoch finetune additional epochs del ckpt state dict statedict

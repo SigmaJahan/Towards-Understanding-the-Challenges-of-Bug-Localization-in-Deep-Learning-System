@@ -1,0 +1,2 @@
+torch pytorch hub updates
+class ghost conv ghostconv module ghost convolution https github com huawei noah huaweinoah ghostnet def init self act true chin chout kernel stride groups super ghost conv ghostconv self init hidden channels

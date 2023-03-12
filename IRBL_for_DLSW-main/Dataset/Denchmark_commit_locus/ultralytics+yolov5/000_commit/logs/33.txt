@@ -1,0 +1,2 @@
+      Update TensorBoard (#3669) 
+             # end batch ------------------------------------------------------------------------------------------------            # Scheduler         lr = [x['lr'] for x in optimizer.param_groups]  # for tensorboard         lr = [x['lr'] for x in optimizer.param_groups]  # for loggers          scheduler.step()            # DDP process 0 or single-GPU 

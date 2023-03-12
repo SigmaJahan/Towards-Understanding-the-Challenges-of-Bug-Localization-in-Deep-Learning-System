@@ -1,0 +1,2 @@
+      Update test.py profiling (#3555)          * Update test.py profiling          * half_precision to half          * inplace 
+          plots=True,           wandb_logger=None,           compute_loss=None,          half_precision=True,          half=True,           opt=None):      # Initialize/load model and set device      training = model is not None 

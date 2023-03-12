@@ -1,0 +1,2 @@
+add xywhnxyxy
+return def xywhnxyxy padw padh convert boxes normalized top left topleft bottom right bottomright clone isinstance torch tensor else copy padw top left padh top left padw bottom right padh bottom right return def scale coords scalecoords img shape imgshape coords img shape imgshape ratio pad ratiopad none rescale coords xyxy img shape imgshape img shape imgshape ratio pad ratiopad none calculate img shape imgshape

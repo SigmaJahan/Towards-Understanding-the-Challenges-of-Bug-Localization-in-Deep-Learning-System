@@ -1,0 +1,2 @@
+remove redundant downloads mirror
+assert path exists weights path getsize weights check except exception gcp print download error assert redundant secondary mirror url https storage googleapis com ultralytics yolov ckpt file print downloading url weights system curl url weights torch hub download url file downloadurltofile url weights

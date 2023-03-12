@@ -1,0 +1,2 @@
+update loss criteria constructor
+return loss sum else none return loss class focal loss qfocalloss module wraps quality focal loss around existing loss fcn lossfcn criteria focal loss focalloss bce logits loss bcewithlogitsloss gamma def init self loss fcn lossfcn gamma alpha

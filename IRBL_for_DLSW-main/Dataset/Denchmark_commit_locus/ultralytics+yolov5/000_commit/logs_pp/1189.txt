@@ -1,0 +1,2 @@
+module updates
+class cross conv crossconv module cross convolution def init self shortcut true chin chout shortcut groups expansion cross convolution downsample def init self shortcut false chin chout kernel stride groups expansion shortcut super cross conv crossconv self init int hidden channels self conv self conv self conv self conv self add shortcut def forward self

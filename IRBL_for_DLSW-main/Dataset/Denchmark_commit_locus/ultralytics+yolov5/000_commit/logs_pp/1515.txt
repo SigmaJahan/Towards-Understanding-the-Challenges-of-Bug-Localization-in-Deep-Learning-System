@@ -1,0 +1,2 @@
+generalize webcam detection opt source isnumeric yolov
+enumerate sources start thread read frames video stream print end cap video capture videocapture else cap video capture videocapture eval isnumeric else assert cap opened isopened failed open int cap get cappropframewidth int cap get cappropframeheight

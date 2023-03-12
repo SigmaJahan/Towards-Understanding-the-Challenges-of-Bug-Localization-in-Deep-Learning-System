@@ -1,0 +1,2 @@
+      single command --resume (#756)          * single command --resume          * else check files, remove TODO          * argparse.Namespace()          * tensorboard lr          * bug fix in get_latest_run() 
+     epochs, batch_size, total_batch_size, weights, rank = \          opt.epochs, opt.batch_size, opt.total_batch_size, opt.weights, opt.global_rank       # TODO: Use DDP logging. Only the first process is allowed to log.      # Save run settings      with open(log_dir / 'hyp.yaml', 'w') as f:          yaml.dump(hyp, f, sort_keys=False) 

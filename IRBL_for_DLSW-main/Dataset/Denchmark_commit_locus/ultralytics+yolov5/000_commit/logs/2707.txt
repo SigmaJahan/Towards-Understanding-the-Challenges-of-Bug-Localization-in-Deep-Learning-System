@@ -1,0 +1,2 @@
+      ConfusionMatrix `normalize=True` fix (#3587) 
+             fig.axes[0].set_ylabel('Predicted')              fig.savefig(Path(save_dir) / 'confusion_matrix.png', dpi=250)          except Exception as e:             pass             print(f'WARNING: ConfusionMatrix plot failure: {e}')        def print(self):          for i in range(self.nc + 1): 

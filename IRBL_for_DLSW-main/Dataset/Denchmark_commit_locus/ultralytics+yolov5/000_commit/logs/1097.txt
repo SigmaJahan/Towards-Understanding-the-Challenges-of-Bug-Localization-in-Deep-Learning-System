@@ -1,0 +1,2 @@
+      AutoAnchor implementation 
+     s = wh.std(0)  # sigmas for whitening      k, dist = kmeans(wh / s, n, iter=30)  # points, mean distance      k *= s     wh = torch.Tensor(wh)     wh = torch.tensor(wh)      k = print_results(k)       # # Plot     # Plot      # k, d = [None] * 20, [None] * 20      # for i in tqdm(range(1, 21)):      #     k[i-1], d[i-1] = kmeans(wh / s, i)  # points, mean distance 

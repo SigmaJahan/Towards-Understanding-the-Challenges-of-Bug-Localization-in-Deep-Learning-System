@@ -1,0 +1,2 @@
+inference update
+return none isinstance images torch tensor images images cpu numpy images images cpu float numpy isinstance targets torch tensor targets targets cpu numpy

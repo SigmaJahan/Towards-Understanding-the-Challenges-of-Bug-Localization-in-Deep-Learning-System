@@ -1,0 +1,2 @@
+new colors class
+math ceil scale factor scalefactor math ceil scale factor scalefactor colors color list colorlist list colors mosaic full int int dtype uint init img enumerate images max subplots maxsubplots last batch fewer images expect

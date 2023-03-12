@@ -1,0 +1,2 @@
+label caching foundational write rewrite
+break def get hash gethash files returns single hash value list files return sum path getsize files def exif size exifsize img returns exif corrected exifcorrected pil size img size width height

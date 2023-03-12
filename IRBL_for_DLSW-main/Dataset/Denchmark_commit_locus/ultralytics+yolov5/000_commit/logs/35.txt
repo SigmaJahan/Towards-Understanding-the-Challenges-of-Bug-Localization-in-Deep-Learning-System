@@ -1,0 +1,2 @@
+      Update TensorBoard (#3669) 
+     # Train      logger.info(opt)      if not opt.evolve:         tb_writer = None  # init loggers         if opt.global_rank in [-1, 0]:             prefix = colorstr('tensorboard: ')             logger.info(f"{prefix}Start with 'tensorboard --logdir {opt.project}', view at http://localhost:6006/")             tb_writer = SummaryWriter(opt.save_dir)  # Tensorboard         train(opt.hyp, opt, device, tb_writer)         train(opt.hyp, opt, device)        # Evolve hyperparameters (optional)      else: 

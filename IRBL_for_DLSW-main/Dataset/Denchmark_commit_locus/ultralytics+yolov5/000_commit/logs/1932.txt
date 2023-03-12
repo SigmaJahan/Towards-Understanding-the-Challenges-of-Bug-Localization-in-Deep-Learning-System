@@ -1,0 +1,2 @@
+      export.py update 
+     except Exception as e:          print('TorchScript export failed: %s' % e)       # Export to ONNX     # ONNX export      try:         import onnx           f = opt.weights.replace('.pt', '.onnx')  # filename          model.fuse()  # only for ONNX          torch.onnx.export(model, img, f, verbose=False, opset_version=12, input_names=['images'], 

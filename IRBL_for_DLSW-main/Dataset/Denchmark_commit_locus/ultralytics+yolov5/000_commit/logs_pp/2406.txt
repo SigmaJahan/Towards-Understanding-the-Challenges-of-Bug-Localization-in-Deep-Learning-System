@@ -1,0 +1,2 @@
+update plot study txt plotstudytxt
+set xlabel setxlabel gpu speed img set ylabel setylabel coco val legend loc lower right plt savefig study map latency studymaplatency png dpi plt savefig replace txt png dpi plt savefig test study teststudy png dpi def plot labels plotlabels labels save dir savedir

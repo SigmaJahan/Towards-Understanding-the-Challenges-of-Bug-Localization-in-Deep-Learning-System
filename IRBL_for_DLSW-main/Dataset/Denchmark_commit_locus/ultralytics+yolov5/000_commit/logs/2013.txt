@@ -1,0 +1,2 @@
+      Profile() feature addition (#1673)          * Profile() feature addition          * cleanup 
+ # PyTorch utils    import logging import math  import os  import time  from contextlib import contextmanager  from copy import deepcopy   import math  import torch  import torch.backends.cudnn as cudnn  import torch.nn as nn  import torch.nn.functional as F  import torchvision   try:     import thop  # for FLOPS computation except ImportError:     thop = None  logger = logging.getLogger(__name__)     

@@ -1,0 +1,2 @@
+add stride datasets
+hyp hyp rect true cache images cacheimages opt cache images cacheimages single cls singlecls opt single cls singlecls single cls singlecls opt single cls singlecls stride batch size batchsize batch size batchsize num workers numworkers pin memory pinmemory true

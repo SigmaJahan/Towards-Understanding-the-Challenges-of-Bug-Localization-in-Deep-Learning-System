@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+pytorch model try set logging setlogging verbose verbose cfg list path file parent models rglob name yaml model yaml path model model cfg channels classes pretrained

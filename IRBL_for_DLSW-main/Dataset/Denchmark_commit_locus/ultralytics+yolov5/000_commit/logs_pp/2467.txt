@@ -1,0 +1,2 @@
+torch pytorch hub load directly possible
+import torch models yolo import model models yolo import model attempt load attemptload utils general import check requirements checkrequirements set logging setlogging utils google utils googleutils import attempt download attemptdownload utils torch utils torchutils import select device selectdevice

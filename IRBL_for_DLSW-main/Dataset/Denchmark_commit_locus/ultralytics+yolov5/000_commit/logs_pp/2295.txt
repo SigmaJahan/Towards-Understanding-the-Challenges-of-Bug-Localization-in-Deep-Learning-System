@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+print mutation printmutation hyp copy results yaml file yamlfile opt bucket plot results plot evolution results plotevolutionresults yaml file yamlfile plot evolution plotevolution yaml file yamlfile print hyperparameter evolution complete best results saved command sncommand train new model hyperparameters python train hyp yaml file yamlfile yaml file yamlfile

@@ -1,0 +1,2 @@
+datasets self batch shapes batchshapes fix
+self export false onnx export def forward self copy inference output self training self export range self

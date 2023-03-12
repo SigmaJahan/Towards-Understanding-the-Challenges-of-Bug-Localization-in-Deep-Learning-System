@@ -1,0 +1,2 @@
+      Add verbose option to pytorch hub models (#2926)          * Add verbose and update print to logging          * Fix positonal param          * Revert auto formatting changes          * Update hubconf.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         pytorch model      """      try:         set_logging(verbose=verbose)           cfg = list((Path(__file__).parent / 'models').rglob(f'{name}.yaml'))[0]  # model.yaml path          model = Model(cfg, channels, classes)          if pretrained: 

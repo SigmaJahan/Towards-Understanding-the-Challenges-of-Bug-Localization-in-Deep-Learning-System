@@ -1,0 +1,2 @@
+train logdir argparser addition train logdir argparser addition train logdir argparser addition
+opt evolve writer tbwriter none opt global rank globalrank print start tensorboard tensorboard logdir runs view http localhost writer tbwriter summary writer summarywriter log dir logdir increment dir incrementdir runs exp opt name print start tensorboard tensorboard logdir view http localhost opt logdir writer tbwriter summary writer summarywriter log dir logdir increment dir incrementdir path opt logdir exp opt name runs exp train hyp opt device writer tbwriter

@@ -1,0 +1,2 @@
+      PyTorch Hub models default to CUDA:0 if available (#2472)          * PyTorch Hub models default to CUDA:0 if available          * device as string bug fix 
+ from models.yolo import Model  from utils.general import set_logging  from utils.google_utils import attempt_download from utils.torch_utils import select_device    dependencies = ['torch', 'yaml']  set_logging() 

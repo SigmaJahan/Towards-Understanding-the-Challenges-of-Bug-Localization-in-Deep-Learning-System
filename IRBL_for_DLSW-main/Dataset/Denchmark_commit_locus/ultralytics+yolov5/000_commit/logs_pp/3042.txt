@@ -1,0 +1,2 @@
+update train hyp args accept hyp file dict
+best wdir best results file resultsfile save dir savedir results txt hyperparameters isinstance hyp str open hyp hyp yaml safe load safeload load hyps dict logger info colorstr hyperparameters join hyp items save run settings open save dir savedir hyp yaml yaml safe dump safedump hyp sort keys sortkeys false

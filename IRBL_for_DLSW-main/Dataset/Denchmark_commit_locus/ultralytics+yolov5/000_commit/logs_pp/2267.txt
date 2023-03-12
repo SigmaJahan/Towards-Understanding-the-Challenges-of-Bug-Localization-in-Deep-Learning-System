@@ -1,0 +1,2 @@
+update inference default multi label multilabel false update inference default multi label multilabel false bug fix update plots update plots
+return filtfilt data forward backward forwardbackward filter def plot one box plotonebox img color none label none line thickness linethickness none def plot one box plotonebox img color none label none line thickness linethickness plots one bounding box image img line thickness linethickness round img shape img shape line font thickness color color random randint range

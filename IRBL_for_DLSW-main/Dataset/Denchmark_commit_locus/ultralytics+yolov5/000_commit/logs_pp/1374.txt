@@ -1,0 +1,2 @@
+mosaic bottom left image fix fix bug load mosaic loadmosaic
+min elif bottom left max min max min min elif bottom right min min min min

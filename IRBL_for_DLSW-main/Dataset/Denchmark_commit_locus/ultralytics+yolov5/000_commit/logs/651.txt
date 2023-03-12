@@ -1,0 +1,2 @@
+      update utils.create_pretrained() 
+     print('Optimizer stripped from %s' % f)     def create_backbone(f='weights/best.pt', s='weights/backbone.pt'):  # from utils.utils import *; create_backbone()     # create backbone 's' from 'f' def create_pretrained(f='weights/best.pt', s='weights/pretrained.pt'):  # from utils.utils import *; create_pretrained()     # create pretrained checkpoint 's' from 'f' (create_pretrained(x, x) for x in glob.glob('./*.pt'))      device = torch.device('cpu')      x = torch.load(s, map_location=device)   

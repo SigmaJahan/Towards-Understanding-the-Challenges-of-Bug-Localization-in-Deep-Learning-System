@@ -1,0 +1,2 @@
+single command resume single command resume else check files remove todo argparse namespace tensorboard bug fix get latest run getlatestrun
+end batch scheduler optimizer param groups paramgroups tensorboard scheduler step ddp process single gpu singlegpu rank map ema none ema ema update attr updateattr model include yaml hyp names stride final epoch finalepoch epoch epochs opt notest final epoch finalepoch calculate map

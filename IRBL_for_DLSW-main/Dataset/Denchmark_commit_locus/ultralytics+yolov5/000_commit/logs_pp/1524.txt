@@ -1,0 +1,2 @@
+print weights printweights
+self modelf bias detach view conv bias print convd bias mean tolist mean def print weights printweights self self model modules type bottleneck print detach sigmoid shortcut weights def fuse self fuse model convd batch normd batchnormd layers print fusing layers self model modules

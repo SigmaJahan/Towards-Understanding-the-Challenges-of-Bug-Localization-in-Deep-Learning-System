@@ -1,0 +1,2 @@
+torch pytorch compatibility updates
+print fusing layers end self model modules type conv non persistent buffers set nonpersistentbuffersset set pytorch compatability conv torch utils torchutils fuse conv fuseconvandbn conv update conv none remove batchnorm forward fuseforward update forward

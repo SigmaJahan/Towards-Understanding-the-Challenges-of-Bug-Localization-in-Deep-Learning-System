@@ -1,0 +1,2 @@
+update general bbox iou bboxiou eps improvements eps reduced additional precaution
+torch grad nograd alpha eps iou return iou rho alpha ciou return iou else giou https arxiv org pdf pdf area carea eps convex area return iou area carea union area carea giou else return iou iou def box iou boxiou box box

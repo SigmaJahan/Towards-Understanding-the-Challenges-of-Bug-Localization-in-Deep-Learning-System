@@ -1,0 +1,2 @@
+automatic half profile half
+print torch version device type torch cuda get device properties getdeviceproperties device type cuda else print params gflops forward backward input output ops isinstance ops list else ops device hasattr else device hasattr else device half hasattr half isinstance torch tensor dtype torch float else type dtf dtb forward backward try flops thop profile inputs verbose false gflops

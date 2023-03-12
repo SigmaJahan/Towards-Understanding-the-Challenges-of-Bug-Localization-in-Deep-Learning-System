@@ -1,0 +1,2 @@
+      rename test 
+ from utils.datasets import *     def evaluate(data, def test(data,           weights=None,           batch_size=16,           imgsz=640, 

@@ -1,0 +1,2 @@
+      Add Multi-Node support for DDP Training (#504)          * Add support for multi-node DDP          * Remove local_rank confusion          * Fix spacing 
+         device = torch.device('cuda', opt.local_rank)          dist.init_process_group(backend='nccl', init_method='env://')  # distributed backend          opt.world_size = dist.get_world_size()         opt.global_rank = dist.get_rank()          assert opt.batch_size % opt.world_size == 0, '--batch-size must be multiple of CUDA device count'          opt.batch_size = opt.total_batch_size // opt.world_size   

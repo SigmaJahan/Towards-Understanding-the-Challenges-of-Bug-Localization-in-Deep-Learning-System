@@ -1,0 +1,2 @@
+      Explicit opt function arguments (#2817)          * more explicit function arguments          * fix typo in detect.py          * revert import order          * revert import order          * remove default value 
+          wandb_logger=None,           compute_loss=None,           half_precision=True,          is_coco=False):          is_coco=False,          opt=None):      # Initialize/load model and set device      training = model is not None      if training:  # called by train.py 

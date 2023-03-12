@@ -1,0 +1,2 @@
+fix typo
+load torch pytorch model device select device selectdevice device assert device type cpu opt half half compatible gpu export use device assert device type cpu half half compatible gpu export use device model attempt load attemptload weights map location maplocation device load model labels model names

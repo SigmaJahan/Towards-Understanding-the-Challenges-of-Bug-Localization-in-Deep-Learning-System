@@ -1,0 +1,2 @@
+      Improves docs and handling of entities and resuming by WandbLogger (#3264)          * adds latest tag to match wandb defaults          * adds entity handling, 'last' tag          * fixes bug causing finished runs to resume          * removes redundant "last" tag for wandb artifact 
+"""Utilities and tools for tracking runs with Weights & Biases."""  import json  import sys  from pathlib import Path 

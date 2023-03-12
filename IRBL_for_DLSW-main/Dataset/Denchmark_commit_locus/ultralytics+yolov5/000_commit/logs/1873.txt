@@ -1,0 +1,2 @@
+      AutoAnchor bug fix # 117 
+         tb_writer.add_histogram('classes', c, 0)        # Check anchors     check_anchors(dataset, model=model, thr=hyp['anchor_t'], imgsz=imgsz)     if not opt.noautoanchor:         check_anchors(dataset, model=model, thr=hyp['anchor_t'], imgsz=imgsz)        # Exponential moving average      ema = torch_utils.ModelEMA(model) 

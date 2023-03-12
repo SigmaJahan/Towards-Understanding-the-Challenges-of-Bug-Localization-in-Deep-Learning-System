@@ -1,0 +1,2 @@
+      torchvision nms bug fix 
+   def load_classifier(name='resnet101', n=2):      # Loads a pretrained model reshaped to n-class output     import torchvision      model = torchvision.models.__dict__[name](pretrained=True)        # ResNet model properties 

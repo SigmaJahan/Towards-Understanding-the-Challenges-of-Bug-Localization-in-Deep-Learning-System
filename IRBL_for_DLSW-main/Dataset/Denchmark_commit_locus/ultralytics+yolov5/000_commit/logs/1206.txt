@@ -1,0 +1,2 @@
+      Refactor detect.py arguments (#3559)          * Refactor detect.py arguments          @SkalskiP @KalenMike          * unused ok          * comment arguments 
+     print(opt)      check_requirements(exclude=('tensorboard', 'thop'))       if opt.update:  # update all models (to fix SourceChangeWarning)         for opt.weights in ['yolov5s.pt', 'yolov5m.pt', 'yolov5l.pt', 'yolov5x.pt']:             detect(opt=opt)             strip_optimizer(opt.weights)     else:         detect(opt=opt)     detect(**vars(opt)) 

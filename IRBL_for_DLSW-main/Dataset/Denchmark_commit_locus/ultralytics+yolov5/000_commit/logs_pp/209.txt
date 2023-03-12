@@ -1,0 +1,2 @@
+funnel relu frelu signed signedoffby glenn jocher
+staticmethod def forward return softplus tanh frelu https arxiv org abs class frelu module def init self chin kernel super init super frelu self init self conv convd groups self batch normd batchnormd staticmethod def forward self return torch max self self conv

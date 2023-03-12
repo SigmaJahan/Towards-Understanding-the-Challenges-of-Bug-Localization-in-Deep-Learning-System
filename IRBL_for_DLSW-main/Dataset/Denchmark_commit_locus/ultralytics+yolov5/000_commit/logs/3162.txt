@@ -1,0 +1,2 @@
+      Fix curl download on Windows (#669)          * Update ci-testing.yml          * Fix windows download          * Fix cookie and curl download issue from gdrive          * Revert "Update ci-testing.yml"          This reverts commit 7389d2238df4dd8bd3b6ddded0f12e551c8fd0b1.          * Update google_utils.py          PEP8          * Update google_utils.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ # from google.cloud import storage    import os import platform  import time  from pathlib import Path   

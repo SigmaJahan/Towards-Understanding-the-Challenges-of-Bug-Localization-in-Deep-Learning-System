@@ -1,0 +1,2 @@
+      Add isdocker() (#2232)          * Add isdocker()          * Update general.py          * Update general.py 
+     print(colorstr('github: '), end='')      try:          assert Path('.git').exists(), 'skipping check (not a git repository)'         assert not Path('/workspace').exists(), 'skipping check (Docker image)'  # not Path('/.dockerenv').exists()         assert not isdocker(), 'skipping check (Docker image)'          assert check_online(), 'skipping check (offline)'            cmd = 'git fetch && git config --get remote.origin.url' 

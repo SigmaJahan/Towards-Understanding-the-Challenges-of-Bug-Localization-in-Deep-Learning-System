@@ -1,0 +1,2 @@
+update train update train update train update train update train create train
+results ckpt get training results trainingresults none open results file resultsfile file file write ckpt training results trainingresults write results txt results file resultsfile write text writetext ckpt training results trainingresults write results txt epochs start epoch startepoch ckpt epoch

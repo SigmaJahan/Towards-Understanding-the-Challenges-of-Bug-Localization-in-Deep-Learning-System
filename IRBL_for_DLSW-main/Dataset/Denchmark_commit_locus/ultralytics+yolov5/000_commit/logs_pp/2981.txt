@@ -1,0 +1,2 @@
+reformat code
+len logger info sdeviceg cuda device properties cudadeviceproperties name total memory totalmemory dmb name total memory totalmemory name total memory totalmemory else logger info using cpu

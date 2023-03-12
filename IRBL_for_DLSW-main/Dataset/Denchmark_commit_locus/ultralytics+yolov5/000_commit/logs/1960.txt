@@ -1,0 +1,2 @@
+      add parser arg for hyp yaml file 
+        'translate': 0.0,  # image translation (+/- fraction)         'scale': 0.5,  # image scale (+/- gain)         'shear': 0.0}  # image shear (+/- deg) print(hyp)  # Don't need to be printing every time #print(hyp)    # Overwrite hyp with hyp*.txt (optional)  f = glob.glob('hyp*.txt') 

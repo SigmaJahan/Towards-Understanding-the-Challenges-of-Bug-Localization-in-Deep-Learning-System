@@ -1,0 +1,2 @@
+syntax fixes
+makedirs wdir exist existok true last wdir last best wdir best results file resultsfile log dir logdir results txt results file resultsfile log dir logdir sep results txt epochs opt epochs batch size batchsize opt batch size batchsize

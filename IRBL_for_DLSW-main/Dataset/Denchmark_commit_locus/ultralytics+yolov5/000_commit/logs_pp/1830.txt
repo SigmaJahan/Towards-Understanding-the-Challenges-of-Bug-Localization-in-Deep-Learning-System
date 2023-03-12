@@ -1,0 +1,2 @@
+yol yolov hub url inference bug fix update common update common update common
+shape shape files image inference shapes filenames enumerate imgs isinstance str filename uri image open requests get stream true raw startswith http else open image open requests get stream true raw startswith http else open filename uri files append path filename suffix withsuffix jpg name isinstance image image else image jpg array numpy shape image chw

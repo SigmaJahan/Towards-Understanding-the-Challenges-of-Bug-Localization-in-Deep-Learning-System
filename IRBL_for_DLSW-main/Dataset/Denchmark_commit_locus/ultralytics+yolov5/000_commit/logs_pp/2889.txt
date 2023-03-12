@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+start training time time max number warmup iterations max epochs iterations max round hyp warmup epochs warmupepochs number warmup iterations max epochs iterations min epochs start epoch startepoch limit warmup training maps zeros map per class results map val giou val objectness val classification

@@ -1,0 +1,2 @@
+      Update utils.py 
+     # Build targets for compute_loss(), input targets(image,class,x,y,w,h)      det = model.module.model[-1] if type(model) in (nn.parallel.DataParallel, nn.parallel.DistributedDataParallel) \          else model.model[-1]  # Detect() module     hyp = model.module.hyp if hasattr(model, 'module') else model.hyp           na, nt = det.na, targets.shape[0]  # number of anchors, targets      tcls, tbox, indices, anch = [], [], [], []      gain = torch.ones(6, device=targets.device)  # normalized to gridspace gain 

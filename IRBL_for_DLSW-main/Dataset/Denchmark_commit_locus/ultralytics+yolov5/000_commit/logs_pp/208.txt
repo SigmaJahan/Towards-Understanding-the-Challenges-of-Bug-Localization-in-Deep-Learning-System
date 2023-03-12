@@ -1,0 +1,2 @@
+funnel relu frelu signed signedoffby glenn jocher
+import torch import torch import torch functional import torch swish

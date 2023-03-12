@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+return img labels def letterbox img new shape newshape color auto true scale fill scalefill false scaleup true resize image pixel multiple pixelmultiple rectangle https github com ultralytics yolov issues def letterbox img new shape newshape color auto true scale fill scalefill false scaleup true stride resize pad image meeting stride multiple stridemultiple constraints shape img shape current shape height width isinstance new shape newshape int new shape newshape new shape newshape new shape newshape

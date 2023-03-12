@@ -1,0 +1,2 @@
+ddp fix
+wandb logger wandblogger log model logmodel last parent opt epoch best model bestmodel best fitness bestfitness del ckpt wandb logger wandblogger end epoch endepoch best result bestresult best fitness bestfitness end epoch end training

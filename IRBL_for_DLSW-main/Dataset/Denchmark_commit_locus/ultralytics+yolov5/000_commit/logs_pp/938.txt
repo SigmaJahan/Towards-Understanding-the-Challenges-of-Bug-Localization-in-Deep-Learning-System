@@ -1,0 +1,2 @@
+coco evolution fix coco evolution fix cleanup update print print fix
+opt single cls singlecls else int data dict datadict number classes names item opt single cls singlecls len data dict datadict names else data dict datadict names class names assert len names names found dataset len names opt data check coco iscoco opt data endswith coco yaml coco dataset model pretrained weights endswith

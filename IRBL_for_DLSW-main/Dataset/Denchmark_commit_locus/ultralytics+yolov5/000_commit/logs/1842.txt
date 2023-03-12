@@ -1,0 +1,2 @@
+      v2.0 Release (#491)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         if rank in [-1, 0]:              # mAP              if ema is not None:                 ema.update_attr(model, include=['md', 'nc', 'hyp', 'gr', 'names', 'stride'])                 ema.update_attr(model, include=['yaml', 'nc', 'hyp', 'gr', 'names', 'stride'])              final_epoch = epoch + 1 == epochs              if not opt.notest or final_epoch:  # Calculate mAP                  results, maps, times = test.test(opt.data, 

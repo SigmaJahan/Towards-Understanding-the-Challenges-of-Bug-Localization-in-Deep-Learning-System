@@ -1,0 +1,2 @@
+      FP16 inference update 
+          model=None,           dataloader=None,           fast=False,          verbose=False):  # 0 fast, 1 accurate          verbose=False,          half=False):  # FP16      # Initialize/load model and set device      if model is None:          device = torch_utils.select_device(opt.device, batch_size=batch_size)         half &= device.type != 'cpu'  # half precision only supported on CUDA            # Remove previous          for f in glob.glob('test_batch*.jpg'): 

@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+         device = next(model.parameters()).device  # get model device        else:  # called directly         device = torch_utils.select_device(opt.device, batch_size=batch_size)         device = select_device(opt.device, batch_size=batch_size)          merge, save_txt = opt.merge, opt.save_txt  # use Merge NMS, save *.txt labels          if save_txt:              out = Path('inference/output') 

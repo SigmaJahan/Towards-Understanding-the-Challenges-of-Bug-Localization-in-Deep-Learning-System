@@ -1,0 +1,2 @@
+      use check_file for --data (#3035) 
+     def process_wandb_config_ddp_mode(opt):     with open(opt.data) as f:     with open(check_file(opt.data)) as f:          data_dict = yaml.safe_load(f)  # data dict      train_dir, val_dir = None, None      if isinstance(data_dict['train'], str) and data_dict['train'].startswith(WANDB_ARTIFACT_PREFIX): 

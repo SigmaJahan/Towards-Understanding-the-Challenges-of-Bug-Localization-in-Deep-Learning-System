@@ -1,0 +1,2 @@
+torch pytorch hub updates
+class ghost bottleneck ghostbottleneck module ghost bottleneck https github com huawei noah huaweinoah ghostnet def init self super ghost bottleneck ghostbottleneck self init

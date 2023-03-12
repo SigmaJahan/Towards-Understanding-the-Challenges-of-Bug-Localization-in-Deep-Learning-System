@@ -1,0 +1,2 @@
+single command resume single command resume else check files remove todo argparse namespace tensorboard bug fix get latest run getlatestrun
+epochs batch size batchsize total batch size totalbatchsize weights rank opt epochs opt batch size batchsize opt total batch size totalbatchsize opt weights opt global rank globalrank todo use ddp logging first process allowed log save run settings open log dir logdir hyp yaml yaml dump hyp sort keys sortkeys false

@@ -1,0 +1,2 @@
+remove coco iscoco argument test
+configure model eval isinstance data str coco iscoco data endswith coco yaml open data data yaml safe load safeload check dataset checkdataset data check coco iscoco data val endswith coco val txt coco dataset single cls singlecls else int data number classes iouv torch linspace device iou vector map niou iouv numel

@@ -1,0 +1,2 @@
+      update test.py 
+     opt.data = check_file(opt.data)  # check file      print(opt)       # task = 'val', 'test', 'study'     if opt.task in ['val', 'test']:  # (default) run normally     if opt.task in ['val', 'test']:  # run normally          test(opt.data,               opt.weights,               opt.batch_size, 

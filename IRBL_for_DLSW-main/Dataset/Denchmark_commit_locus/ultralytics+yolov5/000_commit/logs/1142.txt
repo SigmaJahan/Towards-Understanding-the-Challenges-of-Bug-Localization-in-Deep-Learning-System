@@ -1,0 +1,2 @@
+      multi-gpu test bug fix #15 
+         self.export = False  # onnx export        def forward(self, x):         x = x.copy() # for profiling         x = x.copy()  # for profiling          z = []  # inference output          self.training |= self.export          for i in range(self.nl): 

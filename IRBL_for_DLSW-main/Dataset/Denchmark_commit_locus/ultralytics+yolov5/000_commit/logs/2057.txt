@@ -1,0 +1,2 @@
+      update test.py 
+         print('Speed: %.1f/%.1f/%.1f ms inference/NMS/total per %gx%g image at batch-size %g' % t)        # Save JSON     if save_json and map50 and len(jdict):         imgIds = [int(Path(x).stem.split('_')[-1]) for x in dataloader.dataset.img_files]     if save_json and len(jdict):          f = 'detections_val2017_%s_results.json' % \              (weights.split(os.sep)[-1].replace('.pt', '') if isinstance(weights, str) else '')  # filename          print('\nCOCO mAP with pycocotools... saving %s...' % f) 

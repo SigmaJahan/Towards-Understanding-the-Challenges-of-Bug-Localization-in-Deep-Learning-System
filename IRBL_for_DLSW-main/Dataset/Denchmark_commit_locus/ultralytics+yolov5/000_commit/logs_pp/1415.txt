@@ -1,0 +1,2 @@
+update matplotlib svg backend
+settings matplotlib font size matplotlib use agg writing files matplotlib use svg writing files def color list colorlist

@@ -1,0 +1,2 @@
+logging add hyperparameters logging add hyperparameters hyp bug fix image logging updates plots wandb cleanup wandb gitignore add cleanup cleanup move wandb import top file wandb evolve update import wandb run finish default anchors
+single cls singlecls opt single cls singlecls dataloader testloader save dir savedir save dir savedir plots epoch final epoch finalepoch plot first last plots plots final epoch finalepoch log imgs logimgs opt log imgs logimgs wandb else write

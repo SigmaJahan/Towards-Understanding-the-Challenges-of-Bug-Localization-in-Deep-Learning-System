@@ -1,0 +1,2 @@
+model yaml inherited dataset yaml
+self yaml load loader yaml full loader fullloader model dict define model self print overriding model cfg modelcfg self self override yaml value self model self save parse model parsemodel self model savelist chout print shape self forward torch zeros

@@ -1,0 +1,2 @@
+labels jpg class names labels png class names fontsize
+plt savefig str path path name png dpi def plot labels plotlabels labels save dir savedir path loggers none def plot labels plotlabels labels names save dir savedir path loggers none plot dataset labels print plotting labels labels labels transpose classes boxes

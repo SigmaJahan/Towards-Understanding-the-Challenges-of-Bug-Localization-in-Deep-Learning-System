@@ -1,0 +1,2 @@
+      Update hubconf.py for unified loading (#3005) 
+         YOLOv5 pytorch model      """      set_logging(verbose=verbose)     fname = f'{name}.pt'  # checkpoint filename     fname = Path(name).with_suffix('.pt')  # checkpoint filename      try:          if pretrained and channels == 3 and classes == 80:              model = attempt_load(fname, map_location=torch.device('cpu'))  # download/load FP32 model 

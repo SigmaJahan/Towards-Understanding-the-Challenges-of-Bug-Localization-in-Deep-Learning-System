@@ -1,0 +1,2 @@
+update train experimental
+module self append module augment return torch cat none ensembled inference output train output torch stack max max ensemble torch cat nms ensemble torch stack mean mean ensemble return none inference train output def attempt load attemptload weights map location maplocation none

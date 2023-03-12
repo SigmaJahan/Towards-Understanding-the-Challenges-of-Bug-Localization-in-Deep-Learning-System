@@ -1,0 +1,2 @@
+refactor test arguments remove opt test pass kwargs update comments revert accidental default change multiple img options add comments
+plots true wandb logger wandblogger none compute loss computeloss none half true opt none half true half precision halfprecision inference project runs test name exp exist existok false task val device initialize load model set device training model none training called train

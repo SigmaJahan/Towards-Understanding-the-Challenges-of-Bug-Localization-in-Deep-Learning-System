@@ -1,0 +1,2 @@
+minor import spelling updates
+def make divisible makedivisible divisor returns evenly divisble divisor returns evenly divisible divisor return math ceil divisor divisor

@@ -1,0 +1,2 @@
+changed prints logging utils datasets authored coauthoredby glenn jocher
+self sources sources enumerate sources start thread read frames video stream print end logger debug cap video capture videocapture eval isnumeric else assert cap opened isopened failed open int cap get cappropframewidth

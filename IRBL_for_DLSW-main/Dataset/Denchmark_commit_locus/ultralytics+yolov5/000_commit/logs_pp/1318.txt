@@ -1,0 +1,2 @@
+device bug fix
+load model google utils googleutils attempt download attemptdownload weights model torch load weights map location maplocation device model float fuse load model torch load weights map location maplocation device model float fuse device load imgsz check img size checkimgsize imgsz model stride max check img size imgsize multi gpu multigpu disabled incompatible half https github com ultralytics yolov issues

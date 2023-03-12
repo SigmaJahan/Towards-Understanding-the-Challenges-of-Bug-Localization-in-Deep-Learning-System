@@ -1,0 +1,2 @@
+add logging diagnostics
+raise exception error loading data see path help url helpurl len self img files imgfiles print loaded images assert images found see path help url helpurl floor arange batch size batchsize astype int batch index number batches

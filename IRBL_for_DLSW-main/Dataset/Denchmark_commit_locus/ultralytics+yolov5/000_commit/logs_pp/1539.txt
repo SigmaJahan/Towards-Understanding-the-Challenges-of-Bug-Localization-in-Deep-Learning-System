@@ -1,0 +1,2 @@
+hybrid auto labelling autolabelling support
+opt single cls singlecls opt augment opt verbose save txt savetxt opt save txt savetxt save txt savetxt opt save txt savetxt opt save hybrid savehybrid save hybrid savehybrid opt save hybrid savehybrid save conf saveconf opt save conf saveconf

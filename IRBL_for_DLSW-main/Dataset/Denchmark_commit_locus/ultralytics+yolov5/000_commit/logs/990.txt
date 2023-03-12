@@ -1,0 +1,2 @@
+      plotting improvements (#471)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+   def plot_labels(labels, save_dir=''):      # plot dataset labels     c, b = labels[:, 0], labels[:, 1:].transpose()  # classees, boxes       def hist2d(x, y, n=100):          xedges, yedges = np.linspace(x.min(), x.max(), n), np.linspace(y.min(), y.max(), n)          hist, xedges, yedges = np.histogram2d(x, y, (xedges, yedges)) 

@@ -1,0 +1,2 @@
+auto shape autoshape forward asarray numpy slight speedup
+image open requests get stream true raw startswith http else open filename uri files append path filename suffix withsuffix jpg name isinstance image image else image jpg array numpy isinstance ndarray asarray numpy shape image chw transpose reverse dataloader transpose ndim else tile none enforce input

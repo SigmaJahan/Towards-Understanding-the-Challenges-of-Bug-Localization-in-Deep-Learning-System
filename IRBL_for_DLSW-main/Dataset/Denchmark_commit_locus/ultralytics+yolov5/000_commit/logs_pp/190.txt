@@ -1,0 +1,2 @@
+update fuse conv fuseconvandbn
+fusedconv weight copy torch wbn conv wconv view fusedconv weight size prepare spatial bias conv bias none conv bconv conv bias else conv bconv torch zeros conv weight size device conv weight device conv bconv torch zeros conv weight size device conv weight device conv bias none else conv bias bbn bias weight mul running mean runningmean div torch sqrt running var runningvar eps fusedconv bias copy torch wbn conv bconv reshape reshape bbn

@@ -1,0 +1,2 @@
+      PyTorch 1.6.0 compatability updates 
+                         ious, i = box_iou(pred[pi, :4], tbox[ti]).max(1)  # best ious, indices                            # Append detections                         for j in (ious > iouv[0]).nonzero():                         for j in (ious > iouv[0]).nonzero(as_tuple=False):                              d = ti[i[j]]  # detected target                              if d not in detected:                                  detected.append(d) 

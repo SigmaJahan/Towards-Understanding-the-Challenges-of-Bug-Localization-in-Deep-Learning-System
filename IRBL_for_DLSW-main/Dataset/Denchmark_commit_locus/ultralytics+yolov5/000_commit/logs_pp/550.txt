@@ -1,0 +1,2 @@
+torch pytorch hub amp autocast inference think help speed cuda inference currently models may running inference mode cuda devices unnecesarily
+import torch import torch pil import image torch cuda import amp utils datasets import letterbox utils general import non max suppression nonmaxsuppression make divisible makedivisible scale coords scalecoords xyxyxywh

@@ -1,0 +1,2 @@
+resume ema fix
+check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz exponential moving average ema torch utils torchutils model ema modelema model ema torch utils torchutils model ema modelema model updates start epoch startepoch accumulate start training time time len dataloader number batches max number warmup iterations max epochs iterations maps zeros map per class results map val giou val objectness val classification

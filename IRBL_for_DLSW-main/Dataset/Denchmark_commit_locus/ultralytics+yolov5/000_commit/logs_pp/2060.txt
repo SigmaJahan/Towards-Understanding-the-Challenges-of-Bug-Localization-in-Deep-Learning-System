@@ -1,0 +1,2 @@
+explicit opt function arguments explicit function arguments fix typo detect revert import order revert import order remove default value
+utils torch utils torchutils import select device selectdevice load classifier loadclassifier time synchronized timesynchronized def detect def detect opt source weights view img viewimg save txt savetxt imgsz opt source opt weights opt view img viewimg opt save txt savetxt opt img size imgsize save img saveimg opt nosave source endswith txt save inference images webcam source isnumeric source endswith txt source lower startswith

@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+rank map ema none ema update attr updateattr model include hyp names stride ema update attr updateattr model include yaml hyp names stride final epoch finalepoch epoch epochs opt notest final epoch finalepoch calculate map results maps times test test opt data

@@ -1,0 +1,2 @@
+remove fast add merge
+run nms torch utils torchutils time synchronized timesynchronized output non max suppression nonmaxsuppression inf infout conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres fast fast output non max suppression nonmaxsuppression inf infout conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres merge merge torch utils torchutils time synchronized timesynchronized statistics per image

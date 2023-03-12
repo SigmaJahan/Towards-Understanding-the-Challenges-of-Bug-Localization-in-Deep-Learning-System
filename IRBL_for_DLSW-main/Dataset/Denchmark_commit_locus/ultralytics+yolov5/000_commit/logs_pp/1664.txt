@@ -1,0 +1,2 @@
+best possible recall fix
+def check best possible recall checkbestpossiblerecall dataset anchors thr check best possible recall dataset current anchors torch tensor concatenate zip dataset shapes dataset labels width height widthheight ratio none anchors view none ratio torch tensor concatenate zip dataset shapes dataset labels float ratio none anchors view cpu none ratio torch max ratio ratio max max ratio bpr min thr float mean best possible recall thr float mean match ratio

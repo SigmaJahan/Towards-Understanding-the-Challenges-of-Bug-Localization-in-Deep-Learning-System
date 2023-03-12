@@ -1,0 +1,2 @@
+add save dir savedir arg plot scheduler plotlrscheduler default current dir uncomment plot scheduler plotlrscheduler train pass log dir logdir save location
+return mosaic def plot scheduler plotlrscheduler optimizer scheduler epochs def plot scheduler plotlrscheduler optimizer scheduler epochs save dir savedir plot simulating training full epochs optimizer scheduler copy optimizer copy scheduler modify originals

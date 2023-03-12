@@ -1,0 +1,2 @@
+new colors class
+else dataset load images loadimages source img size imgsize imgsz stride stride get names colors names model module names hasattr model module else model names colors random randint range names run inference device type cpu model torch zeros imgsz imgsz device type typeas next model parameters run

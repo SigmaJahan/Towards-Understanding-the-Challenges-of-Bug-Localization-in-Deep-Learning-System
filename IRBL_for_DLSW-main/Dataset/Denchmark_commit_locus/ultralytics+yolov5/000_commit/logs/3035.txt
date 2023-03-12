@@ -1,0 +1,2 @@
+      Parse URL authentication (#3424)          * Parse URL authentication          * urllib.parse.unquote()          * improved error handling          * improved error handling          * remove %3F          * update check_file() 
+ import re  import subprocess  import time import urllib  from itertools import repeat  from multiprocessing.pool import ThreadPool  from pathlib import Path 

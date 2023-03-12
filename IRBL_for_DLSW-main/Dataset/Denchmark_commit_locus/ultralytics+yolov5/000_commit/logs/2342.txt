@@ -1,0 +1,2 @@
+      add NMS to pretrained pytorch hub models 
+   import torch   from models.common import NMS  from models.yolo import Model  from utils.google_utils import attempt_download   

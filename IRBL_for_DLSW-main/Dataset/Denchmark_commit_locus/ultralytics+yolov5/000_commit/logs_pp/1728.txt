@@ -1,0 +1,2 @@
+add replicate datasets
+clip labels labels use center crop clip labels labels use random affine randomaffine replicate img labels replicate img labels augment img imgs int int center crop warning requires box pruning img labels random affine randomaffine img labels

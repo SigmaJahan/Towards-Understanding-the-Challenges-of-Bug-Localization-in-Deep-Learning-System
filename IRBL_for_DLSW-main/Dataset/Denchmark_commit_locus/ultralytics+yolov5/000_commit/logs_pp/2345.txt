@@ -1,0 +1,2 @@
+add nms pretrained pytorch hub models
+return torch cat self class nms module non maximum nonmaximum suppression nms module conf confidence threshold iou iou threshold classes none optional list filter class def init self dimension super nms self init def forward self return non max suppression nonmaxsuppression conf thres confthres self conf iou thres iouthres self iou classes self classes class flatten module use adaptive avg poold adaptiveavgpoold remove last dimensions staticmethod

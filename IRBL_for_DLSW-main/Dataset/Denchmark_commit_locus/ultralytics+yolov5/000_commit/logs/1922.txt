@@ -1,0 +1,2 @@
+      expired pytorch hub cache bug fix #365 
+         return model      except Exception as e:          help_url = 'https://github.com/ultralytics/yolov5/issues/36'         print('%s\nCache is out of date. Delete cache and retry. See %s for help.' % (e, help_url))         print('%s\nCache maybe be out of date. Delete cache and retry. See %s for help.' % (e, help_url))      def yolov5s(pretrained=False, channels=3, classes=80): 

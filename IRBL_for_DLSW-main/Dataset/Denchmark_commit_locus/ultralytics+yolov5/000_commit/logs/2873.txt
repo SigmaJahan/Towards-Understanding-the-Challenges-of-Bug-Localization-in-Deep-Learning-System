@@ -1,0 +1,2 @@
+      Update matplotlib.use('Agg') tight (#1583)          * Update matplotlib tight_layout=True          * udpate          * udpate          * update          * png to ps          * update          * update 
+         except Exception as e:              print('Warning: Plotting error for %s; %s' % (f, e))       fig.tight_layout()      ax[1].legend()      fig.savefig(Path(save_dir) / 'results.png', dpi=200) 

@@ -1,0 +1,2 @@
+auto shape autoshape speed profiling update
+class auto shape autoshape module input robust inputrobust model wrapper passing pil torch inputs includes preprocessing inference nms img size imgsize inference size pixels conf nms confidence threshold iou nms iou threshold classes none optional list filter class

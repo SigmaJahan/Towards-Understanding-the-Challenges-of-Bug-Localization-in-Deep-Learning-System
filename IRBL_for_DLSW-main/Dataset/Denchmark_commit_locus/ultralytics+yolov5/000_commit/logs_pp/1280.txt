@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+filter filter pixels random rand shape multiply random scale kmeans calculation print running kmeans anchors points len print prefix running kmeans anchors len points std sigmas whitening dist kmeans iter points mean distance

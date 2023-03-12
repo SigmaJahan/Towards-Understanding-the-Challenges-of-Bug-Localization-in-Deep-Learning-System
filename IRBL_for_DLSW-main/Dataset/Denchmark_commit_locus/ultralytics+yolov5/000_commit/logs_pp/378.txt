@@ -1,0 +1,2 @@
+auto anchor autoanchor bpr significant figures
+return best thr float mean 혻best possible recall bpr metric anchors clone cpu view print best possible recall bpr bpr end print best possible recall bpr bpr end bpr threshold recompute print attempting generate improved anchors please wait bpr new anchors newanchors kmean anchors kmeananchors dataset img size imgsize thr gen verbose false

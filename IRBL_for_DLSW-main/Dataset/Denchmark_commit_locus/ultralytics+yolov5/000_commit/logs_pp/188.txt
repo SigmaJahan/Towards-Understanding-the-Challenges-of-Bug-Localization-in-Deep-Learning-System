@@ -1,0 +1,2 @@
+update fuse conv fuseconvandbn
+import torch utils prune prune print pruning model end name model named modules namedmodules isinstance torch convd isinstance convd prune unstructured lunstructured name weight amount amount prune prune remove weight make permanent print global sparsity sparsity model

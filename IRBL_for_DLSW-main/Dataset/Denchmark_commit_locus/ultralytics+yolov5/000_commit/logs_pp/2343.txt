@@ -1,0 +1,2 @@
+add nms pretrained pytorch hub models
+state dict statedict torch load ckpt map location maplocation torch device cpu model float state dict statedict state dict statedict state dict statedict items model state dict statedict shape shape filter model load state dict loadstatedict state dict statedict strict false load nms model model index model model add module addmodule name module add nms model eval return model except exception

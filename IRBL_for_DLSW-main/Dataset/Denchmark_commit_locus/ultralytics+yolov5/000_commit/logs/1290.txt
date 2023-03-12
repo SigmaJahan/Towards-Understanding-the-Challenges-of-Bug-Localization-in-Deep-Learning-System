@@ -1,0 +1,2 @@
+      Update train.py 
+     def train(hyp):     #write all results to the tb log_dir, so all data from one run is together     log_dir = tb_writer.log_dir      #weights dir unique to each experiment     wdir = os.path.join(log_dir, 'weights') + os.sep  # weights dir     log_dir = tb_writer.log_dir  # run directory     wdir = str(Path(log_dir) / 'weights') + os.sep  # weights directory        os.makedirs(wdir, exist_ok=True)      last = wdir + 'last.pt' 

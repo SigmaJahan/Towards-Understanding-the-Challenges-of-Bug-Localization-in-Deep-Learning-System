@@ -1,0 +1,2 @@
+hybrid auto labelling autolabelling support
+else called directly set logging setlogging device select device selectdevice opt device batch size batchsize batch size batchsize save txt savetxt opt save txt savetxt save txt labels directories save dir savedir path increment path incrementpath path opt project opt name exist existok opt exist existok increment run

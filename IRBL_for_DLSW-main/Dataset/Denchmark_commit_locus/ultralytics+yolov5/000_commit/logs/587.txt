@@ -1,0 +1,2 @@
+      add update default hyp dict with provided yaml 
+ # Don't need to be printing every time  #print(hyp)   # Overwrite hyp with hyp*.txt (optional) if f:     print('Using %s' % f[0])     for k, v in zip(hyp.keys(), np.loadtxt(f[0])):         hyp[k] = v  # Print focal loss if gamma > 0 if hyp['fl_gamma']:     print('Using FocalLoss(gamma=%g)' % hyp['fl_gamma'])    def train(hyp):      #write all results to the tb log_dir, so all data from one run is together      log_dir = tb_writer.log_dir 

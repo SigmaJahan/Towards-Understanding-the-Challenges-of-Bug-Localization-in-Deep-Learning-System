@@ -1,0 +1,2 @@
+update export hardswish support
+return torch sigmoid class hardswish module alternative hardswish export class hardswish module export friendly exportfriendly version hardswish staticmethod def forward return hardsigmoid return hardtanh return hardsigmoid torchscript core coreml return hardtanh torchscript core coreml onnx class memory efficient swish memoryefficientswish module

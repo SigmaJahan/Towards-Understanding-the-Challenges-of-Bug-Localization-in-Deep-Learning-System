@@ -1,0 +1,2 @@
+      add file sizes to ckpt ops 
+     x['optimizer'] = None      x['model'].half()  # to FP16      torch.save(x, f)     print('Optimizer stripped from %s' % f)     print('Optimizer stripped from %s, %.1fMB' % (f, os.path.getsize(f) / 1E6))      def create_pretrained(f='weights/best.pt', s='weights/pretrained.pt'):  # from utils.utils import *; create_pretrained() 

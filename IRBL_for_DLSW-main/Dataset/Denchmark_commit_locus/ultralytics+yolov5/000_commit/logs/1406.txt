@@ -1,0 +1,2 @@
+      update train.py gsutil bucket fix (#463) 
+         scheduler.step()            # Only the first process in DDP mode is allowed to log or save checkpoints.         if local_rank in [-1, 0]:         if rank in [-1, 0]:              # mAP              if ema is not None:                  ema.update_attr(model, include=['md', 'nc', 'hyp', 'gr', 'names', 'stride']) 

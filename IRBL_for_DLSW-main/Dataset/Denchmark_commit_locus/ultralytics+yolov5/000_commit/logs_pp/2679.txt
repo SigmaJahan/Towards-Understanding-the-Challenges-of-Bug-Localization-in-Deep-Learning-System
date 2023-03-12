@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+return print results printresults def print mutation printmutation hyp results bucket def print mutation printmutation hyp results yaml file yamlfile hyp evolved hypevolved yaml bucket print mutation results evolve txt use train evolve len hyp tuple hyp keys hyperparam keys len hyp tuple hyp values hyperparam values len results results results map test loss testloss len results results results map map val losses vallosses print nsnsn evolved nsnsnevolved fitness bucket

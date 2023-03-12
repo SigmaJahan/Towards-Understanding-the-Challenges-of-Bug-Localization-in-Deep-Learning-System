@@ -1,0 +1,2 @@
+scope hubconf imports torch hub list scope hubconf imports torch hub list update hubconf
+model torch hub load ultralytics yolov yolovs pathlib import path import torch utils general import check requirements checkrequirements set logging setlogging dependencies torch yaml check requirements checkrequirements path file parent requirements txt exclude tensorboard pycocotools thop def create name pretrained true channels classes autoshape true verbose true creates specified yol yolov model

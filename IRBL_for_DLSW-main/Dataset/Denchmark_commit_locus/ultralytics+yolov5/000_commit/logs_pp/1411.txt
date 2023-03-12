@@ -1,0 +1,2 @@
+daemon thread mosaic plots fix
+writer tbwriter writer tbwriter add image addimage result dataformats hwc global step globalstep epoch writer tbwriter add graph addgraph model imgs add model tensorboard elif plots wandb wandb log mosaics wandb image str caption name save dir savedir glob train jpg elif plots wandb wandb log mosaics wandb image str caption name save dir savedir glob train jpg exists end batch end epoch

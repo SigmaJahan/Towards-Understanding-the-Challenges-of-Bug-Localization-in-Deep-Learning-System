@@ -1,0 +1,2 @@
+fix logging add logging setup fix fusing layers message fix logging end add logging change logging use logger update yolo tried cloned branch everything seems work fine update yolo authored coauthoredby glenn jocher
+device next model parameters device get model device else called directly set logging setlogging device select device selectdevice opt device batch size batchsize batch size batchsize merge save txt savetxt opt merge opt save txt savetxt use merge nms save txt labels save txt savetxt

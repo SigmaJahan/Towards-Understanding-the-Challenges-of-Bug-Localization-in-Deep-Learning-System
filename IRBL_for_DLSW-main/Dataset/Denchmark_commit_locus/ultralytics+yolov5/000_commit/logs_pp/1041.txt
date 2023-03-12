@@ -1,0 +1,2 @@
+streaming save txt savetxt bug fix streaming save txt savetxt bug fix cleanup
+self files images videos self number files self video flag videoflag false true self mode images self mode image videos self new video newvideo videos new video else

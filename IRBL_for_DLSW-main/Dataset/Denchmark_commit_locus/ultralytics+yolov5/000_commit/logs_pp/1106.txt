@@ -1,0 +1,2 @@
+update test profiling update test profiling half precision halfprecision half inplace
+plots true wandb logger wandblogger none compute loss computeloss none half precision halfprecision true half true opt none initialize load model set device training model none

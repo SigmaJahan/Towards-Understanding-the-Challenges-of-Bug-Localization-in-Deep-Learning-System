@@ -1,0 +1,2 @@
+add multi node multinode support ddp training add support multi node multinode ddp remove local rank localrank confusion fix spacing
+ddp mode cuda rank model ddp model device ids deviceids rank output device outputdevice rank model ddp model device ids deviceids opt local rank localrank output device outputdevice opt local rank localrank trainloader dataloader dataset create dataloader createdataloader train path trainpath imgsz batch size batchsize opt hyp hyp augment true

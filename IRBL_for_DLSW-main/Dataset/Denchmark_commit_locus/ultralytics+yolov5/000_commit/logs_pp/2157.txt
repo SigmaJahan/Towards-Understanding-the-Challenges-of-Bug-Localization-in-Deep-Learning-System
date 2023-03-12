@@ -1,0 +1,2 @@
+auto anchor autoanchor bug fix
+get label shapes img size imgsize dataset shapes dataset shapes max keepdims true torch tensor concatenate zip shapes dataset labels float numpy filter pixels concatenate zip shapes dataset labels filter pixels kmeans calculation scipy cluster import kmeans

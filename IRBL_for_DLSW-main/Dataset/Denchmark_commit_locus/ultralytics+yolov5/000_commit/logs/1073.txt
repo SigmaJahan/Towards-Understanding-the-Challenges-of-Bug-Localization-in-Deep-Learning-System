@@ -1,0 +1,2 @@
+      Add autoShape() speed profiling (#2459)          * Add autoShape() speed profiling          * Update common.py          * Create README.md          * Update hubconf.py          * cleanuip 
+       def print(self):          self.display(pprint=True)  # print results         print(f'Speed: %.1f/%.1f/%.1f ms pre-process/inference/NMS per image at shape {tuple(self.s)}' % tuple(self.t))        def show(self):          self.display(show=True)  # show results 

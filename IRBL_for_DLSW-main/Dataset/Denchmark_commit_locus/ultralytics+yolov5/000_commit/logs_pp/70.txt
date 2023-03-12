@@ -1,0 +1,2 @@
+update hyperparameters add lrf anchors
+cuda device type cpu init seeds initseeds rank open opt data data dict datadict yaml load loader yaml full loader fullloader model dict data dict datadict yaml load loader yaml full loader fullloader data dict torch distributed zero first torchdistributedzerofirst rank check dataset checkdataset data dict datadict check train path trainpath data dict datadict train

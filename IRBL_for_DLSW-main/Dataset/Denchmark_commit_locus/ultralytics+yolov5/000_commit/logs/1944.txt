@@ -1,0 +1,2 @@
+      PyTorch Hub updates 
+     class Sum(nn.Module):     # weighted sum of 2 or more layers https://arxiv.org/abs/1911.09070     # Weighted sum of 2 or more layers https://arxiv.org/abs/1911.09070      def __init__(self, n, weight=False):  # n: number of inputs          super(Sum, self).__init__()          self.weight = weight  # apply weights boolean 

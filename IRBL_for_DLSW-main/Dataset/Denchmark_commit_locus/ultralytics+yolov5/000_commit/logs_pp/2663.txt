@@ -1,0 +1,2 @@
+update minimum stride
+device type cpu model torch zeros imgsz imgsz device type typeas next model parameters run path data test opt task test else data val path val test images dataloader create dataloader createdataloader path imgsz batch size batchsize model stride max opt pad rect true dataloader create dataloader createdataloader path imgsz batch size batchsize opt pad rect true prefix colorstr test opt task test else val seen

@@ -1,0 +1,2 @@
+coco annotations json fix
+save json save json savejson len jdict path weights isinstance weights list else weights stem weights none else weights anno json annojson coco annotations instances val instancesval json annotations json anno json annojson str path data get path coco annotations instances val instancesval json annotations json pred json predjson str save dir savedir predictions json predictions json print evaluating nevaluating pycocotools map saving pred json predjson open pred json predjson

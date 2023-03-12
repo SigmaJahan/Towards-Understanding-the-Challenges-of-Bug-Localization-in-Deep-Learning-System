@@ -1,0 +1,2 @@
+      utils.general comment updates/bug fixes 
+     plt.savefig('hist1d.png', dpi=200)     def plot_targets_txt():  # from utils.utils import *; plot_targets_txt() def plot_targets_txt():  # from utils.general import *; plot_targets_txt()      # Plot targets.txt histograms      x = np.loadtxt('targets.txt', dtype=np.float32).T      s = ['x targets', 'y targets', 'width targets', 'height targets'] 

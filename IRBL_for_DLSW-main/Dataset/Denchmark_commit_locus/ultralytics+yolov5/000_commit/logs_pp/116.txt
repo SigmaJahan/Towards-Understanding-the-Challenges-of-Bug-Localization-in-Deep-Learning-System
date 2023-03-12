@@ -1,0 +1,2 @@
+update torch utils torchutils flops gflops
+device requires grad requiresgrad true print torch version device type torch cuda get device properties getdeviceproperties device type cuda else print params flops forward backward input output print params gflops forward backward input output ops isinstance ops list else ops device hasattr else dtf dtb forward backward

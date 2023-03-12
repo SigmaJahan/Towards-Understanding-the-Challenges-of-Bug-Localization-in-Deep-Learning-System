@@ -1,0 +1,2 @@
+add logic resuming getting hyp resume run
+len isnumeric else fresults flast fbest resultss txt wdir lasts wdir bests zip wdir last wdir best results txt flast fbest fresults zip wdir last wdir best wdir results txt flast fbest fresults path exists rename rename ispt endswith

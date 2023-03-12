@@ -1,0 +1,2 @@
+unified hub detect box labels plotting
+pred sum detections per class str self namesint add string show save render img image fromarray img astype uint isinstance img ndarray else img box conf cls pred xyxy confidence class str namesint cls conf label image draw imagedraw draw img rectangle box width outline colorsint cls plot label self namesint cls conf plot one box plotonebox box img label label color colorsint cls img image fromarray img astype uint isinstance img ndarray else img pprint print str rstrip show

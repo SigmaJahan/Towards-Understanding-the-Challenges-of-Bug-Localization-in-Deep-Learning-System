@@ -1,0 +1,2 @@
+ghost conv ghostconv update
+pass max round else depth gain conv bottleneck spp conv dwconv mix convd mixconvd focus cross conv crossconv bottleneck csp bottleneckcsp conv ghost conv ghostconv bottleneck ghost bottleneck ghostbottleneck spp conv dwconv mix convd mixconvd focus cross conv crossconv bottleneck csp bottleneckcsp chf args normal

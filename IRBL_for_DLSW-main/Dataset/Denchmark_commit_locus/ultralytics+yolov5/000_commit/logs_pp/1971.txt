@@ -1,0 +1,2 @@
+refactor test arguments remove opt test pass kwargs update comments revert accidental default change multiple img options add comments
+load model model attempt load attemptload weights map location maplocation device load model stride int model stride max model stride imgsz check img size checkimgsize imgsz stride check img size imgsize imgsz check img size checkimgsize imgsz stride check image size names model module names hasattr model module else model names get class names half model half

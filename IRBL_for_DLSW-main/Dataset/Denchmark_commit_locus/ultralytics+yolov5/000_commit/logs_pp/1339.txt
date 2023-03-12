@@ -1,0 +1,2 @@
+improve git describe gitdescribe catch fatal git repository returns return instead observed gcp hub checks
+return human readable humanreadable git description gefe https git scm gitscm com docs git describe gitdescribe git path describe tags long always try return subprocess check output checkoutput shell true decode subprocess check output checkoutput shell true decode return startswith fatal git repository else except subprocess called process error calledprocesserror return

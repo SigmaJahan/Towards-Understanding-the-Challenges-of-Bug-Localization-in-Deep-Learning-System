@@ -1,0 +1,2 @@
+      Simplified inference (#1153) 
+ from threading import Thread    import cv2 import math  import numpy as np  import torch  from PIL import Image, ExifTags 

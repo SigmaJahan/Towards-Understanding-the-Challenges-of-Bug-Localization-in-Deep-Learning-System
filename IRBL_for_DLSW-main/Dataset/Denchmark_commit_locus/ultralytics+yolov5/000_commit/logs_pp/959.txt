@@ -1,0 +1,2 @@
+minor import spelling updates
+dist kmeans iter points mean distance torch tensor dtype torch float filtered torch tensor dtype torch float unflitered torch tensor dtype torch float unfiltered print results printresults plot

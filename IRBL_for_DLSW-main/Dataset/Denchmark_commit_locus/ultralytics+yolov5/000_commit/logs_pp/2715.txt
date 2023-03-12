@@ -1,0 +1,2 @@
+initial model ensemble capability
+niou iouv numel dataloader dataloader none training training img torch zeros imgsz imgsz device device init img model img half half else img device type cpu else none run path data test opt task test else data val path val test images dataloader create dataloader createdataloader path imgsz batch size batchsize int max model stride opt dataloader create dataloader createdataloader path imgsz batch size batchsize model stride max opt hyp none augment false cache false pad rect true seen

@@ -1,0 +1,2 @@
+tensor board tensorboard ddp graph fix
+def parallel isparallel model returns true model type ddp return type model parallel data parallel dataparallel parallel distributed data parallel distributeddataparallel def parallel deparallel model parallelize deparallelize model returns single gpu singlegpu model model type ddp return model module parallel isparallel model else model def intersect dicts intersectdicts exclude dictionary intersection matching keys shapes omitting exclude keys using values return items exclude shape dbk shape

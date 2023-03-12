@@ -1,0 +1,2 @@
+suppress wandb images size mismatch warning supress wandb images size mismatch warning supress wandb images size mismatch warning pep reformat optimize imports authored coauthoredby glenn jocher
+logger used see weights biases documentation https docs wandb com guides integrations yolov def init self opt name run runid data dict datadict job type jobtype training pre training pretraining routine self job type jobtype job type jobtype

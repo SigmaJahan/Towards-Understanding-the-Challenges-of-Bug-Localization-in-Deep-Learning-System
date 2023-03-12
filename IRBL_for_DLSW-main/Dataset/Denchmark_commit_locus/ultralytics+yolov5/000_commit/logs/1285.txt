@@ -1,0 +1,2 @@
+      Add colorstr() (#1887)          * Add colorful()          * update          * newline fix          * add git description          * --always          * update loss scaling          * update loss scaling 2          * rename to colorstr() 
+       # Losses      nt = 0  # number of targets     no = len(p)  # number of outputs      balance = [4.0, 1.0, 0.3, 0.1, 0.03]  # P3-P7      for i, pi in enumerate(p):  # layer index, layer predictions          b, a, gj, gi = indices[i]  # image, anchor, gridy, gridx 

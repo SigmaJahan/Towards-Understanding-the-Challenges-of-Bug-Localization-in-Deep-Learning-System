@@ -1,0 +1,2 @@
+updates
+settings merge true merge best map min minwh max maxwh pixels minimum maximum box width height max det maxdet maximum number detections per image time limit timelimit seconds quit time time

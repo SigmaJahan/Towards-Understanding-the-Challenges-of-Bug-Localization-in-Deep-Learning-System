@@ -1,0 +1,2 @@
+update export train mode argument
+update model opt half img model img half model half opt train model train training mode grid construction detect layer model named modules namedmodules non persistent buffers set nonpersistentbuffersset set pytorch compatibility isinstance models common conv assign export friendly exportfriendly activations

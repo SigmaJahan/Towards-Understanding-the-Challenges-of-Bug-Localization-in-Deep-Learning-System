@@ -1,0 +1,2 @@
+      AutoAnchor BPR to 4 significant figures 
+         return (best > 1. / thr).float().mean()  # 혻best possible recall        bpr = metric(anchors.clone().cpu().view(-1, 2))     print('Best Possible Recall (BPR) = %.3f' % bpr, end='')     print('Best Possible Recall (BPR) = %.4f' % bpr, end='')      if bpr < 0.99:  # threshold to recompute          print('. Attempting to generate improved anchors, please wait...' % bpr)          new_anchors = kmean_anchors(dataset, n=9, img_size=640, thr=4.0, gen=1000, verbose=False) 

@@ -1,0 +1,2 @@
+      utils.general comment updates/bug fixes 
+         print(i, len(files))     def coco_only_people(path='../coco/labels/train2017/'):  # from utils.utils import *; coco_only_people() def coco_only_people(path='../coco/labels/train2017/'):  # from utils.general import *; coco_only_people()      # Find images with only people      files = sorted(glob.glob('%s/*.*' % path))      for i, file in enumerate(files): 

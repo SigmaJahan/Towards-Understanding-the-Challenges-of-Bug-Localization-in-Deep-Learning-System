@@ -1,0 +1,2 @@
+labels jpg class names labels png class names fontsize
+matplotlib use svg faster plt subplots figsize tight layout tightlayout true ravel hist bins linspace rwidth set xlabel setxlabel classes set ylabel setylabel instances len names set xticks setxticks range len names set xticklabels setxticklabels names rotation fontsize else set xlabel setxlabel classes sns histplot bins pmax sns histplot width height bins pmax

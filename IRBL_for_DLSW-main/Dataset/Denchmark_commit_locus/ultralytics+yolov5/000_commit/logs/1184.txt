@@ -1,0 +1,2 @@
+      Update export.py for 2 dry runs (#2910)          * Update export.py for 2 dry runs          * Update export.py 
+         # elif isinstance(m, models.yolo.Detect):          #     m.forward = m.forward_export  # assign forward (optional)      model.model[-1].export = not opt.grid  # set Detect() layer grid export     y = model(img)  # dry run     for _ in range(2):         y = model(img)  # dry runs        # TorchScript export -----------------------------------------------------------------------------------------------      prefix = colorstr('TorchScript:') 

@@ -1,0 +1,14 @@
+denchmark_path=D:\\ICSME-2023\\Dataset\\Denchmark\\
+git_path=D:\\ICSME-2023\\Dataset\\Denchmark_git\\
+tag_path=D:\\ICSME-2023\\Dataset\\Denchmark_tags\\
+bug_path=D:\\ICSME-2023\\Dataset\\Denchmark_bugs\\
+searchspace_path=D:\\ICSME-2023\\Dataset\\Denchmark_searchspace\\
+query_path=D:\\ICSME-2023\\Dataset\\Denchmark_query\\
+file_path=D:\\ICSME-2023\\Dataset\\Denchmark_file\\
+function_path=D:\\ICSME-2023\\Dataset\\Denchmark_function\\
+gtf_path=D:\\ICSME-2023\\Dataset\\Denchmark_gtf\\
+commit_path=D:\\ICSME-2023\\Dataset\\Denchmark_history\\
+blz_ce_path=D:\\ICSME-2023\\Dataset\\Denchmark_query_ce_blizzard\\
+hunk_path=D:\\ICSME-2023\\Dataset\\Denchmark_commit_locus\\
+locus_commit_path=D:\\ICSME-2023\\Dataset\\Denchmark_commit_locus\\
+irbl_path=D:\\ICSME-2023\\Result\\Denchmark_irbl\\

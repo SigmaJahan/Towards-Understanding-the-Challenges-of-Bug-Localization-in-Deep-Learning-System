@@ -1,0 +1,2 @@
+      v3.0 Release (#725)          * initial commit          * remove yolov3-spp from test.py study          * update study --img range          * update mAP          * cleanup and speed updates          * update README plot 
+   logger = logging.getLogger(__name__)     def train(hyp, opt, device, tb_writer=None):      logger.info(f'Hyperparameters {hyp}')      log_dir = Path(tb_writer.log_dir) if tb_writer else Path(opt.logdir) / 'evolve'  # logging directory 

@@ -1,0 +1,2 @@
+      switch default inference to FP16 on GPU 
+              opt.iou_thres,               opt.save_json,               opt.single_cls,              opt.augment,              opt.half)              opt.augment)        elif opt.task == 'study':  # run over a range of settings and save/plot          for weights in ['yolov5s.pt', 'yolov5m.pt', 'yolov5l.pt', 'yolov5x.pt']: 

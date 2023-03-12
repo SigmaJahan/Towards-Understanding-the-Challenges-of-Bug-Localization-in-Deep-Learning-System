@@ -1,0 +1,2 @@
+train multi gpu multigpu half test bug fix
+else called train training true device next model parameters device get model device half device type cpu half precision supported cuda half device type cpu torch cuda device count devicecount half precision supported single gpu singlegpu half model half

@@ -1,0 +1,2 @@
+add xywhnxyxy
+padh labels self labelsindex labels copy size normalized xywh pixel xyxy format labels padw labels padh labels padw labels padh labels self labelsindex copy labels size labels xywhnxyxy labels padw padh normalized xywh pixel xyxy format labels append labels concat clip labels

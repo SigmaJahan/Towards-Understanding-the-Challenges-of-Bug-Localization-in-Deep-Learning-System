@@ -1,0 +1,2 @@
+update minimum stride
+load model model attempt load attemptload weights map location maplocation device load model imgsz check img size checkimgsize imgsz model stride max check img size imgsize max int model stride max grid size max stride imgsz check img size checkimgsize imgsz check img size imgsize multi gpu multigpu disabled incompatible half https github com ultralytics yolov issues device type cpu torch cuda device count devicecount

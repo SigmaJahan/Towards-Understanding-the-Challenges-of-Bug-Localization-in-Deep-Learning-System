@@ -1,0 +1,2 @@
+update train
+logger logging get logger getlogger name def train hyp opt device writer tbwriter none def train hyp opt device writer tbwriter none logger info colorstr hyperparameters join hyp items save dir savedir epochs batch size batchsize total batch size totalbatchsize weights rank single cls singlecls path opt save dir savedir opt epochs opt batch size batchsize opt total batch size totalbatchsize opt weights opt global rank globalrank

@@ -1,0 +1,2 @@
+onnx simplifier onnx simplifier add onnx simplifier onnx export pipeline export auto install autoinstall onnx simplifier onnxsimplifier onnx installed onnx simplifier onnxsimplifier update general
+exports yol yolov model onnx torch script torchscript formats usage export pythonpath pwd python models export weights weights yolovs img batch export pythonpath pwd python models export weights yolovs img batch import argparse

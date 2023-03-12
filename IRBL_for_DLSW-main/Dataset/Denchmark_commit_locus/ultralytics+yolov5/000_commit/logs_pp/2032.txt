@@ -1,0 +1,2 @@
+use check file checkfile data
+def check upload dataset checkanduploaddataset self opt assert wandb install wandb upload dataset check dataset checkdataset self data dict datadict config path configpath self log dataset artifact logdatasetartifact opt data config path configpath self log dataset artifact logdatasetartifact check file checkfile opt data opt single cls singlecls yol yolov opt project runs train else path opt project stem print created dataset config file config path configpath

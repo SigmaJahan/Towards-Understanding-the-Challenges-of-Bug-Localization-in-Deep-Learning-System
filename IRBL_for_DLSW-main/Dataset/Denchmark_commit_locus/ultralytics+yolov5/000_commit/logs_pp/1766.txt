@@ -1,0 +1,2 @@
+add save dir savedir arg test test use arg location saving batch jpgs
+half device type cpu half precision supported cuda remove previous glob glob test batch testbatch jpg glob glob save dir savedir test batch testbatch jpg remove load model

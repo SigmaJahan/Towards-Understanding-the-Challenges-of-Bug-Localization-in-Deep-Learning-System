@@ -1,0 +1,2 @@
+eliminate total batch size totalbatchsize variable eliminate total batch size totalbatchsize variable cleanup update train
+assert path isfile ckpt error resume checkpoint exist open path ckpt parent parent opt yaml opt argparse namespace yaml safe load safeload replace opt cfg opt weights opt resume opt batch size batchsize ckpt true opt total batch size totalbatchsize reinstate opt cfg opt weights opt resume ckpt true reinstate logger info resuming training ckpt else opt hyp opt hyp hyp finetune yaml opt weights else hyp scratch yaml

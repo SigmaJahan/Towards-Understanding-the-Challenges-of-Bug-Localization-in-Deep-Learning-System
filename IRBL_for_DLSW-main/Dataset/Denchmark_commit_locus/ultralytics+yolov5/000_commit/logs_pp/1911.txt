@@ -1,0 +1,2 @@
+add logic resuming getting hyp resume run
+makedirs wdir exist existok true last wdir last best wdir best results file resultsfile results txt results file resultsfile wdir results txt epochs opt epochs batch size batchsize opt batch size batchsize

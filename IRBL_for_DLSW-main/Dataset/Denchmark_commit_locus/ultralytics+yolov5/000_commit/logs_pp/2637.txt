@@ -1,0 +1,2 @@
+ema bug fix
+batch size batchsize batch size batchsize imgsz imgsz test imgsztest save json savejson final epoch finalepoch opt data endswith sep coco yaml model ema ema module hasattr model module else ema ema model ema ema single cls singlecls opt single cls singlecls dataloader testloader

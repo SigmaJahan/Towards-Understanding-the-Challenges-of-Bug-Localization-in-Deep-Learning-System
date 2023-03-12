@@ -1,0 +1,2 @@
+ignore seaborn plot warnings ignore seaborn plot warnings update plots update metrics
+data frame dataframe transpose columns width height seaborn correlogram sns pairplot corner true diag kind diagkind auto kind hist diag kws diagkws dict bins plot kws plotkws dict pmax pairplot corner true diag kind diagkind auto kind hist diag kws diagkws dict bins plot kws plotkws dict pmax plt savefig save dir savedir labels correlogram labelscorrelogram jpg dpi plt close

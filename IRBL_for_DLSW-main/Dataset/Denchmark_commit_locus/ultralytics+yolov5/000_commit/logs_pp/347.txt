@@ -1,0 +1,2 @@
+update fast mode
+time limit timelimit seconds quit redundant true require redundant detections fast conf thres confthres fast mode multi label multilabel multiple labels per box adds img fast merge false multi label multilabel multiple labels per box adds img else merge true merge best map adds img multi label multilabel multiple labels per box adds img time time output none prediction shape

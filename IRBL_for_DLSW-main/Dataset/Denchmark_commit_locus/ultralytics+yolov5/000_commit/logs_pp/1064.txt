@@ -1,0 +1,2 @@
+add check git status checkgitstatus second timeout add check git status checkgitstatus second timeout prevent ssh git bug discussing kalen mike kalenmike cleanup replace timeout check output checkoutput built builtin timeout
+print prefix found required yol yolov attempting auto update autoupdate try print subprocess check output checkoutput pip install shell true decode print check output checkoutput pip install shell true decode except exception print prefix

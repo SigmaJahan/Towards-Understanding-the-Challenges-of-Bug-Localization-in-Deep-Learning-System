@@ -1,0 +1,2 @@
+update module
+super conv self init self conv convd autopad groups bias false self batch normd batchnormd self act hardswish act else identity self act hardswish act true else act isinstance act module else identity def forward self return self act self self conv

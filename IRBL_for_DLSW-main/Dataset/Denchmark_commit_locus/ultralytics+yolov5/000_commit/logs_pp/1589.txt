@@ -1,0 +1,2 @@
+update loss criteria constructor
+opt image weights imageweights generate indices rank model class weights classweights cpu numpy maps class weights model class weights classweights cpu numpy maps class weights labels image weights labelstoimageweights dataset labels class weights classweights image weights dataset indices random choices range dataset weights dataset rand weighted idx broadcast ddp

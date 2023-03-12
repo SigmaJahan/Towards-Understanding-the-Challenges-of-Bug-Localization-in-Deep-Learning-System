@@ -1,0 +1,2 @@
+improved model ema modelema checkpointing enhanced model ema modelema checkpointing update bug fix bug fix always save optimizer ema half remove model float model half carry ema model model float float always cleanup cleanup
+training len list save dir savedir glob labels txt labels saved save dir savedir labels save txt savetxt else print results saved save dir savedir model float training maps zeros map enumerate class apclass mapsc api

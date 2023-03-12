@@ -1,0 +1,2 @@
+torch pytorch update native amp torch pytorch automatic mixed precision amp training fixed problem inconsistent code length indentation fixed problem inconsistent code length indentation mixed precision training turned default
+yaml dump vars opt sort keys sortkeys false configure cuda device type cpu init seeds initseeds rank open opt data data dict datadict yaml load loader yaml full loader fullloader model dict

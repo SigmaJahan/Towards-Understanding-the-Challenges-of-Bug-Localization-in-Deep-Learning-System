@@ -1,0 +1,2 @@
+resume runs exp directory initial commit add weight backup dir resume
+opt data opt cfg opt hyp check file checkfile opt data check file checkfile opt cfg check file checkfile opt hyp check files assert len opt cfg len opt weights either cfg weights must specified opt img size imgsize extend opt img size imgsize len opt img size imgsize extend sizes train test log dir logdir increment dir incrementdir path opt logdir exp opt name runs exp device select device selectdevice opt device batch size batchsize opt batch size batchsize

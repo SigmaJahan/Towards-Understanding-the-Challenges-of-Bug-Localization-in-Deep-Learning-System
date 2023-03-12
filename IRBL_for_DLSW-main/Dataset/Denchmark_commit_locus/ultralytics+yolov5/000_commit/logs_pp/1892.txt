@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+print webcam self count end padded resize img letterbox img new shape newshape self img size imgsize img letterbox img self img size imgsize stride self stride convert img img transpose bgr rgb

@@ -1,0 +1,2 @@
+update datasets
+path npy dir self img files imgfiles replace sep path splitext lower img formats imgformats except maybe avoid handling bare exceptions raise exception error loading data see path help url helpurl len self img files imgfiles

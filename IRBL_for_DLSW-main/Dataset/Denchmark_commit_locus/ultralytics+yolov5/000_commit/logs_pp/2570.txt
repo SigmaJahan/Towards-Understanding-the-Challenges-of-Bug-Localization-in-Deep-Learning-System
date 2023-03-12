@@ -1,0 +1,2 @@
+add xywhnxyxy
+max allocate coords labels self labelsindex labels copy size normalized xywh pixel xyxy format labels padx labels pady labels padx labels pady labels self labelsindex copy labels size labels xywhnxyxy labels padx pady normalized xywh pixel xyxy format labels append labels image

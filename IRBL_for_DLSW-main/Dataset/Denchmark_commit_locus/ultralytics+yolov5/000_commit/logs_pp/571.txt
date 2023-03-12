@@ -1,0 +1,2 @@
+add support list directory listofdirectory data format wandb
+return data dict datadict def download dataset artifact downloaddatasetartifact self path alias path path startswith wandbartifactprefix isinstance path str path startswith wandbartifactprefix dataset artifact datasetartifact wandb use artifact useartifact remove prefix removeprefix path wandbartifactprefix alias assert dataset artifact datasetartifact none error dataset artifact exist datadir dataset artifact datasetartifact download

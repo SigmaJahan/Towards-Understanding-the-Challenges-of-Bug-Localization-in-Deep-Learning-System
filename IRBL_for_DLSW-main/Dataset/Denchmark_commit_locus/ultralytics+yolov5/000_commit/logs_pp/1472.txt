@@ -1,0 +1,2 @@
+check core coreml models train mode check core coreml models train mode update export
+import coremltools print prefix starting export coremltools version assert opt train core coreml exports placed model train mode python export train model convert inputs image type imagetype image shape img shape scale bias opt weights replace mlmodel filename model save

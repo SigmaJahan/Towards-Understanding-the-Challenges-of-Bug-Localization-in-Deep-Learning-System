@@ -1,0 +1,2 @@
+confusion matrix confusionmatrix normalize true fix
+fig axes set ylabel setylabel predicted fig savefig path save dir savedir confusion matrix confusionmatrix png dpi except exception pass print warning confusion matrix confusionmatrix plot failure def print self range self

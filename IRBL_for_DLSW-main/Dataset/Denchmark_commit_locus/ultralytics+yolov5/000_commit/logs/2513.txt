@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+     # Second-stage classifier      classify = False      if classify:         modelc = torch_utils.load_classifier(name='resnet101', n=2)  # initialize         modelc = load_classifier(name='resnet101', n=2)  # initialize          modelc.load_state_dict(torch.load('weights/resnet101.pt', map_location=device)['model'])  # load weights          modelc.to(device).eval()   

@@ -1,0 +1,2 @@
+      New Colors() class (#2963) 
+     print('Plotting labels... ')      c, b = labels[:, 0], labels[:, 1:].transpose()  # classes, boxes      nc = int(c.max() + 1)  # number of classes     colors = color_list()      x = pd.DataFrame(b.transpose(), columns=['x', 'y', 'width', 'height'])        # seaborn correlogram 

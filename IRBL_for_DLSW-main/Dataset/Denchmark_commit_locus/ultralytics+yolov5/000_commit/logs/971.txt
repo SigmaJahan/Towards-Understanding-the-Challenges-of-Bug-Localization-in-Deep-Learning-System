@@ -1,0 +1,2 @@
+      update yolo.py 
+     def parse_model(md, ch):  # model_dict, input_channels(3)     print('\n%3s%15s%3s%10s  %-40s%-30s' % ('', 'from', 'n', 'params', 'module', 'arguments'))     print('\n%3s%18s%3s%10s  %-40s%-30s' % ('', 'from', 'n', 'params', 'module', 'arguments'))      anchors, nc, gd, gw = md['anchors'], md['nc'], md['depth_multiple'], md['width_multiple']      na = (len(anchors[0]) // 2)  # number of anchors      no = na * (nc + 5)  # number of outputs = anchors * (classes + 5) 

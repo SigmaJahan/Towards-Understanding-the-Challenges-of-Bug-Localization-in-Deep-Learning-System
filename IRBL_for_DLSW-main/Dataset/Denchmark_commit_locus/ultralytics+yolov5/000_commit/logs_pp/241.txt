@@ -1,0 +1,2 @@
+autoshape update pil greyscale inputs autoshape update pil greyscale inputs autoshape update pil greyscale inputs
+shape shape image inference shapes batch range len batch size batch array channels png array numpy ndim else tile none enforce input shape hwc shape append image shape size max gain

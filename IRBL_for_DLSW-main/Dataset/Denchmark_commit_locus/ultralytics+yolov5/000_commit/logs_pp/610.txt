@@ -1,0 +1,2 @@
+update test save txt savetxt
+else called directly device torch utils torchutils select device selectdevice opt device batch size batchsize batch size batchsize merge opt merge use merge nms merge save txt savetxt opt merge opt save txt savetxt use merge nms save txt labels save txt savetxt path inference output path exists shutil rmtree delete output folder makedirs make new output folder remove previous glob glob str path save dir savedir test batch testbatch jpg

@@ -1,0 +1,2 @@
+      Remove redundant downloads mirror (#1461) 
+             k: kmeans evolved anchors            Usage:             from utils.general import *; _ = kmean_anchors()             from utils.autoanchor import *; _ = kmean_anchors()      """      thr = 1. / thr   

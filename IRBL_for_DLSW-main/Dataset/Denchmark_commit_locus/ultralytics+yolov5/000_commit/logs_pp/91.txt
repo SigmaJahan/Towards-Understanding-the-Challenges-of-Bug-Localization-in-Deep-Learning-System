@@ -1,0 +1,2 @@
+img size imgsize stride multiple stridemultiple verification
+image sizes int max model stride grid size max stride opt img size imgsize print warning img size imgsize must multiple max stride opt img size imgsize opt cfg imgsz imgsz test imgsztest make divisible makedivisible opt img size imgsize image sizes train test imgsz imgsz test imgsztest check img size checkimgsize opt img size imgsize verify imgsz multiples gsmultiples optimizer nbs nominal batch size

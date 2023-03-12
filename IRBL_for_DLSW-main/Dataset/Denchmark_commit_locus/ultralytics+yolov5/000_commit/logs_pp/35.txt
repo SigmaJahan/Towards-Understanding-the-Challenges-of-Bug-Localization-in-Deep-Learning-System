@@ -1,0 +1,2 @@
+update tensor board tensorboard
+train logger info opt opt evolve writer tbwriter none init loggers opt global rank globalrank prefix colorstr tensorboard logger info prefix start tensorboard logdir opt project view http localhost writer tbwriter summary writer summarywriter opt save dir savedir tensorboard train opt hyp opt device writer tbwriter train opt hyp opt device evolve hyperparameters optional else

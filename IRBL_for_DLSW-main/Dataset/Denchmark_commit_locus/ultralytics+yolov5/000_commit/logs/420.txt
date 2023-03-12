@@ -1,0 +1,2 @@
+      Update 4 main ops for paths and .run() (#3715)          * Add yolov5/ to path          * rename functions to run()          * cleanup          * rename fix          * CI fix          * cleanup find models/export.py 
+ def main(opt):      print(colorstr('detect: ') + ', '.join(f'{k}={v}' for k, v in vars(opt).items()))      check_requirements(exclude=('tensorboard', 'thop'))     detect(**vars(opt))     run(**vars(opt))      if __name__ == "__main__": 

@@ -1,0 +1,2 @@
+update tensorboard update tensorboard update tensorboard version attempt address https github com ultralytics yolov issues tensorboard logging fail docker image cleanup
+wandb logger wandblogger log model logmodel last parent opt epoch best model bestmodel best fitness bestfitness del ckpt end epoch end training rank

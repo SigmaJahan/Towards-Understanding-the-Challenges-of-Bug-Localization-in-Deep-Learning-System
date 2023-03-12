@@ -1,0 +1,2 @@
+      update test.py for FP16 testing during training 
+     if model is None:          training = False          device = torch_utils.select_device(opt.device, batch_size=batch_size)         half = device.type != 'cpu'  # half precision only supported on CUDA            # Remove previous          for f in glob.glob('test_batch*.jpg'): 

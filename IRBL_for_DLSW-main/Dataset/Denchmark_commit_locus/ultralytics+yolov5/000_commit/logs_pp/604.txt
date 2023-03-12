@@ -1,0 +1,2 @@
+add cappropframecount tube youtube sources
+int cap get cappropframewidth int cap get cappropframeheight self fps cap get cappropfps self frames int cap get cappropframecount self imgsi cap read guarantee first frame thread thread target self update args cap daemon true print success self fps fps print success self frames frames self frames else self fps fps thread start print newline

@@ -1,0 +1,2 @@
+yol yolov aws inferentia inplace compatibility updates added flag enable disable inplace assignment operations removed shape print statements scope detect model import avoid circular dependency pep create descale pred descalepred replace lost space replace list tuple authored coauthoredby glenn jocher
+stride none strides computed build export false onnx export def init self anchors detection layer def init self anchors inplace true detection layer super detect self init self number classes self number outputs per anchor

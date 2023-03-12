@@ -1,0 +1,2 @@
+      Improved corruption handling during scan and cache (#999) 
+         self.img_files = list(cache.keys())  # update          self.label_files = img2label_paths(cache.keys())  # update           n = len(shapes)  # number of images         bi = np.floor(np.arange(n) / batch_size).astype(np.int)  # batch index         nb = bi[-1] + 1  # number of batches         self.batch = bi  # batch index of image         self.n = n           # Rectangular Training          if self.rect:              # Sort by aspect ratio 

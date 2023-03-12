@@ -1,0 +1,2 @@
+eliminate total batch size totalbatchsize variable eliminate total batch size totalbatchsize variable cleanup update train
+interp model interp iou loss ratio obj loss objloss iou accumulate max interp nbs total batch size totalbatchsize round accumulate max interp nbs batch size batchsize round enumerate optimizer param groups paramgroups bias falls lrs rise interp hyp warmup bias warmupbiaslr else initial initiallr epoch

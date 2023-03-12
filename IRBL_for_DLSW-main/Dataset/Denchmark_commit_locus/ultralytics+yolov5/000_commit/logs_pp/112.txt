@@ -1,0 +1,2 @@
+update test model half
+model data parallel dataparallel model half half device type cpu torch cuda device count devicecount half precision supported single gpu singlegpu half device type cpu half precision supported cuda half model half model half configure model eval

@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+dependencies torch yaml check requirements checkrequirements path file parent requirements txt exclude pycocotools thop set logging setlogging def create name pretrained channels classes autoshape def create name pretrained channels classes autoshape verbose creates specified yol yolov model arguments

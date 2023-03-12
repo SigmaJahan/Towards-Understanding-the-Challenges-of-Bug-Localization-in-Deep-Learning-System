@@ -1,0 +1,2 @@
+model add nms addnms method
+self info return self def add nms addnms self fuse model convd batch normd batchnormd layers type self model nms missing nms print adding nms module nms module self model index self model add module addmodule name module add return self def info self verbose false print model information model info modelinfo self verbose

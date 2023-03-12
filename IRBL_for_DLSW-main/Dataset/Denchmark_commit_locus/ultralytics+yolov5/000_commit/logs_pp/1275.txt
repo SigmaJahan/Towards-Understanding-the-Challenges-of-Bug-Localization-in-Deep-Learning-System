@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+def check anchors checkanchors dataset model thr imgsz check anchor fit data recompute necessary print analyzing nanalyzing anchors end prefix colorstr blue bold autoanchor print prefix analyzing anchors end model module model hasattr model module else model model detect shapes imgsz dataset shapes dataset shapes max keepdims true scale random uniform size shapes shape augment scale

@@ -1,0 +1,2 @@
+add compute loss computeloss class
+dataloader testloader save dir savedir save dir savedir plots plots final epoch finalepoch log imgs logimgs opt log imgs logimgs wandb else log imgs logimgs opt log imgs logimgs wandb else compute loss computeloss compute loss computeloss write open results file resultsfile

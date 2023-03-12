@@ -1,0 +1,2 @@
+      EMA and non_blocking=True 
+         check_anchors(dataset, model=model, thr=hyp['anchor_t'], imgsz=imgsz)        # Exponential moving average     ema = torch_utils.ModelEMA(model, updates=start_epoch * nb / accumulate)     ema = torch_utils.ModelEMA(model)        # Start training      t0 = time.time() 

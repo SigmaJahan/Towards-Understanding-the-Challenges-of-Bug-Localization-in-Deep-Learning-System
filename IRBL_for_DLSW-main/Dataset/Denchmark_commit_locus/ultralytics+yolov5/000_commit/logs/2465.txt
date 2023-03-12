@@ -1,0 +1,2 @@
+      f.read().strip() (#1551) 
+             lb_file = Path(img2label_paths([str(im_file)])[0])              if Path(lb_file).exists():                  with open(lb_file, 'r') as f:                     lb = np.array([x.split() for x in f.read().splitlines()], dtype=np.float32)  # labels                     lb = np.array([x.split() for x in f.read().strip().splitlines()], dtype=np.float32)  # labels                    for j, x in enumerate(lb):                      c = int(x[0])  # class 

@@ -1,0 +1,2 @@
+      Add variable-stride inference support (#2091) 
+             raise StopIteration            # Letterbox         img = [letterbox(x, new_shape=self.img_size, auto=self.rect)[0] for x in img0]         img = [letterbox(x, self.img_size, auto=self.rect, stride=self.stride)[0] for x in img0]            # Stack          img = np.stack(img, 0) 

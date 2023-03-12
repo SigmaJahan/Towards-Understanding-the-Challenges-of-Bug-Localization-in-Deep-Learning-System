@@ -1,0 +1,2 @@
+explicit model eval call opt train false call model eval opt train false call model eval opt train false single line singleline statement cleanup authored coauthoredby glenn jocher
+update model opt half img model img half model half opt train model train training mode grid construction detect layer model train opt train else model eval training mode detect layer grid construction model named modules namedmodules non persistent buffers set nonpersistentbuffersset set pytorch compatibility isinstance models common conv assign export friendly exportfriendly activations

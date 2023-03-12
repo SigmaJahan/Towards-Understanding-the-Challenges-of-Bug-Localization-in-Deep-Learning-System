@@ -1,0 +1,2 @@
+resume repeat bug fix
+optimizer add param group addparamgroup params add biases print optimizer groups bias conv weight len len len del scheduler https arxiv org pdf pdf lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda https discuss pytorch org problem occured resuming optimizer aproblemoccuredwhenresuminganoptimizer plot scheduler plotlrscheduler optimizer scheduler epochs load model torch distributed zero first torchdistributedzerofirst rank

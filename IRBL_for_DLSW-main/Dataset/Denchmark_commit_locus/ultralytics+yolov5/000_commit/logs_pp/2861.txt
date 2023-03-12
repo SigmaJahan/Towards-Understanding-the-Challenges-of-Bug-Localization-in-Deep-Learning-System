@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+array self matrix self matrix sum reshape self normalize arrayarray nan annotate would appear fig plt figure figsize fig plt figure figsize tight layout tightlayout true set font scale fontscale self else label size labels len names len names self apply names ticklabels heatmap array annot self annot kws annotkws size cmap blues fmt square true

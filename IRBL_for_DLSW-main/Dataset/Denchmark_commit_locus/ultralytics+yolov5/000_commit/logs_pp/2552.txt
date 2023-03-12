@@ -1,0 +1,2 @@
+update datasets image size check caching
+image verify pil verify imread img skimage verify skimage import shape exif size exifsize image image size assert shape shape image size pixels path isfile label open label array split read splitlines dtype float labels

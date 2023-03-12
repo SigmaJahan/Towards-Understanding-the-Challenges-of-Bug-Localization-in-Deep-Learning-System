@@ -1,0 +1,2 @@
+improved model ema modelema checkpointing
+torch save ckpt best del ckpt model float ema ema float end epoch end training

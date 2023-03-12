@@ -1,0 +1,2 @@
+      update mosaic border 
+     class LoadImages:  # for inference     def __init__(self, path, img_size=416):     def __init__(self, path, img_size=640):          path = str(Path(path))  # os-agnostic          files = []          if os.path.isdir(path): 

@@ -1,0 +1,2 @@
+      AutoAnchor bug fix # 117 
+ def check_anchors(dataset, model, thr=4.0, imgsz=640):      # Check anchor fit to data, recompute if necessary      print('\nAnalyzing anchors... ', end='')     anchors = model.module.model[-1].anchor_grid if hasattr(model, 'module') else model.model[-1].anchor_grid     m = model.module.model[-1] if hasattr(model, 'module') else model.model[-1]  # Detect()      shapes = imgsz * dataset.shapes / dataset.shapes.max(1, keepdims=True)      wh = torch.tensor(np.concatenate([l[:, 3:5] * s for s, l in zip(shapes, dataset.labels)])).float()  # wh   

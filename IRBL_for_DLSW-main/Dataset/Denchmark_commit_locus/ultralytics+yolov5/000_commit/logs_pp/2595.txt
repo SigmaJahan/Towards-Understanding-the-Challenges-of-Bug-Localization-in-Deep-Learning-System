@@ -1,0 +1,2 @@
+improved hubconf tests
+model custom path model pathormodel path model custom example verify inference import numpy pil import image imgs image open path data images glob jpg results model imgs imgs image open data images bus jpg pil data images zidane jpg filename https github com ultralytics yolov raw master data images bus jpg uri zeros numpy results model imgs batched inference results print results save

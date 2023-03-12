@@ -1,0 +1,2 @@
+update plot study plotstudy
+plot array linewidth markersize alpha label efficient det efficientdet grid set yticks setyticks arange grid alpha set yticks setyticks arange set xlim setxlim set ylim setylim set ylim setylim set xlabel setxlabel gpu speed img set ylabel setylabel coco val legend loc lower right plt savefig test study teststudy png dpi plt savefig str path path name png dpi def plot labels plotlabels labels save dir savedir path loggers none

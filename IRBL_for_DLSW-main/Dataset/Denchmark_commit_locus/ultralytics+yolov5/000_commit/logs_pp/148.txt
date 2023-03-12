@@ -1,0 +1,2 @@
+refactor models export arguments refactor models export arguments cleanup cleanup
+print prefix simplifying onnx simplifier onnxsimplifier onnxsim version model onnx modelonnx check onnxsim simplify model onnx modelonnx dynamic input shape dynamicinputshape opt dynamic input shapes inputshapes images list img shape opt dynamic else none dynamic input shape dynamicinputshape dynamic input shapes inputshapes images list img shape dynamic else none assert check assert check failed onnx save model onnx modelonnx except exception

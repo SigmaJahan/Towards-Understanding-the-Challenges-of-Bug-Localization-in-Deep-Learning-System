@@ -1,0 +1,2 @@
+increment train test detect runs increment train test detect runs update testing citesting yml inference images data images move images runs exp runs train exp update results saved str
+verify inference pil import image img image open inference images zidane jpg img image open data images zidane jpg model img print shape

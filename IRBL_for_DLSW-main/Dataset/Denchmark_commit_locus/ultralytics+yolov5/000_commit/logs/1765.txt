@@ -1,0 +1,2 @@
+      Add save_dir arg to test.test, use arg as location for saving batch jpgs 
+          model=None,           dataloader=None,           fast=False,          verbose=False):          verbose=False,          save_dir='.'):      # Initialize/load model and set device      if model is None:          training = False 

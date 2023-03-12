@@ -1,0 +1,2 @@
+google utils googleutils bug fix
+path exists weights path getsize weights weights exist remove weights path exists weights else none remove partial downloads curl https storage googleapis com ultralytics yolov ckpt weights file curl storage googleapis com ultralytics yolov ckpt weights file system execute capture return values error check

@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+elif path isfile files files else raise exception error exist raise exception error exist images files split lower img formats imgformats videos files split lower vid formats vidformats

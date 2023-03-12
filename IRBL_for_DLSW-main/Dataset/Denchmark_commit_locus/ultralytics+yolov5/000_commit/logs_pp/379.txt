@@ -1,0 +1,2 @@
+auto anchor autoanchor bpr significant figures
+knp argsort prod sort small large best metric bpr aat best thr float mean thr float mean best possible recall anch thr print thr best possible recall anchors past thr thr bpr aat print thr best possible recall anchors past thr thr bpr aat print img size imgsize metric metricall mean fmean best past thr pastthr mean fmean img size imgsize mean best mean thr mean end enumerate

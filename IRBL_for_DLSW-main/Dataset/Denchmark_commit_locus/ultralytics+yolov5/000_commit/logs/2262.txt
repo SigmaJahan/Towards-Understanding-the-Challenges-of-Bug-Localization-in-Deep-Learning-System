@@ -1,0 +1,2 @@
+      Update inference default to multi_label=False (#2252)          * Update inference default to multi_label=False          * bug fix          * Update plots.py          * Update plots.py 
+         with torch.no_grad():              # Run model              t = time_synchronized()             inf_out, train_out = model(img, augment=augment)  # inference and training outputs             out, train_out = model(img, augment=augment)  # inference and training outputs              t0 += time_synchronized() - t                # Compute loss 

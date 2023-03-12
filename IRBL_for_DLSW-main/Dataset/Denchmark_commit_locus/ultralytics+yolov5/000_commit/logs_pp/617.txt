@@ -1,0 +1,2 @@
+curl update curl update curl update
+assert redundant secondary mirror url https storage googleapis com repo ckpt name print downloading url file system curl url file torch hub download url file downloadurltofile url weights system curl url file retry curl download retry resume fail finally file exists file stat size stsize check file unlink missing missingok true remove partial downloads

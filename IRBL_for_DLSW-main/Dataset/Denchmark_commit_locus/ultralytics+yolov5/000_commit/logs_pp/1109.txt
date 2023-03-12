@@ -1,0 +1,2 @@
+update test profiling update test profiling half precision halfprecision half inplace
+targetstargets range save hybrid savehybrid else autolabelling time synchronized timesynchronized non max suppression nonmaxsuppression conf thres confthres iou thres iouthres labels multi label multilabel true agnostic single cls singlecls time synchronized timesynchronized time synchronized timesynchronized statistics per image pred enumerate

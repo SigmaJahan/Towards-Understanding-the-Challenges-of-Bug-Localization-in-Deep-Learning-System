@@ -1,0 +1,2 @@
+simplified inference
+file contains modules common various models import math import math import numpy import torch import torch utils general import non max suppression nonmaxsuppression utils datasets import letterbox utils general import non max suppression nonmaxsuppression make divisible makedivisible scale coords scalecoords def autopad none kernel padding

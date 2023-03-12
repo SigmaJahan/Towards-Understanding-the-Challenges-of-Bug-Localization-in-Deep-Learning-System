@@ -1,0 +1,2 @@
+update experimental ensemble module
+def forward self return self act self torch cat self class ensemble module list modulelist ensemble models def init self super ensemble self init def forward self augment false module self append module augment return torch cat none ensembled inference output train output

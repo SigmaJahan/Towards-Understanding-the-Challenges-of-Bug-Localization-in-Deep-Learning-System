@@ -1,0 +1,2 @@
+      Add check_python() (#3088)          * Add check_python()          Checks python version against minimum version of 3.7.0.          * remove packaging dependency          * refactor import 
+ import cv2  import numpy as np  import pandas as pd import pkg_resources as pkg  import torch  import torchvision  import yaml 

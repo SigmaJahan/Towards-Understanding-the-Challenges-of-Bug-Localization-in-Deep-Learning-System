@@ -1,0 +1,2 @@
+update mosaic border
+self image weights imageweights image weights imageweights self rect false image weights imageweights else rect self mosaic self augment self rect load images time mosaic training self mosaic border mosaicborder none self mosaic border mosaicborder img size imgsize img size imgsize self stride stride

@@ -1,0 +1,2 @@
+update compute loss computeloss
+ecls bcecls eobj bceobj focal loss focalloss ecls bcecls focal loss focalloss eobj bceobj per output targets number targets len number outputs balance enumerate layer index layer predictions indicesi image anchor gridy gridx

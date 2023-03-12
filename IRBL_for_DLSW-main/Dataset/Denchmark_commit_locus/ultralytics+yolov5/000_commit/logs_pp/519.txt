@@ -1,0 +1,2 @@
+profiling update
+torch utils torchutils time synchronized timesynchronized range torch utils torchutils time synchronized timesynchronized print fms type append torch utils torchutils time synchronized timesynchronized print fms type run append self save else none save output profile print print fms total sum return def initialize biases initializebiases self none initialize biases detect class frequency

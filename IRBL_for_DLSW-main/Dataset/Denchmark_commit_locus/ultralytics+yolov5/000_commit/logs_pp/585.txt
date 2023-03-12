@@ -1,0 +1,2 @@
+yol yolov torch pytorch hub models check requirements checkrequirements improved user feedback userfeedback following requirements auto update autoupdate
+use git pull update git clone url download latest else date url print encode decode ascii ignore platform system windows else emoji safe emojisafe print emojis emoji safe emojisafe except exception print

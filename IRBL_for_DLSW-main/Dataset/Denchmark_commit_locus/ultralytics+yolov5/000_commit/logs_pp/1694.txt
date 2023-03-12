@@ -1,0 +1,2 @@
+cat apriori autolabels
+return inter prod prod inter iou inter area area inter def non max suppression nonmaxsuppression prediction conf thres confthres iou thres iouthres merge false classes none agnostic false def non max suppression nonmaxsuppression prediction conf thres confthres iou thres iouthres classes none agnostic false labels performs non maximum nonmaximum suppression nms inference results returns

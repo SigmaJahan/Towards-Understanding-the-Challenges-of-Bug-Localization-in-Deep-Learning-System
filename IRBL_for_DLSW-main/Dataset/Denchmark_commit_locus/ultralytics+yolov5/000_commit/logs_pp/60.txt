@@ -1,0 +1,2 @@
+fix logging add logging setup fix fusing layers message fix logging end add logging change logging use logger update yolo tried cloned branch everything seems work fine update yolo authored coauthoredby glenn jocher
+parser add argument addargument device default help cuda device cpu opt parser parse args parseargs opt cfg check file checkfile opt cfg check file set logging setlogging device select device selectdevice opt device create model

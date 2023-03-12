@@ -1,0 +1,2 @@
+auto anchor autoanchor update display anchors target
+none none knone torch min min ratio metric best max best bestx return best thr float mean best possible recall aat thr float sum mean anchors threshold bpr best thr float mean best possible recall return bpr aat bpr metric anchor grid anchorgrid clone cpu view print best possible recall bpr bpr end bpr bpr replace anchors new anchors newanchors torch tensor new anchors newanchors device anchors device type typeas anchors anchor grid anchorgrid new anchors newanchors clone view viewas anchor grid anchorgrid inference

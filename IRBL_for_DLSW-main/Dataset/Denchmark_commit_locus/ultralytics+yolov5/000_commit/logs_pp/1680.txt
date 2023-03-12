@@ -1,0 +1,2 @@
+remove opt create dataloader createdataloader
+logger info using sync batch norm syncbatchnorm trainloader dataloader dataset create dataloader createdataloader train path trainpath imgsz batch size batchsize opt dataloader dataset create dataloader createdataloader train path trainpath imgsz batch size batchsize single cls singlecls hyp hyp augment true cache opt cache images cacheimages rect opt rect rank rank world size worldsize opt world size worldsize workers opt workers image weights imageweights opt image weights imageweights quad opt quad prefix colorstr train

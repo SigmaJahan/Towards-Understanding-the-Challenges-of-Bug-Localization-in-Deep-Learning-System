@@ -1,0 +1,2 @@
+      YOLOv5 PyTorch Hub models >> check_requirements() (#2588)          * YOLOv5 PyTorch Hub models >> check_requirements()          Update YOLOv5 PyTorch Hub requirements.txt path to cache path.          * Update hubconf.py 
+ from utils.torch_utils import select_device    dependencies = ['torch', 'yaml'] check_requirements(exclude=('pycocotools', 'thop')) check_requirements(Path(__file__).parent / 'requirements.txt', exclude=('pycocotools', 'thop'))  set_logging()     

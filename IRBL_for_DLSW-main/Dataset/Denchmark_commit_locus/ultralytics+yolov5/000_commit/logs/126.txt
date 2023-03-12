@@ -1,0 +1,2 @@
+      utils/wandb_logging PEP8 reformat (#2755)          * wandb_logging PEP8 reformat          * Update wandb_utils.py 
+             return True      return None     def process_wandb_config_ddp_mode(opt):      with open(opt.data) as f:          data_dict = yaml.load(f, Loader=yaml.SafeLoader)  # data dict 

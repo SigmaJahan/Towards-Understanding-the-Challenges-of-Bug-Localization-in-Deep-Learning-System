@@ -1,0 +1,2 @@
+update colors tableaucolors
+def hexrgb return tuple int return hexrgb plt params rcparams axes prop cycle propcycle key bykey color return hexrgb matplotlib colors tableaucolors values base css xkcd def histd

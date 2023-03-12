@@ -1,0 +1,2 @@
+feature improvements feature improvements add class labels caption bounding boxes display class name class confidence score project name set yolov run name set opt logdir cleanup remove parenthesis caption authored coauthoredby glenn jocher
+logging wandb wandb run none ckpt get wandb wandbid ckpt locals else none wandb run wandbrun wandb init config opt resume allow project path basename log dir logdir wandb run wandbrun wandb init config opt resume allow project yol yolov name path basename log dir logdir resume start epoch startepoch best fitness bestfitness

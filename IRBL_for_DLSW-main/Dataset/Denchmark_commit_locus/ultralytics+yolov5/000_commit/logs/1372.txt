@@ -1,0 +1,2 @@
+      Improved model+EMA checkpointing 2 (#2295) 
+                     torch.save(ckpt, best)                  del ckpt               model.float(), ema.ema.float()           # end epoch ----------------------------------------------------------------------------------------------------      # end training   

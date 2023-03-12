@@ -1,0 +1,2 @@
+      Rearrange export input after checks (#1118)          img size checks are warnings rather than errors, so current implementation allows improperly formed model inputs. 
+     set_logging()      t = time.time()       # Input     img = torch.zeros((opt.batch_size, 3, *opt.img_size))  # image size(1,3,320,192) iDetection       # Load PyTorch model      model = attempt_load(opt.weights, map_location=torch.device('cpu'))  # load FP32 model      labels = model.names 

@@ -1,0 +1,2 @@
+slightly modify cli execution slightly modify cli execution simple change makes easier run primary functions repo train detect test within python object represents opt constructed fed main function modules rather call lower level functions directly run module script update export add cli parsing update convenient module usage within python authored coauthoredby lewis belcher
+savetxt fmt save system zip study zip study txt plot study txt plotstudytxt plot name main opt parse opt parseopt main opt

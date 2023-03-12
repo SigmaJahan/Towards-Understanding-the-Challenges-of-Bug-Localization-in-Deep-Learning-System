@@ -1,0 +1,2 @@
+improved flops computation improved flops computation update comment
+try flops thop import profile flops profile deepcopy model inputs torch zeros verbose false gflops flops flops stride int model stride max flops profile deepcopy model inputs torch zeros stride stride verbose false img size imgsize img size imgsize isinstance img size imgsize list else img size imgsize img size imgsize expand int float gflops flops img size imgsize stride img size imgsize stride flops except import error importerror

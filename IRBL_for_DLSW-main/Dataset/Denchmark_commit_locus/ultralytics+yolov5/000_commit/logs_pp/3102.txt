@@ -1,0 +1,2 @@
+add train run method update train explicit arguments update train add run method
+command train new model hyperparameters python train hyp yaml file yamlfile def run kwargs usage import train train run imgsz weights yolovm opt parse opt parseopt true kwargs items setattr opt main opt name main opt parse opt parseopt main opt

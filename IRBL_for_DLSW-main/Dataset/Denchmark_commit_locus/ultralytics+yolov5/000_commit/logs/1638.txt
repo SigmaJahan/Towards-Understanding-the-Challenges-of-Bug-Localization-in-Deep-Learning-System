@@ -1,0 +1,2 @@
+      v3.0 Release (#725)          * initial commit          * remove yolov3-spp from test.py study          * update study --img range          * update mAP          * cleanup and speed updates          * update README plot 
+         return x * torch.sigmoid(x)     class HardSwish(nn.Module):     @staticmethod     def forward(x):         return x * F.hardtanh(x + 3, 0., 6., True) / 6.    class MemoryEfficientSwish(nn.Module):      class F(torch.autograd.Function):          @staticmethod 

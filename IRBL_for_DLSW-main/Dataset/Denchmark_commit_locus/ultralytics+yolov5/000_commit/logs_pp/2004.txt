@@ -1,0 +1,2 @@
+save webcam results add nosave option updates default detect behavior automatically save inference images videos webcams unless new argument nosave used python detect nosave unless list streaming sources passed python detect source streams txt
+def detect save img saveimg false source weights view img viewimg save txt savetxt imgsz opt source opt weights opt view img viewimg opt save txt savetxt opt img size imgsize save img saveimg opt nosave source endswith txt save inference images webcam source isnumeric source endswith txt source lower startswith rtsp rtmp http

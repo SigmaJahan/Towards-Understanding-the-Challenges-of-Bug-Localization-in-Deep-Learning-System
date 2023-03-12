@@ -1,0 +1,2 @@
+normalized mosaic plotting bug fix
+conf none labels else image targets imagetargets check confidence presence label pred boxes shape boxes max normalized boxes max normalized tolerance boxes scale pixels boxes elif scale factor scalefactor absolute coords need scale image scales

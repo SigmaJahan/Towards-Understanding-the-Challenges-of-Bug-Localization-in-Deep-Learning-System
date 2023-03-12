@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+ """    dependencies = ['torch', 'yaml']   import os    import torch    from models.yolo import Model from utils import google_utils from utils.google_utils import attempt_download      def create(name, pretrained, channels, classes): 

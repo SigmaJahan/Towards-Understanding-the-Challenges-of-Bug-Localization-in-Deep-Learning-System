@@ -1,0 +1,2 @@
+      FP16 inference fix 
+          batch_size=16,           imgsz=640,           conf_thres=0.001,          iou_thres=0.6,  # for nms          iou_thres=0.6,  # for NMS           save_json=False,           single_cls=False,           augment=False,          half=False,  # FP16           model=None,           dataloader=None,           fast=False,          verbose=False,          half=False):  # FP16          verbose=False):      # Initialize/load model and set device      if model is None:          device = torch_utils.select_device(opt.device, batch_size=batch_size) 

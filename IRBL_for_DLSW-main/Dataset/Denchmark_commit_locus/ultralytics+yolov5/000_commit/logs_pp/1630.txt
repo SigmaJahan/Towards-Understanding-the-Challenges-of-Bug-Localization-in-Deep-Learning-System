@@ -1,0 +1,2 @@
+release initial commit remove yolov spp yolovspp test study update study img range update map cleanup speed updates update readme plot
+logger logging get logger getlogger name class detect module stride none strides computed build export false onnx export def init self anchors detection layer super detect self init self stride none strides computed build self number classes self number outputs per anchor self len anchors number detection layers

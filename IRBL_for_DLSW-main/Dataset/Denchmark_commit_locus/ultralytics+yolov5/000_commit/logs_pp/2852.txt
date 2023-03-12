@@ -1,0 +1,2 @@
+onnx export train mode fix
+print prefix starting export onnx onnx version opt weights replace onnx filename torch onnx export model img verbose false opset version opsetversion opt opset version opsetversion input names inputnames images training torch onnx training mode trainingmode training opt train else torch onnx training mode trainingmode eval constant folding doconstantfolding opt train dynamic axes dynamicaxes images batch height width size output batch opt dynamic else none

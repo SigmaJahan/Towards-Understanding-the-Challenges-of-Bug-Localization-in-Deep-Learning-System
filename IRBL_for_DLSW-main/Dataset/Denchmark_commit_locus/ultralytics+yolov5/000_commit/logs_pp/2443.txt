@@ -1,0 +1,2 @@
+backbone save default
+ckpt epoch epoch best fitness bestfitness best fitness bestfitness training results trainingresults read model ema ema module half hasattr model module else ema ema half model ema ema module hasattr model module else ema ema optimizer none final epoch finalepoch else optimizer state dict statedict save last best delete

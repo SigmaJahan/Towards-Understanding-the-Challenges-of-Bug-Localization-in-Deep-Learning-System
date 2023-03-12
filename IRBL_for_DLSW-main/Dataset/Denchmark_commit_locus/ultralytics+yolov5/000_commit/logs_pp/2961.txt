@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+txt path txtpath str save dir savedir labels stem dataset frame dataset mode video else gxg img shape print string torch tensor shape normalization gain whwh det none len det len det rescale boxes img size imgsize size det scale coords scalecoords img shape det shape round

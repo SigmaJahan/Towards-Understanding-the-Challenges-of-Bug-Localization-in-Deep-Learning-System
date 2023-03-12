@@ -1,0 +1,2 @@
+      PyTorch Hub and autoShape update (#1415) 
+ from utils.general import set_logging  from utils.google_utils import attempt_download   dependencies = ['torch', 'yaml', 'Pillow'] dependencies = ['torch', 'yaml']  set_logging()     

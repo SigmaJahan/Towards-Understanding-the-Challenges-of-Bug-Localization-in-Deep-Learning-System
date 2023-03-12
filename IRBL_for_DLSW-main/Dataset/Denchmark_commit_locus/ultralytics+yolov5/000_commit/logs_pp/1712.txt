@@ -1,0 +1,2 @@
+image weights imageweights bug fix
+return self def getitem self index self image weights imageweights index self indicesindex index self indicesindex linear shuffled image weights imageweights hyp self hyp mosaic self mosaic random random hyp mosaic

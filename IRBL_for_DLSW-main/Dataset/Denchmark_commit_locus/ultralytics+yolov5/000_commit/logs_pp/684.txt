@@ -1,0 +1,2 @@
+single source singlesource training single source singlesource training extract hyperparameters seperate files weight decay scientific notation yaml reader bug fix remove import glob intersect dicts intersectdicts implementation bug fix device bug fix
+def find modules findmodules model mclass convd finds layer indices matching module class mclass finds layer indices matching module class mclass return enumerate model module list modulelist isinstance mclass

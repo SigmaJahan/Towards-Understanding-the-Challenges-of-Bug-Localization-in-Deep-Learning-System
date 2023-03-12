@@ -1,0 +1,2 @@
+remove redundant downloads mirror
+append results times savetxt fmt save system zip study zip study txt utils general plot study txt plotstudytxt plot utils plots plot study txt plotstudytxt plot

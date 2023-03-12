@@ -1,0 +1,2 @@
+      Targets scaling bug fix (#1529) 
+         img /= 255.0  # 0 - 255 to 0.0 - 1.0          targets = targets.to(device)          nb, _, height, width = img.shape  # batch size, channels, height, width         targets[:, 2:] *= torch.Tensor([width, height, width, height]).to(device)            with torch.no_grad():              # Run model 

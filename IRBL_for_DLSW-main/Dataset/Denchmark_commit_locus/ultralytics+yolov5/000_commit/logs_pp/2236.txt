@@ -1,0 +1,2 @@
+torch pytorch update native amp torch pytorch automatic mixed precision amp training fixed problem inconsistent code length indentation fixed problem inconsistent code length indentation mixed precision training turned default
+import torch optim optim import torch optim scheduler lrscheduler scheduler lrscheduler import torch utils data torch cuda import amp torch parallel import distributed data parallel distributeddataparallel ddp torch utils tensorboard import summary writer summarywriter

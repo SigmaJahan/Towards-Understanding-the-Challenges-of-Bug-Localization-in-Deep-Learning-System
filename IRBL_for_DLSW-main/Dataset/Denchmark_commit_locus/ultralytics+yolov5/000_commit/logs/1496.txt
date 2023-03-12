@@ -1,0 +1,2 @@
+      Update hubconf.py (#1210) 
+         pytorch model      """      return create('yolov5x', pretrained, channels, classes)   if __name__ == '__main__':     model = create(name='yolov5s', pretrained=True, channels=3, classes=80)  # example 

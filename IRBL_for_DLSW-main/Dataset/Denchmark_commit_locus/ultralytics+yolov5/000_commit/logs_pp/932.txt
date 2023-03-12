@@ -1,0 +1,2 @@
+update profile idetection profileidetection
+results loadtxt ndmin clip first last rows results shape number rows arange start min stop stop else results results results results min set results enumerate len results resultsi label labelsfi len labels else stem replace frames plot marker label label linewidth markersize plot resultsi marker label label linewidth markersize set title settitle set xlabel setxlabel time len files set ylim setylim bottom set ylim setylim bottom side top right spinesside set visible setvisible false else

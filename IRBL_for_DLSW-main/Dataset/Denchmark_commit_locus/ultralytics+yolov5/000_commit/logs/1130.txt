@@ -1,0 +1,2 @@
+      Update general.py bbox_iou() with eps improvements  (#736)          eps reduced to 1e-9 for additional precaution. 
+                 with torch.no_grad():                      alpha = v / ((1 + eps) - iou + v)                  return iou - (rho2 / c2 + v * alpha)  # CIoU      return iou         else:  # GIoU https://arxiv.org/pdf/1902.09630.pdf             c_area = cw * ch + eps  # convex area             return iou - (c_area - union) / c_area  # GIoU     else:         return iou  # IoU      def box_iou(box1, box2): 

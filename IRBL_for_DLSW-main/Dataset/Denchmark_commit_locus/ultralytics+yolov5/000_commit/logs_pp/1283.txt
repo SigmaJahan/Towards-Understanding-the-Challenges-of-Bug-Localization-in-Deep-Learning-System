@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+def check git status checkgitstatus suggest git pull repo date platform system linux darwin path isfile dockerenv path git exists platform system linux darwin path dockerenv file isfile subprocess check output checkoutput git git fetch git status uno shell true decode utf branch behind print find branch behind find

@@ -1,0 +1,2 @@
+fix bug
+optim sgd hyp momentum hyp momentum nesterov true optimizer add param group addparamgroup params weight decay weightdecay hyp weight decay weightdecay add weight decay weightdecay optimizer add param group addparamgroup params add biases scheduler https arxiv org pdf pdf lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda print optimizer groups bias conv weight len len len del

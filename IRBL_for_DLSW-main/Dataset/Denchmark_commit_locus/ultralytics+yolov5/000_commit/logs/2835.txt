@@ -1,0 +1,2 @@
+      datasets.py self.batch_shapes fix 
+     print(opt)        # task = 'val', 'test', 'study'     if opt.task == 'val':  # (default) run normally     if opt.task in ['val', 'test']:  # (default) run normally          test(opt.data,               opt.weights,               opt.batch_size, 

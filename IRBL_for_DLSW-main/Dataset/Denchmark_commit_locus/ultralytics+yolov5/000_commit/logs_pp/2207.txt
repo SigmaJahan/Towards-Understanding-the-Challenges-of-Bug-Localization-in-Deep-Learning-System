@@ -1,0 +1,2 @@
+update fast mode
+model ema ema single cls singlecls opt single cls singlecls dataloader testloader fast epoch epochs fast epoch epochs write open results file resultsfile

@@ -1,0 +1,2 @@
+changed socket port added timeout
+check internet connectivity import socket try socket create connection createconnection check host accesability socket create connection createconnection check host accesability return true except error oserror return false

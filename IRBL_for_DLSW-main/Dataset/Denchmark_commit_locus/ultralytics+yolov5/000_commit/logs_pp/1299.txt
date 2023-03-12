@@ -1,0 +1,2 @@
+update train
+train opt evolve writer tbwriter summary writer summarywriter comment opt name updates hyp defaults hyp yaml opt hyp opt hyp update hyps open opt hyp updated hyp updatedhyp yaml load loader yaml full loader fullloader hyp update updated hyp updatedhyp hyp update yaml load loader yaml full loader fullloader print focal loss gamma hyp gamma flgamma print using focal loss focalloss gamma hyp gamma flgamma print beginning training hyp print start tensorboard tensorboard logdir runs view http localhost

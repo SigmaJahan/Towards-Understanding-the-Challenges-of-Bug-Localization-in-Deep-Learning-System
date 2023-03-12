@@ -1,0 +1,2 @@
+      add mosaic and warmup to hyperparameters (#931) 
+                 'perspective': (0, 0.0, 0.001),  # image perspective (+/- fraction), range 0-0.001                  'flipud': (1, 0.0, 1.0),  # image flip up-down (probability)                  'fliplr': (0, 0.0, 1.0),  # image flip left-right (probability)                 'mosaic': (1, 0.0, 1.0),  # image mixup (probability)                  'mixup': (1, 0.0, 1.0)}  # image mixup (probability)            assert opt.local_rank == -1, 'DDP mode not implemented for --evolve' 

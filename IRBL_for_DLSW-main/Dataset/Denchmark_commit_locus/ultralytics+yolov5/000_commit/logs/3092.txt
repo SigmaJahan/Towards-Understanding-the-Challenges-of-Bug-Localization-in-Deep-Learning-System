@@ -1,0 +1,2 @@
+      Add `train.run()` method (#3700)          * Update train.py explicit arguments          * Update train.py          * Add run method 
+           # Epochs          start_epoch = ckpt['epoch'] + 1         if opt.resume:         if resume:              assert start_epoch > 0, '%s training to %g epochs is finished, nothing to resume.' % (weights, epochs)          if epochs < start_epoch:              logger.info('%s has been trained for %g epochs. Fine-tuning for %g additional epochs.' % 

@@ -1,0 +1,2 @@
+torch pytorch compatability updates
+ious box iou boxiou predpi tboxti max best ious indices append detections ious iouv nonzero ious iouv nonzero tuple astuple false tiij detected target detected detected append

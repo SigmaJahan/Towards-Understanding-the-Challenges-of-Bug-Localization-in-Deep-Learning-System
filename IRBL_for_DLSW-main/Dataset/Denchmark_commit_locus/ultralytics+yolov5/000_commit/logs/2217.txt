@@ -1,0 +1,2 @@
+      hyperparameter printout update 
+     def train(hyp):     print(f'Hyperparameters {hyp}')      log_dir = tb_writer.log_dir  # run directory      wdir = str(Path(log_dir) / 'weights') + os.sep  # weights directory   

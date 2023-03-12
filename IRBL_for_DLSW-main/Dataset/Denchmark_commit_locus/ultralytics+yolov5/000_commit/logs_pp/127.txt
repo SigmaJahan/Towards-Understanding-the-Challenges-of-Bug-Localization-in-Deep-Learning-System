@@ -1,0 +1,2 @@
+utils wandb logging wandblogging pep reformat wandb logging wandblogging pep reformat update wandb utils wandbutils
+train dir traindir train artifact trainartifact download train path trainpath path train dir traindir data images data dict datadict train str train path trainpath isinstance data dict datadict val str data dict datadict val startswith wandbartifactprefix api wandb api val artifact valartifact api artifact remove prefix removeprefix data dict datadict val opt artifact alias artifactalias

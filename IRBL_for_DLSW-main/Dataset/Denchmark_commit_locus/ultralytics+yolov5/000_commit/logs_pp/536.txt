@@ -1,0 +1,2 @@
+dataset padding mode
+elif mini shapesi mini self batch shapes batchshapes round array shapes img size imgsize astype int self batch shapes batchshapes ceil array shapes img size imgsize pad astype int cache labels self imgs none

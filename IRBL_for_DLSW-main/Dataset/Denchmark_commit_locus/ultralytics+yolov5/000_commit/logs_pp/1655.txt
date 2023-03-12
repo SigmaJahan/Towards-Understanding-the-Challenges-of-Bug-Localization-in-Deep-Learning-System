@@ -1,0 +1,2 @@
+update mosaic border
+class load webcam loadwebcam inference def init self pipe img size imgsize def init self pipe img size imgsize self img size imgsize img size imgsize pipe

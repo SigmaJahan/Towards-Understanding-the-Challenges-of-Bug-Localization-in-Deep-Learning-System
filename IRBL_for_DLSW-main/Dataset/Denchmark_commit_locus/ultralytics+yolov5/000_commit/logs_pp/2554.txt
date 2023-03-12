@@ -1,0 +1,2 @@
+assert non premature nonpremature end jpeg images premature end jpeg images pep reformat authored coauthoredby glenn jocher
+shape exif size exifsize image size assert shape shape image size shape pixels assert format lower img formats imgformats invalid image format format format lower jpg jpeg open file imfile seek assert read xffxd corrupted jpeg verify labels segments instance segments

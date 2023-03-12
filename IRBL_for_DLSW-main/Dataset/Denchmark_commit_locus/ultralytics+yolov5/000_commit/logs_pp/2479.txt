@@ -1,0 +1,2 @@
+add isdocker add isdocker update general update general
+print colorstr github end try assert path git exists skipping check git repository assert path workspace exists skipping check docker image path dockerenv exists assert isdocker skipping check docker image assert check online checkonline skipping check offline cmd git fetch git config get remote origin url

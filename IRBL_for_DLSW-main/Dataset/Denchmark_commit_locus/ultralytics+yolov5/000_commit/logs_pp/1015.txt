@@ -1,0 +1,2 @@
+add optimize argument fix runtime errors https github com ultralytics yolov issues
+import coremltools print prefix starting export coremltools version convert model torchscript apply pixel scaling per detect model convert inputs image type imagetype name image shape img shape scale bias opt weights replace mlmodel filename model save

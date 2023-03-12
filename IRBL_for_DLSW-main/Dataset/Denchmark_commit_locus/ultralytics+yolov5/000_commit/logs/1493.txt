@@ -1,0 +1,2 @@
+      Fix help message for cfg files 
+     parser.add_argument('--adam', action='store_true', help='use adam optimizer')      parser.add_argument('--multi-scale', action='store_true', help='vary img-size +/- 50%')      parser.add_argument('--single-cls', action='store_true', help='train as single-class dataset')     parser.add_argument('--hyp', type=str, default='', help ='path to hyp yaml file.')     parser.add_argument('--hyp', type=str, default='', help ='hyp cfg path [*.yaml].')      opt = parser.parse_args()        opt.cfg = check_file(opt.cfg)  # check file 

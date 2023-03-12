@@ -1,0 +1,2 @@
+demand ondemand pycocotools pip install
+utils torch utils torchutils import select device selectdevice check requirements checkrequirements requirements path file parent requirements txt exclude tensorboard pycocotools thop opencv python opencvpython exclude tensorboard thop opencv python opencvpython set logging setlogging verbose verbose fname path name suffix withsuffix checkpoint filename

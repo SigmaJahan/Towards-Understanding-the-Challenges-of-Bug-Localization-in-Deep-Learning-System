@@ -1,0 +1,2 @@
+repeat sampler repeatsampler outside infinite data loader infinitedataloader
+def init self args kwargs super init args kwargs object setattr self batch sampler batchsampler self repeat sampler repeatsampler self batch sampler batchsampler object setattr self batch sampler batchsampler repeat sampler repeatsampler self batch sampler batchsampler self iterator super iter def len self

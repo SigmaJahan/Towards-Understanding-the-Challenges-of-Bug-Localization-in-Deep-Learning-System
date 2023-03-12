@@ -1,0 +1,2 @@
+frelu bias false bug fix
+class frelu module def init self chin kernel super init self conv convd groups self conv convd groups bias false self batch normd batchnormd def forward self

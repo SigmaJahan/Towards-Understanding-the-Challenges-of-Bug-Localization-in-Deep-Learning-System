@@ -1,0 +1,2 @@
+      Update `train(hyp, *args)` to accept `hyp` file or dict (#3668) 
+ logger = logging.getLogger(__name__)     def train(hyp, def train(hyp,  # path/to/hyp.yaml or hyp dictionary            opt,            device,            tb_writer=None            ):     logger.info(colorstr('hyperparameters: ') + ', '.join(f'{k}={v}' for k, v in hyp.items()))      save_dir, epochs, batch_size, total_batch_size, weights, rank, single_cls = \          Path(opt.save_dir), opt.epochs, opt.batch_size, opt.total_batch_size, opt.weights, opt.global_rank, \          opt.single_cls 

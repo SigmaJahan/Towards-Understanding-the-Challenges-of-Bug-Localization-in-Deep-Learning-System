@@ -1,0 +1,2 @@
+evolution bug fix
+def train hyp print hyperparameters hyp log dir logdir writer tbwriter log dir logdir run directory log dir logdir writer tbwriter log dir logdir writer tbwriter else runs evolution run directory wdir str path log dir logdir weights sep weights directory makedirs wdir exist existok true

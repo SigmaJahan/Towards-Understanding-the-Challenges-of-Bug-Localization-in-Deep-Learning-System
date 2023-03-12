@@ -1,0 +1,2 @@
+module updates
+class bottleneck module standard bottleneck def init self shortcut true chin chout shortcut groups expansion super bottleneck self init int hidden channels

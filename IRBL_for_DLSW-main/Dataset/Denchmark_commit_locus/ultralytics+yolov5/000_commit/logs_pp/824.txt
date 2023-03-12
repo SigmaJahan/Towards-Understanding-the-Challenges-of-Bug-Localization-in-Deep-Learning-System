@@ -1,0 +1,2 @@
+refactoring cleanup refactoring cleanup update test
+elif opt task speed speed benchmarks opt weights isinstance opt weights list else opt weights test opt data opt batch size batchsize opt imgsz save json savejson false plots false test opt data weights batch size batchsize opt batch size batchsize imgsz opt imgsz conf thres confthres iou thres iouthres save json savejson false plots false elif opt task study run range settings save plot python test task study data coco yaml iou weights yolovs yolovm yolovl yolovx

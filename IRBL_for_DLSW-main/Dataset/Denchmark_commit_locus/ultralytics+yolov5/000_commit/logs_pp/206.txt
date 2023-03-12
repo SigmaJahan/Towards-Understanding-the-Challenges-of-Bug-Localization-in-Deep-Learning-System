@@ -1,0 +1,2 @@
+model fusion onnx export
+google utils googleutils attempt download attemptdownload opt weights model torch load opt weights model model eval model fuse optionally fuse convd batch normd batchnormd layers todo model fuse export onnx model model export true set detect layer export true

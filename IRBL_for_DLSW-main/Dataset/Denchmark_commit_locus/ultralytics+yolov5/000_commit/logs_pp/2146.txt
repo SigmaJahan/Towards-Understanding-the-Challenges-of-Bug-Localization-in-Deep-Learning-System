@@ -1,0 +1,2 @@
+add bias classify
+def init self none chin chout kernel stride padding groups super classify self init self aap adaptive avg poold adaptiveavgpoold self conv convd autopad groups bias false self conv convd autopad groups self flat flatten def forward self

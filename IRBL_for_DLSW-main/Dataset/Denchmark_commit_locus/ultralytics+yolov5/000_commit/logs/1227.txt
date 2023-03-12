@@ -1,0 +1,2 @@
+      Increase plot_labels() speed (#1736) 
+             # cf = torch.bincount(c.long(), minlength=nc) + 1.  # frequency              # model._initialize_biases(cf.to(device))              if plots:                 Thread(target=plot_labels, args=(labels, save_dir, loggers), daemon=True).start()                 plot_labels(labels, save_dir, loggers)                  if tb_writer:                      tb_writer.add_histogram('classes', c, 0)   

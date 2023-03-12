@@ -1,0 +1,2 @@
+      google_utils.py bug fix #355 
+                 raise Exception(msg)     def gdrive_download(id='1HaXkef9z6y5l4vUnCYgdmEAj61c6bfWO', name='coco.zip'):     # https://gist.github.com/tanaikech/f0f2d122e05bf5f971611258c22c110f def gdrive_download(id='1n_oKgR81BJtqk75b00eAjdv03qVCQn2f', name='coco128.zip'):      # Downloads a file from Google Drive, accepting presented query      # from utils.google_utils import *; gdrive_download()      t = time.time() 

@@ -1,0 +1,2 @@
+test training default
+verbose false initialize load model set device model none training false device torch utils torchutils select device selectdevice opt device batch size batchsize batch size batchsize half device type cpu half precision supported cuda

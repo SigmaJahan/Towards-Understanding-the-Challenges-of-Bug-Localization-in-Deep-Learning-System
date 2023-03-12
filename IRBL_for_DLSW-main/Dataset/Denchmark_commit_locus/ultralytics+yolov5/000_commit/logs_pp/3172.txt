@@ -1,0 +1,2 @@
+module updates
+utils utils import def conv dwconv act true depthwise convolution def conv dwconv act true depthwise convolution return conv math gcd act act class conv module standard convolution class conv module standard convolution def init self act true chin chout kernel stride groups super conv self init self conv convd groups bias false

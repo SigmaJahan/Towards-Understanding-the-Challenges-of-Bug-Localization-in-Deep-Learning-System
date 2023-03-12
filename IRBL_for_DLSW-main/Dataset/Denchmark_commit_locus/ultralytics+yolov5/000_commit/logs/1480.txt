@@ -1,0 +1,2 @@
+      --verbose bug fix #84 
+              opt.iou_thres,               opt.save_json,               opt.single_cls,              opt.augment)              opt.augment,              opt.verbose)        elif opt.task == 'study':  # run over a range of settings and save/plot          for weights in ['yolov5s.pt', 'yolov5m.pt', 'yolov5l.pt', 'yolov5x.pt']: 

@@ -1,0 +1,2 @@
+silent patches bug fix
+matplotlib use svg faster plt subplots figsize tight layout tightlayout true ravel hist bins linspace rwidth patchesi set color setcolor colors range update colors patchesi set color setcolor colors range update colors bug set ylabel setylabel instances len names set xticks setxticks range len names

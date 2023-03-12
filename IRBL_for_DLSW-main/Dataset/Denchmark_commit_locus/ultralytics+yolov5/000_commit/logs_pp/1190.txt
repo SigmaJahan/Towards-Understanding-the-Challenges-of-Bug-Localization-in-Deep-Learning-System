@@ -1,0 +1,2 @@
+module updates
+self conv self batch normd batchnormd applied cat self act leaky leakyrelu inplace true self sequential cross conv crossconv shortcut range self sequential cross conv crossconv shortcut range def forward self self self self

@@ -1,0 +1,2 @@
+add optimize argument fix runtime errors https github com ultralytics yolov issues
+print prefix starting export torch torch version opt weights replace torchscript filename torch jit trace model img strict false optimize mobile optimizeformobile save https pytorch org tutorials recipes script optimized scriptoptimized html optimize mobile optimizeformobile opt optimize else save print prefix export success saved file size filesize except exception print prefix export failure

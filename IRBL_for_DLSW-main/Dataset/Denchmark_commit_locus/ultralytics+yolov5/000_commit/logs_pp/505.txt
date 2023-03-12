@@ -1,0 +1,2 @@
+inference update
+image imageid category categoryid bbox score image imageid int path pathssi stem split box pred clone xyxy scale coords scalecoords imgssi shape box shapessi shapessi original shape scale coords scalecoords imgsi shape box shapessi shapessi original shape box xyxyxywh box xywh box box center top left topleft corner zip pred tolist box tolist

@@ -1,0 +1,2 @@
+implement yaml safe load safeload implement yaml safe load safeload yaml safe dump safedump
+yol yolov opt project runs train else path opt project stem print created dataset config file config path configpath open config path configpath wandb data dict wandbdatadict yaml load loader yaml safe loader safeloader wandb data dict wandbdatadict yaml safe load safeload return wandb data dict wandbdatadict def setup training setuptraining self opt data dict datadict

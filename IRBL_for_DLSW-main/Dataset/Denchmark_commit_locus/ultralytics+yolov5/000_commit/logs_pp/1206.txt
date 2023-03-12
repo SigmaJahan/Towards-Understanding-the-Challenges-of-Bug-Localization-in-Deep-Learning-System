@@ -1,0 +1,2 @@
+refactor detect arguments refactor detect arguments skalski skalskip kalen mike kalenmike unused comment arguments
+print opt check requirements checkrequirements exclude tensorboard thop opt update update models fix source change warning sourcechangewarning opt weights yolovs yolovm yolovl yolovx detect opt opt strip optimizer stripoptimizer opt weights else detect opt opt detect vars opt

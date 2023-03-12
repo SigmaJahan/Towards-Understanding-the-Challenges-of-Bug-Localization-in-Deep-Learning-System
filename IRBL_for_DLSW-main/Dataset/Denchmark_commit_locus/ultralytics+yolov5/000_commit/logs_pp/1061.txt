@@ -1,0 +1,2 @@
+add check git status checkgitstatus second timeout add check git status checkgitstatus second timeout prevent ssh git bug discussing kalen mike kalenmike cleanup replace timeout check output checkoutput built builtin timeout
+return false def check git status checkgitstatus def check git status checkgitstatus err msg errmsg updates see https github com ultralytics yolov recommend git pull code date print colorstr github end try

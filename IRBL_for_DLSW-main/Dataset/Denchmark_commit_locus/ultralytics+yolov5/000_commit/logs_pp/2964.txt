@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+name main model create name yolovs pretrained true channels classes example model model fuse eval autoshape autoshaping pil inputs nms model model fuse autoshape pil inputs nms verify inference pil import image img image open data images zidane jpg model img print shape imgs image open path data images glob jpg results model imgs results show results print

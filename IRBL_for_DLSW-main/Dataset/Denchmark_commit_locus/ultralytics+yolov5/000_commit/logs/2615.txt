@@ -1,0 +1,2 @@
+      colorstr() updates (#1909)          * W&B ImportError message fix          * colorstr() updates          * colorstr() updates          * colorstr() default to 'blue', 'bold'          * train: magenta          * train: blue 
+             from utils.autoanchor import *; _ = kmean_anchors()      """      thr = 1. / thr     prefix = colorstr('blue', 'bold', 'autoanchor') + ': '     prefix = colorstr('autoanchor: ')        def metric(k, wh):  # compute metrics          r = wh[:, None] / k[None] 

@@ -1,0 +1,2 @@
+      W&B DDP fix (#2574) 
+             fi = fitness(np.array(results).reshape(1, -1))  # weighted combination of [P, R, mAP@.5, mAP@.5-.95]              if fi > best_fitness:                  best_fitness = fi             wandb_logger.end_epoch(best_result=best_fitness == fi)                # Save model              if (not opt.nosave) or (final_epoch and not opt.evolve):  # if save 

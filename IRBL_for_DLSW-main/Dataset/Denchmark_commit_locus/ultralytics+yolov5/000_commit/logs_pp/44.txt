@@ -1,0 +1,2 @@
+check git status checkgitstatus bug fix
+int subprocess check output checkoutput git rev list revlist git rev parse revparse abbrev ref abbrevref head origin master count shell true commits behind �슑截� warning code date commits else commmit use git pull update git clone url download latest print �슑截� warning code date commits else commmit use git pull update git clone url download latest else date url print date url except exception str print print def check requirements checkrequirements file requirements txt

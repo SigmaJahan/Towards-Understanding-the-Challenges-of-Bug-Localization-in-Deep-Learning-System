@@ -1,0 +1,2 @@
+plot images plotimages scale bug fix fix bugs plot images plotimages
+labels image targets imagetargets shape labels conf column conf none labels else image targets imagetargets check confidence presence label pred boxes shape boxes max normalized boxes scale pixels boxes boxes shape boxes max normalized boxes scale pixels boxes elif scale factor scalefactor absolute coords need scale image scales boxes scale factor scalefactor boxes block blockx boxes block blocky box enumerate boxes

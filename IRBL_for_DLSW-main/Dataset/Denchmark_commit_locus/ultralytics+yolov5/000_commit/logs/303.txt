@@ -1,0 +1,2 @@
+      PyTorch version to screen and cleanup (#1325)          * Create flatten_recursive() helper function          * cleanup          * print torch version 
+         # Init weights, biases          initialize_weights(self)          self.info()         print('')         logger.info('')        def forward(self, x, augment=False, profile=False):          if augment: 

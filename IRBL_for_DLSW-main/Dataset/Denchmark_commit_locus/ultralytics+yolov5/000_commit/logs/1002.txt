@@ -1,0 +1,2 @@
+      W&B resume ddp from run link fix (#2579)          * W&B resume ddp from run link fix          * Native DDP W&B support for training, resuming 
+         check_requirements()        # Resume     wandb_run = resume_and_get_id(opt)     wandb_run = check_wandb_resume(opt)      if opt.resume and not wandb_run:  # resume an interrupted run          ckpt = opt.resume if isinstance(opt.resume, str) else get_latest_run()  # specified or most recent path          assert os.path.isfile(ckpt), 'ERROR: --resume checkpoint does not exist' 

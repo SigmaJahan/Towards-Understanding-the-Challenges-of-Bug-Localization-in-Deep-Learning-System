@@ -1,0 +1,2 @@
+tensor board tensorboard ddp graph fix
+ckpt epoch epoch best fitness bestfitness best fitness bestfitness training results trainingresults results file resultsfile read text readtext model deepcopy model module parallel isparallel model else model half model deepcopy parallel deparallel model half ema deepcopy ema ema half updates ema updates optimizer optimizer state dict statedict

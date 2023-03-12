@@ -1,0 +1,2 @@
+demand ondemand pycocotools pip install
+json dump jdict try https github com cocodataset cocoapi blob master python api pythonapi pycoco eval demo pycocoevaldemo ipynb check requirements checkrequirements pycocotools pycocotools coco import coco pycocotools cocoeval import coc oeval cocoeval

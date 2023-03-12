@@ -1,0 +1,2 @@
+add update default hyp dict provided yaml
+need printing every time print hyp overwrite hyp hyp txt optional print using zip hyp keys loadtxt hypk print focal loss gamma hyp gamma flgamma print using focal loss focalloss gamma hyp gamma flgamma def train hyp write results log dir logdir data one run together log dir logdir writer tbwriter log dir logdir

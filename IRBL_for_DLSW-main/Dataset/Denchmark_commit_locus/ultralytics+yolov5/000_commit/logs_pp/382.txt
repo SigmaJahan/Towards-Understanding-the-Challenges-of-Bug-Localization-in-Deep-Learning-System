@@ -1,0 +1,2 @@
+update export img size imgsize comment
+name main parser argparse argument parser argumentparser parser add argument addargument weights type str default yolovs help weights path yolov models parser add argument addargument img size imgsize nargs type int default help image size parser add argument addargument img size imgsize nargs type int default help image size height width parser add argument addargument batch size batchsize type int default help batch size opt parser parse args parseargs opt img size imgsize len opt img size imgsize else expand

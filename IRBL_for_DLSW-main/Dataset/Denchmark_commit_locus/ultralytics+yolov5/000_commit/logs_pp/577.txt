@@ -1,0 +1,2 @@
+hubconf bug fix
+def custom path path model autoshape true verbose true yol yolov custom local model return create path autoshape verbose return create path autoshape autoshape verbose verbose def yolovs pretrained true channels classes autoshape true verbose true

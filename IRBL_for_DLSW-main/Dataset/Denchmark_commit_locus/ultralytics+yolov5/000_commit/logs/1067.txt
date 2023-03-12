@@ -1,0 +1,2 @@
+      Add autoShape() speed profiling (#2459)          * Add autoShape() speed profiling          * Update common.py          * Create README.md          * Update hubconf.py          * cleanuip 
+     return create('yolov5m', pretrained, channels, classes, autoshape)     def yolov5l(pretrained=False, channels=3, classes=80, autoshape=True): def yolov5l(pretrained=True, channels=3, classes=80, autoshape=True):      """YOLOv5-large model from https://github.com/ultralytics/yolov5        Arguments: 

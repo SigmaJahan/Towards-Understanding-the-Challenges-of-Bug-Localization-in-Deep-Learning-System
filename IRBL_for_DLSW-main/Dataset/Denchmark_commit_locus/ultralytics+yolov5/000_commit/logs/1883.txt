@@ -1,0 +1,2 @@
+      Update ci-testing.yml reflecting sys.path additions (#869)          * Update ci-testing.yml          * Update yolo.py          * Update ci-testing.yml          * Update export.py          * Update yolo.py 
+ from utils.torch_utils import (      time_synchronized, fuse_conv_and_bn, model_info, scale_img, initialize_weights, select_device)   logger = logging.getLogger(__name__)     class Detect(nn.Module):      stride = None  # strides computed during build 

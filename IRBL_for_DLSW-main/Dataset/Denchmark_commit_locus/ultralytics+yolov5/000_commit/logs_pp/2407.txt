@@ -1,0 +1,2 @@
+update utils datasets support webp files simply added webp image format img formats imgformats array webp image files used training data
+parameters help url helpurl https github com ultralytics yolov wiki train custom data traincustomdata img formats imgformats bmp jpg jpeg png tif tiff dng acceptable image suffixes img formats imgformats bmp jpg jpeg png tif tiff dng webp acceptable image suffixes vid formats vidformats mov avi mpg mpeg wmv mkv acceptable video suffixes logger logging get logger getlogger name

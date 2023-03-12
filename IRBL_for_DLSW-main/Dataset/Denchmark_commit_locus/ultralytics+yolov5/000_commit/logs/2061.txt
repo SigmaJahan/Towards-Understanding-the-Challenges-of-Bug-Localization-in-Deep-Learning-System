@@ -1,0 +1,2 @@
+      Explicit opt function arguments (#2817)          * more explicit function arguments          * fix typo in detect.py          * revert import order          * revert import order          * remove default value 
+     with torch.no_grad():          if opt.update:  # update all models (to fix SourceChangeWarning)              for opt.weights in ['yolov5s.pt', 'yolov5m.pt', 'yolov5l.pt', 'yolov5x.pt']:                 detect()                 detect(opt=opt)                  strip_optimizer(opt.weights)          else:             detect()             detect(opt=opt) 

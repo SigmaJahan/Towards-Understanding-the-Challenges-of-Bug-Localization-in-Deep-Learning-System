@@ -1,0 +1,2 @@
+add colab iscolab function
+print colorstr github end try assert path git exists skipping check git repository assert isdocker skipping check docker image assert docker isdocker skipping check docker image assert check online checkonline skipping check offline cmd git fetch git config get remote origin url

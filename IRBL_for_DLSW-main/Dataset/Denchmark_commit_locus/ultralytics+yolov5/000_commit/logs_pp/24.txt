@@ -1,0 +1,2 @@
+uppercase model filenames enabled
+def attempt download attemptdownload file repo ultralytics yolov attempt file download exist file path str file strip replace lower file path str file strip replace file exists try

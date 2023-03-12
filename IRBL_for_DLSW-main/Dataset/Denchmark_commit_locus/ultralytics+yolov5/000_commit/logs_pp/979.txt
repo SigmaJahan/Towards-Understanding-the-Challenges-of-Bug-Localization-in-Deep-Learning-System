@@ -1,0 +1,2 @@
+remove redundant speed study half argument
+img size imgsize print running nrunning point test opt data opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson plots false half true opt opt plots false opt opt append results times savetxt fmt save system zip study zip study txt

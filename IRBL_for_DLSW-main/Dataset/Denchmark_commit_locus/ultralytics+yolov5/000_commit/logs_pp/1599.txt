@@ -1,0 +1,2 @@
+download thread pool threadpool update download thread pool threadpool update update train image count cid
+dir path dir dir mkdir parents true exist existok true make directory threads thread pool threadpool threads imap lambda download one downloadone zip url repeat dir multi threaded multithreaded pool thread pool threadpool threads pool imap lambda download one downloadone zip url repeat dir multi threaded multithreaded pool close pool join else tuple url isinstance url str else url download one downloadone dir

@@ -1,0 +1,2 @@
+update curve update curve legend outside list path glob
+nan show zero loss values normalize label labelsfi len labels else path stem label labelsfi len labels else stem axi plot marker label label linewidth markersize axi set title settitle share train val loss axes

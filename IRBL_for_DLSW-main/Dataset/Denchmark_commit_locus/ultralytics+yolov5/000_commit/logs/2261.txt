@@ -1,0 +1,2 @@
+      Update inference default to multi_label=False (#2252)          * Update inference default to multi_label=False          * bug fix          * Update plots.py          * Update plots.py 
+ import requests  import torch  import torch.nn as nn from PIL import Image, ImageDraw from PIL import Image    from utils.datasets import letterbox  from utils.general import non_max_suppression, make_divisible, scale_coords, xyxy2xywh 

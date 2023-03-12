@@ -1,0 +1,2 @@
+      Create date_modified() (#2616)          Updated device selection string with fallback for non-git directories.     ```python     def select_device(device='', batch_size=None):         # device = 'cpu' or '0' or '0,1,2,3'         s = f'YOLOv5 �윓� {git_describe() or date_modified()} torch {torch.__version__} '  # string     ...     ``` 
+# PyTorch utils # YOLOv5 PyTorch utils  import datetime  import logging  import math  import os 

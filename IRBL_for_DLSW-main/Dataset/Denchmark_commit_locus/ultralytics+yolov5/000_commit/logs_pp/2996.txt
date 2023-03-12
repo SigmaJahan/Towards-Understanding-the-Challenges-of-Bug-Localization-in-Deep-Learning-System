@@ -1,0 +1,2 @@
+offset balance update
+open targets txt file file write tuple torch cat txyi twhi lobj eobj bceobj tobj obj loss lobj eobj bceobj tobj balancei obj loss lbox giou lobj obj lcls cls output count scaling lbox giou lobj obj lcls cls tobj shape batch size red sum loss gain

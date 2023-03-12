@@ -1,0 +1,2 @@
+torch tensor fromtensor bug fix
+rank indices torch zeros dataset dtype torch int rank indices torch tensor fromtensor dataset indices dtype torch int indices torch tensor dataset indices dtype torch int dist broadcast indices rank dataset indices indices cpu numpy

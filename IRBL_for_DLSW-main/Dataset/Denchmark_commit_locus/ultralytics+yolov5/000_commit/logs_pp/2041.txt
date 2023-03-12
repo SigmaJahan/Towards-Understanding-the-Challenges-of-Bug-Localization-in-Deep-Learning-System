@@ -1,0 +1,2 @@
+fix onnx export using grid simplify dynamic simultaneously update yolo update export fix export grid update export remove detect export attribute rearrange order remove grid default inplace false rename exp dynamic expdynamic onnx dynamic onnxdynamic comment replace anchor gridi anchorgridi index update export authored coauthoredby glenn jocher
+self anchor gridi anchorgridi else yol yolov aws inferentia https github com ultralytics yolov pull self gridi self stridei self anchor gridi anchorgridi self anchor gridi anchorgridi view self torch cat append view self

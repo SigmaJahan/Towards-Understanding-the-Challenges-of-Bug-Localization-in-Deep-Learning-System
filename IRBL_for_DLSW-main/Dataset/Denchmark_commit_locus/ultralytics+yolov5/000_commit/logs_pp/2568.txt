@@ -1,0 +1,2 @@
+add xywhnxyxy
+img ratio pad letterbox img shape auto false scaleup self augment shapes pad coco map rescaling load labels labels self labelsindex size normalized xywh pixel xyxy format labels copy labels ratio pad pad width labels ratio pad pad height labels ratio pad labels ratio pad labels self labelsindex copy labels size normalized xywh pixel xyxy format labels xywhnxyxy labels ratio ratio padw pad padh pad self augment augment imagespace

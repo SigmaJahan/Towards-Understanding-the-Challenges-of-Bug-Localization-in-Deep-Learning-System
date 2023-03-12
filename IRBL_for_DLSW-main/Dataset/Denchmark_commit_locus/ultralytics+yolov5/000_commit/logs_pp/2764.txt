@@ -1,0 +1,2 @@
+cache bug fix caching bug fix zeros
+fig savefig comparison png dpi def output target outputtotarget output width height def output target outputtotarget output convert model output target format batch batchid class classid conf isinstance output torch tensor output output cpu numpy targets enumerate output none pred box pred box box width box box height box width box height conf pred cls int pred targets append cls conf box conf cls cpu numpy targets append cls list xyxyxywh array box none conf return array targets

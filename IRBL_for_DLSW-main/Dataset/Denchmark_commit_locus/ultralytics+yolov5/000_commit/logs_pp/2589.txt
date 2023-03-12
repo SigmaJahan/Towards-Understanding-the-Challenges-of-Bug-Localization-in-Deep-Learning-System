@@ -1,0 +1,2 @@
+save txt savetxt bug fix
+append text file save txt savetxt torch tensor shapessi normalization gain whwh txt path txtpath str path pathssi stem pred scale coords scalecoords imgsi shape pred shapessi shapessi original xyxy conf cls pred pred clone scale coords scalecoords imgsi shape shapessi shapessi original xyxy conf cls xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh open txt path txtpath txt open str path pathssi stem txt write cls xywh label format clip boxes image bounds

@@ -1,0 +1,2 @@
+update test
+append pycocotools json dictionary save json savejson image imageid category categoryid bbox score image imageid int path pathssi stem split image imageid path pathssi stem box pred clone xyxy scale coords scalecoords imgsi shape box shapessi shapessi original shape box xyxyxywh box xywh box box center top left topleft corner zip pred tolist box tolist jdict append image imageid image imageid jdict append image imageid int image imageid image imageid isnumeric else image imageid category categoryid cococlassint bbox round score round

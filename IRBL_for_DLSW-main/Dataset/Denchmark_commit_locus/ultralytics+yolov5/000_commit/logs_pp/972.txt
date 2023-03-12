@@ -1,0 +1,2 @@
+update yolo
+pass max round else depth gain convd conv bottleneck spp conv dwconv mix convd mixconvd focus bottleneck csp bottleneckcsp cross conv crossconv convd conv bottleneck spp conv dwconv mix convd mixconvd focus cross conv crossconv bottleneck csp bottleneckcsp chf args normal

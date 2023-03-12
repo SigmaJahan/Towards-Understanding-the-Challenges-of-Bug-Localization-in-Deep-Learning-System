@@ -1,0 +1,2 @@
+update train
+write open results file resultsfile write results append metrics val loss valloss len opt name opt bucket system gsutil results resultss txt results file resultsfile opt bucket opt name log tags train box loss boxloss train obj loss objloss train cls loss clsloss train loss

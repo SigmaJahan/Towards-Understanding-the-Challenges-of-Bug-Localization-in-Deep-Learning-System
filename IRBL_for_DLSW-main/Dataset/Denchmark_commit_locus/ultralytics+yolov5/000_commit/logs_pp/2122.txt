@@ -1,0 +1,2 @@
+daemon thread plotting daemon thread plotting remove process batch processbatch plot print
+plot plots save dir savedir train batch trainbatch jpg filename plot images plotimages images imgs targets targets paths paths fname thread target plot images plotimages args imgs targets paths daemon true start writer tbwriter writer tbwriter add image addimage result dataformats hwc global step globalstep epoch writer tbwriter add graph addgraph model imgs add model tensorboard

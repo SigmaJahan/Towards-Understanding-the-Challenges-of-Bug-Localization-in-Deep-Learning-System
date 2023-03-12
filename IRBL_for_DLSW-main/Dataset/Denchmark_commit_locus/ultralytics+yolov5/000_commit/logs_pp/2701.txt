@@ -1,0 +1,2 @@
+add check requirements checkrequirements add check requirements checkrequirements add import parameterize filename add detect test
+set logging setlogging opt global rank globalrank opt global rank globalrank check git status checkgitstatus check requirements checkrequirements resume opt resume resume interrupted run

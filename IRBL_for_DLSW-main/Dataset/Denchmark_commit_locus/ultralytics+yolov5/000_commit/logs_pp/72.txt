@@ -1,0 +1,2 @@
+update hyperparameters add lrf anchors
+scheduler https arxiv org pdf pdf https pytorch org docs stable modules torch optim scheduler lrscheduler html one cycle htmlonecyclelr lambda math cos math epochs cosine lambda math cos math epochs hyp lrf hyp lrf cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda plot scheduler plotlrscheduler optimizer scheduler epochs

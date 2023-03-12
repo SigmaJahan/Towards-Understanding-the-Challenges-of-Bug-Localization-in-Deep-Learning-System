@@ -1,0 +1,2 @@
+update test profiling update test profiling half precision halfprecision half inplace
+model data parallel dataparallel model half half device type cpu half precision halfprecision half precision supported cuda half device type cpu half precision supported cuda half model half

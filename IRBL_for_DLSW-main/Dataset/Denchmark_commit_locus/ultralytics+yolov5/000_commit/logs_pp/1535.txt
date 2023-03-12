@@ -1,0 +1,2 @@
+hybrid auto labelling autolabelling support
+dataloader none save dir savedir path saving images save txt savetxt false auto labelling autolabelling save conf saveconf false save hybrid savehybrid false hybrid auto labelling autolabelling save conf saveconf false save auto label autolabel confidences plots true log imgs logimgs number logged images

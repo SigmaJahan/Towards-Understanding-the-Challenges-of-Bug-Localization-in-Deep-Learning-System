@@ -1,0 +1,2 @@
+utils reorganization utils reorganization add new utils files cleanup simplify reduce datasets remove evolve load webcam loadwebcam cleanup
+start training time time max round hyp warmup epochs warmupepochs number warmup iterations max epochs iterations max round hyp warmup epochs warmupepochs number warmup iterations max epochs iterations min epochs start epoch startepoch limit warmup training maps zeros map per class results map map val loss valloss box obj cls

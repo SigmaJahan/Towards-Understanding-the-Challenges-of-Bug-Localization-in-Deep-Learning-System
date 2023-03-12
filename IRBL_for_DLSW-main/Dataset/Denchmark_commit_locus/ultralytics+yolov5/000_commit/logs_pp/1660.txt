@@ -1,0 +1,2 @@
+update mosaic border
+translate self hyp translate scale self hyp scale shear self hyp shear border border remove border border border remove return img labels def letterbox img new shape newshape color auto true scale fill scalefill false scaleup true def letterbox img new shape newshape color auto true scale fill scalefill false scaleup true resize image pixel multiple pixelmultiple rectangle https github com ultralytics yolov issues shape img shape current shape height width isinstance new shape newshape int

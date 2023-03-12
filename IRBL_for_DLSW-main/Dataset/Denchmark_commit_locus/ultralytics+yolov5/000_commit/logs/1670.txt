@@ -1,0 +1,2 @@
+      Add save_dir to plot_lr_scheduler and plot_labels     Set save_dir = log_dir in train.py 
+     ax[2].scatter(b[2], b[3], c=hist2d(b[2], b[3], 90), cmap='jet')      ax[2].set_xlabel('width')      ax[2].set_ylabel('height')     plt.savefig('labels.png', dpi=200)     plt.savefig(os.path.join(save_dir,'labels.png'), dpi=200)      def plot_evolution_results(hyp):  # from utils.utils import *; plot_evolution_results(hyp) 

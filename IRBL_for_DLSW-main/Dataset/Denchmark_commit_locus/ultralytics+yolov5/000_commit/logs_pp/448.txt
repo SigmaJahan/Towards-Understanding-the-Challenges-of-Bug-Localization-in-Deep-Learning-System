@@ -1,0 +1,2 @@
+sync train test iou thresh iouthresh sync train test iou thresh iouthresh sync train test iou thresh iouthresh weights names lower notebook update
+def attempt download attemptdownload weights attempt download pretrained weights found locally weights weights strip replace file path weights name file path weights name lower msg weights missing try downloading https github com ultralytics yolov releases models yolovs yolovm yolovl yolovx available models

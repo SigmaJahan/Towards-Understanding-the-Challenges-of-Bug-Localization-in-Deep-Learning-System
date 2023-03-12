@@ -1,0 +1,2 @@
+prevent check git status checkgitstatus docker images prevent check git status checkgitstatus running docker images update general
+recommend git pull code date print colorstr github end try path git exists check online checkonline path git exists path dockerenv exists check online checkonline url subprocess check output checkoutput git fetch git config get remote origin url shell true decode utf int subprocess check output checkoutput

@@ -1,0 +1,2 @@
+      Update test.py 
+         device = torch_utils.select_device(opt.device, batch_size=batch_size)            # Remove previous         for f in glob.glob(f'{save_dir}/test_batch*.jpg'):         for f in glob.glob(str(Path(save_dir) / 'test_batch*.jpg')):              os.remove(f)            # Load model 

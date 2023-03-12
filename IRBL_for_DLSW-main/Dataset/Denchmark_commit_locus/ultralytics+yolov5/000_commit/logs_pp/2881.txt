@@ -1,0 +1,2 @@
+update torch utils torchutils
+msdk detach def update attr updateattr self model assign attributes may change training model dict keys startswith setattr self ema getattr model update class attributes ema self ema module parallel isparallel model else self ema model dict items startswith module setattr ema

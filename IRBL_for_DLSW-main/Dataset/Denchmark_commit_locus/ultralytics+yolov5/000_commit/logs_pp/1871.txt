@@ -1,0 +1,2 @@
+read strip
+path isfile sources open sources sources strip read splitlines len strip sources strip read strip splitlines len strip else sources sources

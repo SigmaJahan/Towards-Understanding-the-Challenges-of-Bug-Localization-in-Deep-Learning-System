@@ -1,0 +1,2 @@
+logging add hyperparameters logging add hyperparameters hyp bug fix image logging updates plots wandb cleanup wandb gitignore add cleanup cleanup move wandb import top file wandb evolve update import wandb run finish default anchors
+logging wandb wandb run none opt hyp hyp add hyperparameters wandb run wandbrun wandb init config opt resume allow project yol yolov opt project runs train else path opt project stem name save dir savedir stem

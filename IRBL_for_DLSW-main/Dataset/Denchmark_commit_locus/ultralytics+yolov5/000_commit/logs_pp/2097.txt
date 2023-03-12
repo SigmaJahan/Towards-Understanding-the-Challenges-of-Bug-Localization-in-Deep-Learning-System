@@ -1,0 +1,2 @@
+module updates
+class focus module focus information space cspace def init self def init self none act true chin chout kernel stride padding groups super focus self init self conv conv self conv conv act def forward self return self conv torch cat

@@ -1,0 +1,2 @@
+flops min stride signed signedoffby xiaowo
+try flops thop import profile stride int model stride max hasattr model stride else stride max int model stride max hasattr model stride else img torch zeros model yaml get stride stride device next model parameters device input flops profile deepcopy model inputs img verbose false stride gflops img size imgsize img size imgsize isinstance img size imgsize list else img size imgsize img size imgsize expand int float

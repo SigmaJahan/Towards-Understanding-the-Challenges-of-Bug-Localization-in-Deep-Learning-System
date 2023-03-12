@@ -1,0 +1,2 @@
+      FP16 inference update 
+         torch_utils.model_info(model)          # model.fuse()          model.to(device)         if half:             model.half()  # to FP16            if device.type != 'cpu' and torch.cuda.device_count() > 1:              model = nn.DataParallel(model) 

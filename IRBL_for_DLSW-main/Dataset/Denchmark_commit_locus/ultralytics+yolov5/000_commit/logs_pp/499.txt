@@ -1,0 +1,2 @@
+inference update
+modelc load state dict loadstatedict torch load weights resnet map location maplocation device model load weights modelc device eval half precision half half device type cpu half precision supported cuda half model half set dataloader vid path vidpath vid writer vidwriter none none webcam

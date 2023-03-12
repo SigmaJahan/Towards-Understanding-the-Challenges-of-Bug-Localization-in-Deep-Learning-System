@@ -1,0 +1,2 @@
+updates
+name main parser argparse argument parser argumentparser parser add argument addargument cfg type str default yolovs csp yolovscsp yaml help model yaml parser add argument addargument cfg type str default yolovs yaml help model yaml parser add argument addargument device default help cuda device cpu opt parser parse args parseargs opt cfg glob glob opt cfg recursive true find file

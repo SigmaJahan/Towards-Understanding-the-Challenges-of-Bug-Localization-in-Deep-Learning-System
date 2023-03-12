@@ -1,0 +1,2 @@
+      PyTorch Hub amp.autocast() inference (#2641)          I think this should help speed up CUDA inference, as currently models may be running in FP32 inference mode on CUDA devices unnecesarily. 
+ import torch  import torch.nn as nn  from PIL import Image from torch.cuda import amp    from utils.datasets import letterbox  from utils.general import non_max_suppression, make_divisible, scale_coords, xyxy2xywh 

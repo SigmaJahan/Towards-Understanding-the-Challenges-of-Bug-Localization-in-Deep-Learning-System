@@ -1,0 +1,2 @@
+ciou nan bug fix
+union area union inter union inter iou inter union iou giou diou ciou torch max torch min convex smallest enclosing box width torch max torch min convex height giou generalized iou https arxiv org pdf pdf area carea convex area area carea convex area return iou area carea union area carea giou diou ciou distance complete iou https arxiv org abs convex diagonal squared centerpoint distance squared rho diou

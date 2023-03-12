@@ -1,0 +1,2 @@
+      zero-target training bug fix (#609) 
+     s = 3 / np  # output count scaling      lbox *= h['giou'] * s      lobj *= h['obj'] * s * (1.4 if np == 4 else 1.)     if model.nc > 1:         lcls *= h['cls'] * s     lcls *= h['cls'] * s      bs = tobj.shape[0]  # batch size        loss = lbox + lobj + lcls 

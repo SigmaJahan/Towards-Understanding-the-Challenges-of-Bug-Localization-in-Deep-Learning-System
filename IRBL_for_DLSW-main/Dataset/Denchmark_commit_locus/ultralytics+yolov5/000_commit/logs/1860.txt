@@ -1,0 +1,2 @@
+      utils.general comment updates/bug fixes 
+     def coco_single_class_labels(path='../coco/labels/train2014/', label_class=43):     # Makes single-class coco datasets. from utils.utils import *; coco_single_class_labels()     # Makes single-class coco datasets. from utils.general import *; coco_single_class_labels()      if os.path.exists('new/'):          shutil.rmtree('new/')  # delete output folder      os.makedirs('new/')  # make new output folder 

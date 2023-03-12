@@ -1,0 +1,2 @@
+changed prints logging utils datasets authored coauthoredby glenn jocher
+print assert ret val retval camera error self pipe img path imgpath webcam jpg print webcam self count end logger debug webcam self count padded resize img letterbox img new shape newshape self img size imgsize

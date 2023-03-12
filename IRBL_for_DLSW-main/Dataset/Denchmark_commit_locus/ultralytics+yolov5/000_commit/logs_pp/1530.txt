@@ -1,0 +1,2 @@
+update train test batch size batchsize update train update loss
+process rank ema updates start epoch startepoch accumulate set ema updates testloader create dataloader createdataloader test path testpath imgsz test imgsztest total batch size totalbatchsize opt testloader testloader create dataloader createdataloader test path testpath imgsz test imgsztest batch size batchsize opt testloader hyp hyp cache opt cache images cacheimages opt notest rect true rank world size worldsize opt world size worldsize workers opt workers pad prefix colorstr val

@@ -1,0 +1,2 @@
+refactor dataloader
+maps zeros map per class results map val giou val objectness val classification print image sizes train test imgsz imgsz test imgsztest print using dataloader workers print using dataloader workers dataloader num workers numworkers print starting training epochs epochs torch autograd set detect anomaly setdetectanomaly true epoch range start epoch startepoch epochs epoch

@@ -1,0 +1,2 @@
+      Update detect.py          Added some recent updates that were missing, and updated the filename with an if else. 
+       with torch.no_grad():          detect()          # Update all models         # for opt.weights in ['yolov5s.pt', 'yolov5m.pt', 'yolov5l.pt', 'yolov5x.pt', 'yolov3-spp.pt']:         #    detect()         #    create_pretrained(opt.weights, opt.weights) 

@@ -1,0 +1,2 @@
+update hubconf
+pytorch model return create yolovx pretrained channels classes name main model create name yolovs pretrained true channels classes example

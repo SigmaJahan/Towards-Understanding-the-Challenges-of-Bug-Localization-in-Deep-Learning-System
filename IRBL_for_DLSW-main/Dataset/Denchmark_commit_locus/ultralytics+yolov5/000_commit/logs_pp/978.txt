@@ -1,0 +1,2 @@
+remove redundant speed study half argument
+elif opt task speed speed benchmarks opt weights isinstance opt weights list else opt weights test opt data opt batch size batchsize opt img size imgsize save json savejson false plots false half true opt opt test opt data opt batch size batchsize opt img size imgsize save json savejson false plots false opt opt elif opt task study run range settings save plot python test task study data coco yaml iou weights yolovs yolovm yolovl yolovx

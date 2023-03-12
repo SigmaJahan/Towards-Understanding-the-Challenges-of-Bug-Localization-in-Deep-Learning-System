@@ -1,0 +1,2 @@
+      hyperparameter evolution bug fix (#566) 
+   def train(hyp, opt, device, tb_writer=None):      print(f'Hyperparameters {hyp}')     log_dir = tb_writer.log_dir if tb_writer else 'runs/evolution'  # run directory     log_dir = tb_writer.log_dir if tb_writer else 'runs/evolve'  # run directory      wdir = str(Path(log_dir) / 'weights') + os.sep  # weights directory      os.makedirs(wdir, exist_ok=True)      last = wdir + 'last.pt' 

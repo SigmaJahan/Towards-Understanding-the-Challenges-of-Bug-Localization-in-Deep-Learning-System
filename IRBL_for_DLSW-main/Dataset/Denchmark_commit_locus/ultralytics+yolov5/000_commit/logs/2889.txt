@@ -1,0 +1,2 @@
+      add mosaic and warmup to hyperparameters (#931) 
+       # Start training      t0 = time.time()     nw = max(3 * nb, 1e3)  # number of warmup iterations, max(3 epochs, 1k iterations)     nw = max(round(hyp['warmup_epochs'] * nb), 1e3)  # number of warmup iterations, max(3 epochs, 1k iterations)      # nw = min(nw, (epochs - start_epoch) / 2 * nb)  # limit warmup to < 1/2 of training      maps = np.zeros(nc)  # mAP per class      results = (0, 0, 0, 0, 0, 0, 0)  # 'P', 'R', 'mAP', 'F1', 'val GIoU', 'val Objectness', 'val Classification' 

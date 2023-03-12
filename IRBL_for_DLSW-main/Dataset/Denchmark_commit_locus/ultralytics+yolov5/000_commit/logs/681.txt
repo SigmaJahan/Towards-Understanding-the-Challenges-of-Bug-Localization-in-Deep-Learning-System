@@ -1,0 +1,2 @@
+      Single-source training (#680)          * Single-source training          * Extract hyperparameters into seperate files          * weight decay scientific notation yaml reader bug fix          * remove import glob          * intersect_dicts() implementation          * 'or' bug fix          * .to(device) bug fix 
+         opt.batch_size = opt.total_batch_size // opt.world_size        print(opt)     with open(opt.hyp) as f:         hyp = yaml.load(f, Loader=yaml.FullLoader)  # load hyps        # Train      if not opt.evolve: 

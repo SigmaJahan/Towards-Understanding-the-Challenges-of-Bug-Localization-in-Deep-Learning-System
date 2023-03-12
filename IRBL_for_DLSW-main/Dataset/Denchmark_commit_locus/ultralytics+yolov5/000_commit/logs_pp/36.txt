@@ -1,0 +1,2 @@
+verbose final epoch finalepoch
+plots true log imgs logimgs number logged images compute loss computeloss none initialize load model set device training model none training called train

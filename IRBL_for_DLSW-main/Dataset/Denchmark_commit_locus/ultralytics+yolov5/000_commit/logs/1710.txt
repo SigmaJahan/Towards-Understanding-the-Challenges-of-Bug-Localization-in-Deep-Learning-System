@@ -1,0 +1,2 @@
+      --image_weights bug fix (#1524) 
+                                       single_cls=opt.single_cls,                                        stride=int(stride),                                        pad=pad,                                       rank=rank)                                       rank=rank,                                       image_weights=image_weights)        batch_size = min(batch_size, len(dataset))      nw = min([os.cpu_count() // world_size, batch_size if batch_size > 1 else 0, workers])  # number of workers 

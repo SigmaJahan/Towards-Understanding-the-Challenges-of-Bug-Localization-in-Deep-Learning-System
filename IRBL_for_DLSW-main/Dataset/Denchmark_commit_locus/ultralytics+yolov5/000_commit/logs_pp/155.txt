@@ -1,0 +1,2 @@
+targets scaling bug fix
+axis img size imgsize print running nrunning point test opt data weights opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson test opt data weights opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson plots false append results times savetxt fmt save system zip study zip study txt utils plots plot study txt plotstudytxt plot plot study txt plotstudytxt plot

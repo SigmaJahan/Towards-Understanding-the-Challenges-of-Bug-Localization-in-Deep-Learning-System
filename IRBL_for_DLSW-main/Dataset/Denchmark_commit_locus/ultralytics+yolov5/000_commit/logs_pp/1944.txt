@@ -1,0 +1,2 @@
+torch pytorch hub updates
+class sum module weighted sum layers https arxiv org abs weighted sum layers https arxiv org abs def init self weight false number inputs super sum self init self weight weight apply weights boolean

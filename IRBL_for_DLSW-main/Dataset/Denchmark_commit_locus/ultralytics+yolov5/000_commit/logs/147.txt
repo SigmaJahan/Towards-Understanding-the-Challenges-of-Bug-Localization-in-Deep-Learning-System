@@ -1,0 +1,2 @@
+      Refactor models/export.py arguments (#3564)          * Refactor models/export.py arguments          * cleanup          * cleanup 
+             # print(onnx.helper.printable_graph(model_onnx.graph))  # print                # Simplify             if opt.simplify:             if simplify:                  try:                      check_requirements(['onnx-simplifier'])                      import onnxsim 

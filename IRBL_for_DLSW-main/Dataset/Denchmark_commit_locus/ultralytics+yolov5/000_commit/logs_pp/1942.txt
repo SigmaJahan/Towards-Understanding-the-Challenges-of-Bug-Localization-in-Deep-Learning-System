@@ -1,0 +1,2 @@
+torch pytorch hub updates
+return self self act self torch cat dim class conv plus convplus module plus shaped plusshaped convolution def init self bias true chin chout kernel stride groups super conv plus convplus self init self convd groups bias bias self convd groups bias bias def forward self return self self class spp module spatial pyramid pooling layer used yol spp yolovspp def init self

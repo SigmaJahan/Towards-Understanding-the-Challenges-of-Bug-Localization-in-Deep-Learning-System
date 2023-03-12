@@ -1,0 +1,2 @@
+nms fast mode
+augment false model none dataloader none multi label multilabel true fast false verbose false fast accurate initialize load model set device model none

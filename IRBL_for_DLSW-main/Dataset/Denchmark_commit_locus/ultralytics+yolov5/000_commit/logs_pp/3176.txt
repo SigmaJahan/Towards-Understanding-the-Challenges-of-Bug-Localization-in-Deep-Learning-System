@@ -1,0 +1,2 @@
+module updates
+return self self class spp module spatial pyramid pooling layer used yol spp yolovspp class spp module spatial pyramid pooling layer used yol spp yolovspp def init self super spp self init hidden channels

@@ -1,0 +1,2 @@
+      changed prints to logging in utils/datasets (#1315)          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ from utils.general import xyxy2xywh, xywh2xyxy  from utils.torch_utils import torch_distributed_zero_first   logger = logging.getLogger(__name__)   # Parameters  help_url = 'https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data'  img_formats = ['bmp', 'jpg', 'jpeg', 'png', 'tif', 'tiff', 'dng']  # acceptable image suffixes 

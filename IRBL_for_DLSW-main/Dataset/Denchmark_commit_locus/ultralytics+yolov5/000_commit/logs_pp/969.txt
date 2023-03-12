@@ -1,0 +1,2 @@
+resume repeat bug fix
+mixed precision mixedprecision model optimizer amp initialize model optimizer opt level optlevel verbosity scheduler https arxiv org pdf pdf lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda https discuss pytorch org problem occured resuming optimizer aproblemoccuredwhenresuminganoptimizer plot scheduler plotlrscheduler optimizer scheduler epochs mode device type cpu rank torch cuda device count devicecount model torch data parallel dataparallel model

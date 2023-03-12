@@ -1,0 +1,2 @@
+new len names check
+data dict datadict yaml load loader yaml full loader fullloader model dict train path trainpath data dict datadict train test path testpath data dict datadict val opt single cls singlecls else int data dict datadict number classes names item opt single cls singlecls else int data dict datadict data dict datadict names number classes names assert len names names found dataset len names opt data check remove previous results glob glob batch jpg glob glob results file resultsfile

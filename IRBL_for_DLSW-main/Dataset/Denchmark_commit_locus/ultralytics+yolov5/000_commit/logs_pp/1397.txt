@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+optimizer nbs nominal batch size default ddp implementation slow accumulation according https pytorch org docs stable notes ddp html default ddp implementation slow accumulation according https pytorch org docs stable notes ddp html reduce allreduce operation carried loss backward thus would redundant reduce allreduce communications accumulation procedure means result still right training speed gets slower

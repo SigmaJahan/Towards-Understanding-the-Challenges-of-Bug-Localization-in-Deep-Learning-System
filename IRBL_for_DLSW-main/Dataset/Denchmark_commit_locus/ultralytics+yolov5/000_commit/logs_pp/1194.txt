@@ -1,0 +1,2 @@
+update get voc getvoc
+save img saveimg view img viewimg add bbox image label namesint cls conf plot one box plotonebox xyxy label label color colorsint cls line thickness linethickness plot one box plotonebox xyxy label label color colorsint cls line thickness linethickness print time inference nms print done sdone

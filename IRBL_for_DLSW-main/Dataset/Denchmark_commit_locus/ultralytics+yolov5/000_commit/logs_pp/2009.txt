@@ -1,0 +1,2 @@
+resume bug fix
+testloader testloader create dataloader createdataloader test path testpath imgsz test imgsztest batch size batchsize opt hyp hyp augment false cache opt cache images cacheimages rect true hyp hyp augment false cache opt cache images cacheimages rect true model parameters hyp cls scale coco tuned cocotuned hyp cls current dataset

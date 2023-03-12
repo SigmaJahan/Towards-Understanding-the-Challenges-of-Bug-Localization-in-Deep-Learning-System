@@ -1,0 +1,2 @@
+      Update test.py profiling (#3555)          * Update test.py profiling          * half_precision to half          * inplace 
+         #     model = nn.DataParallel(model)        # Half     half = device.type != 'cpu' and half_precision  # half precision only supported on CUDA     half &= device.type != 'cpu'  # half precision only supported on CUDA      if half:          model.half()   

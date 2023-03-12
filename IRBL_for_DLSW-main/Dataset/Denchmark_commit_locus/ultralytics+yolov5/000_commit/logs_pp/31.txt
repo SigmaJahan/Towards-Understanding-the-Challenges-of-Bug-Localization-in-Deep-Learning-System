@@ -1,0 +1,2 @@
+update tensor board tensorboard
+model initialize biases initializebiases device plots plot labels plotlabels labels names save dir savedir loggers writer tbwriter writer tbwriter add histogram addhistogram classes loggers loggers add histogram addhistogram classes tensor board tensorboard anchors opt noautoanchor

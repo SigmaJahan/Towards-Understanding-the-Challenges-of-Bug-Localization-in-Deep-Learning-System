@@ -1,0 +1,2 @@
+increment train test detect runs increment train test detect runs update testing citesting yml inference images data images move images runs exp runs train exp update results saved str
+increments directory runs exp runs exp comment expcomment number dir str path dir agnostic osagnostic path isdir dir stem dir sep removed path else stem path dir stem dirs sorted glob glob dir directories dirs matches search exp dirs matches search stem dirs idxs int groups matches idxs max idxs increment

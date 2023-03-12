@@ -1,0 +1,2 @@
+add file sizes ckpt ops
+model parameters requires grad requiresgrad true torch save print saved pretrained checkpoint print saved pretrained checkpoint fmb path getsize def coco class count cococlasscount path coco labels train

@@ -1,0 +1,2 @@
+update curve update curve legend outside list path glob
+plt savefig histd png dpi def plot targets txt plottargetstxt utils general import plot targets txt plottargetstxt def plot targets txt plottargetstxt utils plots import plot targets txt plottargetstxt plot targets txt histograms loadtxt targets txt dtype float targets targets width targets height targets

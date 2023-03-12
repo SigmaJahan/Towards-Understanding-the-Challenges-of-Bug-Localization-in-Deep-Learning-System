@@ -1,0 +1,2 @@
+      AutoAnchor update - improvement check 
+     ax[2].set_xlabel('width')      ax[2].set_ylabel('height')      plt.savefig('labels.png', dpi=200)     plt.close()      def plot_evolution_results(hyp):  # from utils.utils import *; plot_evolution_results(hyp) 

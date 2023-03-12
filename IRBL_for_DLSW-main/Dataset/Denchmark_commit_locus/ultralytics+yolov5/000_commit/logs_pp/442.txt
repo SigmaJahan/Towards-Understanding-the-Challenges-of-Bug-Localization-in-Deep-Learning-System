@@ -1,0 +1,2 @@
+autopad update common
+standard convolution def init self none act true chin chout kernel stride padding groups super conv self init self conv convd autopad groups bias false self conv convd autopad groups bias false self batch normd batchnormd self act leaky leakyrelu inplace true act else identity

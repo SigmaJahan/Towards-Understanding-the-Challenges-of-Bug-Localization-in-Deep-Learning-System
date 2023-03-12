@@ -1,0 +1,2 @@
+      Add colorstr() (#1887)          * Add colorful()          * update          * newline fix          * add git description          * --always          * update loss scaling          * update loss scaling 2          * rename to colorstr() 
+ from scipy.cluster.vq import kmeans  from tqdm import tqdm   from utils.general import colorstr     def check_anchor_order(m):      # Check anchor order against stride order for YOLOv5 Detect() module m, and correct if necessary 

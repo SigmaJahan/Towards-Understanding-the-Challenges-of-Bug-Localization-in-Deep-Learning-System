@@ -1,0 +1,2 @@
+fix bug fix update train authored coauthoredby glenn jocher
+save last best delete torch save ckpt last best fitness bestfitness final epoch finalepoch best fitness bestfitness torch save ckpt best del ckpt end epoch

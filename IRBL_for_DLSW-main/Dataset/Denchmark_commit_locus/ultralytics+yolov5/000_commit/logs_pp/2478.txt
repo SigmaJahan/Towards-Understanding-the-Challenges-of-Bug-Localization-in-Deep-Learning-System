@@ -1,0 +1,2 @@
+add isdocker add isdocker update general update general
+return max last list lastlist key path getctime last list lastlist else def isdocker environment docker container return path workspace exists path dockerenv exists def check online checkonline check internet connectivity import socket

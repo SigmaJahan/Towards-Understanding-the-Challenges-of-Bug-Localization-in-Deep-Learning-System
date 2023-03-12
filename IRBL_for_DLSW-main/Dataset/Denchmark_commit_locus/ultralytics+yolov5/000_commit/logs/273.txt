@@ -1,0 +1,2 @@
+      Change optimizer parameters group method (#1239)          * Change optimizer parameters group method          * Add torch nn          * Change isinstance method(torch.Tensor to nn.Parameter)          * parameter freeze fix, PEP8 reformat          * freeze bug fix          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ import math  import numpy as np  import torch.distributed as dist import torch.nn as nn  import torch.nn.functional as F  import torch.optim as optim  import torch.optim.lr_scheduler as lr_scheduler 

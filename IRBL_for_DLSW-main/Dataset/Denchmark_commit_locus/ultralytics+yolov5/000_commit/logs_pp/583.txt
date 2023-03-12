@@ -1,0 +1,2 @@
+fix get latest run getlatestrun search search dir searchdir recursivly
+random seed seed torch utils torchutils init seeds initseeds seed seed def get latest run getlatestrun search dir searchdir runs def get latest run getlatestrun search dir searchdir runs get path recent last run dirs assumes recently saved last desired weights resume last list lastlist glob glob runs weights last last list lastlist glob glob search dir searchdir last recursive true latest max last list lastlist key path getctime return latest

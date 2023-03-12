@@ -1,0 +1,2 @@
+filter none labels value list unpacking filter none labels
+pbar tqdm self label files labelfiles file enumerate pbar self labelsi label shape none shape assert shape label columns file assert negative labels file assert non normalized nonnormalized bounds coordinate labels file

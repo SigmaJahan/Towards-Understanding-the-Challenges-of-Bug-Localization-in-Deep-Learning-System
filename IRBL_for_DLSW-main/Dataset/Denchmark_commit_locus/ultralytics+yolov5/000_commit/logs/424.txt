@@ -1,0 +1,2 @@
+      Update 4 main ops for paths and .run() (#3715)          * Add yolov5/ to path          * rename functions to run()          * cleanup          * rename fix          * CI fix          * cleanup find models/export.py 
+ def main(opt):      set_logging()      print(colorstr('export: ') + ', '.join(f'{k}={v}' for k, v in vars(opt).items()))     export(**vars(opt))     run(**vars(opt))      if __name__ == "__main__": 

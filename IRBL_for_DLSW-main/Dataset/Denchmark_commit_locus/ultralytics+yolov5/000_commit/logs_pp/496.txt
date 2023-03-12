@@ -1,0 +1,2 @@
+detect streaming source save crop savecrop bug fix detect streaming source save crop savecrop bug fix possible fix parenthesis
+label none opt hide labels hidelabels else namesc opt hide conf hideconf else namesc conf plot one box plotonebox xyxy label label color colors true line thickness linethickness opt line thickness linethickness opt save crop savecrop save one box saveonebox xyxy ims file save dir savedir crops namesc stem jpg bgr true save one box saveonebox xyxy imc file save dir savedir crops namesc stem jpg bgr true print time inference nms print done

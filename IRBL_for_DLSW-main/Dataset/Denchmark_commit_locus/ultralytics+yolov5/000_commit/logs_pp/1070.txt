@@ -1,0 +1,2 @@
+add auto shape autoshape speed profiling add auto shape autoshape speed profiling update common create readme update hubconf cleanuip
+torch torch zeros bchw multiple image open image jpg image open image jpg list images time synchronized timesynchronized next self model parameters device type isinstance imgs torch tensor torch return self model imgs device type typeas augment profile inference

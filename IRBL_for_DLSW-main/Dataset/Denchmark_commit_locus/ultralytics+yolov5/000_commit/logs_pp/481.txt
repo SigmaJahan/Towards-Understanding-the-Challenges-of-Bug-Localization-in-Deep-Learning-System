@@ -1,0 +1,2 @@
+leaf variable single cls singlecls training bug fix
+output count scaling lbox giou lobj obj else lcls cls model lcls cls tobj shape batch size loss lbox lobj lcls

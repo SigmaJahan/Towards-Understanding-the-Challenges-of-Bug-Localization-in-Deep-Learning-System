@@ -1,0 +1,2 @@
+add compute loss computeloss class
+forward amp autocast enabled cuda pred model imgs forward loss loss items lossitems compute loss computeloss pred targets device model loss scaled batch size batchsize loss loss items lossitems compute loss computeloss pred targets device loss scaled batch size batchsize rank loss opt world size worldsize gradient averaged devices ddp mode opt quad

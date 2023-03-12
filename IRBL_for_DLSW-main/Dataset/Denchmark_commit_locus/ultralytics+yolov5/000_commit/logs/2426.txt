@@ -1,0 +1,2 @@
+      Add ComputeLoss() class (#1950) 
+          save_hybrid=False,  # for hybrid auto-labelling           save_conf=False,  # save auto-label confidences           plots=True,          log_imgs=0):  # number of logged images          log_imgs=0,  # number of logged images          compute_loss=None):        # Initialize/load model and set device      training = model is not None 

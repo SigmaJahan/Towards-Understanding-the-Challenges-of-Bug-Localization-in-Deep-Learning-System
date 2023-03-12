@@ -1,0 +1,2 @@
+      NMS fast mode 
+          augment=False,           model=None,           dataloader=None,          multi_label=True,          fast=False,           verbose=False):  # 0 fast, 1 accurate      # Initialize/load model and set device      if model is None: 

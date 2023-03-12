@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+perspective image perspective fraction range flipud image flip updown probability fliplr image flip left right leftright probability mosaic image mixup probability mixup image mixup probability assert opt local rank localrank ddp mode implemented evolve

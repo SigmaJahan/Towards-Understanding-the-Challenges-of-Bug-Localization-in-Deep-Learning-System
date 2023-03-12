@@ -1,0 +1,2 @@
+      Update detections() self.t = tuple() (#2617)          * Update detections() self.t = tuple()          Fix multiple results.print() bug.          * Update experimental.py          * Update yolo.py 
+# This file contains experimental modules # YOLOv5 experimental modules    import numpy as np  import torch 

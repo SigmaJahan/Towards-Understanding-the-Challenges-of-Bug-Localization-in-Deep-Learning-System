@@ -1,0 +1,2 @@
+auto download autodownload models
+return try git hub github url https github com ultralytics yolov releases download file url https github com ultralytics yolov releases download file print downloading url weights torch hub download url file downloadurltofile url weights assert path exists weights path getsize weights check

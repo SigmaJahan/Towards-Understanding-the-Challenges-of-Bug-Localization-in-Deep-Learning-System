@@ -1,0 +1,2 @@
+remove opt create dataloader createdataloader
+process rank testloader create dataloader createdataloader test path testpath imgsz test imgsztest batch size batchsize opt testloader testloader create dataloader createdataloader test path testpath imgsz test imgsztest batch size batchsize single cls singlecls hyp hyp cache opt cache images cacheimages opt notest rect true rank world size worldsize opt world size worldsize workers opt workers pad prefix colorstr val

@@ -1,0 +1,2 @@
+repeat sampler repeatsampler outside infinite data loader infinitedataloader
+range len self yield next self iterator class repeat sampler repeatsampler object sampler repeats forever args sampler sampler class repeat sampler repeatsampler object sampler repeats forever def init self sampler self sampler sampler args sampler sampler def iter self true yield iter self sampler def init self sampler self sampler sampler def iter self true yield iter self sampler class load images loadimages inference

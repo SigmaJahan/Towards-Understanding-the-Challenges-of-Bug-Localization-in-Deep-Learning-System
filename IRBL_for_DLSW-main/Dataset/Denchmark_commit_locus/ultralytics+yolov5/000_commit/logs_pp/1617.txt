@@ -1,0 +1,2 @@
+model fuse
+conv bias none conv bconv conv bias else conv bconv torch zeros conv weight size conv bconv torch zeros conv weight size device conv weight device bbn bias weight mul running mean runningmean div torch sqrt running var runningvar eps fusedconv bias copy torch wbn conv bconv reshape reshape bbn

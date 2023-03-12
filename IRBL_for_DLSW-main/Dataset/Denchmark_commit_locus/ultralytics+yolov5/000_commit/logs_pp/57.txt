@@ -1,0 +1,2 @@
+fix logging add logging setup fix fusing layers message fix logging end add logging change logging use logger update yolo tried cloned branch everything seems work fine update yolo authored coauthoredby glenn jocher
+opt parser parse args parseargs opt img size imgsize len opt img size imgsize else expand print opt set logging setlogging input img torch zeros opt batch size batchsize opt img size imgsize image size detection idetection

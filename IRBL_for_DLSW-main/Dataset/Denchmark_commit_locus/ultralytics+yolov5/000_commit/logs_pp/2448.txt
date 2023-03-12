@@ -1,0 +1,2 @@
+image weights compatible faster random index generator mosaic augmentation image weights compatible faster random index generator mosaic augmentation
+labels segments self img size imgsize indices index self indicesrandom randint self range additional image indices indices index random choices self indices additional image indices index enumerate indices load image img load image loadimage self index

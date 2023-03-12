@@ -1,0 +1,2 @@
+yol yolov hub url inference bug fix update common update common update common
+pred sum detections per class str self namesint add string show save render img image fromarray img astype uint isinstance img ndarray else img img image fromarray img isinstance img ndarray else img box conf cls pred xyxy confidence class str namesint cls conf label image draw imagedraw draw img rectangle box width outline colorsint cls plot

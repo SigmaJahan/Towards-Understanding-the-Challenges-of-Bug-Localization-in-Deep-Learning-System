@@ -1,0 +1,2 @@
+      classifier, export, torch seed updates 
+         print('CoreML export failure: %s' % e)        # Finish     print('\nExport complete. Visualize with https://github.com/lutzroeder/netron.')     print('\nExport complete (%.2fs). Visualize with https://github.com/lutzroeder/netron.' % (time.time() - t)) 

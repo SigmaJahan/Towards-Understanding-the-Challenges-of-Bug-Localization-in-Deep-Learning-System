@@ -1,0 +1,2 @@
+small dataset bug fix
+plot train batchg trainbatchg jpg filename res plot images plotimages images imgs targets targets paths paths fname writer tbwriter writer tbwriter add image addimage res dataformats hwc global step globalstep epoch train batchg trainbatchg jpg filename result plot images plotimages images imgs targets targets paths paths fname writer tbwriter result none writer tbwriter add image addimage result dataformats hwc global step globalstep epoch writer tbwriter add graph addgraph model imgs add model tensorboard end batch

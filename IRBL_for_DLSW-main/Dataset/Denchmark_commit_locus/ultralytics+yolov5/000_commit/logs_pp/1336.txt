@@ -1,0 +1,2 @@
+update train
+torch save ckpt best wandb logger wandblogger wandb epoch opt save period saveperiod final epoch finalepoch opt save period saveperiod wandb logger wandblogger log model logmodel last parent opt epoch best model bestmodel best fitness bestfitness wandb logger wandblogger log model logmodel last parent opt epoch best model bestmodel best fitness bestfitness del ckpt end epoch end training end training rank logger info epoch start epoch startepoch epochs completed time time hours plots

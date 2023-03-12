@@ -1,0 +1,2 @@
+tube youtube livestream detection youtube livestream detection dependancy update auto install pafy remove print include youtube youtubedl deps pep reformat youtube url check fix reduce lines add comment update check requirements checkrequirements stream framerate fix update readme cleanup pep remove cap retrieve failure code authored coauthoredby glenn jocher
+success cap retrieve self imgsindex success else self imgsindex time sleep wait time time sleep self fps wait time def iter self self count

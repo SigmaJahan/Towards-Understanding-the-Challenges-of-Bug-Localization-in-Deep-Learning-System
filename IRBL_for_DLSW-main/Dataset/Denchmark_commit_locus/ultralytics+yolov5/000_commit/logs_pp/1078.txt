@@ -1,0 +1,2 @@
+fix list paths add list paths check dataset checkdataset missing raise statement update general authored coauthoredby glenn jocher
+def check git status checkgitstatus suggest git pull repo date platform linux darwin path isfile dockerenv platform system linux darwin path isfile dockerenv subprocess check output checkoutput git git fetch git status uno shell true decode utf branch behind print find branch behind find

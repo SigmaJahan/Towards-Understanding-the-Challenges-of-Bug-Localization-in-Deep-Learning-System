@@ -1,0 +1,2 @@
+update torch utils torchutils
+try flops thop import profile macs profile model inputs torch zeros verbose false gflops macs flops profile deepcopy model inputs torch zeros verbose false gflops flops flops except

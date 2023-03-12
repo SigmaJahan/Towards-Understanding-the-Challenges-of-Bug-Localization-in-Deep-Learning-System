@@ -1,0 +1,2 @@
+      Update requirements.txt (#2021)          * Update requirements.txt          * Update ci-testing.yml          * Update hubconf.py 
+       imgs = [Image.open(x) for x in Path('data/images').glob('*.jpg')]      results = model(imgs)     results.show()      results.print()     results.save() 

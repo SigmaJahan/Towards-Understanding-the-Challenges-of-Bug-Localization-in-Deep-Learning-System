@@ -1,0 +1,2 @@
+revert test module confuse users
+ema update attr updateattr model include hyp names stride final epoch finalepoch epoch epochs opt notest final epoch finalepoch calculate map results maps times eval test opt data results maps times test test opt data batch size batchsize batch size batchsize imgsz imgsz test imgsztest save json savejson final epoch finalepoch opt data endswith sep coco yaml

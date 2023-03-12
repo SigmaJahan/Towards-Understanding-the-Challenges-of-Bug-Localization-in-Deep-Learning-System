@@ -1,0 +1,2 @@
+      update train.py gsutil bucket fix (#463) 
+     del pg0, pg1, pg2        # Load Model     # Avoid multiple downloads.     with torch_distributed_zero_first(local_rank):     with torch_distributed_zero_first(rank):          google_utils.attempt_download(weights)      start_epoch, best_fitness = 0, 0.0      if weights.endswith('.pt'):  # pytorch format 

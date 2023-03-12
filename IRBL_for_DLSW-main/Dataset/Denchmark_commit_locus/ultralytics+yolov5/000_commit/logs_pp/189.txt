@@ -1,0 +1,2 @@
+update fuse conv fuseconvandbn
+https tehnokv com posts fusing batchnorm conv fusingbatchnormandconv torch grad nograd init fusedconv torch convd conv channels inchannels conv channels outchannels kernel size kernelsize conv kernel size kernelsize stride conv stride padding conv padding bias true fusedconv convd conv channels inchannels conv channels outchannels kernel size kernelsize conv kernel size kernelsize stride conv stride padding conv padding bias true conv weight device prepare filters conv wconv conv weight clone view conv channels outchannels

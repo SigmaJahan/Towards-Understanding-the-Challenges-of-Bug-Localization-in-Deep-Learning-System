@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+new unpad newunpad int round shape int round shape new shape newshape new unpad newunpad new shape newshape new unpad newunpad padding auto minimum rectangle mod mod padding mod stride mod stride padding elif scale fill scalefill stretch new unpad newunpad new shape newshape new shape newshape

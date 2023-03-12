@@ -1,0 +1,2 @@
+rect test bug fix
+model img half half else img device type cpu else none run path data test opt task test else data val path val test images dataloader create dataloader createdataloader path imgsz batch size batchsize model stride max opt hyp none augment false cache false pad rect false hyp none augment false cache false pad rect true seen names model names hasattr model names else model module names

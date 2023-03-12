@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+returns pytorch model set logging setlogging verbose verbose model torch load path model pathormodel isinstance path model pathormodel str else path model pathormodel load checkpoint isinstance model dict model model ema model get ema else model load model

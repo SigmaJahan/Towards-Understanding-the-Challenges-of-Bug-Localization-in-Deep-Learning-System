@@ -1,0 +1,2 @@
+remove ema ema hasattr ema module check
+ckpt epoch epoch best fitness bestfitness best fitness bestfitness training results trainingresults read model ema ema module hasattr ema module else ema ema model ema ema optimizer none final epoch finalepoch else optimizer state dict statedict save last best delete

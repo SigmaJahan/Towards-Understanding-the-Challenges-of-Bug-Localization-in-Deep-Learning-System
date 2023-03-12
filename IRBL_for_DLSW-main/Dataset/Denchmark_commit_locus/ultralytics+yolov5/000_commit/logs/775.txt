@@ -1,0 +1,2 @@
+      Update PR curve (#1428)          * Update PR curve          * legend outside          * list(Path().glob()) 
+         cv2.putText(img, label, (c1[0], c1[1] - 2), 0, tl / 3, [225, 255, 255], thickness=tf, lineType=cv2.LINE_AA)     def plot_wh_methods():  # from utils.general import *; plot_wh_methods() def plot_wh_methods():  # from utils.plots import *; plot_wh_methods()      # Compares the two methods for width-height anchor multiplication      # https://github.com/ultralytics/yolov3/issues/168      x = np.arange(-4.0, 4.0, .1) 

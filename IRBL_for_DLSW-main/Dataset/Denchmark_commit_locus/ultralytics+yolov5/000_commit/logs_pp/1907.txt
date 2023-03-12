@@ -1,0 +1,2 @@
+anchor override
+class model module def init self cfg yolovs yaml none model input channels number classes def init self cfg yolovs yaml none anchors none model input channels number classes super model self init isinstance cfg dict self yaml cfg model dict

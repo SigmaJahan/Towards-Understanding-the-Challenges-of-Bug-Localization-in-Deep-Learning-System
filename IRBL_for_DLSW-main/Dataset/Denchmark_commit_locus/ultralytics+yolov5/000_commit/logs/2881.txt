@@ -1,0 +1,2 @@
+      Update torch_utils.py 
+                     v += (1. - d) * msd[k].detach()        def update_attr(self, model):         # Assign attributes (which may change during training)         for k in model.__dict__.keys():             if not k.startswith('_'):                 setattr(self.ema, k, getattr(model, k))         # Update class attributes         ema = self.ema.module if is_parallel(model) else self.ema         for k, v in model.__dict__.items():             if not k.startswith('_') and k != 'module':                 setattr(ema, k, v) 

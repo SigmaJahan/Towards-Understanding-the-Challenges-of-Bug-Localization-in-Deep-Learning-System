@@ -1,0 +1,2 @@
+      autoShape() speed profiling update (#2460) 
+       def print(self):          self.display(pprint=True)  # print results         print(f'Speed: %.1f/%.1f/%.1f ms pre-process/inference/NMS per image at shape {tuple(self.s)}' % tuple(self.t))         print(f'Speed: %.1fms pre-process, %.1fms inference, %.1fms NMS per image at shape {tuple(self.s)}' %               tuple(self.t))                              def show(self):          self.display(show=True)  # show results 

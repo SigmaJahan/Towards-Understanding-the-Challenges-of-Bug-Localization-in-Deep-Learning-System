@@ -1,0 +1,2 @@
+module updates
+class conv module standard convolution def init self act true chin chout kernel stride groups def init self none act true chin chout kernel stride padding groups super conv self init isinstance int else padding self conv convd groups bias false self conv convd autopad groups bias false self batch normd batchnormd self act leaky leakyrelu inplace true act else identity

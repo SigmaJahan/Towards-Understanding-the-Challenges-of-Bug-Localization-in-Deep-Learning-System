@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+load model model attempt load attemptload weights map location maplocation device load model imgsz check img size checkimgsize imgsz model stride max check img size imgsize stride int model stride max model stride imgsz check img size checkimgsize imgsz stride check img size imgsize half model half

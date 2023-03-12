@@ -1,0 +1,2 @@
+max workers dataloader
+rank local rank localrank set first process expected evaluation testloader create dataloader createdataloader test path testpath imgsz test imgsztest total batch size totalbatchsize opt hyp hyp augment false cache opt cache images cacheimages rect true rank world size worldsize opt world size worldsize cache opt cache images cacheimages rect true rank world size worldsize opt world size worldsize workers opt workers model parameters hyp cls scale coco tuned cocotuned hyp cls current dataset

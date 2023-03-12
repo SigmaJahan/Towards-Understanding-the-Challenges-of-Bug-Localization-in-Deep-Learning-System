@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+len images len videos self img size imgsize img size imgsize self stride stride self files images videos self number files self video flag videoflag false true

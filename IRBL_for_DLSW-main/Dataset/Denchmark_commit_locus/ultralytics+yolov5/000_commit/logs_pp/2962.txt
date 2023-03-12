@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+model torch hub load ultralytics yolov yolovs pretrained true channels classes dependencies torch yaml pathlib import path import torch pil import image models yolo import model utils general import set logging setlogging utils google utils googleutils import attempt download attemptdownload dependencies torch yaml pillow set logging setlogging

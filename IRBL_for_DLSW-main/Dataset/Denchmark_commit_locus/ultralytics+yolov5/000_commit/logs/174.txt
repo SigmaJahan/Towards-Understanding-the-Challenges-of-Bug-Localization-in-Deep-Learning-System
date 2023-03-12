@@ -1,0 +1,2 @@
+      switch default inference to FP16 on GPU 
+          save_json=False,           single_cls=False,           augment=False,          half=False,  # FP16           model=None,           dataloader=None,           fast=False, 

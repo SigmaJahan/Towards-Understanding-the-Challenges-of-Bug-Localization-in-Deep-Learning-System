@@ -1,0 +1,2 @@
+      v2.0 Release (#491)          Signed-off-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         elif m is Concat:              c2 = sum([ch[-1 if x == -1 else x + 1] for x in f])          elif m is Detect:             f = f or list(reversed([(-1 if j == i else j - 1) for j, x in enumerate(ch) if x == no]))             args.append([ch[x + 1] for x in f])             if isinstance(args[1], int):  # number of anchors                 args[1] = [list(range(args[1] * 2))] * len(f)          else:              c2 = ch[f]   

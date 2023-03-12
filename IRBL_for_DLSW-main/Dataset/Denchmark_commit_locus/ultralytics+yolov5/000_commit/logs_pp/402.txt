@@ -1,0 +1,2 @@
+add file sizes ckpt ops
+optimizer none model half torch save print optimizer stripped print optimizer stripped fmb path getsize def create pretrained createpretrained weights best weights pretrained utils utils import create pretrained createpretrained

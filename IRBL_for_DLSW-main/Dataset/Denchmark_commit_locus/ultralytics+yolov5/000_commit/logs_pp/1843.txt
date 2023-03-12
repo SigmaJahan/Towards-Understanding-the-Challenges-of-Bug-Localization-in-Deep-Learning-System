@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+convd pass init kaiming normal kaimingnormal weight mode fan fanout nonlinearity relu elif batch normd batchnormd eps eps momentum elif leaky leakyrelu relu relu inplace true

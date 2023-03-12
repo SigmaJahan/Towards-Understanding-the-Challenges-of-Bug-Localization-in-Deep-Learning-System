@@ -1,0 +1,2 @@
+ghost conv ghostconv bug fix
+def init self act true chin chout kernel stride groups super ghost conv ghostconv self init hidden channels self conv act self conv act self conv none act self conv none act def forward self self

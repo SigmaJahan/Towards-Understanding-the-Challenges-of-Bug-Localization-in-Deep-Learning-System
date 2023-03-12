@@ -1,0 +1,2 @@
+remove coco iscoco argument test
+verbose final epoch finalepoch plots plots final epoch finalepoch wandb logger wandblogger wandb logger wandblogger compute loss computeloss compute loss computeloss coco iscoco coco iscoco compute loss computeloss compute loss computeloss write open results file resultsfile

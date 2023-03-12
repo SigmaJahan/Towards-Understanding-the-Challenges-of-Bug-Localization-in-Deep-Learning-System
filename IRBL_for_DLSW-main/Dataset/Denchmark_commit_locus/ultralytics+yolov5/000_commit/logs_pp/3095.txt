@@ -1,0 +1,2 @@
+add train run method update train explicit arguments update train add run method
+map ema update attr updateattr model include yaml hyp names stride class weights classweights final epoch finalepoch epoch epochs opt notest final epoch finalepoch calculate map notest final epoch finalepoch calculate map wandb logger wandblogger current epoch currentepoch epoch results maps test test data dict datadict batch size batchsize batch size batchsize worldsize

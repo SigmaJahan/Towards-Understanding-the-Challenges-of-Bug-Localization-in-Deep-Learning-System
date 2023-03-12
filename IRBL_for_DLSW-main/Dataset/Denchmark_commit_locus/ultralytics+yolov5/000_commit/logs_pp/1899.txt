@@ -1,0 +1,2 @@
+ema non blocking nonblocking true
+loss torch zeros device device jdict stats class apclass batch batchi img targets paths shapes enumerate tqdm dataloader desc img img device img img device non blocking nonblocking true img img half half else img float uint img targets targets device

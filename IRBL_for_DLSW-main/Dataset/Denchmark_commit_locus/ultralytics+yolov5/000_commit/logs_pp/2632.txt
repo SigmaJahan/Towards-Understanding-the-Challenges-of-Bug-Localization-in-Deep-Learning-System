@@ -1,0 +1,2 @@
+fix type error typeerror posix path posixpath object iterable
+test best logger info epochs completed hours epoch start epoch startepoch time time opt data endswith coco yaml coco last best best exists else last speed map tests last best best exists else last speed map tests results test test opt data batch size batchsize batch size batchsize imgsz imgsz test imgsztest

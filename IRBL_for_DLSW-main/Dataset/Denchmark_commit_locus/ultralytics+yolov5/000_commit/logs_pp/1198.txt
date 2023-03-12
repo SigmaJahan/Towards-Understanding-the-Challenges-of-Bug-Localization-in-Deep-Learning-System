@@ -1,0 +1,2 @@
+rect test bug fix
+irect argsort self img files imgfiles self img filesi imgfilesi irect self label files labelfiles self label filesi labelfilesi irect self labels self labelsi irect self shapes sirect arirect

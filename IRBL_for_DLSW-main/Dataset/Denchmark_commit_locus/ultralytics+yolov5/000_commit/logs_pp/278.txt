@@ -1,0 +1,2 @@
+improves docs handling entities resuming wandb logger wandblogger adds latest tag match wandb defaults adds entity handling last tag fixes bug causing finished runs resume removes redundant last tag wandb artifact
+wandb logger wandblogger wandb opt evolve log stripped model wandb logger wandblogger wandb log artifact logartifact str final type model name run wandb logger wandblogger wandb run wandbrun model aliases last best stripped aliases latest best stripped wandb logger wandblogger finish run finishrun else dist destroy process group destroyprocessgroup

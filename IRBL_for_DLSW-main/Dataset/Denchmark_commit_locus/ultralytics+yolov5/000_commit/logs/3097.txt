@@ -1,0 +1,2 @@
+      Add `train.run()` method (#3700)          * Update train.py explicit arguments          * Update train.py          * Add run method 
+             wandb_logger.end_epoch(best_result=best_fitness == fi)                # Save model             if (not opt.nosave) or (final_epoch and not opt.evolve):  # if save             if (not nosave) or (final_epoch and not evolve):  # if save                  ckpt = {'epoch': epoch,                          'best_fitness': best_fitness,                          'training_results': results_file.read_text(), 

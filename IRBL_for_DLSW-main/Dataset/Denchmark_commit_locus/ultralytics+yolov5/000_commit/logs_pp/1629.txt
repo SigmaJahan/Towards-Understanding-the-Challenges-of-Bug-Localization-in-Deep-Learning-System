@@ -1,0 +1,2 @@
+release initial commit remove yolov spp yolovspp test study update study img range update map cleanup speed updates update readme plot
+super conv self init self conv convd autopad groups bias false self batch normd batchnormd self act leaky leakyrelu inplace true act else identity self act hardswish act else identity def forward self return self act self self conv

@@ -1,0 +1,2 @@
+nms updates
+detections matrix xyxy conf cls multi label multilabel conf thres confthres nonzero torch cat boxi unsqueeze float unsqueeze torch cat boxi none none float else best class conf max torch cat box conf unsqueeze float unsqueeze conf conf thres confthres conf max keepdim true torch cat box conf float conf view conf thres confthres filter class classes

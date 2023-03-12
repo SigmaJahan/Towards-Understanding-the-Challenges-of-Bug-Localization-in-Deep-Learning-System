@@ -1,0 +1,2 @@
+reorganize train initialization steps
+ddp mode cuda rank model ddp model device ids deviceids opt local rank localrank output device outputdevice opt local rank localrank model ddp model device ids deviceids opt local rank localrank output device outputdevice opt local rank localrank trainloader dataloader dataset create dataloader createdataloader train path trainpath imgsz batch size batchsize opt

@@ -1,0 +1,2 @@
+      Suppress jit trace warning + graph once (#3454)          * Suppress jit trace warning + graph once          Suppress harmless jit trace warning on TensorBoard add_graph call. Also fix multiple add_graph() calls bug, now only on batch 0.          * Update train.py 
+ import os  import random  import time import warnings  from copy import deepcopy  from pathlib import Path  from threading import Thread 

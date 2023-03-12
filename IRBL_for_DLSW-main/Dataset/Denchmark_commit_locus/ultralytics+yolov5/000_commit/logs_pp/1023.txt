@@ -1,0 +1,2 @@
+update common add classify
+return self torch cat self class flatten module use adaptive avg poold adaptiveavgpoold remove last dimensions def forward self return view size class focus module focus information space cspace def init self none act true chin chout kernel stride padding groups

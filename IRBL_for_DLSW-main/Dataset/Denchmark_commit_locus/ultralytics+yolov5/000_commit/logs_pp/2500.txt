@@ -1,0 +1,2 @@
+bug fix switched rows cols correct detections confusion matrix
+enumerate classes gtclasses sum self matrixgc detection classesmj detectionclassesmj correct self matrixdetection classesmj matrixdetectionclassesmj correct else self matrixself background

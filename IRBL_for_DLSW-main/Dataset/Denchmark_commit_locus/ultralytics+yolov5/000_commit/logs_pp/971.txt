@@ -1,0 +1,2 @@
+update yolo
+def parse model parsemodel model dict modeldict input channels inputchannels print nssss params module arguments print nssss params module arguments anchors anchors depth multiple depthmultiple width multiple widthmultiple len anchors number anchors number outputs anchors classes

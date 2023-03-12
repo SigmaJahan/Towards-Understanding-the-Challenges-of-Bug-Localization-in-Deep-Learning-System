@@ -1,0 +1,2 @@
+      export.py update 
+       # TorchScript export      try:         print('\nStarting TorchScript export with torch %s...' % torch.__version)         print('\nStarting TorchScript export with torch %s...' % torch.__version__)          f = opt.weights.replace('.pt', '.torchscript')  # filename          ts = torch.jit.trace(model, img)          ts.save(f) 

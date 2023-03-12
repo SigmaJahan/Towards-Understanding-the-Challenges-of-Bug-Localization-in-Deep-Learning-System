@@ -1,0 +1,2 @@
+bug fix potential problem img fed model rectangular shape
+mod mod padding elif scale fill scalefill stretch new unpad newunpad new shape newshape ratio new shape newshape shape new shape newshape shape width height ratios new unpad newunpad new shape newshape new shape newshape ratio new shape newshape shape new shape newshape shape width height ratios divide padding sides

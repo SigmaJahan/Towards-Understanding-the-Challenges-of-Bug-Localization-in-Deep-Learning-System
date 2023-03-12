@@ -1,0 +1,2 @@
+update segmentbox comment
+segment segment inside width height xinside yinside return array min min max max else zeros cls xyxy return array min min max max else zeros xyxy def segmentsboxes segments

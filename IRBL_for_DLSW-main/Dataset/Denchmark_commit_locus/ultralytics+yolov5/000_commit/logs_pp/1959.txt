@@ -1,0 +1,2 @@
+update check requirements checkrequirements exclude list
+def butter lowpass filtfilt butterlowpassfiltfilt data cutoff order scipy signal import butter filtfilt https stackoverflow com questions filter smooth scipy numpy howtofiltersmoothwithscipynumpy def butter lowpass butterlowpass cutoff order nyq

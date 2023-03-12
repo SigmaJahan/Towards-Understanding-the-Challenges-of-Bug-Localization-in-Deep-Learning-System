@@ -1,0 +1,2 @@
+      Increase pycocotools robustness (#1396) 
+       # Configure      model.eval()     is_coco = data.endswith('coco.yaml')  # is COCO dataset      with open(data) as f:          data = yaml.load(f, Loader=yaml.FullLoader)  # model dict      check_dataset(data)  # check 

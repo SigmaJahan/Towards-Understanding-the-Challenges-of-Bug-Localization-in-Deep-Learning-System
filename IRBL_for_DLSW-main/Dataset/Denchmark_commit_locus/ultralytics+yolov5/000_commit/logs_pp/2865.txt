@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+settings matplotlib font size matplotlib use svg writing files matplotlib use agg writing files def color list colorlist

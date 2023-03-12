@@ -1,0 +1,2 @@
+gpu export options option skip last layer cuda export support added parameter device fix import cleanup cleanup opt optin grid grid export grid computation default export skip grid current default device cpu gpu export causes onnx core coreml errors authored coauthoredby jan hajek authored coauthoredby glenn jocher
+act silu elif isinstance models yolo detect forward forward export forwardexport assign forward optional model model export true set detect layer export true model model export opt grid set detect layer grid export model img dry run torch script torchscript export

@@ -1,0 +1,2 @@
+      Update inference default to multi_label=False (#2252)          * Update inference default to multi_label=False          * bug fix          * Update plots.py          * Update plots.py 
+     max_nms = 30000  # maximum number of boxes into torchvision.ops.nms()      time_limit = 10.0  # seconds to quit after      redundant = True  # require redundant detections     multi_label = nc > 1  # multiple labels per box (adds 0.5ms/img)     multi_label &= nc > 1  # multiple labels per box (adds 0.5ms/img)      merge = False  # use merge-NMS        t = time.time() 

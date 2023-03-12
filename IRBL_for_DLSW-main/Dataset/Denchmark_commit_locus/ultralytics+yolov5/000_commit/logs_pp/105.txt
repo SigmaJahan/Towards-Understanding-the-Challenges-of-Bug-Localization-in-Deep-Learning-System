@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+warmup interp model interp giou loss ratio obj loss objloss giou model interp iou loss ratio obj loss objloss iou accumulate max interp nbs total batch size totalbatchsize round enumerate optimizer param groups paramgroups bias falls lrs rise

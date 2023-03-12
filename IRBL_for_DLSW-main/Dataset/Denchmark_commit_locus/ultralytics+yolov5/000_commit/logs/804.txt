@@ -1,0 +1,2 @@
+      changed prints to logging in utils/datasets (#1315)          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         # Print          assert ret_val, 'Camera Error %s' % self.pipe          img_path = 'webcam.jpg'         print('webcam %g: ' % self.count, end='')         logger.debug('webcam %g: ', self.count)            # Padded resize          img = letterbox(img0, new_shape=self.img_size)[0] 

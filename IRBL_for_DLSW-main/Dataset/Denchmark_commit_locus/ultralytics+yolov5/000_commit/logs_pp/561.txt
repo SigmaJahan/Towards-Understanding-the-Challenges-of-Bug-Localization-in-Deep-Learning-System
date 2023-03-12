@@ -1,0 +1,2 @@
+improve git describe gitdescribe fix add stderr subprocess stdout catch error messages
+return human readable humanreadable git description gefe https git scm gitscm com docs git describe gitdescribe git path describe tags long always try subprocess check output checkoutput shell true decode return startswith fatal git repository else return subprocess check output checkoutput shell true stderr subprocess stdout decode except subprocess called process error calledprocesserror return return git repository def select device selectdevice device batch size batchsize none

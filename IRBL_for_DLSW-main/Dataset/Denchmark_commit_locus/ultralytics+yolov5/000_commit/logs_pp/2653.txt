@@ -1,0 +1,2 @@
+merge branch master advanced logging advancedlogging
+save json savejson false single cls singlecls false augment false verbose false model none dataloader none fast false verbose false save dir savedir save dir savedir merge false initialize load model set device model none training false device torch utils torchutils select device selectdevice opt device batch size batchsize batch size batchsize half device type cpu half precision supported cuda remove previous glob glob test batch testbatch jpg glob glob save dir savedir test batch testbatch jpg remove load model

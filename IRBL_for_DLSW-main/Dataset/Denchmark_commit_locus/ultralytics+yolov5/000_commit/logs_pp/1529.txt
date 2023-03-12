@@ -1,0 +1,2 @@
+resume bug fix
+parser add argument addargument multi scale multiscale action store true storetrue help vary img size imgsize parser add argument addargument single cls singlecls action store true storetrue help train single class singleclass dataset opt parser parse args parseargs opt weights last opt resume else opt weights opt weights last opt resume opt weights else opt weights opt cfg check file checkfile opt cfg check file opt data check file checkfile opt data check file print opt

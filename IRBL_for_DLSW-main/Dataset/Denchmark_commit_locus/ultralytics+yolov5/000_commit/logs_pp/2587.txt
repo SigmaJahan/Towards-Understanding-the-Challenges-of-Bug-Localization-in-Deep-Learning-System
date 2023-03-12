@@ -1,0 +1,2 @@
+add save yaml opt hyp tensorboard log dir logdir train
+batch size batchsize opt batch size batchsize weights opt weights initial training weights write results log dir logdir data one run together log dir logdir writer tbwriter log dir logdir configure init seeds initseeds open opt data

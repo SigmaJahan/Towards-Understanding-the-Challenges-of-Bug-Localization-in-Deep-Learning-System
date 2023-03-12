@@ -1,0 +1,2 @@
+pretrained model loading bug fix signed signedoffby glenn jocher
+local rank localrank model class weights classweights cpu numpy maps class weights image weights imageweights labels image weights labelstoimageweights dataset labels class weights classweights dataset indices random choices range dataset weights image weights imageweights dataset rand weighted idx dataset indices random choices range dataset weights image weights imageweights dataset rand weighted idx broadcast local rank localrank indices torch zeros dataset dtype torch int

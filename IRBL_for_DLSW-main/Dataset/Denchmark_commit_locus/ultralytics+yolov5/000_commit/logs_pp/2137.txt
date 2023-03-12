@@ -1,0 +1,2 @@
+add stride datasets
+class load images labels loadimagesandlabels dataset training testing def init self path img size imgsize batch size batchsize augment false hyp none rect false image weights imageweights false cache images cacheimages false single cls singlecls false pad cache images cacheimages false single cls singlecls false stride pad try path str path path agnostic osagnostic parent str path path parent sep

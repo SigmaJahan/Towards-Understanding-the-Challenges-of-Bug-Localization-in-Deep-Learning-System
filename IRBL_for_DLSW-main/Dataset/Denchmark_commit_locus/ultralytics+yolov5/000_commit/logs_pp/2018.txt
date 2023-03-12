@@ -1,0 +1,2 @@
+plot labels histogram colors
+matplotlib labels matplotlib use svg faster plt subplots figsize tight layout tightlayout true ravel hist bins linspace rwidth hist bins linspace rwidth patchesi set color setcolor colors range update colors set ylabel setylabel instances len names set xticks setxticks range len names

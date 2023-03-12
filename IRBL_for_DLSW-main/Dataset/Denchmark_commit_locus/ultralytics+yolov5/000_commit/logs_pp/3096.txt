@@ -1,0 +1,2 @@
+add train run method update train explicit arguments update train add run method
+tag zip list mloss list results tags loggers loggers add scalar addscalar tag epoch tensor board tensorboard wandb logger wandblogger wandb loggers wandb wandb logger wandblogger log tag update best map

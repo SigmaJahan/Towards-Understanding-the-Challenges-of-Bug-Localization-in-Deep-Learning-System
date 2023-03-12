@@ -1,0 +1,2 @@
+update loss criteria constructor
+def forward self pred true loss self loss fcn lossfcn pred true pred prob predprob torch sigmoid pred prob logits alpha factor alphafactor true self alpha true self alpha modulating factor modulatingfactor torch abs true pred prob predprob self gamma

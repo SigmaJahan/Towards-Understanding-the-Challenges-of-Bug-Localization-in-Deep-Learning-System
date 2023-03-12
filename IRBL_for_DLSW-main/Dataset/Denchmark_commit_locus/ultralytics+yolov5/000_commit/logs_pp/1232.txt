@@ -1,0 +1,2 @@
+fix suggestion
+xyxy conf cls det save txt savetxt write file xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh open save path savepath save path savepath rfind txt file file write cls xywh label format dataset frame open save path savepath save path savepath rfind txt write cls xywh label format else open save path savepath save path savepath rfind str dataset frame txt write cls xywh label format save img saveimg view img viewimg add bbox image label namesint cls conf

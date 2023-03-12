@@ -1,0 +1,2 @@
+update tensor board tensorboard
+end batch scheduler optimizer param groups paramgroups tensorboard optimizer param groups paramgroups loggers scheduler step ddp process single gpu singlegpu

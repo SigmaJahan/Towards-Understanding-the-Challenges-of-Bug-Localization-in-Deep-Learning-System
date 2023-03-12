@@ -1,0 +1,2 @@
+integer printout integer printout test labels update train
+sin tuple shape isinstance torch tensor else list sout tuple shape isinstance torch tensor else list sum list numel parameters isinstance module else parameters print flops dtf dtb str sin str sout print flops dtf dtb str sin str sout def parallel isparallel model

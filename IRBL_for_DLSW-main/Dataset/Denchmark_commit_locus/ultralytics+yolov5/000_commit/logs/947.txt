@@ -1,0 +1,2 @@
+      Update datasets.py (#494) 
+     return labels     def reduce_img_size(path='../data/sm4/images', img_size=1024):  # from utils.datasets import *; reduce_img_size() def reduce_img_size(path='path/images', img_size=1024):  # from utils.datasets import *; reduce_img_size()      # creates a new ./images_reduced folder with reduced size images of maximum size img_size      path_new = path + '_reduced'  # reduced images path      create_folder(path_new) 

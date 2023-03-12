@@ -1,0 +1,2 @@
+use check file checkfile data
+def process wandb config ddp mode processwandbconfigddpmode opt open opt data open check file checkfile opt data data dict datadict yaml safe load safeload data dict train dir traindir val dir valdir none none isinstance data dict datadict train str data dict datadict train startswith wandbartifactprefix

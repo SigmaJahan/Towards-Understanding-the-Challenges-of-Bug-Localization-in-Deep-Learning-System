@@ -1,0 +1,2 @@
+import yaml yolo
+type model cfg modelcfg dict self model cfg modelcfg model dict else yaml import yaml open model cfg modelcfg self yaml load loader yaml full loader fullloader model dict

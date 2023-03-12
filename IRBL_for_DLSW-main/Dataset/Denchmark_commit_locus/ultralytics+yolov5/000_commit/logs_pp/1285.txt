@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+losses number targets len number outputs balance enumerate layer index layer predictions indicesi image anchor gridy gridx

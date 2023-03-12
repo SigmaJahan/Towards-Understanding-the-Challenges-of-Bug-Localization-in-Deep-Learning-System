@@ -1,0 +1,2 @@
+      Update autoanchor.py with yaml.SafeLoader (#1971) 
+       if isinstance(path, str):  # *.yaml file          with open(path) as f:             data_dict = yaml.load(f, Loader=yaml.FullLoader)  # model dict             data_dict = yaml.load(f, Loader=yaml.SafeLoader)  # model dict          from utils.datasets import LoadImagesAndLabels          dataset = LoadImagesAndLabels(data_dict['train'], augment=True, rect=True)      else: 

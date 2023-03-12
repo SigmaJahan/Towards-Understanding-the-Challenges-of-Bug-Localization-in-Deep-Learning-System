@@ -1,0 +1,2 @@
+inference fix
+batch size batchsize imgsz conf thres confthres iou thres iouthres nms iou thres iouthres nms save json savejson false single cls singlecls false augment false half false model none dataloader none fast false verbose false half false verbose false initialize load model set device model none device torch utils torchutils select device selectdevice opt device batch size batchsize batch size batchsize

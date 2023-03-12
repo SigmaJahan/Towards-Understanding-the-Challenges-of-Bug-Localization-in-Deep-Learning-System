@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+class load webcam loadwebcam inference def init self pipe img size imgsize def init self pipe img size imgsize stride self img size imgsize img size imgsize self stride stride pipe isnumeric pipe eval pipe local camera

@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+assert len names names found dataset len names opt data check remove previous results local rank localrank rank glob glob batch jpg glob glob results file resultsfile remove

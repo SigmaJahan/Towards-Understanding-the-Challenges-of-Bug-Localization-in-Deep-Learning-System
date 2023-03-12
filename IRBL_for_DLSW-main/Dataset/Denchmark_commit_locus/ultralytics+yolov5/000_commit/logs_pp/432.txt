@@ -1,0 +1,2 @@
+update main ops paths run add yolov path rename functions run cleanup rename fix fix cleanup find models export
+opt hyp hyp add hyperparameters run runid torch load weights get wandb wandbid weights endswith path isfile weights else none run runid run runid opt resume else none start fresh run transfer learning run runid run runid opt resume else none start fresh run transfer learning wandb logger wandblogger wandb logger wandblogger opt save dir savedir stem run runid data dict datadict loggers wandb wandb logger wandblogger wandb loggers wandb

@@ -1,0 +1,2 @@
+      YOLOv5 PyTorch Hub models >> check_requirements() (#2592)          Improved user-feedback following requirements auto-update. 
+                 f"Use 'git pull' to update or 'git clone {url}' to download latest."          else:              s = f'up to date with {url} �쐟'         print(s.encode().decode('ascii', 'ignore') if platform.system() == 'Windows' else s)  # emoji-safe         print(emojis(s))  # emoji-safe      except Exception as e:          print(e)   

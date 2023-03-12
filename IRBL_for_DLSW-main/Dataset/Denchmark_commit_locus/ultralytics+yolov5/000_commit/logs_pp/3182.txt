@@ -1,0 +1,2 @@
+remove platform system darwin checks
+print downloading startswith http endswith zip url path name filename platform system darwin avoid mac macos python requests certificate error system curl else torch hub download url file downloadurltofile torch hub download url file downloadurltofile system unzip unzip else bash script system

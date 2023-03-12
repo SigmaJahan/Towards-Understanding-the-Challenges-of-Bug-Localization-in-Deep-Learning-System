@@ -1,0 +1,2 @@
+export update
+torch script torchscript export try print starting nstarting torch script torchscript export torch torch version print starting nstarting torch script torchscript export torch torch version opt weights replace torchscript filename torch jit trace model img save

@@ -1,0 +1,2 @@
+      remove fast, add merge 
+          verbose=False,           model=None,           dataloader=None,          fast=False):          merge=False):      # Initialize/load model and set device      if model is None:          training = False 

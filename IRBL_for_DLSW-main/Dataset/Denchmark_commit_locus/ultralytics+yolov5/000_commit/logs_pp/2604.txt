@@ -1,0 +1,2 @@
+multi gpu multigpu test bug fix
+seen model eval model torch zeros imgsz imgsz device device device type cpu else none run names model module names hasattr model module else model names names model names hasattr model names else model module names cococlass coco coco class cocotocococlass class images targets map map map map

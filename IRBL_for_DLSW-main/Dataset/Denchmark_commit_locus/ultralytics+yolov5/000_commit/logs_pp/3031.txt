@@ -1,0 +1,2 @@
+fix save error multi gpu multigpu
+def update attr updateattr self model update ema attributes model dict items startswith module startswith module process group processgroup reducer setattr self ema

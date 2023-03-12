@@ -1,0 +1,2 @@
+datasets vid formats vidformats updated
+self new video newvideo videos new video else self cap none assert self images videos found path assert self images videos found supported formats nimages snvideos path img formats imgformats vid formats vidformats def iter self self count

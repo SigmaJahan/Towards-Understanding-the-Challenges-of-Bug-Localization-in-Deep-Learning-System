@@ -1,0 +1,2 @@
+model fuse fix export
+attempt download attemptdownload opt weights model torch load opt weights map location maplocation torch device cpu model float model eval model fuse update model model model export true set detect layer export true model img dry run

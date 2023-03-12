@@ -1,0 +1,2 @@
+torch pytorch hub models default cuda available torch pytorch hub models default cuda available device string bug fix
+model names ckpt model names set class names attribute autoshape model model autoshape file uri pil inputs nms return model device select device selectdevice torch cuda available isavailable else cpu default gpu available return model device except exception help url helpurl https github com ultralytics yolov issues

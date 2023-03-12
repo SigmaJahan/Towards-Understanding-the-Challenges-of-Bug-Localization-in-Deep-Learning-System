@@ -1,0 +1,2 @@
+updates
+min minwh max maxwh pixels minimum maximum box width height max det maxdet maximum number detections per image time limit timelimit seconds quit redundant conf thres confthres require redundant detections time time prediction shape number classes

@@ -1,0 +1,2 @@
+detection croppingsaving feature addition detect torch pytorch hub update detect update detect update greetings yml update cropping cleanup update increment path incrementpath update common update detect update detect update detect update common cleanup update detect authored coauthoredby glenn jocher
+def apply classifier applyclassifier model img applies second stage classifier yolo outputs apply second stage classifier yolo outputs isinstance ndarray else enumerate per image none len

@@ -1,0 +1,2 @@
+remove old print statements
+scale image scale gain shear image shear deg need printing every time print hyp def train hyp write results log dir logdir data one run together

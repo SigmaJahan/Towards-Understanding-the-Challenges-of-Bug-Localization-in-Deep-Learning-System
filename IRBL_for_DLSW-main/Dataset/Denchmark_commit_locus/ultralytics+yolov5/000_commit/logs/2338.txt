@@ -1,0 +1,2 @@
+      Unified '/project/name' results saving (#1377)          * Project/name update          * Update ci-testing.yml          * address project with path separator failure mode          * Project/name update          * address project with path separator failure mode          * Update ci-testing.yml          * detect.py default --name bug fix          * missing rstrip PR          * train/exp0 to train/exp 
+

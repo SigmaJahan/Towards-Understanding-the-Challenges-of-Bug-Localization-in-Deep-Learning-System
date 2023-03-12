@@ -1,0 +1,2 @@
+add check imshow checkimshow add check imshow checkimshow update general update general
+set dataloader vid path vidpath vid writer vidwriter none none webcam view img viewimg true view img viewimg check imshow checkimshow cudnn benchmark true set true speed constant image size inference dataset load streams loadstreams source img size imgsize imgsz stride stride else

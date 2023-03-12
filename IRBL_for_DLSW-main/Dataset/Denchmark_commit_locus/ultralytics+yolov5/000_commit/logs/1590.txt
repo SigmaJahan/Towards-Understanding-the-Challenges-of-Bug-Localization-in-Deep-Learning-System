@@ -1,0 +1,2 @@
+      Update loss criteria constructor (#1711) 
+         if rank in [-1, 0]:              # mAP              if ema:                 ema.update_attr(model, include=['yaml', 'nc', 'hyp', 'gr', 'names', 'stride'])                 ema.update_attr(model, include=['yaml', 'nc', 'hyp', 'gr', 'names', 'stride', 'class_weights'])              final_epoch = epoch + 1 == epochs              if not opt.notest or final_epoch:  # Calculate mAP                  results, maps, times = test.test(opt.data, 

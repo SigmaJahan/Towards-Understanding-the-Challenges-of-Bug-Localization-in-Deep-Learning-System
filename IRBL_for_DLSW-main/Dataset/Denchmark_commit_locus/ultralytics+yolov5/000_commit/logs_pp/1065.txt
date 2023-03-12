@@ -1,0 +1,2 @@
+add auto shape autoshape speed profiling add auto shape autoshape speed profiling update common create readme update hubconf cleanuip
+raise exception def yolovs pretrained false channels classes autoshape true def yolovs pretrained true channels classes autoshape true yol small yolovsmall model https github com ultralytics yolov arguments

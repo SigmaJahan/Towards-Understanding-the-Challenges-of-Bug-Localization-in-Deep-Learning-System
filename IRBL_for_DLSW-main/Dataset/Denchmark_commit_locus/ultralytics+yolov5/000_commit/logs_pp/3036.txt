@@ -1,0 +1,2 @@
+parse url authentication parse url authentication urllib parse unquote improved error handling improved error handling remove update check file checkfile
+path file file isfile file exists return file elif file startswith http https download url file file path file name url file file path urllib parse unquote str file name url file decode etc file file split parse authentication https url com file txt auth print downloading url file torch hub download url file downloadurltofile url file assert path file exists path file stat size stsize file download failed url check

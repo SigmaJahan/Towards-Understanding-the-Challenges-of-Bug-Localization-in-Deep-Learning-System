@@ -1,0 +1,2 @@
+      Update detect.py (#2167)          Without this cv2.imshow opens a window but nothing is visible 
+             # Stream results              if view_img:                  cv2.imshow(str(p), im0)                 cv2.waitKey(1) # 1 millisecond                # Save results (image with detections)              if save_img: 

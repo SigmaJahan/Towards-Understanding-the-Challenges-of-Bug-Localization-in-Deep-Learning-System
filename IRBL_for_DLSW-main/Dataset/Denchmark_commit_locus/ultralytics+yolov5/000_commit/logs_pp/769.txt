@@ -1,0 +1,2 @@
+update curve update curve legend outside list path glob
+compute statistics stats concatenate zip stats numpy len stats stats class apclass per class apperclass stats plot plots fname save dir savedir precision recall curve precisionrecallcurve png class apclass per class apperclass stats plot plots save dir savedir save dir savedir names names mean map map mean mean mean mean bincount stats astype int minlength number targets per class

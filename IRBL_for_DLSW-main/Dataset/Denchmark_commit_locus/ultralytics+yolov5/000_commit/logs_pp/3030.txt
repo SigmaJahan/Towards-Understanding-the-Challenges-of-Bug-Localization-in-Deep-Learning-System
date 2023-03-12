@@ -1,0 +1,2 @@
+auto shape autoshape speed profiling update
+def print self self display pprint true print results print speed pre process preprocess inference nms per image shape tuple self tuple self print speed fms pre process preprocess fms inference fms nms per image shape tuple self tuple self def show self self display show true show results

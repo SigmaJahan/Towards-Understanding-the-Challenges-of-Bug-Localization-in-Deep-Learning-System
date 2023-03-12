@@ -1,0 +1,2 @@
+      Replace 'ground truth' with 'labels' (#1337)          * Replace 'ground truth' with 'labels'          * Using torch... update 
+             tpc = tp[i].cumsum(0)                # Recall             recall = tpc / (n_gt + 1e-16)  # recall curve             recall = tpc / (n_l + 1e-16)  # recall curve              r[ci] = np.interp(-pr_score, -conf[i], recall[:, 0])  # r at pr_score, negative x, xp because xp decreases                # Precision 

@@ -1,0 +1,2 @@
+      switch default inference to FP16 on GPU 
+         device = next(model.parameters()).device  # get model device          training = True       # Configure run     # Configure     model.eval()      with open(data) as f:          data = yaml.load(f, Loader=yaml.FullLoader)  # model dict      nc = 1 if single_cls else int(data['nc'])  # number of classes 

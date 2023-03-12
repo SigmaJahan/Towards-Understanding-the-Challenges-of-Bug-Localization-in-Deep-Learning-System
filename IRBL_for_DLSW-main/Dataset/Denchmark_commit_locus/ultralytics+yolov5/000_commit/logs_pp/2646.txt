@@ -1,0 +1,2 @@
+onnx export onnxexport
+fuse convd batch normd batchnormd layers model fuse export mode onnxexport model fuse img torch zeros imgsz opt weights replace opt weights split onnx onnx filename torch onnx export model img verbose false opset version opsetversion validate exported model import onnx model onnx load load onnx model onnx checker check model checkmodel model check well formed print onnx helper printable graph printablegraph model graph print human readable representation graph return half precision half half device type cpu half precision supported cuda half

@@ -1,0 +1,2 @@
+      Default optimize_for_mobile() on TorchScript models (#2908)          Per https://pytorch.org/tutorials/recipes/script_optimized.html this should improve performance on torchscript models (and maybe coreml models also since coremltools operates on a torchscript model input, though this still requires testing). 
+   import torch  import torch.nn as nn from torch.utils.mobile_optimizer import optimize_for_mobile    import models  from models.experimental import attempt_load 

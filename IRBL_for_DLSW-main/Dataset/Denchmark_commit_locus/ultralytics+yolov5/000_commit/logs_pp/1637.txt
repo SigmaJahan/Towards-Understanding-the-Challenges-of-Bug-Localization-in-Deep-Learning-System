@@ -1,0 +1,2 @@
+release initial commit remove yolov spp yolovspp test study update study img range update map cleanup speed updates update readme plot
+last opt weights logger info resuming training last opt weights last opt resume opt weights else opt weights opt global rank globalrank opt global rank globalrank check git status checkgitstatus opt hyp opt hyp data hyp finetune yaml opt weights else data hyp scratch yaml

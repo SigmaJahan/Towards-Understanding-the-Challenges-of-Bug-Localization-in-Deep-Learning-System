@@ -1,0 +1,2 @@
+      PyTorch 1.6.0 update with native AMP (#573)          * PyTorch have Automatic Mixed Precision (AMP) Training.          * Fixed the problem of inconsistent code length indentation          * Fixed the problem of inconsistent code length indentation          * Mixed precision training is turned on by default 
+ import torch.optim as optim  import torch.optim.lr_scheduler as lr_scheduler  import torch.utils.data from torch.cuda import amp  from torch.nn.parallel import DistributedDataParallel as DDP  from torch.utils.tensorboard import SummaryWriter   

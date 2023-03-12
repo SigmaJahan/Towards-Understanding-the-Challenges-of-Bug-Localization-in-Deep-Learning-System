@@ -1,0 +1,2 @@
+      Update test.py --task train val study (#2453)          * Update test.py --task train val study          * update argparser --task 
+     print(opt)      check_requirements()       if opt.task in ['val', 'test']:  # run normally     if opt.task in ('train', 'val', 'test'):  # run normally          test(opt.data,               opt.weights,               opt.batch_size, 

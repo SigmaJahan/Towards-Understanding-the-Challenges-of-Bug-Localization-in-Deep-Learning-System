@@ -1,0 +1,2 @@
+      kmean_anchors() update 
+             f, k = fg, kg.copy()              print_results(k)      k = print_results(k)       return k     

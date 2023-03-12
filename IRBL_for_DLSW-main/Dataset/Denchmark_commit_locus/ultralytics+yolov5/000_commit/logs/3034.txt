@@ -1,0 +1,2 @@
+      Update yolo.py channel array (#2223) 
+         logger.info('%3s%18s%3s%10.0f  %-40s%-30s' % (i, f, n, np, t, args))  # print          save.extend(x % i for x in ([f] if isinstance(f, int) else f) if x != -1)  # append to savelist          layers.append(m_)         if i == 0:             ch = []          ch.append(c2)      return nn.Sequential(*layers), sorted(save)   

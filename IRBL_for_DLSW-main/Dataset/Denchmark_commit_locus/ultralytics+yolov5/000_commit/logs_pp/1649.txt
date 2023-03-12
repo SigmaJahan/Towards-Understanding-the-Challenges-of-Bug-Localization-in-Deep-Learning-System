@@ -1,0 +1,2 @@
+matplotlib agg backend
+utils general import xywhxyxy xyxyxywh utils metrics import fitness settings matplotlib use agg writing files def color list colorlist return first plt colors https stackoverflow com questions python color name rgb pythonfromcolornametorgb

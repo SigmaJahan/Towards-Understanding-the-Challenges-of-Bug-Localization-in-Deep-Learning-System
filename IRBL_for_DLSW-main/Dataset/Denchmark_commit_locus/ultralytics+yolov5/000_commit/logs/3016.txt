@@ -1,0 +1,2 @@
+      Implement yaml.safe_load() (#2876)          * Implement yaml.safe_load()          * yaml.safe_dump() 
+       if isinstance(path, str):  # *.yaml file          with open(path) as f:             data_dict = yaml.load(f, Loader=yaml.SafeLoader)  # model dict             data_dict = yaml.safe_load(f)  # model dict          from utils.datasets import LoadImagesAndLabels          dataset = LoadImagesAndLabels(data_dict['train'], augment=True, rect=True)      else: 

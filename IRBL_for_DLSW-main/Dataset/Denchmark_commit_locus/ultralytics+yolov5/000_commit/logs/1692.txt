@@ -1,0 +1,2 @@
+      Cat apriori to autolabels (#1484) 
+                 tcls_tensor = labels[:, 0]                    # target boxes                 tbox = xywh2xyxy(labels[:, 1:5]) * whwh                 tbox = xywh2xyxy(labels[:, 1:5])                  scale_coords(img[si].shape[1:], tbox, shapes[si][0], shapes[si][1])  # native-space labels                    # Per target class 

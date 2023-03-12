@@ -1,0 +1,2 @@
+multi scale multiscale fix
+momentum interp hyp momentum multi scale multiscale true imgsz random randrange imgsz max imgs shape scale factor opt multi scale multiscale random randrange imgsz imgsz size max imgs shape scale factor math ceil imgs shape new shape stretched multiple gsmultiple imgs interpolate imgs size mode bilinear align corners aligncorners false

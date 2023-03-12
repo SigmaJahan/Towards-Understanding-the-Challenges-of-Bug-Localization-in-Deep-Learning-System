@@ -1,0 +1,2 @@
+add plot results plotresults save location log dir logdir
+system gsutil weights opt bucket opt bucket ispt else none upload opt evolve plot results plotresults save results png plot results plotresults save dir savedir log dir logdir save results png print epochs completed hours epoch start epoch startepoch time time dist destroy process group destroyprocessgroup torch cuda device count devicecount else none torch cuda empty cache emptycache

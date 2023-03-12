@@ -1,0 +1,2 @@
+label caching foundational write rewrite
+def init self path img size imgsize batch size batchsize augment false hyp none rect false image weights imageweights false cache images cacheimages false single cls singlecls false stride pad try image files path isinstance path list else path str path agnostic osagnostic parent str path parent sep

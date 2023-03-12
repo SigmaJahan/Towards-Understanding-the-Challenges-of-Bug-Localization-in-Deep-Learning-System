@@ -1,0 +1,2 @@
+update hyperparameters add lrf anchors
+else hyperparameter evolution metadata mutation scale lower limit lowerlimit upper limit upperlimit meta initial learning rate sgd adam lrf final one cycle onecyclelr learning rate lrf momentum sgd momentum adam beta weight decay weightdecay optimizer weight decay giou giou loss gain

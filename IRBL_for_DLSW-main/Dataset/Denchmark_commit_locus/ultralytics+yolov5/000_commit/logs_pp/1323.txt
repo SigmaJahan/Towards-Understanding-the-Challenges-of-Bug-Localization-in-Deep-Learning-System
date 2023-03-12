@@ -1,0 +1,2 @@
+update test
+opt data check file checkfile opt data check file print opt task val test study opt task val test default run normally opt task val test run normally test opt data opt weights opt batch size batchsize

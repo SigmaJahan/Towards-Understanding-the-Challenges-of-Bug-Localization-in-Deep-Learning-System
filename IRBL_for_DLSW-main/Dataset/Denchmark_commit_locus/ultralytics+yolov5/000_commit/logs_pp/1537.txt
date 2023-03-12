@@ -1,0 +1,2 @@
+hybrid auto labelling autolabelling support
+run nms targets torch tensor width height width height device pixels targetstargets range save txt savetxt else autolabelling targetstargets range save hybrid savehybrid else autolabelling time synchronized timesynchronized output non max suppression nonmaxsuppression inf infout conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres labels time synchronized timesynchronized

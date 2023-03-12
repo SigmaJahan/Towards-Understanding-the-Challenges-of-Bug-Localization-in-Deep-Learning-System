@@ -1,0 +1,2 @@
+update mosaic border
+class load images loadimages inference def init self path img size imgsize def init self path img size imgsize path str path path agnostic osagnostic files path isdir path

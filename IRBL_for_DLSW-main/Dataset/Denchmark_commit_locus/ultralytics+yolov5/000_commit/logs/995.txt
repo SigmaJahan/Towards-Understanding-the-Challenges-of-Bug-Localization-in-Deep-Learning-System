@@ -1,0 +1,2 @@
+      check_git_status() improvements (#1916)          * check_online()          * Update general.py          * update check_git_status()          * reverse rev-parse order          * fetch          * improved responsiveness          * comment          * comment          * remove hyp['giou'] compat warning 
+ import logging  import math  import os import platform  import random  import re  import subprocess 

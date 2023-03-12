@@ -1,0 +1,2 @@
+      torch.cuda.amp bug fix (#2750)          PR https://github.com/ultralytics/yolov5/pull/2725 introduced a very specific bug that only affects multi-GPU trainings. Apparently the cause was using the torch.cuda.amp decorator in the autoShape forward method. I've implemented amp more traditionally in this PR, and the bug is resolved. 
+ import torch  import torch.nn as nn  from PIL import Image from torch.cuda import amp    from utils.datasets import letterbox  from utils.general import non_max_suppression, make_divisible, scale_coords, increment_path, xyxy2xywh 

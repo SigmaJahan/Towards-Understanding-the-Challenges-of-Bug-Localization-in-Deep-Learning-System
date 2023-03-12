@@ -1,0 +1,2 @@
+updated testing settings rebalanced towards latency
+batch size batchsize rect true rectangular inference single cls singlecls opt single cls singlecls single class mode pad fast else padding pad padding batch size batchsize min batch size batchsize len dataset min cpu count cpucount batch size batchsize batch size batchsize else number workers dataloader data loader dataloader dataset

@@ -1,0 +1,2 @@
+add verbose option pytorch hub models add verbose update print logging fix positonal param revert auto formatting changes update hubconf authored coauthoredby glenn jocher
+raise exception def custom path model pathormodel path model autoshape true def custom path model pathormodel path model autoshape true verbose true yol custom yolovcustom model https github com ultralytics yolov arguments options

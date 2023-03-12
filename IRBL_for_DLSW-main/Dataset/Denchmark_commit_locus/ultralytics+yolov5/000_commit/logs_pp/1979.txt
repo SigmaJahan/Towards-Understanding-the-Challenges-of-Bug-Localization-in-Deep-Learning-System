@@ -1,0 +1,2 @@
+update common classify
+self flat flatten def forward self return self flat self conv self aap flatten torch cat self aap isinstance list else cat list return self flat self conv flatten

@@ -1,0 +1,2 @@
+artifacts feature addition log artifacts cleanup
+imgsz imgsz test imgsztest conf thres confthres conf iou thres iouthres iou model attempt load attemptload best best exists else last device half model attempt load attemptload final device half single cls singlecls opt single cls singlecls dataloader testloader save dir savedir save dir savedir

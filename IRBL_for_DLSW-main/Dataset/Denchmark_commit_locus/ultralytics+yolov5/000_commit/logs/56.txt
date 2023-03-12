@@ -1,0 +1,2 @@
+      Fix Logging (#719)          * Add logging setup          * Fix fusing layers message          * Fix logging does not have end          * Add logging          * Change logging to use logger          * Update yolo.py          I tried this in a cloned branch, and everything seems to work fine          * Update yolo.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ import torch    from utils.google_utils import attempt_download from utils.general import set_logging    if __name__ == '__main__':      parser = argparse.ArgumentParser() 

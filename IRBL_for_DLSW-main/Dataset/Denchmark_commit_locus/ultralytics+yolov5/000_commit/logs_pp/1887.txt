@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+webcam view img viewimg true cudnn benchmark true set true speed constant image size inference dataset load streams loadstreams source img size imgsize imgsz dataset load streams loadstreams source img size imgsize imgsz stride stride else save img saveimg true dataset load images loadimages source img size imgsize imgsz dataset load images loadimages source img size imgsize imgsz stride stride get names colors names model module names hasattr model module else model names

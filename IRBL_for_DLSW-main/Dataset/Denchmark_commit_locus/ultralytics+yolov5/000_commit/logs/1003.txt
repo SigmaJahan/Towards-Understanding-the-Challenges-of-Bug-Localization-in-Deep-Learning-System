@@ -1,0 +1,2 @@
+      W&B resume ddp from run link fix (#2579)          * W&B resume ddp from run link fix          * Native DDP W&B support for training, resuming 
+ WANDB_ARTIFACT_PREFIX = 'wandb-artifact://'     def remove_prefix(from_string, prefix): def remove_prefix(from_string, prefix=WANDB_ARTIFACT_PREFIX):      return from_string[len(prefix):]     

@@ -1,0 +1,2 @@
+revert test detect inference default fixed inference bug use half precision replace use half usehalf half replace space pep detect pep detect update half help comment update test revert space authored coauthoredby glenn jocher
+initialize set logging setlogging device select device selectdevice opt device half device type cpu half precision supported cuda half opt half device type cpu half precision supported cuda load model model attempt load attemptload weights map location maplocation device load model

@@ -1,0 +1,2 @@
+      New Colors() class (#2963) 
+                         if crop:                              save_one_box(box, im, file=save_dir / 'crops' / self.names[int(cls)] / self.files[i])                          else:  # all others                             plot_one_box(box, im, label=label, color=colors[int(cls) % 10])                             plot_one_box(box, im, label=label, color=colors(cls))                im = Image.fromarray(im.astype(np.uint8)) if isinstance(im, np.ndarray) else im  # from np              if pprint: 

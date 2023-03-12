@@ -1,0 +1,2 @@
+      Cat apriori to autolabels (#1484) 
+     time_limit = 10.0  # seconds to quit after      redundant = True  # require redundant detections      multi_label = nc > 1  # multiple labels per box (adds 0.5ms/img)     merge = False  # use merge-NMS        t = time.time()      output = [torch.zeros(0, 6)] * prediction.shape[0] 

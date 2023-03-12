@@ -1,0 +1,2 @@
+onnx export onnxexport bug fix
+parser add argument addargument img size imgsize nargs type int default help image size parser add argument addargument batch size batchsize type int default help batch size opt parser parse args parseargs opt img size imgsize len opt img size imgsize else print opt parameters

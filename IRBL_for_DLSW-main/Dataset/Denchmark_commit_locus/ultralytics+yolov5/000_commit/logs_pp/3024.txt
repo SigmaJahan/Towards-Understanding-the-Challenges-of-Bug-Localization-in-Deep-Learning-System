@@ -1,0 +1,2 @@
+implement yaml safe load safeload implement yaml safe load safeload yaml safe dump safedump
+def log dataset artifact logdatasetartifact self data file datafile single cls singlecls project overwrite config overwriteconfig false open data file datafile data yaml load loader yaml safe loader safeloader data dict data yaml safe load safeload data dict names item single cls singlecls else int data data names names enumerate names index dictionary self train artifact trainartifact self create dataset table createdatasettable load images labels loadimagesandlabels

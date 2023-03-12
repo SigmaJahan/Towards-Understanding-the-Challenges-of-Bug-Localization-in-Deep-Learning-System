@@ -1,0 +1,2 @@
+      add stride to datasets.py 
+                 elif mini > 1:                      shapes[i] = [1, 1 / mini]               self.batch_shapes = np.ceil(np.array(shapes) * img_size / 32. + pad).astype(np.int) * 32             self.batch_shapes = np.ceil(np.array(shapes) * img_size / stride + pad).astype(np.int) * stride            # Cache labels          self.imgs = [None] * n 

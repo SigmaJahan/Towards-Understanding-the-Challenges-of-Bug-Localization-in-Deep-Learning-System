@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+warmup epochs warmupepochs warmup epochs fractions warmup momentum warmupmomentum warmup initial momentum warmup bias warmupbiaslr warmup initial bias giou giou loss gain box box loss gain cls cls loss gain cls clspw cls bce loss bceloss positive weight positiveweight obj obj loss gain scale pixels

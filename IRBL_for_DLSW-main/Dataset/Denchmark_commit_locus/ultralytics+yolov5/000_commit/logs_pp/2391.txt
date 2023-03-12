@@ -1,0 +1,2 @@
+detection croppingsaving feature addition detect torch pytorch hub update detect update detect update greetings yml update cropping cleanup update increment path incrementpath update common update detect update detect update detect update common cleanup update detect authored coauthoredby glenn jocher
+webcam batch size batchsize frame pathi imsi copy dataset count else frame path ims getattr dataset frame frame path ims copy getattr dataset frame path path save path savepath str save dir savedir name img jpg

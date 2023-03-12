@@ -1,0 +1,2 @@
+default optimize mobile optimizeformobile torch script torchscript models per https pytorch org tutorials recipes script optimized scriptoptimized html improve performance torchscript models maybe coreml models also since coremltools operates torchscript model input though still requires testing
+import torch import torch torch utils mobile optimizer mobileoptimizer import optimize mobile optimizeformobile import models models experimental import attempt load attemptload

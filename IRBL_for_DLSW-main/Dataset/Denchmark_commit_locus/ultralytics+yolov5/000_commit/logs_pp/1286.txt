@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+lobj eobj bceobj tobj balancei obj loss output count scaling lbox box lbox box lobj obj lcls cls lcls cls tobj shape batch size loss lbox lobj lcls

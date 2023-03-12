@@ -1,0 +1,2 @@
+train gpu memory fix train gpu memory fix ema cuda cuda zeros input device batch index
+writer tbwriter warnings catch warnings catchwarnings warnings simplefilter ignore suppress jit trace warning writer tbwriter add graph addgraph torch jit trace parallel deparallel model imgs strict false graph writer tbwriter add graph addgraph torch jit trace parallel deparallel model imgs strict false elif plots wandb logger wandblogger wandb wandb logger wandblogger log mosaics wandb logger wandblogger wandb image str caption name save dir savedir glob train jpg exists

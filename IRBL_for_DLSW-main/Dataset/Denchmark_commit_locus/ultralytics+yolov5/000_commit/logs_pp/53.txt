@@ -1,0 +1,2 @@
+update caching
+cache path cachepath path self label files labelfiles parent suffix withsuffix cache cached labels cache path cachepath file isfile cache torch load cache path cachepath load cache hash get hash gethash self label files labelfiles self img files imgfiles dataset changed cache hash get hash gethash self label files labelfiles self img files imgfiles cache path cachepath dataset changed cache self cache labels cachelabels cache path cachepath cache recache else cache self cache labels cachelabels cache path cachepath cache

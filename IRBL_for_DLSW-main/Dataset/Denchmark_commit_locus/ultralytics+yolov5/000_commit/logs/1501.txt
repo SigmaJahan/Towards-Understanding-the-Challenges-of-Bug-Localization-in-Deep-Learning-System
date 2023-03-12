@@ -1,0 +1,2 @@
+      hyperparameter evolution bug fix (#566) 
+        'mixup': 0.0}  # image mixup (probability)     def train(hyp, tb_writer, opt, device): def train(hyp, opt, device, tb_writer=None):      print(f'Hyperparameters {hyp}')      log_dir = tb_writer.log_dir if tb_writer else 'runs/evolution'  # run directory      wdir = str(Path(log_dir) / 'weights') + os.sep  # weights directory 

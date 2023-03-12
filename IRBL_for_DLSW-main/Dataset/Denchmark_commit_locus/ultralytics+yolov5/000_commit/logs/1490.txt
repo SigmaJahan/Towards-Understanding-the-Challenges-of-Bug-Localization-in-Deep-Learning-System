@@ -1,0 +1,2 @@
+      zero-target training bug fix (#609) 
+         gain[2:6] = torch.tensor(p[i].shape)[[3, 2, 3, 2]]  # xyxy gain            # Match targets to anchors         t, offsets = targets * gain, 0         t = targets * gain          if nt:              # Matches              r = t[:, :, 4:6] / anchors[:, None]  # wh ratio 

@@ -1,0 +1,2 @@
+hyperparameter printout update
+torch utils torchutils init seeds initseeds seed seed def get latest run getlatestrun search dir searchdir runs def get latest run getlatestrun search dir searchdir runs return path recent last runs resume last list lastlist glob glob search dir searchdir last recursive true return max last list lastlist key path getctime last list lastlist glob glob search dir searchdir last recursive true return max last list lastlist key path getctime def check git status checkgitstatus

@@ -1,0 +1,2 @@
+targets scaling bug fix
+loss compute loss computeloss float train trainout targets model box obj cls run nms time synchronized timesynchronized targets torch tensor width height width height device pixels targetstargets range save txt savetxt else autolabelling time synchronized timesynchronized output non max suppression nonmaxsuppression inf infout conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres labels time synchronized timesynchronized

@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+def train hyp opt device writer tbwriter none print hyperparameters hyp log dir logdir writer tbwriter log dir logdir writer tbwriter else runs evolution run directory log dir logdir writer tbwriter log dir logdir writer tbwriter else runs evolve run directory wdir str path log dir logdir weights sep weights directory makedirs wdir exist existok true last wdir last

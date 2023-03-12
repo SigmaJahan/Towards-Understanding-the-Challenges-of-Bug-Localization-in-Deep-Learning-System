@@ -1,0 +1,2 @@
+allow changed config variable
+entity opt entity name name job type jobtype job type jobtype run runid wandb run else wandb run run runid allow val change allowvalchange true wandb run else wandb run self wandb run wandbrun self job type jobtype training opt resume

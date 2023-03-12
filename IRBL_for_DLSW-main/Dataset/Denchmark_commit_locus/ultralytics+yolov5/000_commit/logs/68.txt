@@ -1,0 +1,2 @@
+      labels.jpg class names (#2454)          * labels.png class names          * fontsize=10 
+     plt.savefig(str(Path(path).name) + '.png', dpi=300)     def plot_labels(labels, save_dir=Path(''), loggers=None): def plot_labels(labels, names=(), save_dir=Path(''), loggers=None):      # plot dataset labels      print('Plotting labels... ')      c, b = labels[:, 0], labels[:, 1:].transpose()  # classes, boxes 

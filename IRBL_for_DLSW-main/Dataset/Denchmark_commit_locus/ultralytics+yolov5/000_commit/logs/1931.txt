@@ -1,0 +1,2 @@
+      export.py update 
+     model.model[-1].export = True  # set Detect() layer export=True      _ = model(img)  # dry run       # Export to TorchScript     # TorchScript export      try:          f = opt.weights.replace('.pt', '.torchscript')  # filename          ts = torch.jit.trace(model, img) 

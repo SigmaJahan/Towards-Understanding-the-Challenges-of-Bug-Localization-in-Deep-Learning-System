@@ -1,0 +1,2 @@
+      Update test.py 
+          verbose=False,           model=None,           dataloader=None,          fast=False,          save_dir='.',          save_dir='',           merge=False):        # Initialize/load model and set device 

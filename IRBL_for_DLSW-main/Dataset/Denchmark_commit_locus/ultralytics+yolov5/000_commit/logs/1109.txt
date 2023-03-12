@@ -1,0 +1,2 @@
+      Update test.py profiling (#3555)          * Update test.py profiling          * half_precision to half          * inplace 
+         lb = [targets[targets[:, 0] == i, 1:] for i in range(nb)] if save_hybrid else []  # for autolabelling          t = time_synchronized()          out = non_max_suppression(out, conf_thres, iou_thres, labels=lb, multi_label=True, agnostic=single_cls)         t1 += time_synchronized() - t         t2 += time_synchronized() - t            # Statistics per image          for si, pred in enumerate(out): 

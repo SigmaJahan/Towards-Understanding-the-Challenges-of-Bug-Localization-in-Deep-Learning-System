@@ -1,0 +1,2 @@
+      utils/wandb_logging PEP8 reformat (#2755)          * wandb_logging PEP8 reformat          * Update wandb_utils.py 
+         train_dir = train_artifact.download()          train_path = Path(train_dir) / 'data/images/'          data_dict['train'] = str(train_path)                if isinstance(data_dict['val'], str) and data_dict['val'].startswith(WANDB_ARTIFACT_PREFIX):          api = wandb.Api()          val_artifact = api.artifact(remove_prefix(data_dict['val']) + ':' + opt.artifact_alias) 

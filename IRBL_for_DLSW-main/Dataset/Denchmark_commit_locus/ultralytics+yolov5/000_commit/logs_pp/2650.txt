@@ -1,0 +1,2 @@
+update models common conv flexible padding
+standard convolution def init self act true chin chout kernel stride groups super conv self init self conv convd groups bias false isinstance int else padding self conv convd groups bias false self batch normd batchnormd self act leaky leakyrelu inplace true act else identity

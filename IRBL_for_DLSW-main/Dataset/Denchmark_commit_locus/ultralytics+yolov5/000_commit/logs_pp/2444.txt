@@ -1,0 +1,2 @@
+backbone save default
+def create backbone createbackbone weights best weights backbone utils utils import create backbone createbackbone create backbone device torch device cpu torch load map location maplocation device torch save update model source change warning sourcechangewarning torch load map location maplocation device optimizer none training results trainingresults none epoch model half model parameters requires grad requiresgrad true torch save

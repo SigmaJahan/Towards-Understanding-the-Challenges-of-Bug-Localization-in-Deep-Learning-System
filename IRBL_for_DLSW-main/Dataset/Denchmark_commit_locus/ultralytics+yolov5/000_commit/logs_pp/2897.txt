@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+self augment augment imagespace self mosaic mosaic img labels random perspective randomperspective img labels degrees hyp degrees translate hyp translate

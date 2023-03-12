@@ -1,0 +1,2 @@
+ciou nan bug fix
+return def bbox iou bboxiou box box xyxy true giou false diou false ciou false def bbox iou bboxiou box box xyxy true giou false diou false ciou false eps returns iou box box box box box box get coordinates bounding boxes xyxy box box box box box box box box box box box box eps box eps box box box eps box eps else transform xywh xyxy box box box box box box box box box box box box box box box box box box box box eps box box box box eps box box box box eps box box box box eps intersection area inter torch min torch max clamp

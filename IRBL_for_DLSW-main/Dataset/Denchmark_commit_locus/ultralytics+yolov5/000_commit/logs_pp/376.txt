@@ -1,0 +1,2 @@
+fix onnx dynamic axes export support onnx simplifier make onnx simplifier optional ensure dynamic export works succesfully onnx simplifier optional update export add dashes authored coauthoredby tim authored coauthoredby glenn jocher
+except exception print prefix export failure onnx export onnx export prefix colorstr onnx try import onnx

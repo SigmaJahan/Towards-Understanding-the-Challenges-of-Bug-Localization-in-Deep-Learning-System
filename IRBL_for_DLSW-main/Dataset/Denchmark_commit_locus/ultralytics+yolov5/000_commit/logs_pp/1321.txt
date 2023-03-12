@@ -1,0 +1,2 @@
+silu export support
+import torch functional swish https arxiv org pdf pdf class swish module silu https arxiv org pdf pdf class silu module export friendly exportfriendly version silu staticmethod def forward return torch sigmoid

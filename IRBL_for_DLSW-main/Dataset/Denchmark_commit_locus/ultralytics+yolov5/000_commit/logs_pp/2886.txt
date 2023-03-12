@@ -1,0 +1,2 @@
+hyperparameter evolution update
+anchor anchort anchor multiple anchormultiple threshold gamma flgamma focal loss gamma efficient det efficientdet default gamma hsv hsvh image hsv hue hsvhue augmentation fraction hsv hsvs image hsv saturation hsvsaturation augmentation fraction hsv hsvv image hsv value hsvvalue augmentation fraction hsv hsvs image hsv saturation hsvsaturation augmentation fraction hsv hsvv image hsv value hsvvalue augmentation fraction degrees image rotation deg translate image translation fraction scale image scale gain

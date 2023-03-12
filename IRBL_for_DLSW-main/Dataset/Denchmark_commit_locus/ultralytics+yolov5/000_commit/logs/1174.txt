@@ -1,0 +1,2 @@
+      Implement `@torch.no_grad()` decorator (#3312)          * `@torch.no_grad()` decorator          * Update detect.py 
+ from utils.torch_utils import select_device, time_synchronized     @torch.no_grad()  def test(data,           weights=None,           batch_size=32, 

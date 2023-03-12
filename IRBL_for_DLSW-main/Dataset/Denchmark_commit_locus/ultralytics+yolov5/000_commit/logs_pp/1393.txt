@@ -1,0 +1,2 @@
+update git describe gitdescribe remote dir usage
+def git describe gitdescribe return human readable humanreadable git description gefe https git scm gitscm com docs git describe gitdescribe path git exists return subprocess check output checkoutput git describe tags long always shell true decode utf else git path file resolve parent describe tags long always try return subprocess check output checkoutput shell true decode except subprocess called process error calledprocesserror return

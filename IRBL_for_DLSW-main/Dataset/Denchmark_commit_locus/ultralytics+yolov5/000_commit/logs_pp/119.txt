@@ -1,0 +1,2 @@
+increase pycocotools robustness
+box box center top left topleft corner zip pred tolist box tolist jdict append image imageid int image imageid image imageid isnumeric else image imageid category categoryid cococlassint category categoryid cococlassint coco iscoco else int bbox round score round

@@ -1,0 +1,2 @@
+      Increment train, test, detect runs/ (#1322)          * Increment train, test, detect runs/          * Update ci-testing.yml          * inference/images to data/images          * move images          * runs/exp to runs/train/exp          * update 'results saved to %s' str 
+                     vid_writer.write(im0)        if save_txt or save_img:         print('Results saved to %s' % Path(out))         print('Results saved to %s' % save_dir)        print('Done. (%.3fs)' % (time.time() - t0))   

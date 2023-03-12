@@ -1,0 +1,2 @@
+      Suppress wandb images size mismatch warning (#3611)          * supress wandb images size mismatch warning          * supress wandb images size mismatch warning          * PEP8 reformat and optimize imports          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+     For more on how this logger is used, see the Weights & Biases documentation:      https://docs.wandb.com/guides/integrations/yolov5      """       def __init__(self, opt, name, run_id, data_dict, job_type='Training'):          # Pre-training routine --          self.job_type = job_type 

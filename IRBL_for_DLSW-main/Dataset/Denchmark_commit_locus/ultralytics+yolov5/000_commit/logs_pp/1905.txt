@@ -1,0 +1,2 @@
+updates
+view self self permute contiguous self training inference self gridi shape shape self gridi shape shape self gridi device device self gridi self make grid makegrid device sigmoid

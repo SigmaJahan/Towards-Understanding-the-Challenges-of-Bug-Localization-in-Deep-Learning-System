@@ -1,0 +1,2 @@
+speed reproducibility speedreproducibility fix
+def init seeds initseeds seed torch manual seed manualseed seed reduce randomness may slower tesla gpus https pytorch org docs stable notes randomness html seed speed reproducibility speedreproducibility tradeoff https pytorch org docs stable notes randomness html seed slower reproducible cudnn deterministic true cudnn benchmark false else faster less reproducible cudnn deterministic false cudnn benchmark true

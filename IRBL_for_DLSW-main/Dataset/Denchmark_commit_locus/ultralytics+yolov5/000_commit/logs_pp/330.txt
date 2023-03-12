@@ -1,0 +1,2 @@
+add file size filesize function add file size filesize function update export
+onnx save model onnx modelonnx except exception print prefix simplifier failure print prefix export success saved print prefix export success saved file size filesize except exception print prefix export failure

@@ -1,0 +1,2 @@
+      PyTorch Hub models default to CUDA:0 if available (#2472)          * PyTorch Hub models default to CUDA:0 if available          * device as string bug fix 
+     else:          s += 'CPU\n'       logger.info(s)  # skip a line     logger.info(s.encode().decode('ascii', 'ignore') if platform.system() == 'Windows' else s)  # emoji-safe      return torch.device('cuda:0' if cuda else 'cpu')     

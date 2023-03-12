@@ -1,0 +1,2 @@
+update caching
+ret val retval img self cap read self frame logger debug video self count self self frame self nframes path print video self count self self frame self nframes path end else read image self count img imread path bgr assert img none image found path logger debug image self count self path print image self count self path end padded resize img letterbox img new shape newshape self img size imgsize

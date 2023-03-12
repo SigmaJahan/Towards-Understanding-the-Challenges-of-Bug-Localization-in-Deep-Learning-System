@@ -1,0 +1,2 @@
+      Add `check_git_status()` 5 second timeout (#3464)          * Add check_git_status() 5 second timeout          This should prevent the SSH Git bug that we were discussing @KalenMike          * cleanup          * replace timeout with check_output built-in timeout 
+         return False     def check_git_status(): def check_git_status(err_msg=', for updates see https://github.com/ultralytics/yolov5'):      # Recommend 'git pull' if code is out of date      print(colorstr('github: '), end='')      try: 

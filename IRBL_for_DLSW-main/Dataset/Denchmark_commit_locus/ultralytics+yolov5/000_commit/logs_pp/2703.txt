@@ -1,0 +1,2 @@
+half fix
+training false else called train device next model parameters device get model device half false training true configure

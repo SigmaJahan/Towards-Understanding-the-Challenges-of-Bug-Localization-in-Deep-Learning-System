@@ -1,0 +1,2 @@
+add nms threshold checks add nms threshold checks fix
+prediction shape number classes prediction conf thres confthres candidates checks assert conf thres confthres invalid confidence threshold conf thres confthres valid values assert iou thres iouthres invalid iou iou thres iouthres valid values settings min minwh max maxwh pixels minimum maximum box width height max det maxdet maximum number detections per image

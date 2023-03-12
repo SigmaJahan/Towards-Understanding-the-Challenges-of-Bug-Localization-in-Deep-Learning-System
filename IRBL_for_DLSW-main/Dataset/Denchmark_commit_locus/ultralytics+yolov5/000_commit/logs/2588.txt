@@ -1,0 +1,2 @@
+      add save yaml of opt and hyp to tensorboard log_dir in train() 
+     model.class_weights = labels_to_class_weights(dataset.labels, nc).to(device)  # attach class weights      model.names = data_dict['names']       #save hyperparamter and training options in run folder     with open(os.path.join(log_dir, 'hyp.yaml', 'w')) as f:         yaml.dump(hyp, f)      with open(os.path.join(log_dir, 'opt.yaml', 'w')) as f:         yaml.dump(opt, f)           # Class frequency      labels = np.concatenate(dataset.labels, 0)      c = torch.tensor(labels[:, 0])  # classes 

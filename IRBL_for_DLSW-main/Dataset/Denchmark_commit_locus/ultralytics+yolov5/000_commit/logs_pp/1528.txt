@@ -1,0 +1,2 @@
+speed profiling improvements speed profiling improvements update torch utils torchutils deepcopy required avoid adding elements model update torch utils torchutils
+prepare filters conv wconv conv weight clone view conv channels outchannels wbn torch diag weight div torch sqrt eps running var runningvar fusedconv weight copy torch wbn conv wconv view fusedconv weight size fusedconv weight copy torch wbn conv wconv view fusedconv weight shape prepare spatial bias conv bconv torch zeros conv weight size device conv weight device conv bias none else conv bias

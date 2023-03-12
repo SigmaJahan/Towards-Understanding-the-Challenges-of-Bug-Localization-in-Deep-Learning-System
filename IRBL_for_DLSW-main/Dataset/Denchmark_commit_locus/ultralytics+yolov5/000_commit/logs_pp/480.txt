@@ -1,0 +1,2 @@
+ema bug fix
+def init self model decay updates create ema self ema deepcopy model module parallel isparallel model else model eval ema next model parameters device type cpu self ema half ema next model parameters device type cpu self ema half ema self updates updates number ema updates self decay lambda decay math exp decay exponential ramp help early epochs self ema parameters

@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+     parser.add_argument('--device', default='', help='cuda device, i.e. 0 or 0,1,2,3 or cpu')      opt = parser.parse_args()      opt.cfg = check_file(opt.cfg)  # check file     device = torch_utils.select_device(opt.device)     device = select_device(opt.device)        # Create model      model = Model(opt.cfg).to(device) 

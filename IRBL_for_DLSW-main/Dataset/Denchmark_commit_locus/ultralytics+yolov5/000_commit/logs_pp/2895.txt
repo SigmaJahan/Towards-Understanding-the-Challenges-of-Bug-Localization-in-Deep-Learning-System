@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+reshape sum sum weighted combination mutate mutation probability sigma mutation probability sigma npr random npr seed int time time array meta values gains

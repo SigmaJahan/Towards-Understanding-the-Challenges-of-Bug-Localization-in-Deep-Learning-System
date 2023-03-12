@@ -1,0 +1,2 @@
+update minimum stride
+del ckpt state dict statedict image sizes int model stride max grid size max stride max int model stride max grid size max stride model model number detection layers used scaling hyp obj imgsz imgsz test imgsztest check img size checkimgsize opt img size imgsize verify imgsz multiples gsmultiples

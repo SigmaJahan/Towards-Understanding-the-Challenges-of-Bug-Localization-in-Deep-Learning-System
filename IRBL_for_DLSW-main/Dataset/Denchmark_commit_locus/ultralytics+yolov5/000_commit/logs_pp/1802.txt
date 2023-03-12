@@ -1,0 +1,2 @@
+move hyp opt yaml save top train fixes bug scaled values saved hyp yaml would cause continuity issues resume
+best wdir best results file resultsfile log dir logdir sep results txt save run settings open path log dir logdir hyp yaml yaml dump hyp sort keys sortkeys false open path log dir logdir opt yaml yaml dump vars opt sort keys sortkeys false epochs opt epochs batch size batchsize opt batch size batchsize weights opt weights initial training weights

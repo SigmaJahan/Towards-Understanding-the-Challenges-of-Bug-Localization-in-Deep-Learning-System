@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+max round hyp warmup epochs warmupepochs number warmup iterations max epochs iterations min epochs start epoch startepoch limit warmup training maps zeros map per class results map val giou val objectness val classification results map map val loss valloss box obj cls scheduler last epoch lastepoch start epoch startepoch move scaler amp grad scaler gradscaler enabled cuda logger info image sizes train testn using testnusing dataloader workersn logging workersnlogging results

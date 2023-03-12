@@ -1,0 +1,501 @@
+🐛 Bug	DESC
+To Reproduce	S2R
+Expected behavior	EB
+Environment	ENV
+Additional context	EXTRA
+Bug	DESC
+Checklist	GUIDE
+Description	DESC
+Related issues or possible duplicates	EXTRA
+Steps to reproduce	S2R
+Possible solution:	SOLUTION
+Proposed solution	SOLUTION
+Environment info	ENV
+Error Message:	OB
+Minimum reproducible example	S2R
+What have you tried to solve it?	SOLUTION
+Environment info (Required)	ENV
+Build info (Required if built from source)	ENV
+======================================================================   FAIL: test_operator.test_init	BOLD
+Environment Info	ENV
+Build Config	ENV
+What I have tried to solve it	SOLUTION
+Reproducing the error	S2R
+Version	ENV
+Analysis	ENV
+Comments	EXTRA
+Package used (Python/R/Scala/Julia):	ENV
+Compiler	ENV
+MXNet commit hash:	EXTRA
+Build config:	ENV
+Error Message	OB
+Build info	ENV
+======================================================================   ERROR: test_pred_vgg16 (test_mxnet_models.ModelsTest)	BOLD
+My Questions	DESC
+Symbol	EXTRA
+Impact on Gluon	EXTRA
+covered cases	S2R
+mxnet_adversarial_vae	BOLD
+named_entity_recognition	BOLD
+restricted-boltzmann-machine	BOLD
+sparse\linear_classification	BOLD
+speech_recognition	BOLD
+Errors	OB
+Using mx.nd.Dropout	BOLD
+Using Custom Dropout	BOLD
+Other examples, including backward pass.	EXTRA
+Network using mx.gluon.nn.Dropout	BOLD
+Network without mx.gluon.nn.Dropout	BOLD
+Issue	DESC
+Solution.	SOLUTION
+Possible cause of this problem	SOLUTION
+Quick fix (IMO)	SOLUTION
+paste outputs here	OB
+Reproduce	S2R
+======================================================================   ERROR: test_subgraph_op.test_subgraph_exe	BOLD
+Command	S2R
+Error Log	OB
+Failing Environments and Errors	ENV
+BLAS = None, MKLDNN = enabled	BOLD
+Feature List	GUIDE
+Error	OB
+BLAS = MKL, MKLDNN = enabled	BOLD
+BLAS = OpenBLAS, MKLDNN = enabled	BOLD
+Successful Environments and Outputs	ENV
+BLAS = None, MKLDNN = disabled	BOLD
+Output	OB
+BLAS = MKL, MKLDNN = disabled	BOLD
+BLAS = OpenBLAS, MKLDNN = disabled	BOLD
+Proposed Resolution	SOLUTION
+Stakeholders	EXTRA
+Proposed Implementation	SOLUTION
+Deliverables	EXTRA
+Acceptance Criteria	EXTRA
+Reproduce:	S2R
+Reference	EXTRA
+Question	EXTRA
+Occurrences	EXTRA
+Environment info  Operating System && Compiler	ENV
+test_topi_conv2d_nchw.py	BOLD
+case verify_conv2d_nchw(1, 3, 224, 64, 7, 3, 2)	BOLD
+case verify_conv2d_nchw(1, 128, 28, 128, 3, 1, 1)	BOLD
+case verify_conv2d_nchw(1, 256, 14, 256, 3, 1, 1)	BOLD
+test_topi_depthwise_conv2d.py	BOLD
+case depthwise_conv2d_with_workload_nhwc(1, 728, 32, 1, 3, 1, "SAME")	BOLD
+case depthwise_conv2d_with_workload_nhwc(1, 728, 32, 1, 3, 1, "VALID")	BOLD
+test_topi_pooling.py	BOLD
+case  verify_pool(1, 256, 32, 2, 2, [0, 0], 'avg')	BOLD
+How to reproduce	S2R
+🐞Describe the bug	DESC
+Trace	OB
+System environment (please complete the following information):	ENV
+Update	EXTRA
+Roughly Line 1375 et al	BOLD
+Load the data	BOLD
+result	OB
+minimum reproduction:	S2R
+Workaround	EXTRA
+Action needed.	S2R
+The Problem	DESC
+Possible Fix	SOLUTION
+System Information	ENV
+Describe the problem	DESC
+Minimal repro / logs	S2R
+Note: created a PR for this issue here	GUIDE
+Reason	SOLUTION
+Stacktrace	OB
+Expected Behavior	EB
+How to Reproduce?	S2R
+Fix	SOLUTION
+Error message or code output	OB
+MWE-1	BOLD
+MWE-2	BOLD
+Model name	BOLD
+Describe the bug	DESC
+Environment:	ENV
+🐛 Bug Report	DESC
+How To Reproduce	S2R
+Screenshots	EXTRA
+Code sample	OB
+Solution	SOLUTION
+Conditions	S2R
+Code to reproduce	S2R
+Error messages	OB
+Code	S2R
+System Configuration	ENV
+Issue summary	DESC
+Executed command (if any)	S2R
+OpenPose output (if any)	OB
+Type of issue	DESC
+Issue Summary	DESC
+Executed Command (if any)	S2R
+OpenPose Output (if any)	OB
+Type of Issue	DESC
+Your System Configuration	ENV
+Posting rules	GUIDE
+Errors (if any)	OB
+To reproduce	S2R
+System information	ENV
+Reproduction	S2R
+Relevant info	EXTRA
+Possibly related issue	EXTRA
+Possibly related issue 2	EXTRA
+Actual behavior	OB
+Suggested solution	SOLUTION
+Additional Context	EXTRA
+Additional	EXTRA
+Expected behaviour	EB
+Configuration	ENV
+Stack traces	OB
+Steps to reproduce (not yet confirmed)	S2R
+Actual behaviour	OB
+Consequence	OB
+Operator	S2R
+API pods	EXTRA
+API pods 2	EXTRA
+Actual Behavior	OB
+Failing Example	S2R
+TypeError: reduce() of empty sequence with no initial value	BOLD
+Error message	OB
+System:	ENV
+Minimal Code	S2R
+Traceback	OB
+❓ Questions and Help	EXTRA
+🚀 Feature	GUIDE
+Comment	DESC
+Suggested changes	SOLUTION
+Proposed Fix	SOLUTION
+Feature	DESC
+Motivation	DESC
+Pitch	DESC
+🐛 Potential Bug	GUIDE
+Bug for Horovod support	DESC
+Bug for MLM loss	DESC
+Create mxnet2.0 python 3.6 environment	BOLD
+Check Cuda version	GUIDE
+Install mxnet-cu100 2.0	GUIDE
+Git clone from gluon nlp	GUIDE
+cd to gluon-nlp	GUIDE
+Install gluon-nlp	GUIDE
+Check nlp_data	GUIDE
+Check nlp_process	GUIDE
+Download Hindi Wikipedia corpus	GUIDE
+Properly format the text files	GUIDE
+Log Message	OB
+Issue Description	DESC
+Full Error	OB
+Version Information	ENV
+Contributing	EXTRA
+Additional Information	EXTRA
+################################################################## 100.0%	BOLD
+Bug Description	DESC
+Reproduction Steps	S2R
+Platform and Hardware	ENV
+Information	DESC
+Traceback:	OB
+Expected output:	EB
+Import error	BOLD
+Test error	BOLD
+Minimal Example	S2R
+Behavior	OB
+Gdb Backtrace	OB
+Python Backtrace	OB
+gcc-4.8	ENV
+gcc-5	ENV
+gcc-6	ENV
+gcc-7	ENV
+Problem	DESC
+Code to reproduce error	S2R
+Error traceback	OB
+Code to Reproduce Bug	S2R
+Log	OB
+Battle-Plan	GUIDE
+Options for New DataFrame Clause	BOLD
+Steps to Reproduce	S2R
+Your Environment	ENV
+Reproducing Steps	S2R
+Setup Details	ENV
+Bug Reproduction	S2R
+Feature Description	DESC
+Arguments	S2R
+📚 Documentation	GUIDE
+What I am seeing	OB
+Extra info	EXTRA
+🐛 Bug:  RandomAffine and scale	BOLD
+Platform (GKE)	ENV
+Kubeflow	ENV
+Client	ENV
+About:	EXTRA
+Meta	EXTRA
+follow-up to #4326	BOLD
+ERROR MESSAGE:	OB
+In which platform does it happen?	ENV
+How do we replicate the issue?	S2R
+Expected behavior (i.e. solution)	EB
+Other Comments	EXTRA
+How do we replicate the bug?	S2R
+GPU	ENV
+CPU	ENV
+Pytorch demo	BOLD
+onnxruntime demo	BOLD
+Reproduce Steps	S2R
+Additional Info	EXTRA
+Issue description	DESC
+Your environment	ENV
+Problem location	SOLUTION
+Description of problem	DESC
+Relevant Files	EXTRA
+Steps To Reproduce	S2R
+Quick-fix (move and modify one line of code)	SOLUTION
+Warning (unused variable) if using cblas.	BOLD
+Code snippet to reproduce the issue:	S2R
+iomp version	ENV
+TBB version	ENV
+Summary	DESC
+URLs	EXTRA
+Observed behavior	OB
+Edit: the error was due to mixing different versions of protoc and protobuf sources	BOLD
+Bug Report	GUIDE
+Reproduction instructions	S2R
+Is the issue related to model conversion?	S2R
+Ask a Question	DESC
+error log	OB
+'tail' 不是内部或外部命令，也不是可运行的程序   或批处理文件。   'gcc' 不是内部或外部命令，也不是可运行的程序   或批处理文件。   fatal: not a git repository (or any of the parent directories): .git   2020-11-29 16:17:53,347 - mmdet - INFO - Environment info:	BOLD
+TorchVision: 0.7.0+cu101   OpenCV: 4.4.0   MMCV: 1.1.5   MMCV Compiler: MSVC 192729111   MMCV CUDA Compiler: 10.1   MMDetection: 2.6.0+	ENV
+Code example to reproduce the issue / Steps to reproduce the issue	S2R
+Please state the information for your system	ENV
+In which part of the OpenCV library you got the issue?	ENV
+Additional description	DESC
+system info	ENV
+Code example to reproduce the issue	S2R
+System information (version)	ENV
+Detailed description	DESC
+Possible solution	SOLUTION
+Proof that results produced by OpenCV is wrong	EXTRA
+Multiple bugs in cv::LevMarqSparse, which let it crash and not work properly.	BOLD
+History	EXTRA
+Alexander Shishkov on 2012-02-12 21:17	EXTRA
+Alexander Shishkov on 2012-03-21 21:37	EXTRA
+Alexander Shishkov on 2012-03-25 20:46	EXTRA
+Alexander Shishkov on 2012-04-05 12:43	EXTRA
+Rui Marques on 2014-03-28 17:49	EXTRA
+Nikita Manovich on 2014-04-01 12:49	EXTRA
+FLANN Index params should be copied to avoid dangling pointer	BOLD
+Kirill Kornyakov on 2012-06-15 07:12	EXTRA
+Marius Shekow on 2012-06-16 07:56	EXTRA
+Vadim Kantorov on 2012-08-01 12:37	EXTRA
+Andrey Kamaev on 2012-08-15 13:26	EXTRA
+Andrey Kamaev on 2012-11-23 10:51	EXTRA
+Vadim Kantorov on 2012-11-26 11:08	EXTRA
+libv4l capturing backend diverged from v4l backend	BOLD
+Static build error because of libstdc++ "multiple definitions"	BOLD
+Maksim Shabunin on 2015-04-27 09:11	EXTRA
+Maksim Shabunin on 2015-04-27 14:38	EXTRA
+decomposeHomographyMat does not return the expected decomposition	BOLD
+Philippe Bouttefroy on 2015-05-02 01:31	EXTRA
+Mouse call back always give 0for x and y coordinates in Opengl window	BOLD
+fitEllipse wrong results	BOLD
+Vadim Pisarevsky on 2015-06-01 22:34	EXTRA
+Error in Building OpenCV for Microsoft VS 2015	ENV
+Philip L on 2015-06-05 11:45	EXTRA
+Nate Guerin on 2015-06-12 14:51	EXTRA
+Nate Guerin on 2015-06-12 15:05	EXTRA
+Philip L on 2015-06-12 15:12	EXTRA
+Mat/UMat may be out of sync.	BOLD
+Alexander Alekhin on 2015-07-07 13:58	EXTRA
+Opengl Assertion in debug mode	BOLD
+Data race may happen between oclCleanupCallback and Mat::GetUMat()	BOLD
+CommandLineParser confused by strings containing equal signs	BOLD
+i meet two bugs:	DESC
+cmake configure output	OB
+Error log	OB
+The FileStorage could not handle large JSON file.	BOLD
+Failed	EXTRA
+Build steps	ENV
+Plans	EXTRA
+error: (-4:Insufficient memory) Failed to allocate 224616847152 bytes in function 'OutOfMemoryError'	BOLD
+Steps to fix	SOLUTION
+Issue submission checklist	GUIDE
+Proposed fix	SOLUTION
+How to Reproduce	S2R
+Definition of Done	EXTRA
+How to solve	SOLUTION
+onmt_rpc_client_test.TestOpenNMTPredictRPCClient.test_request_from_file	BOLD
+Checking request has returned the "failed" status. Message: Exception: Model was not properly created/updated. Test failed: ''itertools" is not defined	BOLD
+import itertools	BOLD
+My actions before raising this issue	BOLD
+Expected Behaviour	EB
+Current Behaviour	OB
+Possible Solution	SOLUTION
+Steps to Reproduce (for bugs)	S2R
+Context	DESC
+Next steps	S2R
+Git Branch	ENV
+Detailed description of the problem	DESC
+Source code and tracebacks	OB
+Additional information	EXTRA
+YAML	EXTRA
+requirements.txt	GUIDE
+Links	EXTRA
+Feature motivation	GUIDE
+Feature description	GUIDE
+Feature implementation	GUIDE
+Unclear documentation	GUIDE
+Missing Documentation	GUIDE
+Scope	DESC
+Possible Solutions	SOLUTION
+Code Snippet	S2R
+Weird behaviour in discrete inference with shared mixture weights	BOLD
+Desired behavior	EB
+My environment	ENV
+AttributeError: 'SentencePredictionCriterion' object has no attribute 'args'	BOLD
+Code & Output	OB
+What have you tried?	S2R
+What's your environment?	ENV
+Before asking:	GUIDE
+What is your question?	GUIDE
+P.S.	EXTRA
+P.P.S.	EXTRA
+🐛 Bug description	DESC
+❓ Questions/Help/Support	GUIDE
+🐛 tqdm_logger does not take epoch_length into account	BOLD
+logs	OB
+Common bugs:	GUIDE
+Proposed fix:	SOLUTION
+Steps to reproduce the behavior:	S2R
+Code sample (to reproduce the bug)	S2R
+Expected	EB
+Actual	OB
+Where I think the issue is!	SOLUTION
+Environment version:	ENV
+Potential Fix	SOLUTION
+Probable Cause	SOLUTION
+Observed behavior:	OB
+Expected behavior:	EB
+Expected behavoir	EB
+Code Sample	S2R
+🚀 TODO: Follow up work on module arguments rework in #1896	BOLD
+Alternatives	EXTRA
+the training loop has no problem but when I call trainer.test() a runtime error arrises	BOLD
+Example code	S2R
+Not really a 🐛 Bug	GUIDE
+Full Error Message	OB
+To validate the solution:	SOLUTION
+Code sample:	S2R
+Error msg:	OB
+Can be solved using .clone() method.	BOLD
+To Reproduce / Code sample	S2R
+Value out of range (expected to be in range of [-1, 0], but got 1)	BOLD
+To Fix	SOLUTION
+Proposed change:	SOLUTION
+Results	OB
+Additional Notes:	EXTRA
+For security purposes, please check the contents of collect_env_details.py before running it.	BOLD
+Please reproduce using the BoringModel and post here	S2R
+To Reproduce (sorry for not using colab)	S2R
+Please reproduce using [the BoringModel and post here]	S2R
+before	S2R
+now	OB
+Source code / logs	OB
+QMIX: No backprop on the (mixer) hypernetworks?	GUIDE
+What is the problem?	DESC
+Reproduction (REQUIRED)	S2R
+Test case update	BOLD
+Potential fix	SOLUTION
+Result:	OB
+Version information	ENV
+Bug Information	DESC
+Details	DESC
+Direct Task Model Confusion	BOLD
+Next Steps	S2R
+Script to reproduce	S2R
+Related issue number	EXTRA
+With ray==0.8.5, local_mode=False	BOLD
+With ray==0.8.5, local_mode=True:	BOLD
+With ray==0.8.4, local_mode=True:	BOLD
+'//:redis_client' fails to build on ppc64le due to default '-std=c++0x' option.	BOLD
+Keras/Tensorflow Error	BOLD
+Pytorch Error	BOLD
+rllib_ppo_agent.py	BOLD
+rnn_model.py	BOLD
+testing_gym.py	BOLD
+Reproduction:	S2R
+Versions	ENV
+Script	S2R
+Related	EXTRA
+Suspected cause	SOLUTION
+Related issue: unable to disable GPU usage in RLLib configs	BOLD
+tune.choice, tune.qrandint not compatible with keras	BOLD
+Setup	ENV
+Describe your feature request	DESC
+System	ENV
+Training Script	S2R
+How does the Error look like?	DESC
+Solutions	SOLUTION
+Make spec a positional argument	S2R
+Remove the check	GUIDE
+❓ Questions & Help	GUIDE
+Exact Steps to Reproduce	S2R
+What related GitHub issues or StackOverflow threads have you found by searching the web for your problem?	GUIDE
+If possible, provide a minimal reproducible example (We usually don't have time to read hundreds of lines of your code)	S2R
+What other attempted solutions have you tried?	SOLUTION
+Logs or other output that would be helpful	OB
+Issue: Example mnist_rnn does run on docker image.	BOLD
+Example to test	S2R
+Minimal reproducible example	S2R
+Problem Description	DESC
+You must complete this information or else your issue will be closed	GUIDE
+Describe the problem clearly	DESC
+Source Code / Logs	OB
+Other info / logs   TRACEBACK:	OB
+Existing URLs containing the issue:	EXTRA
+Description of issue (what needs changing):	DESC
+URL(s) with the issue:	EXTRA
+Clear description	DESC
+Submit a pull request?	GUIDE
+Parameters defined	S2R
+Returns defined	OB
+Raises listed and defined	GUIDE
+Usage example	S2R
+Correct links	EXTRA
+Request visuals, if applicable	EXTRA
+The problem	DESC
+References	EXTRA
+Sources/Logs	OB
+System information (irrelevant for this bug)	ENV
+Parameters	ENV
+Submit a pull request? Yes, if this should be updated.	GUIDE
+Describe the current behavior	OB
+Key insights	SOLUTION
+Code to reproduce the issue	S2R
+Test Code	S2R
+TensorFlow.js version	ENV
+Browser version	ENV
+Describe the problem or feature request	DESC
+Code to reproduce the bug / link to feature request	S2R
+Tensorflow.js 1.2.8	ENV
+Chrome 77.0.3865.90	ENV
+Node version	ENV
+tfjs-react-native version	ENV
+TensorFlow.js version : 2.3.0	ENV
+Browser version: Google Chrome 74	ENV
+Steps to reproduce the issue:	S2R
+Some pice of error message:	OB
+1. What you did:	S2R
+2. What you observed:	OB
+3. What you expected, if not obvious.	EB
+4. Your environment:	ENV
+log of /dev/stderr	OB
+log of /dev/stdout	OB
+3. Your environment:	ENV
+1. What I did:	S2R
+Current Behavior:	OB
+Expected Behavior:	EB
+Suggested Fix:	SOLUTION
+File "torch_utils.py", line 44, fuse_conv_and_bn() funtion	BOLD
+To Reproduce (REQUIRED)	S2R
+❔Question	GUIDE
+Issue:	GUIDE
+My workaround	GUIDE
+What I Did	S2R
+Edit	BOLD

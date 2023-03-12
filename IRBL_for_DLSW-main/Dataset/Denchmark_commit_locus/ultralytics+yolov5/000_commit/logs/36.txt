@@ -1,0 +1,2 @@
+      verbose on final_epoch (#1997) 
+          plots=True,           log_imgs=0,  # number of logged images           compute_loss=None):       # Initialize/load model and set device      training = model is not None      if training:  # called by train.py 

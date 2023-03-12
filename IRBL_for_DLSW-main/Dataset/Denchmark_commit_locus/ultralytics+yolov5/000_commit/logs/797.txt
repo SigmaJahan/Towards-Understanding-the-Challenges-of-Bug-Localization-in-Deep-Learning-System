@@ -1,0 +1,2 @@
+      --resume to same runs/exp directory (#765)          * initial commit          * add weight backup dir on resume 
+         tb_writer = None          if opt.global_rank in [-1, 0]:              logger.info('Start Tensorboard with "tensorboard --logdir %s", view at http://localhost:6006/' % opt.logdir)             tb_writer = SummaryWriter(log_dir=increment_dir(Path(opt.logdir) / 'exp', opt.name))  # runs/exp             tb_writer = SummaryWriter(log_dir=log_dir)  # runs/exp0            train(hyp, opt, device, tb_writer)   

@@ -1,0 +1,2 @@
+switch default inference gpu
+device next model parameters device get model device training true configure run configure model eval open data data yaml load loader yaml full loader fullloader model dict single cls singlecls else int data number classes

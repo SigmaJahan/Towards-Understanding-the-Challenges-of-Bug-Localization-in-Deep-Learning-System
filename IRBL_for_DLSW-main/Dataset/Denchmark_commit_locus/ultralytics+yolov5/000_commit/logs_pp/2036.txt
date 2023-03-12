@@ -1,0 +1,2 @@
+check git status checkgitstatus exist workspace
+recommend git pull code date print colorstr github end try path git exists path dockerenv exists check online checkonline path git exists path workspace exists check online checkonline exist dockerenv url subprocess check output checkoutput git fetch git config get remote origin url shell true decode utf int subprocess check output checkoutput

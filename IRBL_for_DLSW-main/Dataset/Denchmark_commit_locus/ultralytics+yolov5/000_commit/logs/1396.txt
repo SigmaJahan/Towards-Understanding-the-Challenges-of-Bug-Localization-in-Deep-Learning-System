@@ -1,0 +1,2 @@
+      update train.py gsutil bucket fix (#463) 
+     assert len(names) == nc, '%g names found for nc=%g dataset in %s' % (len(names), nc, opt.data)  # check        # Remove previous results     if local_rank in [-1, 0]:     if rank in [-1, 0]:          for f in glob.glob('*_batch*.jpg') + glob.glob(results_file):              os.remove(f)   

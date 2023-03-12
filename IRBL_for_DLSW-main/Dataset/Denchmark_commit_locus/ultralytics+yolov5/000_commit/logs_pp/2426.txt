@@ -1,0 +1,2 @@
+add compute loss computeloss class
+save hybrid savehybrid false hybrid auto labelling autolabelling save conf saveconf false save auto label autolabel confidences plots true log imgs logimgs number logged images log imgs logimgs number logged images compute loss computeloss none initialize load model set device training model none

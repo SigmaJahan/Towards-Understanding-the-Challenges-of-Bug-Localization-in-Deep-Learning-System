@@ -1,0 +1,2 @@
+torch pytorch hub models default cuda available torch pytorch hub models default cuda available device string bug fix
+use git pull update git clone url download latest else date url print encode decode ascii ignore platform system windows else print encode decode ascii ignore platform system windows else emoji safe emojisafe except exception print

@@ -1,0 +1,2 @@
+switch default inference gpu
+collate collatefn dataset collate collatefn seen model eval img torch zeros imgsz imgsz device device init img model img half half else img device type cpu else none run names model names hasattr model names else model module names cococlass coco coco class cocotocococlass class images targets map map

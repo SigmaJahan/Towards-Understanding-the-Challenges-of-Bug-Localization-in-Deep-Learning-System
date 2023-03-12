@@ -1,0 +1,2 @@
+ema bug fix ema bug fix update
+requires grad requiresgrad false torch save path getsize filesize print optimizer stripped fmb saved else print optimizer stripped saved else def print mutation printmutation hyp results yaml file yamlfile hyp evolved hypevolved yaml bucket

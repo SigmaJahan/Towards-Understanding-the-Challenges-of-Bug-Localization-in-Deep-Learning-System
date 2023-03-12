@@ -1,0 +1,2 @@
+auto shape autoshape default torch pytorch hub models add autoshape parameter remove autoshape call read readme update hubconf file uri inputs autoshape check passthrough authored coauthoredby glenn jocher
+model load state dict loadstatedict state dict statedict strict false load len ckpt model names classes model names ckpt model names set class names attribute model model autoshape pil inputs nms autoshape model model autoshape file uri pil inputs nms return model except exception

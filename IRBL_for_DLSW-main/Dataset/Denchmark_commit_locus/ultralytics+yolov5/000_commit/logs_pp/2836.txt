@@ -1,0 +1,2 @@
+datasets self batch shapes batchshapes fix
+elif opt task study run range settings save plot weights yolovs yolovm yolovl yolovx yolov spp yolovspp studyss txt path opt data stem path weights stem filename save list range axis list range axis axis img size imgsize print running nrunning point

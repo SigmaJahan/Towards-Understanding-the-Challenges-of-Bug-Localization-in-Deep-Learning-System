@@ -1,0 +1,2 @@
+ema fix
+def init self model decay device create ema self ema deepcopy model module parallel isparallel model else model half ema self ema deepcopy model module parallel isparallel model else model ema self ema eval self updates number ema updates self decay lambda decay math exp decay exponential ramp help early epochs self device device perform ema different device model set device self ema device device self ema device self ema parameters requires grad requiresgrad false

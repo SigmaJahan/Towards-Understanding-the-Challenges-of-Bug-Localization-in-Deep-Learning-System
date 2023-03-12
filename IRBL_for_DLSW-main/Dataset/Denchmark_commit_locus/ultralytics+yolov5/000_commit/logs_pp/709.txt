@@ -1,0 +1,2 @@
+parameterize max det maxdet inference default added max det maxdet parameters various places character line pep character line update inference default instances update inference default instances authored coauthoredby glenn jocher
+def non max suppression nonmaxsuppression prediction conf thres confthres iou thres iouthres classes none agnostic false multi label multilabel false labels labels max det maxdet runs non maximum nonmaximum suppression nms inference results returns

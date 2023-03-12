@@ -1,0 +1,2 @@
+update train experimental
+epoch number integrated batches since train start imgs imgs device float uint float burn burnin burn nburn burn nburn interp warmup interp model interp giou loss ratio obj loss objloss giou accumulate max interp nbs batch size batchsize round enumerate optimizer param groups paramgroups

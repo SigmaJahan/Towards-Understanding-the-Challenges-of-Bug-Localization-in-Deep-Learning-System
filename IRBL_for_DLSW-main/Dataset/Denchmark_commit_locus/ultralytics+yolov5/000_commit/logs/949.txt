@@ -1,0 +1,2 @@
+      Update datasets.py (#494) 
+                     os.system("rm '%s'" % p)     def imagelist2folder(path='data/coco_64img.txt'):  # from utils.datasets import *; imagelist2folder() def imagelist2folder(path='path/images.txt'):  # from utils.datasets import *; imagelist2folder()      # Copies all the images in a text file (list of images) into a folder      create_folder(path[:-4])      with open(path, 'r') as f: 

@@ -1,0 +1,2 @@
+      Improved corruption handling during scan and cache (#999) 
+               self.batch_shapes = np.ceil(np.array(shapes) * img_size / stride + pad).astype(np.int) * stride           # Cache labels         # Check labels          create_datasubset, extract_bounding_boxes, labels_loaded = False, False, False          nm, nf, ne, ns, nd = 0, 0, 0, 0, 0  # number missing, found, empty, datasubset, duplicate          pbar = enumerate(self.label_files) 

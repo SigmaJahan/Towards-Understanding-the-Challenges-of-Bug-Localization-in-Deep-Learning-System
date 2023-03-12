@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+def check anchors checkanchors dataset model thr imgsz check anchor fit data recompute necessary prefix colorstr blue bold autoanchor prefix colorstr autoanchor print prefix analyzing anchors end model module model hasattr model module else model model detect shapes imgsz dataset shapes dataset shapes max keepdims true

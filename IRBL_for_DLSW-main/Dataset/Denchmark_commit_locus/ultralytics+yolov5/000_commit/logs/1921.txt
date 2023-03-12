@@ -1,0 +1,2 @@
+      expired pytorch hub cache bug fix #365 
+     Returns:          pytorch model      """     config = os.path.join(os.path.dirname(__file__), 'models', '%s.yaml' % name)  # model.yaml path      try:         config = os.path.join(os.path.dirname(__file__), 'models', '%s.yaml' % name)  # model.yaml path          model = Model(config, channels, classes)          if pretrained:              ckpt = '%s.pt' % name  # checkpoint filename 

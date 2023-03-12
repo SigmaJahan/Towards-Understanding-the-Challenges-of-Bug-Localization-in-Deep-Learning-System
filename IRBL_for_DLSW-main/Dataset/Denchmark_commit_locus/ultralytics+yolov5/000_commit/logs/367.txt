@@ -1,0 +1,2 @@
+      PyTorch Hub results.render() (#1897) 
+     def save(self):          self.display(save=True)  # save results       def render(self):         self.display(render=True)  # render results         return self.imgs       def __len__(self):          return self.n   

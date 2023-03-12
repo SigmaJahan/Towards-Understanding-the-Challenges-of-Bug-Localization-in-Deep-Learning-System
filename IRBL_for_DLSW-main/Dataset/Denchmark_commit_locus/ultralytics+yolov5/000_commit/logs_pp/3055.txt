@@ -1,0 +1,2 @@
+ema bug fix ema bug fix update
+return output def strip optimizer stripoptimizer weights best utils general import strip optimizer stripoptimizer def strip optimizer stripoptimizer best utils general import strip optimizer stripoptimizer strip optimizer finalize training optionally save torch load map location maplocation torch device cpu optimizer training results trainingresults wandb wandbid ema keys get ema model ema replace model ema optimizer training results trainingresults wandb wandbid ema updates keys none epoch model half

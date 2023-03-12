@@ -1,0 +1,2 @@
+torch ops torchvision nms load entire torchvision library nms function already torch library
+batched nms agnostic else max maxwh classes boxes scores boxes offset class scores torchvision ops boxes nms boxes scores iou thres iouthres torch ops torchvision nms boxes scores iou thres iouthres shape max det maxdet limit detections max det maxdet merge merge nms boxes merged using weighted mean

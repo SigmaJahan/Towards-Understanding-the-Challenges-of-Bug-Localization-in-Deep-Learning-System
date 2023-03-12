@@ -1,0 +1,2 @@
+tube youtube stream ending fix tube youtube stream ending fix properly terminates tube youtube streams video end resolve issues update datasets
+def next self self count img self imgs copy wait key waitkey ord quit alive isalive self threads wait key waitkey ord quit destroy windows destroyallwindows raise stop iteration stopiteration letterbox img self imgs copy img letterbox self img size imgsize auto self rect stride self stride img stack

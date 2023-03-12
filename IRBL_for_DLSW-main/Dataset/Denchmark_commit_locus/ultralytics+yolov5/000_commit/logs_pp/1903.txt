@@ -1,0 +1,2 @@
+fix bug fix update train authored coauthoredby glenn jocher
+elif ciou https github com zzh tju zzhtju ussd pytorch dioussdpytorch blob master utils box box utils boxutils pyl math torch pow torch atan torch atan torch grad nograd alpha iou return iou rho alpha ciou alpha iou return iou rho alpha ciou return iou

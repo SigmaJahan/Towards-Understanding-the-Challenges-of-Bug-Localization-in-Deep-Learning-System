@@ -1,0 +1,2 @@
+      FP16 inference update 
+         return None        if isinstance(images, torch.Tensor):         images = images.cpu().numpy()         images = images.cpu().float().numpy()        if isinstance(targets, torch.Tensor):          targets = targets.cpu().numpy() 

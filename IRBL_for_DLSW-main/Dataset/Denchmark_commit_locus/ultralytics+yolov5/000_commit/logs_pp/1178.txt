@@ -1,0 +1,2 @@
+remove coco iscoco argument test
+wandb logger wandblogger none compute loss computeloss none half precision halfprecision true coco iscoco false opt none initialize load model set device training model none

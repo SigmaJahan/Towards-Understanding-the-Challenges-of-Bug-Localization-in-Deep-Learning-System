@@ -1,0 +1,2 @@
+strip optimizer stripoptimizer default save model
+strip optimizer files lighter files reduced size torch load map location maplocation torch device cpu optimizer none model half torch save print optimizer stripped

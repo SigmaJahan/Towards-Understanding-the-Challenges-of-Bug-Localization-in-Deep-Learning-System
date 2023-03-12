@@ -1,0 +1,2 @@
+update inference multiple counting multiplecounting update inference multiple counting multiplecounting update github check
+pred none pred unique pred sum detections per class str self namesint add string str self namesint add string show save render img image fromarray img astype uint isinstance img ndarray else img box conf cls pred xyxy confidence class

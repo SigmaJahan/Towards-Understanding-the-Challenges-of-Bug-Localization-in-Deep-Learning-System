@@ -1,0 +1,2 @@
+rename eval
+def plot study txt plotstudytxt study txt none utils utils import plot study txt plotstudytxt plot study txt generated test plot study txt generated eval fig plt subplots figsize tight layout tightlayout true ravel

@@ -1,0 +1,2 @@
+      hyperparameter evolution bug fix (#566) 
+             else:                  pg0.append(v)  # all else       if hyp['optimizer'] == 'Adam':     if opt.adam:          optimizer = optim.Adam(pg0, lr=hyp['lr0'], betas=(hyp['momentum'], 0.999))  # adjust beta1 to momentum      else:          optimizer = optim.SGD(pg0, lr=hyp['lr0'], momentum=hyp['momentum'], nesterov=True) 

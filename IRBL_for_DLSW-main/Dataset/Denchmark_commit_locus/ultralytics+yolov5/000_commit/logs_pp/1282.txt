@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+anchor fitness anchorfitness copy pbar desc evolving anchors genetic algorithm fitness pbar desc prefix evolving anchors genetic algorithm fitness verbose print results printresults

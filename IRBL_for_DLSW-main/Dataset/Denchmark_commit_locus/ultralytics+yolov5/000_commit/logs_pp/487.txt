@@ -1,0 +1,2 @@
+update detect
+isinstance vid writer vidwriter video writer videowriter vid writer vidwriter release release previous video writer fourcc mpv output video codec fps vid cap vidcap get cappropfps int vid cap vidcap get cappropframewidth int vid cap vidcap get cappropframeheight vid writer vidwriter video writer videowriter save path savepath video writer fourcc videowriterfourcc opt fourcc fps vid writer vidwriter video writer videowriter save path savepath video writer fourcc videowriterfourcc fourcc fps vid writer vidwriter write save txt savetxt save img saveimg

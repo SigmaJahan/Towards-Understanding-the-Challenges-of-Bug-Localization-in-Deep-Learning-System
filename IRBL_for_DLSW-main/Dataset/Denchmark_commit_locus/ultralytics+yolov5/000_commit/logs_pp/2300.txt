@@ -1,0 +1,2 @@
+update hubconf unified loading
+yol yolov pytorch model set logging setlogging verbose verbose fname name checkpoint filename fname path name suffix withsuffix checkpoint filename try pretrained channels classes model attempt load attemptload fname map location maplocation torch device cpu download load model

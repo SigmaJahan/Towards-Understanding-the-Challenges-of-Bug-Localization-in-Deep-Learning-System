@@ -1,0 +1,2 @@
+confusion matrix background axis swap
+sum self matrixgc detection classesmj detectionclassesmj correct else self matrixgc self background self matrixself background enumerate detection classes detectionclasses self matrixself background self matrixdc self background def matrix self return self matrix

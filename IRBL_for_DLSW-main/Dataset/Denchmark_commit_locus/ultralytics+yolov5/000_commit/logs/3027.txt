@@ -1,0 +1,2 @@
+      gsutil cp yaml when evolving to GCP bucket 
+         f.write('# Hyperparameter Evolution Results\n# Generations: %g\n# Metrics: ' % len(x) + c + '\n\n')          yaml.dump(hyp, f, sort_keys=False)       if bucket:         os.system('gsutil cp evolve.txt %s gs://%s' % (yaml_file, bucket))  # upload     def apply_classifier(x, model, img, im0):      # applies a second stage classifier to yolo outputs 

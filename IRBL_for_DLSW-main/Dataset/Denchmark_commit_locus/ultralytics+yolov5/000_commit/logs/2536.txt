@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+ import torch.nn as nn  import torchvision  import yaml from scipy.cluster.vq import kmeans  from scipy.signal import butter, filtfilt  from tqdm import tqdm   from . import torch_utils  # torch_utils, google_utils from utils.torch_utils import init_seeds, is_parallel    # Set printoptions  torch.set_printoptions(linewidth=320, precision=5, profile='long') 

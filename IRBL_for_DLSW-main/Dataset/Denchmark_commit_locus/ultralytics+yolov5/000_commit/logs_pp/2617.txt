@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+single cls singlecls opt single cls singlecls stride int stride pad pad rank rank image weights imageweights image weights imageweights image weights imageweights image weights imageweights prefix prefix batch size batchsize min batch size batchsize len dataset min cpu count cpucount world size worldsize batch size batchsize batch size batchsize else workers number workers

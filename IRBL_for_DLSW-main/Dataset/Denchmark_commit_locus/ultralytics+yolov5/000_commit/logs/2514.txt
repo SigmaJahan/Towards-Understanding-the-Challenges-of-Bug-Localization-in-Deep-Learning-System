@@ -1,0 +1,2 @@
+      Explicit Imports (#498)          * expand imports          * optimize          * miss          * fix 
+             img = img.unsqueeze(0)            # Inference         t1 = torch_utils.time_synchronized()         t1 = time_synchronized()          pred = model(img, augment=opt.augment)[0]            # Apply NMS          pred = non_max_suppression(pred, opt.conf_thres, opt.iou_thres, classes=opt.classes, agnostic=opt.agnostic_nms)         t2 = torch_utils.time_synchronized()         t2 = time_synchronized()            # Apply Classifier          if classify: 

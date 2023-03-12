@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+plt grid plt xlim epochs plt ylim plt tight layout tightlayout plt savefig path save dir savedir png dpi

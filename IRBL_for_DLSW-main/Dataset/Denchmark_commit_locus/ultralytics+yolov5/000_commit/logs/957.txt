@@ -1,0 +1,2 @@
+      Minor import and spelling updates (#1133) 
+     def make_divisible(x, divisor):     # Returns x evenly divisble by divisor     # Returns x evenly divisible by divisor      return math.ceil(x / divisor) * divisor     

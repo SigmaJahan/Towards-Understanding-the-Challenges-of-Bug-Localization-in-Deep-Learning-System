@@ -1,0 +1,2 @@
+pretrained model loading bug fix signed signedoffby glenn jocher
+since see lots print logging configuration skipped may see repeated outputs configure init seeds initseeds local rank localrank init seeds initseeds local rank localrank open opt data data dict datadict yaml load loader yaml full loader fullloader model dict train path trainpath data dict datadict train

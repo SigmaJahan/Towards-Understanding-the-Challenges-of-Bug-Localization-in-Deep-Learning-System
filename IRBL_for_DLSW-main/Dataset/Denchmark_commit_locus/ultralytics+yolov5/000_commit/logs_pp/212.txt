@@ -1,0 +1,2 @@
+update datasets
+assert cap opened isopened failed open int cap get cappropframewidth int cap get cappropframeheight self fps cap get cappropfps self fps cap get cappropfps assume fps cap gets fps self frames int cap get cappropframecount self imgsi cap read guarantee first frame

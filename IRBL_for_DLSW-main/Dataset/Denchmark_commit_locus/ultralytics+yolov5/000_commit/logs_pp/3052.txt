@@ -1,0 +1,2 @@
+ema bug fix ema bug fix update
+model ensemble weights isinstance weights list else weights attempt download attemptdownload model append torch load map location maplocation map location maplocation model float fuse eval load model ckpt torch load map location maplocation map location maplocation load model append ckpt ema ckpt get ema else model float fuse eval model compatibility updates model modules

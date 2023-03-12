@@ -1,0 +1,2 @@
+optimize core coreml torch script torchscript model
+print prefix starting export torch torch version opt weights replace torchscript filename torch jit trace model img strict false optimize mobile optimizeformobile https pytorch org tutorials recipes script optimized scriptoptimized html save optimize mobile optimizeformobile save https pytorch org tutorials recipes script optimized scriptoptimized html print prefix export success saved file size filesize except exception print prefix export failure

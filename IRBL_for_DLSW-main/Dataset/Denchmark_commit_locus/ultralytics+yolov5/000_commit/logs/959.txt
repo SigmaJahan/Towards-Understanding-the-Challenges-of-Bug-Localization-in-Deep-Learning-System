@@ -1,0 +1,2 @@
+      Minor import and spelling updates (#1133) 
+     k, dist = kmeans(wh / s, n, iter=30)  # points, mean distance      k *= s      wh = torch.tensor(wh, dtype=torch.float32)  # filtered     wh0 = torch.tensor(wh0, dtype=torch.float32)  # unflitered     wh0 = torch.tensor(wh0, dtype=torch.float32)  # unfiltered      k = print_results(k)        # Plot 

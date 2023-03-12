@@ -1,0 +1,2 @@
+update detections self tuple update detections self tuple fix multiple results print bug update experimental update yolo
+def print self self display pprint true print results print speed fms pre process preprocess fms inference fms nms per image shape tuple self tuple self print speed fms pre process preprocess fms inference fms nms per image shape tuple self self def show self self display show true show results

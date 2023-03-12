@@ -1,0 +1,2 @@
+      check_git_status() improvements (#1916)          * check_online()          * Update general.py          * update check_git_status()          * reverse rev-parse order          * fetch          * improved responsiveness          * comment          * comment          * remove hyp['giou'] compat warning 
+     def init_seeds(seed=0):     # Initialize random number generator (RNG) seeds      random.seed(seed)      np.random.seed(seed)      init_torch_seeds(seed) 

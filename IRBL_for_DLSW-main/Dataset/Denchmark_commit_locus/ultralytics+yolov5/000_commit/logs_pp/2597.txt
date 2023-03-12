@@ -1,0 +1,2 @@
+updated testing settings rebalanced towards latency
+google utils googleutils attempt download attemptdownload weights model torch load weights map location maplocation device model float load torch utils torchutils model info modelinfo model model fuse model fuse model device half model half

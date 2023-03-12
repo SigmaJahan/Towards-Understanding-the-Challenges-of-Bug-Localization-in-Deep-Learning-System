@@ -1,0 +1,2 @@
+      add util function to get most recent last.pt file     added logic in train.py __main__ to handle resuming from a run 
+               # Plot              if ni < 3:                 f = 'train_batch%g.jpg' % i  # filename                 f = os.path.join(log_dir, 'train_batch%g.jpg' % i)  # filename                  res = plot_images(images=imgs, targets=targets, paths=paths, fname=f)                  if tb_writer:                      tb_writer.add_image(f, res, dataformats='HWC', global_step=epoch) 

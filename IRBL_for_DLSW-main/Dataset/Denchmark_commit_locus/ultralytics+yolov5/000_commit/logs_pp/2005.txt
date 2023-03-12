@@ -1,0 +1,2 @@
+save webcam results add nosave option updates default detect behavior automatically save inference images videos webcams unless new argument nosave used python detect nosave unless list streaming sources passed python detect source streams txt
+cudnn benchmark true set true speed constant image size inference dataset load streams loadstreams source img size imgsize imgsz stride stride else save img saveimg true dataset load images loadimages source img size imgsize imgsz stride stride get names colors

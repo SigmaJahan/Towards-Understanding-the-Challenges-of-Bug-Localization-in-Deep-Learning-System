@@ -1,0 +1,2 @@
+add update default hyp dict provided yaml
+train opt evolve writer tbwriter summary writer summarywriter comment opt name updates hyp defaults hyp yaml opt hyp hyp update opt hyp print focal loss gamma hyp gamma flgamma print using focal loss focalloss gamma hyp gamma flgamma print beginning training hyp print start tensorboard tensorboard logdir runs view http localhost train hyp evolve hyperparameters optional

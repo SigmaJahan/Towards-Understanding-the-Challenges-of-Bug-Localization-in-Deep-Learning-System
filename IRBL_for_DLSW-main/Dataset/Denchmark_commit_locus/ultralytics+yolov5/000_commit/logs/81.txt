@@ -1,0 +1,2 @@
+      Ignore Seaborn plot warnings (#3576)          * Ignore Seaborn plot warnings          * Update plots.py          * Update metrics.py 
+     x = pd.DataFrame(b.transpose(), columns=['x', 'y', 'width', 'height'])        # seaborn correlogram     sns.pairplot(x, corner=True, diag_kind='auto', kind='hist', diag_kws=dict(bins=50), plot_kws=dict(pmax=0.9))     sn.pairplot(x, corner=True, diag_kind='auto', kind='hist', diag_kws=dict(bins=50), plot_kws=dict(pmax=0.9))      plt.savefig(save_dir / 'labels_correlogram.jpg', dpi=200)      plt.close()   

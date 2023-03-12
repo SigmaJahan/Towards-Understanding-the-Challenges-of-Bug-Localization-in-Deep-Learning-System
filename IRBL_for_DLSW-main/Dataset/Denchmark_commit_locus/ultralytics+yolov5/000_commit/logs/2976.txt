@@ -1,0 +1,2 @@
+      YOLOv5 v5.0 Release (#2762) 
+       ax2.grid(alpha=0.2)      ax2.set_yticks(np.arange(20, 60, 5))     ax2.set_xlim(0, 30)     ax2.set_xlim(0, 57)      ax2.set_ylim(30, 55)      ax2.set_xlabel('GPU Speed (ms/img)')      ax2.set_ylabel('COCO AP val') 

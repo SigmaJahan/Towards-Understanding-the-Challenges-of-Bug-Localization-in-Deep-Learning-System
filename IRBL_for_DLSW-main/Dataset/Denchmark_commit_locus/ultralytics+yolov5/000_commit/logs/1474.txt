@@ -1,0 +1,2 @@
+      update export.py 
+     model = torch.load(opt.weights, map_location=torch.device('cpu'))['model'].float()      model.eval()      model.model[-1].export = True  # set Detect() layer export=True     _ = model(img)  # dry run     y = model(img)  # dry run        # TorchScript export      try: 

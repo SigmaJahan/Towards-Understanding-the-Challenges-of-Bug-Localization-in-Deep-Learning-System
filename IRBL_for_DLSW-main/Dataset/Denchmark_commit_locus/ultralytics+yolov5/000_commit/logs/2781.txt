@@ -1,0 +1,2 @@
+      NMS fast mode 
+               # Run NMS              t = torch_utils.time_synchronized()             output = non_max_suppression(inf_out, conf_thres=conf_thres, iou_thres=iou_thres, multi_label=multi_label)             output = non_max_suppression(inf_out, conf_thres=conf_thres, iou_thres=iou_thres, fast=fast)              t1 += torch_utils.time_synchronized() - t            # Statistics per image 

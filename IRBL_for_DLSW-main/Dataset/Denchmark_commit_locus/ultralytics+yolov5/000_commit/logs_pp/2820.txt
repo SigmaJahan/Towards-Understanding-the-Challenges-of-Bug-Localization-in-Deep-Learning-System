@@ -1,0 +1,2 @@
+check anchors checkanchors bug fix
+return make divisible makedivisible img size imgsize nearest multiple gsmultiple def check best possible recall checkbestpossiblerecall dataset anchors thr imgsz def check anchors checkanchors dataset model thr imgsz check best possible recall dataset current anchors anchors model module model anchor grid anchorgrid hasattr model module else model model anchor grid anchorgrid shapes imgsz dataset shapes dataset shapes max keepdims true torch tensor concatenate zip shapes dataset labels float ratio none anchors view cpu none ratio

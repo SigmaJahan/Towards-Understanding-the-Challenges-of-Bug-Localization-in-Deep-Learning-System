@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+model optimizer amp initialize model optimizer opt level optlevel verbosity scheduler https arxiv org pdf pdf lambda math cos math epochs cosine lambda math cos math epochs cosine scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda https discuss pytorch org problem occured resuming optimizer aproblemoccuredwhenresuminganoptimizer plot scheduler plotlrscheduler optimizer scheduler epochs

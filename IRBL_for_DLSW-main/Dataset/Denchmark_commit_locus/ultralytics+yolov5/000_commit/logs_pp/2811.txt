@@ -1,0 +1,2 @@
+improved model ema modelema checkpointing enhanced model ema modelema checkpointing update bug fix bug fix always save optimizer ema half remove model float model half carry ema model model float float always cleanup cleanup
+model torch sync batch norm syncbatchnorm convert sync batchnorm convertsyncbatchnorm model device logger info using sync batch norm syncbatchnorm ema ema model ema modelema model rank else none ddp mode cuda rank model ddp model device ids deviceids opt local rank localrank output device outputdevice opt local rank localrank

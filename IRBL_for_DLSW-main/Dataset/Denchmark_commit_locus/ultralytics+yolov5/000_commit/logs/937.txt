@@ -1,0 +1,2 @@
+      COCO evolution fix (#3388)          * COCO evolution fix          * cleanup          * update print          * print fix 
+     init_seeds(2 + rank)      with open(opt.data) as f:          data_dict = yaml.safe_load(f)  # data dict     is_coco = opt.data.endswith('coco.yaml')        # Logging- Doing this before checking the dataset. Might update data_dict      loggers = {'wandb': None}  # loggers dict 

@@ -1,0 +1,2 @@
+update get voc getvoc
+except exception print onnx export failure core coreml export try import coremltools print starting nstarting core coreml export coremltools version model convert inputs image type imagetype name images shape img shape convert opt weights replace mlmodel filename model save print core coreml export success saved except exception print core coreml export failure finish print export nexport complete visualize https github com lutzroeder netron

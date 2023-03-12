@@ -1,0 +1,2 @@
+update utils google utils googleutils download weights instead
+return try git hub github url https github com ultralytics yolov releases download file url https github com ultralytics yolov releases download file print downloading url weights platform system darwin avoid mac macos python requests certificate error system curl url weights

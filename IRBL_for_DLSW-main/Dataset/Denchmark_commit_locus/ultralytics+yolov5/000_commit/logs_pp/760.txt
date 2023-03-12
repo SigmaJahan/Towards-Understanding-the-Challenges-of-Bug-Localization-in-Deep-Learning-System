@@ -1,0 +1,2 @@
+yol yolov aws inferentia inplace compatibility updates added flag enable disable inplace assignment operations removed shape print statements scope detect model import avoid circular dependency pep create descale pred descalepred replace lost space replace list tuple authored coauthoredby glenn jocher
+self register buffer registerbuffer anchors shape self register buffer registerbuffer anchor grid anchorgrid clone view self shape self module list modulelist convd self self output conv self inplace inplace use place inplace ops slice assignment def forward self copy profiling

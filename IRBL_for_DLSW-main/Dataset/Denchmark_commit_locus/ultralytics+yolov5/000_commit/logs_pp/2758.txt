@@ -1,0 +1,2 @@
+update train yaml safe loader safeloader
+assert path isfile ckpt error resume checkpoint exist apriori opt global rank globalrank opt local rank localrank open path ckpt parent parent opt yaml opt argparse namespace yaml load loader yaml full loader fullloader replace opt argparse namespace yaml load loader yaml safe loader safeloader replace opt cfg opt weights opt resume opt batch size batchsize opt global rank globalrank opt local rank localrank ckpt true opt total batch size totalbatchsize apriori reinstate logger info resuming training ckpt else

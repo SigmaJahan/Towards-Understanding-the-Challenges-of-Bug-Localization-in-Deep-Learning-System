@@ -1,0 +1,2 @@
+      ONNX Simplifier (#2815)          * ONNX Simplifier          Add ONNX Simplifier to ONNX export pipeline in export.py. Will auto-install onnx-simplifier if onnx is installed but onnx-simplifier is not.          * Update general.py 
+ """Exports a YOLOv5 *.pt model to ONNX and TorchScript formats    Usage:     $ export PYTHONPATH="$PWD" && python models/export.py --weights ./weights/yolov5s.pt --img 640 --batch 1     $ export PYTHONPATH="$PWD" && python models/export.py --weights yolov5s.pt --img 640 --batch 1  """    import argparse 

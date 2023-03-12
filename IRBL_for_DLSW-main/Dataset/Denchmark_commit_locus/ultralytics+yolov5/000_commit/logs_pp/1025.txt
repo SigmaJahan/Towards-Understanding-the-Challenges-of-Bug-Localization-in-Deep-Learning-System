@@ -1,0 +1,2 @@
+update utils
+torch cuda float tensor floattensor cuda iscuda else torch tensor lcls lbox lobj tcls tbox indices anchors build targets buildtargets targets model targets model hyp hyperparameters model module hyp hasattr model module else model hyp hyperparameters model module hasattr model module else model model module hasattr model module else model red mean loss reduction sum mean define criteria

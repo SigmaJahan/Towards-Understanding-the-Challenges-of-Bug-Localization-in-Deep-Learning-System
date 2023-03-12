@@ -1,0 +1,2 @@
+single class train update
+check dataset checkdataset data dict datadict check train path trainpath data dict datadict train test path testpath data dict datadict val names item opt single cls singlecls else int data dict datadict data dict datadict names number classes names opt single cls singlecls else int data dict datadict number classes names item opt single cls singlecls len data dict datadict names else data dict datadict names class names assert len names names found dataset len names opt data check model

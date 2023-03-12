@@ -1,0 +1,2 @@
+refactor test arguments remove opt test pass kwargs update comments revert accidental default change multiple img options add comments
+img size imgsize print running nrunning point test opt data opt batch size batchsize opt conf thres confthres opt iou thres iouthres opt save json savejson plots false opt opt plots false append results times savetxt fmt save system zip study zip study txt

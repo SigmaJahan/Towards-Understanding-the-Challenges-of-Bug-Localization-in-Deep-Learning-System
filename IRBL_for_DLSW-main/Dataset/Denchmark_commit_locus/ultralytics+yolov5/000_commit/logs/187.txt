@@ -1,0 +1,2 @@
+      Update train.py          This updates the PR to a one-liner to minimize additions. Perhaps we can include opt in the future but let's start with this for now. 
+     # model._initialize_biases(cf.to(device))      plot_labels(labels, save_dir=log_dir)      if tb_writer:         tb_writer.add_hparams(hyp, {})          tb_writer.add_histogram('classes', c, 0)        # Check anchors 

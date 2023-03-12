@@ -1,0 +1,2 @@
+trailing save txt savetxt whitespace bug fix update write results update detect update test authored coauthoredby glenn jocher
+xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh line cls xywh conf save conf saveconf else cls xywh label format open str save dir savedir labels path pathssi stem txt write len line line write len line rstrip line logging len wandb images wandbimages log imgs logimgs

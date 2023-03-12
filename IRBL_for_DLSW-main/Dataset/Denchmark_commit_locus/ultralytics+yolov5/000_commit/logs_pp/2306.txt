@@ -1,0 +1,2 @@
+faster hsv augmentation remove datatype conversion process skipped
+hue sat val split cvt color cvtcolor img colorbgrhsv dtype img dtype uint arange dtype int arange dtype dtype lut hue luthue astype dtype lut sat lutsat clip astype dtype lut val lutval clip astype dtype img hsv imghsv merge lut hue lut hue luthue lut sat lut sat lutsat lut val lut val lutval astype dtype img hsv imghsv merge lut hue lut hue luthue lut sat lut sat lutsat lut val lut val lutval cvt color cvtcolor img hsv imghsv colorhsvbgr dst img return needed

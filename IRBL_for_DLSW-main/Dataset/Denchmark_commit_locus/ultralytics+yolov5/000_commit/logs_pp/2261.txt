@@ -1,0 +1,2 @@
+update inference default multi label multilabel false update inference default multi label multilabel false bug fix update plots update plots
+import requests import torch import torch pil import image image draw imagedraw pil import image utils datasets import letterbox utils general import non max suppression nonmaxsuppression make divisible makedivisible scale coords scalecoords xyxyxywh

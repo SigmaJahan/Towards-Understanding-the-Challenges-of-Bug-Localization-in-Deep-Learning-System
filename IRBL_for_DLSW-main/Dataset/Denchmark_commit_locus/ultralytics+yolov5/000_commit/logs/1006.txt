@@ -1,0 +1,2 @@
+      Label caching foundational re-write #306 
+         break     def get_hash(files):     # Returns a single hash value of a list of files     return sum(os.path.getsize(f) for f in files)    def exif_size(img):      # Returns exif-corrected PIL size      s = img.size  # (width, height) 

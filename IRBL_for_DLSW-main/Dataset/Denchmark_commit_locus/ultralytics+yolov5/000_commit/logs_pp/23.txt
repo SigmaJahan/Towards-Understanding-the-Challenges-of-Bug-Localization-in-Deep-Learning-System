@@ -1,0 +1,2 @@
+updates
+def strip optimizer stripoptimizer weights best utils utils import strip optimizer stripoptimizer strip optimizer files lighter files reduced size strip optimizer files lighter files reduced size torch load map location maplocation torch device cpu optimizer none torch save

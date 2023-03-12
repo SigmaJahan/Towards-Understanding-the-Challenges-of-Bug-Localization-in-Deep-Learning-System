@@ -1,0 +1,2 @@
+yol yolov torch pytorch hub results save method retains filenames save results name debug save original imgs names update common authored coauthoredby glenn jocher
+def show self self display show true show results def save self save dir savedir def save self save dir savedir results path save dir savedir mkdir exist existok true self display save true save dir savedir save dir savedir save results def render self

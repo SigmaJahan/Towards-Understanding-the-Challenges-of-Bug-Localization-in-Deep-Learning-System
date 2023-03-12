@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+plt ylabel output plt grid plt legend fig tight layout tightlayout fig savefig comparison png dpi

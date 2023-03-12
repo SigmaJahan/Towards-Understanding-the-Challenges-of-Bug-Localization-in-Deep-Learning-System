@@ -1,0 +1,2 @@
+gsutil hyp evolution bug fix
+import import platform import subprocess import time pathlib import path import torch def gsutil getsize gsutilgetsize url bucket file size https cloud google com storage docs gsutil commands subprocess check output checkoutput gsutil url shell true decode utf return eval split len else bytes def attempt download attemptdownload weights attempt download pretrained weights found locally weights weights strip replace

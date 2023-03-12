@@ -1,0 +1,2 @@
+remove platform system darwin checks
+try git hub github url https github com ultralytics yolov releases download file print downloading url weights platform system darwin avoid mac macos python requests certificate error system curl url weights else torch hub download url file downloadurltofile url weights torch hub download url file downloadurltofile url weights assert path exists weights path getsize weights check except exception gcp print download error

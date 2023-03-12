@@ -1,0 +1,2 @@
+      AutoAnchor bug fix 
+         return x, x.max(1)[0]  # x, best_x        def fitness(k):  # mutation fitness         _, best = metric(k)         _, best = metric(torch.tensor(k, dtype=torch.float32))          return (best * (best > thr).float()).mean()  # fitness        def print_results(k): 

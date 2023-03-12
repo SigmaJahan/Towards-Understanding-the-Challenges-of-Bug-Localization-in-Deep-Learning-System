@@ -1,0 +1,2 @@
+simplified inference
+state dict statedict torch load ckpt map location maplocation torch device cpu model float state dict statedict state dict statedict state dict statedict items model state dict statedict shape shape filter model load state dict loadstatedict state dict statedict strict false load model add nms addnms add nms module model eval model model autoshape pil torch inference predictions model image open image jpg return model except exception

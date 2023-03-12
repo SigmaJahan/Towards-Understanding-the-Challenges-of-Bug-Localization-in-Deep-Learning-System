@@ -1,0 +1,2 @@
+compute loss computeloss leaf variable update
+def compute loss computeloss targets model predictions targets model device targets device lcls lbox lobj torch zeros device device lcls lbox lobj torch zeros device device torch zeros device device torch zeros device device tcls tbox indices anchors build targets buildtargets targets model targets model hyp hyperparameters

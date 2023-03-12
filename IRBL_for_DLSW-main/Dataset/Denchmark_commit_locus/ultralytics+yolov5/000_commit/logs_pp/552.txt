@@ -1,0 +1,2 @@
+mosaic plots bug fix
+labels image targets imagetargets shape labels conf column conf none labels else image targets imagetargets check confidence presence label pred boxes max normalized boxes scale pixels boxes boxes block blockx boxes block blocky box enumerate boxes

@@ -1,0 +1,2 @@
+add save dir savedir arg test test use arg location saving batch jpgs
+plot images batch batchi test batchg testbatchggt jpg batch batchi filename path join save dir savedir test batchg testbatchggt jpg batch batchi filename plot images plotimages img targets paths names ground truth test batchg pred testbatchgpred jpg batch batchi path join save dir savedir test batchg pred testbatchgpred jpg batch batchi plot images plotimages img output target outputtotarget output width height paths names predictions compute statistics

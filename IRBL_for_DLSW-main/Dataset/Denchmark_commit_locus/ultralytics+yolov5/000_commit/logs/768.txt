@@ -1,0 +1,2 @@
+      Add yolov5/ to sys.path() for *.py subdir exec (#2949)          * Add yolov5/ to sys.path() for *.py subdir exec          * Update export.py 
+     # Create model      model = Model(opt.cfg).to(device)      model.train()                                # Profile      # img = torch.rand(8 if torch.cuda.is_available() else 1, 3, 320, 320).to(device)      # y = model(img, profile=True) 

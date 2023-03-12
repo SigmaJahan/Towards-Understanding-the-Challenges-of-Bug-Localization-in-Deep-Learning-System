@@ -1,0 +1,2 @@
+plotting improvements signed signedoffby glenn jocher
+torch sigmoid torch numpy fromnumpy numpy fig plt figure figsize dpi plt plot label yolo method plt plot label power method plt plot label power method plt plot label yol yolov plt plot label yol yolov plt plot label yol yolov plt xlim left right plt ylim bottom top plt xlabel input plt ylabel output plt grid plt legend fig tight layout tightlayout fig savefig comparison png dpi

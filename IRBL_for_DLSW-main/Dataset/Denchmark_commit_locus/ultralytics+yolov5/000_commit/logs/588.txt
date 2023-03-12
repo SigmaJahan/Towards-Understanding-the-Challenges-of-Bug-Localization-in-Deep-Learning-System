@@ -1,0 +1,2 @@
+      add update default hyp dict with provided yaml 
+         print(f'WARNING: No run provided to resume from. Resuming from most recent run found at {last}')      else:          last = ''                # if resuming, check for hyp file      if last:          last_hyp = last.replace('last.pt', 'hyp.yaml') 

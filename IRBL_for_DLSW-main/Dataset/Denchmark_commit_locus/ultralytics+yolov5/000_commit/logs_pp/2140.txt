@@ -1,0 +1,2 @@
+update test save txt savetxt
+continue append text file open test txt file file write tuple pred save txt savetxt torch tensor shapessi normalization gain whwh txt path txtpath str path pathssi stem pred scale coords scalecoords imgsi shape pred shapessi shapessi original xyxy conf cls pred xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh open txt path txtpath txt write cls xywh label format clip boxes image bounds clip coords clipcoords pred height width

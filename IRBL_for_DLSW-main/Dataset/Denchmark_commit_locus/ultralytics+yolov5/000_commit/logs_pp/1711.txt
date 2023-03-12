@@ -1,0 +1,2 @@
+image weights imageweights bug fix
+number batches self batch batch index image self self indices range rectangular training self rect

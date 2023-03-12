@@ -1,0 +1,2 @@
+update test
+test opt data opt batch size batchsize opt img size imgsize save json savejson false plots false elif opt task study run range settings save plot python test task study data coco yaml iou weights yolovs yolovm yolovl yolovx list range axis image sizes opt weights study path opt data stem path stem txt filename save

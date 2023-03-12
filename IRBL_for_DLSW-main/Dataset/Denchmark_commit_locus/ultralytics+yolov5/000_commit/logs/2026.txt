@@ -1,0 +1,2 @@
+      Add `device` argument to PyTorch Hub models (#3104)          * Allow to manual selection of device for torchhub models          * single line device          nested torch.device(torch.device(device)) ok          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+ import torch     def _create(name, pretrained=True, channels=3, classes=80, autoshape=True, verbose=True): def _create(name, pretrained=True, channels=3, classes=80, autoshape=True, verbose=True, device=None):      """Creates a specified YOLOv5 model        Arguments: 

@@ -1,0 +1,2 @@
+update check img size checkimgsize model strides
+torch utils torchutils model info modelinfo model model fuse model device imgsz check img size checkimgsize imgsz model model stride max check img size imgsize multi gpu multigpu disabled incompatible half https github com ultralytics yolov issues device type cpu torch cuda device count devicecount

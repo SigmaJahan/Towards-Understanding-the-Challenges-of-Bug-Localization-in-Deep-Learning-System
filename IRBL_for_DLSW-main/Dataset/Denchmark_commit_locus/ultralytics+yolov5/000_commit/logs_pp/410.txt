@@ -1,0 +1,2 @@
+remove fast add merge
+max det maxdet maximum number detections per image time limit timelimit seconds quit redundant true require redundant detections fast conf thres confthres fast mode multi label multilabel multiple labels per box adds img fast merge false else merge true merge best map adds img time time output none prediction shape

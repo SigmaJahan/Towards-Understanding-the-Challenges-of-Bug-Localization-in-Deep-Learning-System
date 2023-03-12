@@ -1,0 +1,2 @@
+eliminate total batch size totalbatchsize variable eliminate total batch size totalbatchsize variable cleanup update train
+coco iscoco coco dataset last best best exists else last speed map tests results test test opt data batch size batchsize batch size batchsize batch size batchsize batch size batchsize worldsize imgsz imgsz test imgsztest conf thres confthres iou thres iouthres

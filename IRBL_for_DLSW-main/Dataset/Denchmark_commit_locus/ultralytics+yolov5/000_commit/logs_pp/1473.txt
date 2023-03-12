@@ -1,0 +1,2 @@
+load streams loadstreams frame loss bug fix
+self imgsindex cap read cap grab read every frame self imgsindex cap retrieve success cap retrieve self imgsindex success else self imgsindex time sleep wait time

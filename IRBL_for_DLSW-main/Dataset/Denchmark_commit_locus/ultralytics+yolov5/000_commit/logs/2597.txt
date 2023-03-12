@@ -1,0 +1,2 @@
+      updated testing settings, rebalanced towards FP16 latency 
+         google_utils.attempt_download(weights)          model = torch.load(weights, map_location=device)['model'].float()  # load to FP32          torch_utils.model_info(model)         # model.fuse()         model.fuse()          model.to(device)          if half:              model.half()  # to FP16 

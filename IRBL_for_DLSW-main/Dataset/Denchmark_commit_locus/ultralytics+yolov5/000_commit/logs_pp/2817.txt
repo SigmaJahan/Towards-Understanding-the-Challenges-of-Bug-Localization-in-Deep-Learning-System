@@ -1,0 +1,2 @@
+add confusion matrix confusionmatrix normalize true flag
+def matrix self return self matrix def plot self save dir savedir names def plot self normalize true save dir savedir names try import seaborn array self matrix self matrix sum reshape self normalize normalize array self matrix self matrix sum reshape self normalize columns arrayarray nan annotate would appear fig plt figure figsize tight layout tightlayout true

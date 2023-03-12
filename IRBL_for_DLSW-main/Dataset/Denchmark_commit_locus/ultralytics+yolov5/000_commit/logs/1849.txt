@@ -1,0 +1,2 @@
+      Update plot_results() 
+         if not all(os.path.exists(x) for x in val):              print('\nWARNING: Dataset not found, nonexistant paths: %s' % [*val])              if s and len(s):  # download script                 print('Attempting autodownload from: %s' % s)                 print('Downloading %s ...' % s)                  if s.startswith('http') and s.endswith('.zip'):  # URL                      f = Path(s).name  # filename                      if platform.system() == 'Darwin':  # avoid MacOS python requests certificate error 

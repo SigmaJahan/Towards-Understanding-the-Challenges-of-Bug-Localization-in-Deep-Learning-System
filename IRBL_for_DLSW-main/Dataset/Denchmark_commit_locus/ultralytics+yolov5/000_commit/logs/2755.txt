@@ -1,0 +1,2 @@
+      Resume with custom anchors fix (#2361)          * Resume with custom anchors fix          * Update train.py 
+             # Anchors              if not opt.noautoanchor:                  check_anchors(dataset, model=model, thr=hyp['anchor_t'], imgsz=imgsz)             model.half().float()  # pre-reduce anchor precision         # Model parameters      hyp['box'] *= 3. / nl  # scale to layers 

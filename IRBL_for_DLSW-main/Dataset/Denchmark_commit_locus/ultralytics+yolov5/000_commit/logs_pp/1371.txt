@@ -1,0 +1,2 @@
+improved model ema modelema checkpointing
+ckpt epoch epoch best fitness bestfitness best fitness bestfitness training results trainingresults results file resultsfile read text readtext model model module parallel isparallel model else model half ema ema ema half ema updates model deepcopy model module parallel isparallel model else model half ema deepcopy ema ema half ema updates optimizer optimizer state dict statedict wandb wandbid wandb run wandbrun wandb else none

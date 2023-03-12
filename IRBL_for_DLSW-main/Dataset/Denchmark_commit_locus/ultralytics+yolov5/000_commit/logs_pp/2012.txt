@@ -1,0 +1,2 @@
+update train
+opt data endswith coco yaml coco conf iou save json savejson false true speed map tests results test test opt data batch size batchsize total batch size totalbatchsize batch size batchsize batch size batchsize imgsz imgsz test imgsztest conf thres confthres conf iou thres iouthres iou

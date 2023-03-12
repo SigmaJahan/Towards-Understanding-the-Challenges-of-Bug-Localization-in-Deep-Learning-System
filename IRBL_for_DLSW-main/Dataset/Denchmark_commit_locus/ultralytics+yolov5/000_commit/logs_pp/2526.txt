@@ -1,0 +1,2 @@
+explicit imports expand imports optimize miss fix
+self model modules type conv non persistent buffers set nonpersistentbuffersset set pytorch compatability conv torch utils torchutils fuse conv fuseconvandbn conv update conv conv fuse conv fuseconvandbn conv update conv none remove batchnorm forward fuseforward update forward self info return self def info self print model information torch utils torchutils model info modelinfo self model info modelinfo self def parse model parsemodel model dict modeldict input channels inputchannels

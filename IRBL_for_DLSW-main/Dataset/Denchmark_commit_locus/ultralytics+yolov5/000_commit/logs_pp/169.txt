@@ -1,0 +1,2 @@
+assert image weights imageweights combined ddp
+device torch device cuda opt local rank localrank dist init process group initprocessgroup backend nccl init method initmethod env distributed backend assert opt batch size batchsize opt world size worldsize batch size batchsize must multiple cuda device count assert opt image weights imageweights image weights imageweights argument compatible ddp training opt batch size batchsize opt total batch size totalbatchsize opt world size worldsize hyperparameters

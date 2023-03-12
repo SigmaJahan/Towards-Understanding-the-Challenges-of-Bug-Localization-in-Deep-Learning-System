@@ -1,0 +1,2 @@
+update test
+coco eval cocoeval summarize map map coco eval cocoeval stats update results map map except print warning pycocotools must installed numpy run correctly see https github com cocodataset cocoapi issues print pycocotools evaluated return results model float training

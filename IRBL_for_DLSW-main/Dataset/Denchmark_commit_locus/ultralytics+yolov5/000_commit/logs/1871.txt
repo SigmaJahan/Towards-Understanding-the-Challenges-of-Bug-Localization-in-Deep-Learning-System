@@ -1,0 +1,2 @@
+      f.read().strip() 
+           if os.path.isfile(sources):              with open(sources, 'r') as f:                 sources = [x.strip() for x in f.read().splitlines() if len(x.strip())]                 sources = [x.strip() for x in f.read().strip().splitlines() if len(x.strip())]          else:              sources = [sources]   

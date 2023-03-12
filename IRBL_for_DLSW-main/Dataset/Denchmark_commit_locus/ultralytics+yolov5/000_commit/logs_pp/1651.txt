@@ -1,0 +1,2 @@
+train logdir argparser addition train logdir argparser addition train logdir argparser addition
+plot str path log dir logdir train batchg trainbatchg jpg filename str log dir logdir train batchg trainbatchg jpg filename result plot images plotimages images imgs targets targets paths paths fname writer tbwriter result none writer tbwriter add image addimage result dataformats hwc global step globalstep epoch

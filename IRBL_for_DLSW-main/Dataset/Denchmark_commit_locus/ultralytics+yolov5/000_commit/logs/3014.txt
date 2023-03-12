@@ -1,0 +1,2 @@
+      Implement yaml.safe_load() (#2876)          * Implement yaml.safe_load()          * yaml.safe_dump() 
+       # Hyperparameters      with open(opt.hyp) as f:         hyp = yaml.load(f, Loader=yaml.SafeLoader)  # load hyps         hyp = yaml.safe_load(f)  # load hyps        # Train      logger.info(opt) 

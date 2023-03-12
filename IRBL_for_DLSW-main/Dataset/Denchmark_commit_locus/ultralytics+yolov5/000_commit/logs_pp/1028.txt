@@ -1,0 +1,2 @@
+update utils
+build targets compute loss computeloss input targets image class det model module model type model parallel data parallel dataparallel parallel distributed data parallel distributeddataparallel else model model detect module hyp model module hyp hasattr model module else model hyp det targets shape number anchors targets tcls tbox indices anch gain torch ones device targets device normalized gridspace gain

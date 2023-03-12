@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+lobj eobj bceobj tobj balancei obj loss output count scaling lbox giou lbox box lobj obj else lcls cls tobj shape batch size

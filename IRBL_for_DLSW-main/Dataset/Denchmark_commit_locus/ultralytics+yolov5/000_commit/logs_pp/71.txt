@@ -1,0 +1,2 @@
+update hyperparameters add lrf anchors
+torch distributed zero first torchdistributedzerofirst rank attempt download attemptdownload weights download found locally ckpt torch load weights map location maplocation device load checkpoint hyp anchors ckpt model yaml anchors round hyp anchors force autoanchor model model opt cfg ckpt model yaml device create exclude anchor opt cfg else exclude keys state dict statedict ckpt model float state dict statedict

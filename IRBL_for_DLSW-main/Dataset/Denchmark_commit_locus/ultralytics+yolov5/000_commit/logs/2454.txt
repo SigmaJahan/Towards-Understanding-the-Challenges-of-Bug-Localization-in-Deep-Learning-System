@@ -1,0 +1,2 @@
+      update compute_loss() 
+           lobj += BCEobj(pi[..., 4], tobj) * balance[i]  # obj loss       s = 3 / (i + 1)  # output count scaling     s = 3 / np  # output count scaling      lbox *= h['giou'] * s      lobj *= h['obj'] * s      lcls *= h['cls'] * s 

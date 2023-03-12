@@ -1,0 +1,2 @@
+update hyperparameters add lrf anchors
+translate image translation fraction scale image scale gain shear image shear deg perspective image perspective fraction range flipud image flip updown probability fliplr image flip left right leftright probability perspective image perspective fraction range flipud image flip updown probability fliplr image flip left right leftright probability mixup image mixup probability assert opt local rank localrank ddp mode implemented evolve

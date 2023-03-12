@@ -1,0 +1,2 @@
+torch pytorch hub results render
+pred unique pred sum detections per class str self namesint add string show save show save render img image fromarray img astype uint isinstance img ndarray else img box conf cls pred xyxy confidence class str namesint cls conf label image draw imagedraw draw img rectangle box width outline colorsint cls plot pprint print str show img show image show save results jpg str saved img save save show img show image show pprint print str render self imgsi asarray img def print self self display pprint true print results

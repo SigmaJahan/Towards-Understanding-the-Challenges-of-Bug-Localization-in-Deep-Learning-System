@@ -1,0 +1,2 @@
+add cappropframecount tube youtube sources
+def new video newvideo self path self frame self cap video capture videocapture path self nframes int self cap get cappropframecount self frames int self cap get cappropframecount def len self return self number files

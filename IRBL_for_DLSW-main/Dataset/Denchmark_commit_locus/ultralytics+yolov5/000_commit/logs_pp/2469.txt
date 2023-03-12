@@ -1,0 +1,2 @@
+update detect update detect update print info relative path absolute otherwise info misleading results saved workspace output path outputpath update detect authored coauthoredby glenn jocher
+vid writer vidwriter write save txt savetxt save img saveimg print results saved getcwd sep print results saved path platform darwin opt update mac macos system open save path savepath

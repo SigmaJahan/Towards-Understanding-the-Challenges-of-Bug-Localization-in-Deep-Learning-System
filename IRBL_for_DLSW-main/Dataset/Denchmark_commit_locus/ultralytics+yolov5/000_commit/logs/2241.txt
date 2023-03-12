@@ -1,0 +1,2 @@
+      PyTorch 1.6.0 update with native AMP (#573)          * PyTorch have Automatic Mixed Precision (AMP) Training.          * Fixed the problem of inconsistent code length indentation          * Fixed the problem of inconsistent code length indentation          * Mixed precision training is turned on by default 
+     ema = torch_utils.ModelEMA(model) if rank in [-1, 0] else None        # DDP mode     if device.type != 'cpu' and rank != -1:     if cuda and rank != -1:          model = DDP(model, device_ids=[rank], output_device=rank)        # Trainloader 

@@ -1,0 +1,2 @@
+      update train.py gsutil bucket fix (#463) 
+     model.names = names        # Class frequency     # Only one check and log is needed.     if local_rank in [-1, 0]:     if rank in [-1, 0]:          labels = np.concatenate(dataset.labels, 0)          c = torch.tensor(labels[:, 0])  # classes          # cf = torch.bincount(c.long(), minlength=nc) + 1. 

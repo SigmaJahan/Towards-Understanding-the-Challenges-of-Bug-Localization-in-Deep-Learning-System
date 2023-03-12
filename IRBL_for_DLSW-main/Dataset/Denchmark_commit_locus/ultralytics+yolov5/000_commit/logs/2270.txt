@@ -1,0 +1,2 @@
+      Add verbose option to pytorch hub models (#2926)          * Add verbose and update print to logging          * Fix positonal param          * Revert auto formatting changes          * Update hubconf.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+         raise Exception(s) from e     def custom(path_or_model='path/to/model.pt', autoshape=True): def custom(path_or_model='path/to/model.pt', autoshape=True, verbose=True):      """YOLOv5-custom model https://github.com/ultralytics/yolov5        Arguments (3 options): 

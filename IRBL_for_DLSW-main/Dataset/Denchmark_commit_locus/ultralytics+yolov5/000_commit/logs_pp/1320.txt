@@ -1,0 +1,2 @@
+silu export support
+update model model named modules namedmodules non persistent buffers set nonpersistentbuffersset set pytorch compatibility isinstance models common conv isinstance act hardswish act hardswish assign activation isinstance models yolo detect isinstance models common conv assign export friendly exportfriendly activations isinstance act hardswish act hardswish elif isinstance act silu act silu elif isinstance models yolo detect forward forward export forwardexport assign forward optional model model export true set detect layer export true model img dry run

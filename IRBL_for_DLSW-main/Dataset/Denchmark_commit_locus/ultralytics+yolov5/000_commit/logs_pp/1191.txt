@@ -1,0 +1,2 @@
+module updates
+return self conv self shortcut class conv plus convplus module plus shaped plusshaped convolution def init self bias true chin chout kernel stride groups super conv plus convplus self init self convd groups bias bias self convd groups bias bias def forward self return self self class mix convd mixconvd module mixed depthwise conv https arxiv org abs def init self equal equalch true

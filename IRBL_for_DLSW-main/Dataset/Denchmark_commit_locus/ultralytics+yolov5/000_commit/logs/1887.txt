@@ -1,0 +1,2 @@
+      Add variable-stride inference support (#2091) 
+     if webcam:          view_img = True          cudnn.benchmark = True  # set True to speed up constant image size inference         dataset = LoadStreams(source, img_size=imgsz)         dataset = LoadStreams(source, img_size=imgsz, stride=stride)      else:          save_img = True         dataset = LoadImages(source, img_size=imgsz)         dataset = LoadImages(source, img_size=imgsz, stride=stride)        # Get names and colors      names = model.module.names if hasattr(model, 'module') else model.names 

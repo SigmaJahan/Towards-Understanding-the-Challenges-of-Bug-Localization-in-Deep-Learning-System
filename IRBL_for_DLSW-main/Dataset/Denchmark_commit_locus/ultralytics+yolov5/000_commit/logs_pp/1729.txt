@@ -1,0 +1,2 @@
+add replicate datasets
+return img labels def replicate img labels replicate labels img shape boxes labels astype int boxes side length pixels argsort round size smallest indices boxesi int random uniform int random uniform offset imgya imgyb imgymin ymax xmin xmax labels append labels labelsi axis return img labels def letterbox img new shape newshape color auto true scale fill scalefill false scaleup true resize image pixel multiple pixelmultiple rectangle https github com ultralytics yolov issues shape img shape current shape height width

@@ -1,0 +1,2 @@
+ddp fix revert unintentional change test batch sizes caused https github com ultralytics yolov pull
+opt notest final epoch finalepoch calculate map wandb logger wandblogger current epoch currentepoch epoch results maps times test test data dict datadict batch size batchsize total batch size totalbatchsize batch size batchsize batch size batchsize imgsz imgsz test imgsztest model ema ema single cls singlecls opt single cls singlecls

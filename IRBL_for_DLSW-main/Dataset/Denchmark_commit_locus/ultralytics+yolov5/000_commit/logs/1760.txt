@@ -1,0 +1,2 @@
+      PyTorch Hub models default to CUDA:0 if available (#2472)          * PyTorch Hub models default to CUDA:0 if available          * device as string bug fix 
+ # PyTorch utils   import logging  import math  import os import platform  import subprocess  import time  from contextlib import contextmanager 

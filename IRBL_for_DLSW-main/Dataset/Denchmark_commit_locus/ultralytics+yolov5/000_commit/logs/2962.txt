@@ -1,0 +1,2 @@
+      PyTorch Hub and autoShape update (#1415)          * PyTorch Hub and autoShape update          * comment x for imgs          * reduce comment 
+     model = torch.hub.load('ultralytics/yolov5', 'yolov5s', pretrained=True, channels=3, classes=80)  """   dependencies = ['torch', 'yaml']  from pathlib import Path    import torch from PIL import Image    from models.yolo import Model  from utils.general import set_logging  from utils.google_utils import attempt_download   dependencies = ['torch', 'yaml', 'pillow']  set_logging()     

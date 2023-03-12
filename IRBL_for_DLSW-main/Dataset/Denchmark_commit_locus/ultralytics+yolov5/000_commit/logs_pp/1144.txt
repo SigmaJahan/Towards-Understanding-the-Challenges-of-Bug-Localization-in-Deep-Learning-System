@@ -1,0 +1,2 @@
+update tensorboard metric
+tensorboard writer tbwriter tags train giou loss giouloss train obj loss objloss train cls loss clsloss metrics precision metrics recall metrics map metrics metrics precision metrics recall metrics map metrics map val giou loss giouloss val obj loss objloss val cls loss clsloss tag zip list mloss list results tags writer tbwriter add scalar addscalar tag epoch

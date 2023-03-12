@@ -1,0 +1,2 @@
+      add save_dir arg to plot_lr_scheduler, default to current dir.     Uncomment plot_lr_scheduler in train() and pass log_dir as save location 
+     return mosaic     def plot_lr_scheduler(optimizer, scheduler, epochs=300): def plot_lr_scheduler(optimizer, scheduler, epochs=300, save_dir='./'):      # Plot LR simulating training for full epochs      optimizer, scheduler = copy(optimizer), copy(scheduler)  # do not modify originals      y = [] 

@@ -1,0 +1,2 @@
+nms updates
+argsort descending true batched nms agnostic else classes boxes scores clone view max maxwh boxes offset class scores agnostic else max maxwh classes boxes scores boxes offset class scores torchvision ops boxes nms boxes scores iou thres iouthres shape max det maxdet limit detections max det maxdet

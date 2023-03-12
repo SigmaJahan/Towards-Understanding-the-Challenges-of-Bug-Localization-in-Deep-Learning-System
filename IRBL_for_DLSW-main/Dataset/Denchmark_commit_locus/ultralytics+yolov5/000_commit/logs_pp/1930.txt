@@ -1,0 +1,2 @@
+export update
+print opt input img torch zeros opt batch size batchsize opt img size imgsize image size detection idetection img torch zeros opt batch size batchsize opt img size imgsize image size detection idetection load torch pytorch model google utils googleutils attempt download attemptdownload opt weights

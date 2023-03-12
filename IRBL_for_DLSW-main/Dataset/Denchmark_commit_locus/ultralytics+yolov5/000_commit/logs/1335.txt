@@ -1,0 +1,2 @@
+      Update train.py (#3667) 
+                                                   save_dir.glob('train*.jpg') if x.exists()]})                # end batch ------------------------------------------------------------------------------------------------                    # Scheduler          lr = [x['lr'] for x in optimizer.param_groups]  # for tensorboard          scheduler.step() 

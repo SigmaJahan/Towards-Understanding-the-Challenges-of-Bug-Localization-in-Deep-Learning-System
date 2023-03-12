@@ -1,0 +1,2 @@
+update general plot evolution plotevolution
+plt close def plot evolution plotevolution yaml file yamlfile runs evolve hyp evolved hypevolved yaml utils general import plot evolution plotevolution def plot evolution plotevolution yaml file yamlfile data hyp finetune yaml utils general import plot evolution plotevolution plot hyperparameter evolution results evolve txt open yaml file yamlfile hyp yaml load loader yaml full loader fullloader

@@ -1,0 +1,2 @@
+      FP16 inference update 
+         t1 = torch_utils.time_synchronized()          pred = model(img, augment=opt.augment)[0]           # to float         if half:             pred = pred.float()           # Apply NMS          pred = non_max_suppression(pred, opt.conf_thres, opt.iou_thres,                                     fast=True, classes=opt.classes, agnostic=opt.agnostic_nms) 

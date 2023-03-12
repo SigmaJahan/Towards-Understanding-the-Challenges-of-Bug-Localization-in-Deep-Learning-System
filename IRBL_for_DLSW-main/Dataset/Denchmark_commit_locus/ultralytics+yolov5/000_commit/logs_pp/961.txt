@@ -1,0 +1,2 @@
+ignore blank lines txt labels fix https github com ultralytics yolov issues issuecomment
+path isfile file lbfile label found open file lbfile split read strip splitlines split read strip splitlines len len segment classes array dtype float segments array dtype float reshape cls

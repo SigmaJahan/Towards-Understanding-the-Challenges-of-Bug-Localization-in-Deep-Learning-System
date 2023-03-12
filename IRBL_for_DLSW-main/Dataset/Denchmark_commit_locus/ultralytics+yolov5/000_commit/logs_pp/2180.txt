@@ -1,0 +1,2 @@
+replace random affine randomaffine random perspective randomperspective signed signedoffby glenn jocher
+self augment augment imagespace self mosaic img labels random affine randomaffine img labels degrees hyp degrees translate hyp translate scale hyp scale shear hyp shear img labels random perspective randomperspective img labels degrees hyp degrees translate hyp translate scale hyp scale shear hyp shear augment colorspace augment hsv augmenthsv img hgain hyp hsv hsvh sgain hyp hsv hsvs vgain hyp hsv hsvv

@@ -1,0 +1,2 @@
+update train
+obj objpw obj bce loss bceloss positive weight positiveweight iou iout iou training threshold anchor anchort anchor multiple anchormultiple threshold gamma flgamma focal loss gamma efficient det efficientdet default gamma gamma flgamma focal loss gamma efficient det efficientdet default gamma hsv hsvh image hsv hue hsvhue augmentation fraction hsv hsvs image hsv saturation hsvsaturation augmentation fraction hsv hsvv image hsv value hsvvalue augmentation fraction

@@ -1,0 +1,2 @@
+pycocotools best coco train pycocotools best coco train cleanup
+save json save json savejson len jdict path weights isinstance weights list else weights stem weights none else weights anno json annojson glob glob coco annotations instances val instancesval json annotations json anno json annojson coco annotations instances val instancesval json annotations json pred json predjson str save dir savedir predictions json predictions json print evaluating nevaluating pycocotools map saving pred json predjson open pred json predjson

@@ -1,0 +1,2 @@
+opt img weights imgweights bug fix
+obj objpw obj bce loss bceloss positive weight positiveweight iou iout iou training threshold anchor anchort anchor multiple anchormultiple threshold anchors anchors per output grid ignore anchors anchors per output grid ignore gamma flgamma focal loss gamma efficient det efficientdet default gamma hsv hsvh image hsv hue hsvhue augmentation fraction hsv hsvs image hsv saturation hsvsaturation augmentation fraction

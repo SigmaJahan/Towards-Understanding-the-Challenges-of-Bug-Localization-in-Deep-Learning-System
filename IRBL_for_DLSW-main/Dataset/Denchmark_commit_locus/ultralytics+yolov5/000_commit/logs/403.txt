@@ -1,0 +1,2 @@
+      add file sizes to ckpt ops 
+     for p in x['model'].parameters():          p.requires_grad = True      torch.save(x, s)     print('%s saved as pretrained checkpoint %s' % (f, s))     print('%s saved as pretrained checkpoint %s, %.1fMB' % (f, s, os.path.getsize(s) / 1E6))      def coco_class_count(path='../coco/labels/train2014/'): 

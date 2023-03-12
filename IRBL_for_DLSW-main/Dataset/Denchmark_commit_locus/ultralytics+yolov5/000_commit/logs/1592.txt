@@ -1,0 +1,2 @@
+      Update loss criteria constructor (#1711) 
+             return loss.sum()          else:  # 'none'              return loss                      class QFocalLoss(nn.Module):      # Wraps Quality focal loss around existing loss_fcn(), i.e. criteria = FocalLoss(nn.BCEWithLogitsLoss(), gamma=1.5)      def __init__(self, loss_fcn, gamma=1.5, alpha=0.25): 

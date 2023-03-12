@@ -1,0 +1,2 @@
+tube youtube livestream detection youtube livestream detection dependancy update auto install pafy remove print include youtube youtubedl deps pep reformat youtube url check fix reduce lines add comment update check requirements checkrequirements stream framerate fix update readme cleanup pep remove cap retrieve failure code authored coauthoredby glenn jocher
+clip assert imwrite str imb box failure def autosplit path coco weights annotated annotatedonly false autosplit dataset train val test splits save path autosplit txt files usage utils datasets import autosplit coco

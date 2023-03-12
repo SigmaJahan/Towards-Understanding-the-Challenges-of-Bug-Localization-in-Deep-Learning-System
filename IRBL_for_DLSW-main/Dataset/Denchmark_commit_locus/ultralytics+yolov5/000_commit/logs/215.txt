@@ -1,0 +1,2 @@
+      comment updates 
+     off = torch.tensor([[1, 0], [0, 1], [-1, 0], [0, -1]], device=targets.device).float()  # overlap offsets      at = torch.arange(na).view(na, 1).repeat(1, nt)  # anchor tensor, same as .repeat_interleave(nt)       g = 0.5  # offset      style = 'rect4'      for i in range(det.nl):          anchors = det.anchors[i] 

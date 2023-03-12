@@ -1,0 +1,2 @@
+change optimizer parameters group method change optimizer parameters group method add torch change isinstance method torch tensor parameter parameter freeze fix pep reformat freeze bug fix authored coauthoredby glenn jocher
+import math import numpy import torch distributed dist import torch import torch functional import torch optim optim import torch optim scheduler lrscheduler scheduler lrscheduler

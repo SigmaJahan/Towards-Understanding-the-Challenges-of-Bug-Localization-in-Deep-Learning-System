@@ -1,0 +1,2 @@
+create pip ispip function returns true file part pip package useful contextual behavior modification python def pip ispip file pip package return site packages sitepackages path file absolute parts
+return false def pip ispip file pip package return site packages sitepackages path file absolute parts def emojis str return platform dependent platformdependent emoji safe emojisafe version string return str encode decode ascii ignore platform system windows else str

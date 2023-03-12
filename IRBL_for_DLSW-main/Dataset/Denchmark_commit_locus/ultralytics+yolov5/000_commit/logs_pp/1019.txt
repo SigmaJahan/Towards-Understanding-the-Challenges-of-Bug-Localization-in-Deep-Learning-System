@@ -1,0 +1,2 @@
+update colors update colors update colors update colors
+class colors ultralytics color palette https ultralytics com def init self self palette self hexrgb matplotlib colors tableaucolors values hex matplotlib colors tableaucolors values hex ffd fff ffbd cfd ddb dbb cff cbff ffc ffc self palette self hexrgb hex self len self palette def call self bgr false

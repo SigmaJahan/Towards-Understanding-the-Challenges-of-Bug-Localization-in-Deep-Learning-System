@@ -1,0 +1,2 @@
+      strip_optimizer() default to save FP16 model 
+     # Strip optimizer from *.pt files for lighter files (reduced by 1/2 size)      x = torch.load(f, map_location=torch.device('cpu'))      x['optimizer'] = None     x['model'].half()  # to FP16      torch.save(x, f)      print('Optimizer stripped from %s' % f)   

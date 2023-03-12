@@ -1,0 +1,2 @@
+torch pytorch update native amp torch pytorch automatic mixed precision amp training fixed problem inconsistent code length indentation fixed problem inconsistent code length indentation mixed precision training turned default
+ema torch utils torchutils model ema modelema model rank else none ddp mode device type cpu rank cuda rank model ddp model device ids deviceids rank output device outputdevice rank trainloader

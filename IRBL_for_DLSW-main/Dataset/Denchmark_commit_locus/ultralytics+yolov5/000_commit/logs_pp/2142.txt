@@ -1,0 +1,2 @@
+feat add rtmp support feat add rtmp support update detect pass tuple source startswith authored coauthoredby ryan authored coauthoredby glenn jocher
+def detect save img saveimg false source weights view img viewimg save txt savetxt imgsz opt output opt source opt weights opt view img viewimg opt save txt savetxt opt img size imgsize webcam source isnumeric source startswith rtsp source startswith http source endswith txt webcam source isnumeric source startswith rtsp rtmp http source endswith txt initialize set logging setlogging

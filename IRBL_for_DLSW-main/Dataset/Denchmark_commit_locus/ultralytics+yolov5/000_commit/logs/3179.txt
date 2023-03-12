@@ -1,0 +1,2 @@
+      module updates 
+     for xi, x in enumerate(prediction):  # image index, image inference          # Apply constraints          # x[((x[..., 2:4] < min_wh) | (x[..., 2:4] > max_wh)).any(1), 4] = 0  # width-height         x = x[x[:, 4] > conf_thres]  # confidence         x = x[xc[xi]]  # confidence            # If none remain process next image          if not x.shape[0]: 

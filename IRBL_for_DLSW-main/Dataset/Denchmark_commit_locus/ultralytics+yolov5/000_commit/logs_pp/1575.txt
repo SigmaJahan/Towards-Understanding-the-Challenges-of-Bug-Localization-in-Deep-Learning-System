@@ -1,0 +1,2 @@
+update caching
+def iter self self count logger info ran dataset iter print ran dataset iter self shuffled vector shuffledvector random permutation self self augment else arange self return self

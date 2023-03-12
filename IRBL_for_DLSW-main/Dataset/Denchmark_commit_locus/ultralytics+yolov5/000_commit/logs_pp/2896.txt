@@ -1,0 +1,2 @@
+add mosaic warmup hyperparameters
+index self indicesindex hyp self hyp self mosaic mosaic self mosaic random random hyp mosaic mosaic load mosaic img labels load mosaic loadmosaic self index shapes none

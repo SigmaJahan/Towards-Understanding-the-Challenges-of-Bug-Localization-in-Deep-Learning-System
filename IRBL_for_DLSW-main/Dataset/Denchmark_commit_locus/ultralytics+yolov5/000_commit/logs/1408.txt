@@ -1,0 +1,2 @@
+      update train.py gsutil bucket fix (#463) 
+         # end epoch ----------------------------------------------------------------------------------------------------      # end training       if local_rank in [-1, 0]:     if rank in [-1, 0]:          # Strip optimizers          n = ('_' if len(opt.name) and not opt.name.isnumeric() else '') + opt.name          fresults, flast, fbest = 'results%s.txt' % n, wdir + 'last%s.pt' % n, wdir + 'best%s.pt' % n 

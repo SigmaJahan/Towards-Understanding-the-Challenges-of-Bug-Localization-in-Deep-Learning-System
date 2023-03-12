@@ -1,0 +1,2 @@
+      Add `check_git_status()` 5 second timeout (#3464)          * Add check_git_status() 5 second timeout          This should prevent the SSH Git bug that we were discussing @KalenMike          * cleanup          * replace timeout with check_output built-in timeout 
+             s = f'up to date with {url} �쐟'          print(emojis(s))  # emoji-safe      except Exception as e:         print(e)         print(f'{e}{err_msg}')      def check_python(minimum='3.7.0', required=True): 

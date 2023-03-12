@@ -1,0 +1,2 @@
+improved flops computation improved flops computation update comment
+return fusedconv def model info modelinfo model verbose false plots line line linebyline description torch pytorch model def model info modelinfo model verbose false img size imgsize model information img size imgsize may int list img size imgsize img size imgsize sum numel model parameters number parameters sum numel model parameters requires grad requiresgrad number gradients verbose

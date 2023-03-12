@@ -1,0 +1,2 @@
+ckpt load
+load model try ckpt model ckpt model state dict statedict items model state dict statedict numel numel ckpt model ckpt model float state dict statedict items model state dict statedict shape shape filter model load state dict loadstatedict ckpt model strict false except key error keyerror compatible specify weights specify cfg compatible

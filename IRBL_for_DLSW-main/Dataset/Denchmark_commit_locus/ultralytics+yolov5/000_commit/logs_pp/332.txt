@@ -1,0 +1,2 @@
+add file size filesize function add file size filesize function update export
+return str encode decode ascii ignore platform system windows else str def file size filesize file return file size return path file stat size stsize def check online checkonline check internet connectivity import socket

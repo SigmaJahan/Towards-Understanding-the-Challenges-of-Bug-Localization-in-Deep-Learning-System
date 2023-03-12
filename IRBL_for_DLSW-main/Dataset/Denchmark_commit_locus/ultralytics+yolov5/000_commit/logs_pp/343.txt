@@ -1,0 +1,2 @@
+ddp fix
+wandb logger wandblogger wandb log artifact logartifact str final type model name run wandb logger wandblogger wandb run wandbrun model aliases last best stripped wandb logger wandblogger finish run finishrun else dist destroy process group destroyprocessgroup torch cuda empty cache emptycache wandb logger wandblogger finish run finishrun return results

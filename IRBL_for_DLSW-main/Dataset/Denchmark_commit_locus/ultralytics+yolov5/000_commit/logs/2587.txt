@@ -1,0 +1,2 @@
+      add save yaml of opt and hyp to tensorboard log_dir in train() 
+     batch_size = opt.batch_size  # 64      weights = opt.weights  # initial training weights       #write all results to the tb log_dir, so all data from one run is together     log_dir = tb_writer.log_dir       # Configure      init_seeds(1)      with open(opt.data) as f: 

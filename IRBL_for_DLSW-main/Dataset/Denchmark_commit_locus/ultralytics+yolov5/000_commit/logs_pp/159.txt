@@ -1,0 +1,2 @@
+yol yolov release patch torch jit trace model img strict false update check file checkfile update hubconf update readme
+file accessing yol yolov models via torch pytorch hub https pytorch org hub ultralytics yolov ultralyticsyolov yol yolov torch pytorch hub models https pytorch org hub ultralytics yolov ultralyticsyolov usage import torch

@@ -1,0 +1,2 @@
+      kmean_anchors() update 
+       # Get label wh      wh = []     dataset = LoadImagesAndLabels(path, augment=True, rect=True)     with open(path) as f:         data_dict = yaml.load(f, Loader=yaml.FullLoader)  # model dict     dataset = LoadImagesAndLabels(data_dict['train'], augment=True, rect=True)      nr = 1 if img_size[0] == img_size[1] else 3  # number augmentation repetitions      for s, l in zip(dataset.shapes, dataset.labels):          # wh.append(l[:, 3:5] * (s / s.max()))  # image normalized to letterbox normalized wh 

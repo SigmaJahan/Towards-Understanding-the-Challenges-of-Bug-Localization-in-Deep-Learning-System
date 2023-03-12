@@ -1,0 +1,2 @@
+add stride datasets
+hyp hyp augmentation hyperparameters rect opt rect rectangular training cache images cacheimages opt cache images cacheimages single cls singlecls opt single cls singlecls single cls singlecls opt single cls singlecls stride mlc concatenate dataset labels max max label class assert mlc label class exceeds correct labels model mlc opt cfg

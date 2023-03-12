@@ -1,0 +1,2 @@
+      AutoAnchor fitness to screen 
+         fg = fitness(kg)          if fg > f:              f, k = fg, kg.copy()             pbar.desc = 'Evolving anchors with Genetic Algorithm: fitness = %.4f' % f              if verbose:                  print_results(k)   

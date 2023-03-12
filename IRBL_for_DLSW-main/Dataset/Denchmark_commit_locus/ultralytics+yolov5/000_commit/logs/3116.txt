@@ -1,0 +1,2 @@
+      add option to disable half precision in test.py (#2507)          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+          plots=True,           wandb_logger=None,           compute_loss=None,          half_precision=True,           is_coco=False):      # Initialize/load model and set device      training = model is not None 

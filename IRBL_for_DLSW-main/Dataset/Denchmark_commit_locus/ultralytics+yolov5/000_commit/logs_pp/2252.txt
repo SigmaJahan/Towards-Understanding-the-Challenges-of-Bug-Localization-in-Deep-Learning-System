@@ -1,0 +1,2 @@
+torch pytorch update native amp torch pytorch automatic mixed precision amp training fixed problem inconsistent code length indentation fixed problem inconsistent code length indentation mixed precision training turned default
+cudnn benchmark true def select device selectdevice device apex false batch size batchsize none def select device selectdevice device batch size batchsize none device cpu cpu request cpurequest device lower cpu device cpu request cpurequest device requested cpu

@@ -1,0 +1,2 @@
+model fuse fix export
+type conv non persistent buffers set nonpersistentbuffersset set pytorch compatability conv fuse conv fuseconvandbn conv update conv none remove batchnorm delattr remove batchnorm forward fuseforward update forward self info return self

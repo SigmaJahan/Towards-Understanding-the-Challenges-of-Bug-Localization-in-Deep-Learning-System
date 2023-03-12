@@ -1,0 +1,2 @@
+update check requirements checkrequirements exclude list
+utils torch utils torchutils import select device selectdevice dependencies torch yaml check requirements checkrequirements path file parent requirements txt exclude pycocotools thop check requirements checkrequirements path file parent requirements txt exclude tensorboard pycocotools thop def create name pretrained channels classes autoshape verbose

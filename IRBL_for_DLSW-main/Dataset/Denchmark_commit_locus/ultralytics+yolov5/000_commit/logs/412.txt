@@ -1,0 +1,2 @@
+      ONNX Simplifier (#2815)          * ONNX Simplifier          Add ONNX Simplifier to ONNX export pipeline in export.py. Will auto-install onnx-simplifier if onnx is installed but onnx-simplifier is not.          * Update general.py 
+ import models  from models.experimental import attempt_load  from utils.activations import Hardswish, SiLU from utils.general import set_logging, check_img_size from utils.general import colorstr, check_img_size, check_requirements, set_logging  from utils.torch_utils import select_device    if __name__ == '__main__': 

@@ -1,0 +1,2 @@
+update detections self tuple update detections self tuple fix multiple results print bug update experimental update yolo
+self xyxyn zip self xyxy xyxy normalized self xywhn zip self xywh xywh normalized self len self pred self timesi timesi self range timestamps self tuple timesi timesi self range timestamps self shape inference bchw shape def display self pprint false show false save false render false save dir savedir

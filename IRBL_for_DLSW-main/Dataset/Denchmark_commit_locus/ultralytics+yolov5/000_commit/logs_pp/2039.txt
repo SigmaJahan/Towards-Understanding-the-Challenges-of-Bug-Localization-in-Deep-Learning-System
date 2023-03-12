@@ -1,0 +1,2 @@
+fix onnx export using grid simplify dynamic simultaneously update yolo update export fix export grid update export remove detect export attribute rearrange order remove grid default inplace false rename exp dynamic expdynamic onnx dynamic onnxdynamic comment replace anchor gridi anchorgridi index update export authored coauthoredby glenn jocher
+class detect module stride none strides computed build export false onnx export onnx dynamic onnxdynamic false onnx export parameter def init self anchors inplace true detection layer super detect self init

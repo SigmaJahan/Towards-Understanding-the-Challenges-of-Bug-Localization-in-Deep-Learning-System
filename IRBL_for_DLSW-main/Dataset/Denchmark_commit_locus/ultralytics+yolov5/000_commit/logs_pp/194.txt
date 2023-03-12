@@ -1,0 +1,2 @@
+torchvision nms bug fix
+def load classifier loadclassifier name resnet loads pretrained model reshaped class nclass output import torchvision model torchvision models dictname pretrained true res net resnet model properties

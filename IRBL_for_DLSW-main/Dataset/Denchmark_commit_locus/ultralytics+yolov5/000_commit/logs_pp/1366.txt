@@ -1,0 +1,2 @@
+exportable hardswish implementation
+return torch sigmoid class hardswish module alternative hardswish export staticmethod def forward return hardsigmoid return hardtanh class memory efficient swish memoryefficientswish module class torch autograd function staticmethod

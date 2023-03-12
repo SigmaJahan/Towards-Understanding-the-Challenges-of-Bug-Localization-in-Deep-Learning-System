@@ -1,0 +1,2 @@
+increase flops robustness
+try flops thop import profile stride int model stride max stride int model stride max hasattr model stride else img torch zeros stride stride device next model parameters device input flops profile deepcopy model inputs img verbose false stride flops img size imgsize img size imgsize isinstance img size imgsize list else img size imgsize img size imgsize expand int float

@@ -1,0 +1,2 @@
+      Simplified inference (#1153) 
+   import torch   from models.common import NMS  from models.yolo import Model  from utils.google_utils import attempt_download   

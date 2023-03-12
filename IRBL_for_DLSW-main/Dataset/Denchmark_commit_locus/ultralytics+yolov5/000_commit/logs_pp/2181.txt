@@ -1,0 +1,2 @@
+replace random affine randomaffine random perspective randomperspective signed signedoffby glenn jocher
+labels self img size imgsize int random uniform self mosaic border mosaicborder mosaic center mosaic center indices index random randint len self labels range additional image indices index enumerate indices load image

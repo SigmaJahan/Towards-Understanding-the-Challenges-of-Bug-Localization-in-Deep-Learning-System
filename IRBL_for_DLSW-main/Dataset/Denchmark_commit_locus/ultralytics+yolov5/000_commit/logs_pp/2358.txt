@@ -1,0 +1,2 @@
+update utils
+fig savefig replace txt png dpi def plot results plotresults start stop bucket labels save dir savedir utils utils import plot results plotresults def plot results plotresults start stop bucket labels save dir savedir utils utils import plot results plotresults plot training results txt seen https github com ultralytics yolovreproduce training yolovreproduceourtraining fig plt subplots figsize ravel

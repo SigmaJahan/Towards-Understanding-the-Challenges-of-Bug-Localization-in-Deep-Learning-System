@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+self new video newvideo videos new video else self cap none assert self images videos found supported formats nimages snvideos img formats imgformats vid formats vidformats assert self images videos found supported formats nimages img formats imgformats nvideos vid formats vidformats def iter self self count

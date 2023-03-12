@@ -1,0 +1,2 @@
+update export
+update model model named modules namedmodules non persistent buffers set nonpersistentbuffersset set pytorch compatability isinstance conv isinstance act hardswish isinstance models common conv isinstance act hardswish act hardswish assign activation isinstance detect forward forward export forwardexport assign forward optional isinstance models yolo detect forward forward export forwardexport assign forward optional model model export true set detect layer export true model img dry run

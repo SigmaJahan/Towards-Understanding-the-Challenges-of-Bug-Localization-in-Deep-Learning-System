@@ -1,0 +1,2 @@
+      Update check_requirements() exclude list (#2974) 
+         Usage:              from utils.autoanchor import *; _ = kmean_anchors()      """     from scipy.cluster.vq import kmeans       thr = 1. / thr      prefix = colorstr('autoanchor: ')   

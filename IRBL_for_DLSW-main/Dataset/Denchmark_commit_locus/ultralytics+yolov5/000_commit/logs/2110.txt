@@ -1,0 +1,2 @@
+      Security Fix for Arbitrary Code Execution - huntr.dev (#1962)          Co-authored-by: Anon-Artist <61599526+Anon-Artist@users.noreply.github.com>     Co-authored-by: Jamie Slome <jamie@418sec.com> 
+     cuda = device.type != 'cpu'      init_seeds(2 + rank)      with open(opt.data) as f:         data_dict = yaml.load(f, Loader=yaml.FullLoader)  # data dict         data_dict = yaml.load(f, Loader=yaml.SafeLoader)  # data dict      with torch_distributed_zero_first(rank):          check_dataset(data_dict)  # check      train_path = data_dict['train'] 

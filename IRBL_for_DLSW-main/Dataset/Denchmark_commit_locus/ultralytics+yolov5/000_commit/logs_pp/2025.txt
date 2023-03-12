@@ -1,0 +1,2 @@
+updates
+axi set title settitle argmax plot linewidth markersize label path stem plot array linewidth markersize label efficient det efficientdet set xlim setxlim set xlabel setxlabel latency set ylabel setylabel coco val legend plot linewidth markersize label path stem replace study coco studycoco replace yolo yolo set xlim setxlim set ylim setylim set xlabel setxlabel gpu latency set ylabel setylabel coco val legend loc lower right grid plt savefig study map latency studymaplatency png dpi plt savefig replace txt png dpi

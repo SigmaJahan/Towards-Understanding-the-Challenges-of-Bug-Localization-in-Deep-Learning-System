@@ -1,0 +1,2 @@
+      updates 
+     min_wh, max_wh = 2, 4096  # (pixels) minimum and maximum box width and height      max_det = 300  # maximum number of detections per image      time_limit = 10.0  # seconds to quit after     redundant = conf_thres == 0.001  # require redundant detections        t = time.time()      nc = prediction[0].shape[1] - 5  # number of classes 

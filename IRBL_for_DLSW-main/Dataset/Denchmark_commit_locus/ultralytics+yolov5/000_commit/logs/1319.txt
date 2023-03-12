@@ -1,0 +1,2 @@
+      nn.SiLU() export support (#1713) 
+   import models  from models.experimental import attempt_load from utils.activations import Hardswish from utils.activations import Hardswish, SiLU  from utils.general import set_logging, check_img_size    if __name__ == '__main__': 

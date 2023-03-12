@@ -1,0 +1,2 @@
+module updates
+range resultsj axi plot marker label smooth ysmooth butter lowpass filtfilt butterlowpassfiltfilt axi plot gradient smooth ysmooth marker label axi plot marker label smooth ysmooth butter lowpass filtfilt butterlowpassfiltfilt axi plot gradient smooth ysmooth marker label axi set title settitle axi legend

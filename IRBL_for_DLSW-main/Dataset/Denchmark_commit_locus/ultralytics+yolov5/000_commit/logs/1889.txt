@@ -1,0 +1,2 @@
+      Add variable-stride inference support (#2091) 
+         ni, nv = len(images), len(videos)            self.img_size = img_size         self.stride = stride          self.files = images + videos          self.nf = ni + nv  # number of files          self.video_flag = [False] * ni + [True] * nv 

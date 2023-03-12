@@ -1,0 +1,2 @@
+update train test batch size batchsize update train update loss
+ecls bcecls eobj bceobj focal loss focalloss ecls bcecls focal loss focalloss eobj bceobj det model module model parallel isparallel model else model model detect module self balance det self balance det self balance det self ssi det stride nonzero tuple astuple false item stride index self ecls bcecls self eobj bceobj self self hyp self autobalance ecls bcecls eobj bceobj model autobalance anchors

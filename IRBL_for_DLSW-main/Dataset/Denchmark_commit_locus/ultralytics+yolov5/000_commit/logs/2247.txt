@@ -1,0 +1,2 @@
+      PyTorch 1.6.0 update with native AMP (#573)          * PyTorch have Automatic Mixed Precision (AMP) Training.          * Fixed the problem of inconsistent code length indentation          * Fixed the problem of inconsistent code length indentation          * Mixed precision training is turned on by default 
+         # Scheduler          scheduler.step()           # Only the first process in DDP mode is allowed to log or save checkpoints.         # DDP process 0 or single-GPU          if rank in [-1, 0]:              # mAP              if ema is not None: 

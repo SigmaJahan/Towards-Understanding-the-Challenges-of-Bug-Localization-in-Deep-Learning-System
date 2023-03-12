@@ -1,0 +1,2 @@
+      Update `train(hyp, *args)` to accept `hyp` file or dict (#3668) 
+             prefix = colorstr('tensorboard: ')              logger.info(f"{prefix}Start with 'tensorboard --logdir {opt.project}', view at http://localhost:6006/")              tb_writer = SummaryWriter(opt.save_dir)  # Tensorboard         train(hyp, opt, device, tb_writer)         train(opt.hyp, opt, device, tb_writer)        # Evolve hyperparameters (optional)      else: 

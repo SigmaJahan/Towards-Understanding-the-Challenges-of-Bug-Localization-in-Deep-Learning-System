@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+def initialize biases initializebiases self none initialize biases detect class frequency torch bincount torch tensor concatenate dataset labels long minlength self model detect module zip stride 혻from self modelf zip stride 혻from bias view conv bias math log obj objects per image math log none else torch log sum cls

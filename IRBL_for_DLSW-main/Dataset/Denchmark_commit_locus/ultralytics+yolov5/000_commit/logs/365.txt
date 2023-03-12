@@ -1,0 +1,2 @@
+      PyTorch Hub results.render() (#1897) 
+         self.xywhn = [x / g for x, g in zip(self.xywh, gn)]  # xywh normalized          self.n = len(self.pred)       def display(self, pprint=False, show=False, save=False):     def display(self, pprint=False, show=False, save=False, render=False):          colors = color_list()          for i, (img, pred) in enumerate(zip(self.imgs, self.pred)):              str = f'Image {i + 1}/{len(self.pred)}: {img.shape[0]}x{img.shape[1]} ' 

@@ -1,0 +1,2 @@
+verbose final epoch finalepoch
+single cls singlecls opt single cls singlecls dataloader testloader save dir savedir save dir savedir verbose final epoch finalepoch plots plots final epoch finalepoch log imgs logimgs opt log imgs logimgs wandb else compute loss computeloss compute loss computeloss

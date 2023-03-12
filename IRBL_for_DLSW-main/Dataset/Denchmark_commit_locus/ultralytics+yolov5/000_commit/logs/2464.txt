@@ -1,0 +1,2 @@
+      f.read().strip() (#1551) 
+                 if os.path.isfile(lb_file):                      nf += 1  # label found                      with open(lb_file, 'r') as f:                         l = np.array([x.split() for x in f.read().splitlines()], dtype=np.float32)  # labels                         l = np.array([x.split() for x in f.read().strip().splitlines()], dtype=np.float32)  # labels                      if len(l):                          assert l.shape[1] == 5, 'labels require 5 columns each'                          assert (l >= 0).all(), 'negative labels' 

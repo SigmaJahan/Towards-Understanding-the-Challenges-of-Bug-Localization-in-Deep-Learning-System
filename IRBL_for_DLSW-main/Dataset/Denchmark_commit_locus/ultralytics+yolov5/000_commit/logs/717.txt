@@ -1,0 +1,2 @@
+      PyTorch Hub results.save('path/to/dir') (#2179) 
+     def show(self):          self.display(show=True)  # show results       def save(self):         self.display(save=True)  # save results     def save(self, save_dir=''):         self.display(save=True, save_dir=save_dir)  # save results        def render(self):          self.display(render=True)  # render results 

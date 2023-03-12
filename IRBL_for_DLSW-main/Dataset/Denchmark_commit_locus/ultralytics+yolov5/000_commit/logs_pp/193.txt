@@ -1,0 +1,2 @@
+torchvision nms bug fix
+import torch backends cudnn cudnn import torch import torch functional import torchvision logger logging get logger getlogger name

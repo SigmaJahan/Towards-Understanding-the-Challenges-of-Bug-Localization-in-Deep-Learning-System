@@ -1,0 +1,2 @@
+      Update 4 main ops for paths and .run() (#3715)          * Add yolov5/ to path          * rename functions to run()          * cleanup          * rename fix          * CI fix          * cleanup find models/export.py 
+"""Run inference with a YOLOv5 model on images, videos, directories, streams  Usage:     $ python path/to/detect.py --source path/to/img.jpg --weights yolov5s.pt --img 640 """   import argparse import sys  import time  from pathlib import Path   

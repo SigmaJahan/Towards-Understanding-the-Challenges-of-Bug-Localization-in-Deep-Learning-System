@@ -1,0 +1,2 @@
+demand ondemand pycocotools pip install
+set logging setlogging opt global rank globalrank opt global rank globalrank check git status checkgitstatus check requirements checkrequirements exclude pycocotools thop check requirements checkrequirements exclude thop resume wandb run wandbrun check wandb resume checkwandbresume opt

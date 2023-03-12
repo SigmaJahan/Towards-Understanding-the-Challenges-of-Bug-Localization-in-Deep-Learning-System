@@ -1,0 +1,2 @@
+yol yolov torch pytorch hub models check requirements checkrequirements prints please restart runtime rerun command update take effect following package auto install autoinstall inform users restart rerun
+except exception distribution found distributionnotfound version conflict versionconflict requirements met print prefix req found required yol yolov attempting auto install autoinstall print subprocess check output checkoutput pip install req shell true decode print please restart runtime rerun command update take effect def check img size checkimgsize img size imgsize

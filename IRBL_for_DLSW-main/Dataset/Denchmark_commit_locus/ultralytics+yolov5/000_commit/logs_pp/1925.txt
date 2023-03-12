@@ -1,0 +1,2 @@
+multi gpu multigpu ckpt filesize bug fix
+msdk detach def update attr updateattr self model def update attr updateattr self model include exclude process group processgroup reducer update ema attributes model dict items startswith process group processgroup reducer setattr self ema copy attr copyattr self ema model include exclude

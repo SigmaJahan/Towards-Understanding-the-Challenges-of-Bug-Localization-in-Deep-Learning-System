@@ -1,0 +1,2 @@
+update tensorboard logging
+plot images plots batch batchi save dir savedir test batchg testbatchggt jpg batch batchi filename save dir savedir test batch testbatch batch batchi jpg filename plot images plotimages img targets paths str names ground truth save dir savedir test batchg pred testbatchgpred jpg batch batchi save dir savedir test batch testbatch batch batchi pred jpg plot images plotimages img output target outputtotarget output width height paths str names predictions compute statistics

@@ -1,0 +1,2 @@
+update mosaic border
+labels self img size imgsize border self mosaic border mosaicborder int random uniform border mosaic center int random uniform self mosaic border mosaicborder mosaic center indices index random randint len self labels range additional image indices index enumerate indices load image

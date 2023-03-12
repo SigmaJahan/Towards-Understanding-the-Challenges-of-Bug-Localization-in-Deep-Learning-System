@@ -1,0 +1,2 @@
+remove tta pixel offset
+imwrite img jpg cpu numpy transpose save scale descale img size imgsize flip deflip img size imgsize flip deflip elif img size imgsize flip deflip img size imgsize flip deflip append return torch cat none augmented inference train else

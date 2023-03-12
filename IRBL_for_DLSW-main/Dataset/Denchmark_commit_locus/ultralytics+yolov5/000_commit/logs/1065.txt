@@ -1,0 +1,2 @@
+      Add autoShape() speed profiling (#2459)          * Add autoShape() speed profiling          * Update common.py          * Create README.md          * Update hubconf.py          * cleanuip 
+         raise Exception(s) from e     def yolov5s(pretrained=False, channels=3, classes=80, autoshape=True): def yolov5s(pretrained=True, channels=3, classes=80, autoshape=True):      """YOLOv5-small model from https://github.com/ultralytics/yolov5        Arguments: 

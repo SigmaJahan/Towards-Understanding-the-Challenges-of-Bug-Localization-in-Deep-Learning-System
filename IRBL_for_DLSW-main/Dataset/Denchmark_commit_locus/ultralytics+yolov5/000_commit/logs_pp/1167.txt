@@ -1,0 +1,2 @@
+update log dir logdir runs exp
+return array targets def increment dir incrementdir dir comment increments directory runs exp runs exp comment expcomment number sorted glob glob dir directories len replace dir int find increment return dir str comment comment else plotting functions def butter lowpass filtfilt butterlowpassfiltfilt data cutoff order https stackoverflow com questions filter smooth scipy numpy howtofiltersmoothwithscipynumpy

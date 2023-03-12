@@ -1,0 +1,2 @@
+      Add save_dir to plot_lr_scheduler and plot_labels     Set save_dir = log_dir in train.py 
+     plt.xlim(0, epochs)      plt.ylim(0)      plt.tight_layout()     plt.savefig('LR.png', dpi=200)     plt.savefig(os.path.join(save_dir, 'LR.png'), dpi=200)      def plot_test_txt():  # from utils.utils import *; plot_test() 

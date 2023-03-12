@@ -1,0 +1,2 @@
+fix results file resultsfile renaming
+rank strip optimizers opt name opt name isnumeric else fresults flast fbest resultss txt wdir last wdir best zip wdir last wdir best results txt flast fbest fresults fresults flast fbest log dir logdir results txt wdir last wdir best zip wdir last wdir best results file resultsfile flast fbest fresults path exists rename rename str endswith

@@ -1,0 +1,2 @@
+add isfile get hash gethash
+def get hash gethash files returns single hash value list files return sum path getsize files return sum path getsize files path isfile def exif size exifsize img

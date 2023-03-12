@@ -1,0 +1,2 @@
+      Update FLOPs description (#3422)          * Update README.md          * Changing FLOPS to FLOPs.          Co-authored-by: BuildTools <unconfigured@null.spigotmc.org> 
+     select_device, copy_attr    try:     import thop  # for FLOPS computation     import thop  # for FLOPs computation  except ImportError:      thop = None   

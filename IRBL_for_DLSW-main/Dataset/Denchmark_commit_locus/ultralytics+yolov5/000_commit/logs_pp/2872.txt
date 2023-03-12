@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+def plot results plotresults start stop bucket labels save dir savedir plot training results txt utils plots import plot results plotresults save dir savedir runs train exp fig plt subplots figsize fig plt subplots figsize tight layout tightlayout true ravel box objectness classification precision recall val box val objectness val classification map map

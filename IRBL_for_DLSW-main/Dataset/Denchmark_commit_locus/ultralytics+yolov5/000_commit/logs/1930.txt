@@ -1,0 +1,2 @@
+      export.py update 
+     print(opt)        # Input     img = torch.zeros((opt.batch_size, 3, *opt.img_size))  # image size, (1, 3, 320, 192) iDetection     img = torch.zeros((opt.batch_size, 3, *opt.img_size))  # image size(1,3,320,192) iDetection        # Load PyTorch model      google_utils.attempt_download(opt.weights) 

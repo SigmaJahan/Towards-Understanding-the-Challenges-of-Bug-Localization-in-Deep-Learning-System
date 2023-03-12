@@ -1,0 +1,2 @@
+update train experimental
+start training time time len dataloader number batches burn nburn max burn burnin iterations max epochs iterations max number warmup iterations max epochs iterations maps zeros map per class results map val giou val objectness val classification scheduler last epoch lastepoch start epoch startepoch move print image sizes train test imgsz imgsz test imgsztest print using dataloader workers dataloader num workers numworkers print starting training epochs epochs

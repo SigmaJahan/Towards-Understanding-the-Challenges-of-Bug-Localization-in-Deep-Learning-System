@@ -1,0 +1,2 @@
+add stride datasets
+batch size batchsize rect true rectangular inference single cls singlecls opt single cls singlecls single class mode stride int max model stride model stride pad padding batch size batchsize min batch size batchsize len dataset min cpu count cpucount batch size batchsize batch size batchsize else number workers

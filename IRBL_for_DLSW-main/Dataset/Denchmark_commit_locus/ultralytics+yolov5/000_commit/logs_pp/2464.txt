@@ -1,0 +1,2 @@
+read strip
+path isfile file lbfile label found open file lbfile array split read splitlines dtype float labels array split read strip splitlines dtype float labels len assert shape labels require columns assert negative labels

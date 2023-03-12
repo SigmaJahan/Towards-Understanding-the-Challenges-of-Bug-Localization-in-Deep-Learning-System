@@ -1,0 +1,2 @@
+auto anchor autoanchor bug fix
+writer tbwriter add histogram addhistogram classes check anchors check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz opt noautoanchor check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz exponential moving average ema torch utils torchutils model ema modelema model

@@ -1,0 +1,2 @@
+      Update torch_utils.py 
+     return time.time()     def is_parallel(model):     # is model is parallel with DP or DDP     return type(model) in (nn.parallel.DataParallel, nn.parallel.DistributedDataParallel)    def initialize_weights(model):      for m in model.modules():          t = type(m) 

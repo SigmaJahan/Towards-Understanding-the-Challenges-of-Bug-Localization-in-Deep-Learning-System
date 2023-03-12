@@ -1,0 +1,2 @@
+default check git status checkgitstatus true
+name main check git status checkgitstatus parser argparse argument parser argumentparser parser add argument addargument epochs type int default parser add argument addargument batch size batchsize type int default

@@ -1,0 +1,2 @@
+      update mosaic border 
+     class LoadWebcam:  # for inference     def __init__(self, pipe=0, img_size=416):     def __init__(self, pipe=0, img_size=640):          self.img_size = img_size            if pipe == '0': 

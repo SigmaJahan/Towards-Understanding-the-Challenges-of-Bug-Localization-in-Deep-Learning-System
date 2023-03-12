@@ -1,0 +1,2 @@
+      Fix list paths (#721)          * Add list paths on check_dataset          * missing raise statement          * Update general.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+     def check_file(file):     # Searches for file if not found locally     # Search for file if not found      if os.path.isfile(file) or file == '':          return file      else: 

@@ -1,0 +1,2 @@
+add check imshow checkimshow add check imshow checkimshow update general update general
+return new size newsize def check imshow checkimshow check environment supports image displays try imshow test zeros wait key waitkey destroy windows destroyallwindows wait key waitkey return true except exception print warning environment support imshow pil image show image previewsn return false def check file checkfile file search file found path isfile file file

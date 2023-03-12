@@ -1,0 +1,2 @@
+increment train test detect runs increment train test detect runs update testing citesting yml inference images data images move images runs exp runs train exp update results saved str
+scale coords scalecoords imgsi shape shapessi shapessi original xyxy conf cls xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh line cls conf xywh save conf saveconf else cls xywh label format open str path pathssi stem txt line cls xywh conf save conf saveconf else cls xywh label format open str save dir savedir labels path pathssi stem txt write len line line logging

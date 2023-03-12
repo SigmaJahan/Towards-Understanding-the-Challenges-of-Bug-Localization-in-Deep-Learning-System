@@ -1,0 +1,2 @@
+update datasets
+return labels def reduce img size reduceimgsize path data images img size imgsize utils datasets import reduce img size reduceimgsize def reduce img size reduceimgsize path path images img size imgsize utils datasets import reduce img size reduceimgsize creates new images reduced imagesreduced folder reduced size images maximum size img size imgsize path new pathnew path reduced reduced images path create folder createfolder path new pathnew

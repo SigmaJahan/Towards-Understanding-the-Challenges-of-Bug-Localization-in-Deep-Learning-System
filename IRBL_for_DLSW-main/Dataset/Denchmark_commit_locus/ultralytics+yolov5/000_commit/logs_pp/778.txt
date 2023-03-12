@@ -1,0 +1,2 @@
+update curve update curve legend outside list path glob
+plt savefig targets jpg dpi def plot study txt plotstudytxt study txt none utils general import plot study txt plotstudytxt def plot study txt plotstudytxt study txt none utils plots import plot study txt plotstudytxt plot study txt generated test fig plt subplots figsize tight layout tightlayout true ravel

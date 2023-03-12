@@ -1,0 +1,2 @@
+      PyTorch Hub updates 
+         save.extend(x % i for x in ([f] if isinstance(f, int) else f) if x != -1)  # append to savelist          layers.append(m_)          ch.append(c2)     return nn.Sequential(*layers), sorted(save), ch     return nn.Sequential(*layers), sorted(save)      if __name__ == '__main__': 

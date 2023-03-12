@@ -1,0 +1,2 @@
+      Cache bug fix (#1513)          * Caching bug fix #1508          * np.zeros((0,5)) x2 
+                         l = np.zeros((0, 5), dtype=np.float32)                  else:                      nm += 1  # label missing                     l = np.zeros((0, 5), dtype=np.float32)                  x[im_file] = [l, shape]              except Exception as e:                  nc += 1 

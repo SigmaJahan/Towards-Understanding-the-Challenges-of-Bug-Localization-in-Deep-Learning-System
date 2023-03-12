@@ -1,0 +1,2 @@
+      Update 4 main ops for paths and .run() (#3715)          * Add yolov5/ to path          * rename functions to run()          * cleanup          * rename fix          * CI fix          * cleanup find models/export.py 
+"""Train a YOLOv5 model on a custom dataset  Usage:     $ python path/to/train.py --data coco128.yaml --weights yolov5s.pt --img 640 """   import argparse  import logging  import math  import os  import random import sys  import time  import warnings  from copy import deepcopy 

@@ -1,0 +1,2 @@
+improved corruption handling scan cache
+else cache self cache labels cachelabels cache path cachepath cache get labels labels shapes zip cachex self img files imgfiles self shapes array shapes dtype float read cache cache pop hash remove hash labels shapes zip cache values self labels list labels self shapes array shapes dtype float self img files imgfiles list cache keys update self label files labelfiles imglabel paths imglabelpaths cache keys update rectangular training https github com ultralytics yolov issues rectangular training self rect sort aspect ratio self shapes

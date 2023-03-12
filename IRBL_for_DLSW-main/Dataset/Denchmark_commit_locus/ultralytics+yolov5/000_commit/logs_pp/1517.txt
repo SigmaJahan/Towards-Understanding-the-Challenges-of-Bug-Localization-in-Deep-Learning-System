@@ -1,0 +1,2 @@
+remove ema ema hasattr ema module check
+results maps times test test opt data batch size batchsize total batch size totalbatchsize imgsz imgsz test imgsztest model ema ema module hasattr ema ema module else ema ema model ema ema single cls singlecls opt single cls singlecls dataloader testloader save dir savedir log dir logdir

@@ -1,0 +1,2 @@
+update common add classify
+def forward self return torch cat self class flatten module use adaptive avg poold adaptiveavgpoold remove last dimensions staticmethod def forward return view size class classify module classification head def init self none chin chout kernel stride padding groups super classify self init self aap adaptive avg poold adaptiveavgpoold self conv convd autopad groups bias false self flat flatten def forward self return self flat self conv self aap flatten

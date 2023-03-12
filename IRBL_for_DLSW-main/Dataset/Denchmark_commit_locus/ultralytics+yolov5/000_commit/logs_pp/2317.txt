@@ -1,0 +1,2 @@
+unified project name results saving project name update update testing citesting yml address project path separator failure mode project name update address project path separator failure mode update testing citesting yml detect default name bug fix missing rstrip train exp train exp
+opt single cls singlecls opt augment opt verbose save dir savedir path opt save dir savedir save txt savetxt opt save txt savetxt save conf saveconf opt save conf saveconf

@@ -1,0 +1,2 @@
+add resume functionality option specify path get recent run
+opt parser parse args parseargs use given path last find recent run path given last get latest run getlatestrun opt resume get last getlast else opt resume last opt weights print resuming training last opt weights last opt resume opt weights else opt weights opt cfg check file checkfile opt cfg check file opt data check file checkfile opt data check file opt hyp check file checkfile opt hyp opt hyp else check file

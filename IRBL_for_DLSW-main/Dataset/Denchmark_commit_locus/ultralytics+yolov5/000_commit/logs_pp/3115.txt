@@ -1,0 +1,2 @@
+add colab iscolab function
+def check imshow checkimshow check environment supports image displays try assert isdocker imshow disabled docker environments assert docker isdocker imshow disabled docker environments assert colab iscolab imshow disabled google colab environments imshow test zeros wait key waitkey destroy windows destroyallwindows

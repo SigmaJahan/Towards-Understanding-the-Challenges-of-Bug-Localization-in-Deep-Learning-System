@@ -1,0 +1,2 @@
+label caching foundational write rewrite
+glob iglob sep else raise exception exist path npy dir self img files imgfiles replace sep path splitext lower img formats imgformats except exception raise exception error loading data see snsee path help url helpurl

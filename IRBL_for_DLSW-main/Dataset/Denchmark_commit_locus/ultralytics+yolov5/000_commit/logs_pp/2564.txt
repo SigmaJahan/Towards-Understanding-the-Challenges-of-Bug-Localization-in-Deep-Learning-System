@@ -1,0 +1,2 @@
+improved flops computation improved flops computation update comment
+copy attr copyattr self include yaml hyp names stride exclude copy attributes return def info self verbose false print model information model info modelinfo self verbose def info self verbose false img size imgsize print model information model info modelinfo self verbose img size imgsize def parse model parsemodel model dict modeldict input channels inputchannels

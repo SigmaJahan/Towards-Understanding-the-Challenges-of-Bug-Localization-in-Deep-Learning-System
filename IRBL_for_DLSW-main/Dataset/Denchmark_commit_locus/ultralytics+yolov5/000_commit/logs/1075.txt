@@ -1,0 +1,2 @@
+      export.py update 
+     try:          import onnx           print('\nStarting ONNX export with onnx %s...' % onnx.__version__)          f = opt.weights.replace('.pt', '.onnx')  # filename          model.fuse()  # only for ONNX          torch.onnx.export(model, img, f, verbose=False, opset_version=12, input_names=['images'], 

@@ -1,0 +1,2 @@
+yol yolov release patch torch jit trace model img strict false update check file checkfile update hubconf update readme
+returns pytorch model config path file parent models name yaml model yaml path try model model config channels classes cfg list path file parent models rglob name yaml model yaml path model model cfg channels classes pretrained fname name checkpoint filename attempt download attemptdownload fname download found locally

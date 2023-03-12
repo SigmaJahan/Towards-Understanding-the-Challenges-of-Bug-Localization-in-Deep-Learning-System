@@ -1,0 +1,2 @@
+add replicate datasets
+self mosaic border mosaicborder img size imgsize img size imgsize self stride stride define labels self label files labelfiles replace images labels replace path splitext txt self img files imgfiles

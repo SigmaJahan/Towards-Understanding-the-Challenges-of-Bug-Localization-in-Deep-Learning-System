@@ -1,0 +1,2 @@
+      Add `train.run()` method (#3700)          * Update train.py explicit arguments          * Update train.py          * Add run method 
+             for x, tag in zip(list(mloss[:-1]) + list(results) + lr, tags):                  if loggers['tb']:                      loggers['tb'].add_scalar(tag, x, epoch)  # TensorBoard                 if wandb_logger.wandb:                 if loggers['wandb']:                      wandb_logger.log({tag: x})  # W&B                # Update best mAP 

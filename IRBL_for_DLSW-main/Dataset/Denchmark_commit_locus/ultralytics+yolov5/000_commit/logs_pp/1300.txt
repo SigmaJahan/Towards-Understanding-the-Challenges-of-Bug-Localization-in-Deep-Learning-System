@@ -1,0 +1,2 @@
+linear scheduler option linear scheduler option update train
+scheduler https arxiv org pdf pdf https pytorch org docs stable modules torch optim scheduler lrscheduler html one cycle htmlonecyclelr one cycle onecycle hyp lrf epochs cosine hyp lrf opt linear linearlr lambda epochs hyp lrf hyp lrf linear else one cycle onecycle hyp lrf epochs cosine hyp lrf scheduler scheduler lrscheduler lambda lambdalr optimizer lambda lrlambda plot scheduler plotlrscheduler optimizer scheduler epochs

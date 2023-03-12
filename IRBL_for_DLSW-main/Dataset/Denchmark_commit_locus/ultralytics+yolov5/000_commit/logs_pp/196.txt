@@ -1,0 +1,2 @@
+hyperparameter expansion flips perspective mixup
+results file resultsfile log dir logdir sep results txt epochs batch size batchsize total batch size totalbatchsize weights rank opt epochs opt batch size batchsize opt total batch size totalbatchsize opt weights opt local rank localrank todo init ddp logging first process allowed log since see lots print logging configuration skipped may see repeated outputs todo use ddp logging first process allowed log save run settings open path log dir logdir hyp yaml

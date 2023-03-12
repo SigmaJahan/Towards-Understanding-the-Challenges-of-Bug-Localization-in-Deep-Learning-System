@@ -1,0 +1,2 @@
+half bug fix
+model torch load weights map location maplocation device model float eval load model imgsz check img size checkimgsize imgsz model stride max check img size imgsize half model float model half second stage secondstage classifier classify false

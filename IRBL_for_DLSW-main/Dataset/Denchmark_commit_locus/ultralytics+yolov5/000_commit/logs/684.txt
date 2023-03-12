@@ -1,0 +1,2 @@
+      Single-source training (#680)          * Single-source training          * Extract hyperparameters into seperate files          * weight decay scientific notation yaml reader bug fix          * remove import glob          * intersect_dicts() implementation          * 'or' bug fix          * .to(device) bug fix 
+     def find_modules(model, mclass=nn.Conv2d):     # finds layer indices matching module class 'mclass'     # Finds layer indices matching module class 'mclass'      return [i for i, m in enumerate(model.module_list) if isinstance(m, mclass)]     

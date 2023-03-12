@@ -1,0 +1,2 @@
+pretrained model loading bug fix signed signedoffby glenn jocher
+plot results plotresults save results png print epochs completed hours epoch start epoch startepoch time time dist destroy process group destroyprocessgroup local rank localrank else none dist destroy process group destroyprocessgroup local rank localrank else none torch cuda empty cache emptycache return results

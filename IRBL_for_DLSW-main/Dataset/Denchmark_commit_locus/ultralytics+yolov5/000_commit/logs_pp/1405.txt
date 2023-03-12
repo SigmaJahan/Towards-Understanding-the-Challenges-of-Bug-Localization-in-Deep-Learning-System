@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+ema update model print local rank localrank rank mloss mloss loss items lossitems update mean losses mem torch cuda memory cached memorycached torch cuda available isavailable else

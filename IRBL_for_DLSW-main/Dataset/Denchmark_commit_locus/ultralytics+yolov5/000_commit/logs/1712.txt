@@ -1,0 +1,2 @@
+      --image_weights bug fix (#1524) 
+     #     return self        def __getitem__(self, index):         if self.image_weights:             index = self.indices[index]         index = self.indices[index]  # linear, shuffled, or image_weights            hyp = self.hyp          mosaic = self.mosaic and random.random() < hyp['mosaic'] 

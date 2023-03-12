@@ -1,0 +1,2 @@
+runs exp increment bug fix
+def increment dir incrementdir dir comment increments directory runs exp runs exp comment expcomment number dir str path dir agnostic osagnostic sorted glob glob dir directories len replace dir int find else increment max int xlen dir find else none increment return dir str comment comment else

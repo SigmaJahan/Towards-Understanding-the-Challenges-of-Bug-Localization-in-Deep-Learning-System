@@ -1,0 +1,2 @@
+switch default inference gpu
+initialize load model set device model none device torch utils torchutils select device selectdevice opt device batch size batchsize batch size batchsize half device type cpu half precision supported cuda half device type cpu half precision supported cuda remove previous glob glob test batch testbatch jpg

@@ -1,0 +1,2 @@
+      AutoAnchor bug fix 
+     s = wh.std(0)  # sigmas for whitening      k, dist = kmeans(wh / s, n, iter=30)  # points, mean distance      k *= s     wh = torch.tensor(wh)     wh = torch.tensor(wh, dtype=torch.float32)      k = print_results(k)        # Plot 

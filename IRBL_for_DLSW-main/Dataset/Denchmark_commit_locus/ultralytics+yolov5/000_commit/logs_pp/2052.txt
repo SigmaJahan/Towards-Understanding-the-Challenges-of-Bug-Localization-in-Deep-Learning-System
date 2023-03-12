@@ -1,0 +1,2 @@
+eliminate total batch size totalbatchsize variable eliminate total batch size totalbatchsize variable cleanup update train
+opt notest final epoch finalepoch calculate map wandb logger wandblogger current epoch currentepoch epoch results maps test test data dict datadict batch size batchsize batch size batchsize batch size batchsize batch size batchsize worldsize imgsz imgsz test imgsztest model ema ema single cls singlecls single cls singlecls

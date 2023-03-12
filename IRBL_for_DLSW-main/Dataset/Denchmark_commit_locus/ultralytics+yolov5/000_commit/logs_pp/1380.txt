@@ -1,0 +1,2 @@
+updates
+argmax plot linewidth markersize label path stem plot array linewidth markersize label efficient det efficientdet set xlabel setxlabel latency set ylabel setylabel coco val legend plot array linewidth markersize label efficient det efficientdet set xlim setxlim set xlabel setxlabel latency set ylabel setylabel coco val legend plt savefig replace txt png dpi

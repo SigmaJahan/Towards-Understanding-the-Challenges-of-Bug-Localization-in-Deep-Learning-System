@@ -1,0 +1,2 @@
+inference update
+torch utils torchutils time synchronized timesynchronized pred model img augment opt augment float half pred pred float apply nms pred non max suppression nonmaxsuppression pred opt conf thres confthres opt iou thres iouthres fast true classes opt classes agnostic opt agnostic nms agnosticnms

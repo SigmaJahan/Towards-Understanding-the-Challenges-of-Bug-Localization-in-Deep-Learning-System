@@ -1,0 +1,2 @@
+update fuse conv fuseconvandbn
+reshape output classes filters model weight shape model bias torch parameter torch zeros requires grad requiresgrad true model weight torch parameter torch zeros filters requires grad requiresgrad true model bias parameter torch zeros requires grad requiresgrad true model weight parameter torch zeros filters requires grad requiresgrad true model features outfeatures return model

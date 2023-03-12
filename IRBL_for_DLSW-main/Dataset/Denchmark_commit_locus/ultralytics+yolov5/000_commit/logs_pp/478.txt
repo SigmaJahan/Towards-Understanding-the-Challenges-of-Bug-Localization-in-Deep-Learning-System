@@ -1,0 +1,2 @@
+fix refrence bug torch import api changed although interrupt operation program seems implicit error may throw exception later versions
+vid path vidpath vid writer vidwriter none none webcam view img viewimg true torch backends cudnn benchmark true set true speed constant image size inference cudnn benchmark true set true speed constant image size inference dataset load streams loadstreams source img size imgsize imgsz else save img saveimg true

@@ -1,0 +1,2 @@
+new colors class
+crop save one box saveonebox box file save dir savedir crops self namesint cls self filesi else others plot one box plotonebox box label label color colorsint cls plot one box plotonebox box label label color colors cls image fromarray astype uint isinstance ndarray else pprint

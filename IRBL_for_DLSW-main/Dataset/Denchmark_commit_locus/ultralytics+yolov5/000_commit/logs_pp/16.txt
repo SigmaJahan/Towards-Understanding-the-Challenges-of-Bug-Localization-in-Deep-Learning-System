@@ -1,0 +1,2 @@
+datasets vid formats vidformats updated
+help url helpurl https github com ultralytics yolov wiki train custom data traincustomdata img formats imgformats bmp jpg jpeg png tif dng vid formats vidformats mov avi mpg vid formats vidformats mov avi mpg mpeg wmv mkv get orientation exif tag orientation exif tags exiftags tags keys

@@ -1,0 +1,2 @@
+nms fast mode
+run nms torch utils torchutils time synchronized timesynchronized output non max suppression nonmaxsuppression inf infout conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres multi label multilabel multi label multilabel output non max suppression nonmaxsuppression inf infout conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres fast fast torch utils torchutils time synchronized timesynchronized statistics per image

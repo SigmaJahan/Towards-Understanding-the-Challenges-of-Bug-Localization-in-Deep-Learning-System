@@ -1,0 +1,2 @@
+add variable stride variablestride inference support
+class load streams loadstreams multiple rtsp cameras def init self sources streams txt img size imgsize def init self sources streams txt img size imgsize stride self mode stream self img size imgsize img size imgsize self stride stride path isfile sources open sources

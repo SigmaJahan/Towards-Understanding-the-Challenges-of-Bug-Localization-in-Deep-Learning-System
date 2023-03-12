@@ -1,0 +1,2 @@
+test native single cls singlecls
+targets torch tensor width height width height device pixels targetstargets range save hybrid savehybrid else autolabelling time synchronized timesynchronized non max suppression nonmaxsuppression conf thres confthres conf thres confthres iou thres iouthres iou thres iouthres labels multi label multilabel true non max suppression nonmaxsuppression conf thres confthres iou thres iouthres labels multi label multilabel true agnostic single cls singlecls time synchronized timesynchronized statistics per image

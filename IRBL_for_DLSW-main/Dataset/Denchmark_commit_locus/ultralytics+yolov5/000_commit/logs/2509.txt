@@ -1,0 +1,2 @@
+      clean_str() function addition (#1674)          * clean_str() function addition          * cleanup          * add euro symbol �궗          * add closing exclamation (spanish)          * cleanup 
+     return math.ceil(x / divisor) * divisor     def clean_str(s):     # Cleans a string by replacing special characters with underscore _     return re.sub(pattern="[|@#!징쨌$�궗%&()=?쩔^*;:,짢쨈><+]", repl="_", string=s)    def labels_to_class_weights(labels, nc=80):      # Get class weights (inverse frequency) from training labels      if labels[0] is None:  # no labels loaded 

@@ -1,0 +1,2 @@
+fix logging add logging setup fix fusing layers message fix logging end add logging change logging use logger update yolo tried cloned branch everything seems work fine update yolo authored coauthoredby glenn jocher
+print detach sigmoid shortcut weights def fuse self fuse model convd batch normd batchnormd layers print fusing layers end print fusing layers self model modules type conv non persistent buffers set nonpersistentbuffersset set pytorch compatability

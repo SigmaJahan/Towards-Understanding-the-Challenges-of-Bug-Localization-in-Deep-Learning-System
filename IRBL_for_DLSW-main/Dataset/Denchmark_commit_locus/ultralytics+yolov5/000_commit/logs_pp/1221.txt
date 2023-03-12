@@ -1,0 +1,2 @@
+profiling update
+model train profile img torch rand torch cuda available isavailable else device model img profile true img torch rand torch cuda available isavailable else device model img profile true print shape shape onnx export

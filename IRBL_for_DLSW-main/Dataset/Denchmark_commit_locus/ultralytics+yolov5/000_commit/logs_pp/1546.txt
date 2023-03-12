@@ -1,0 +1,2 @@
+classifier export torch seed updates
+print starting nstarting core coreml export coremltools version convert model torchscript apply pixel scaling per detect model convert inputs image type imagetype name images shape img shape scale bias model convert inputs image type imagetype name image shape img shape scale bias opt weights replace mlmodel filename model save print core coreml export success saved

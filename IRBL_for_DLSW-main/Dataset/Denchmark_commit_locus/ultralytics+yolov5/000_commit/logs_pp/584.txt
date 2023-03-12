@@ -1,0 +1,2 @@
+yol yolov torch pytorch hub models check requirements checkrequirements improved user feedback userfeedback following requirements auto update autoupdate
+return path workspace exists path dockerenv exists def emojis str return platform dependent platformdependent emoji safe emojisafe version string return str encode decode ascii ignore platform system windows else str def check online checkonline check internet connectivity import socket

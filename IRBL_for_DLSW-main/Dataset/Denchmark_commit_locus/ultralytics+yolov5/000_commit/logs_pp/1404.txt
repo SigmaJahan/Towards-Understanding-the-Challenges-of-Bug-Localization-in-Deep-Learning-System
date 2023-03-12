@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+pred model imgs loss loss loss items lossitems compute loss computeloss pred targets device model loss scaled batch size func compute loss computeloss ddp mode gradient averaged devices local rank localrank loss opt world size worldsize loss loss items lossitems compute loss computeloss pred targets device model scaled batch size batchsize rank loss opt world size worldsize gradient averaged devices ddp mode torch isfinite loss print warning non finite nonfinite loss ending training loss items lossitems return results

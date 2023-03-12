@@ -1,0 +1,2 @@
+use pathlib instead low level lowlevel module use pathlib instead low level lowlevel module use pathlib instead low level lowlevel module update detect update test reformat authored coauthoredby glenn jocher
+logging wandb wandb run none ckpt get wandb wandbid ckpt locals else none wandb run wandbrun wandb init config opt resume allow project yol yolov name path basename log dir logdir wandb run wandbrun wandb init config opt resume allow project yol yolov name log dir logdir stem resume start epoch startepoch best fitness bestfitness

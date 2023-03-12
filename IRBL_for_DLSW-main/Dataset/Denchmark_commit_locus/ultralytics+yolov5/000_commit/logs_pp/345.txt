@@ -1,0 +1,2 @@
+ddp fix
+self data dict datadict self setup training setuptraining opt data dict datadict self job type jobtype dataset creation self data dict datadict self check upload dataset checkanduploaddataset opt else print colorstr wandb install weights biases yol yolov logging pip install wandb recommended def check upload dataset checkanduploaddataset self opt assert wandb install wandb upload dataset

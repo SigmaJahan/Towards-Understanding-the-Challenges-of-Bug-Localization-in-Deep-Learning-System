@@ -1,0 +1,2 @@
+gsutil yaml evolving gcp bucket
+write hyperparameter evolution resultsn generations metrics len yaml dump hyp sort keys sortkeys false bucket system gsutil evolve txt yaml file yamlfile bucket upload def apply classifier applyclassifier model img applies second stage classifier yolo outputs

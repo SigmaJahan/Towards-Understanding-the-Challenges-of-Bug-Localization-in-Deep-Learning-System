@@ -1,0 +1,2 @@
+      torch.ops.torchvision.nms (#860)          Don't load the entire torchvision library just for nms when the function is already in the torch library. 
+ import numpy as np  import torch  import torch.nn as nn import torchvision  import yaml  from scipy.cluster.vq import kmeans  from scipy.signal import butter, filtfilt 

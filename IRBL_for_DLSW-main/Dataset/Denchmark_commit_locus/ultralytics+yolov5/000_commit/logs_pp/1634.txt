@@ -1,0 +1,2 @@
+release initial commit remove yolov spp yolovspp test study update study img range update map cleanup speed updates update readme plot
+logger logging get logger getlogger name def train hyp opt device writer tbwriter none logger info hyperparameters hyp log dir logdir path writer tbwriter log dir logdir writer tbwriter else path opt logdir evolve logging directory

@@ -1,0 +1,2 @@
+img size imgsize stride multiple stridemultiple verification
+parser add argument addargument augment action store true storetrue help augmented inference parser add argument addargument verbose action store true storetrue help report map class opt parser parse args parseargs opt img size imgsize check img size checkimgsize opt img size imgsize opt save json savejson opt save json savejson opt data endswith coco yaml opt data glob glob opt data recursive true find file print opt

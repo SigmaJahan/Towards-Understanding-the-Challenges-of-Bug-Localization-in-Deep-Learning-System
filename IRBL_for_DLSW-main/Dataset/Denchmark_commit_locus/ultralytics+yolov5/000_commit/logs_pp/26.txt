@@ -1,0 +1,2 @@
+trailing save txt savetxt whitespace bug fix update write results update detect update test authored coauthoredby glenn jocher
+xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh line cls xywh conf opt save conf saveconf else cls xywh label format open txt path txtpath txt write len line line write len line rstrip line save img saveimg view img viewimg add bbox image label namesint cls conf

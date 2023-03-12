@@ -1,0 +1,2 @@
+      Fix hyp file read in and dict update.     Add example of hyp yaml 
+         tb_writer = SummaryWriter(comment=opt.name)                    #updates hyp defaults from hyp.yaml         if opt.hyp: hyp.update(opt.hyp)         if opt.hyp:             with open(opt.hyp) as f:                 updated_hyp = yaml.load(f, Loader=yaml.FullLoader)                 hyp.update(updated_hyp)            # Print focal loss if gamma > 0          if hyp['fl_gamma']: 

@@ -1,0 +1,2 @@
+      autoshape() update for PIL greyscale inputs (#1279)          * autoshape update for PIL greyscale inputs          * autoshape update for PIL greyscale inputs 
+ # This file contains modules common to various models    import math   import numpy as np  import torch  import torch.nn as nn 

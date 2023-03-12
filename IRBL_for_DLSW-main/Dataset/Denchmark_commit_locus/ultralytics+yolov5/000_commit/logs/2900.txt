@@ -1,0 +1,2 @@
+      update export.py 
+         onnx.checker.check_model(onnx_model)  # check onnx model          print(onnx.helper.printable_graph(onnx_model.graph))  # print a human readable representation of the graph          print('ONNX export success, saved as %s\nView with https://github.com/lutzroeder/netron' % f)     except:         print('ONNX export failed.')     except Exception as e:         print('ONNX export failed: %s' % e) 

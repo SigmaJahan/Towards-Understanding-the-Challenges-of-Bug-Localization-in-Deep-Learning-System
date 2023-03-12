@@ -1,0 +1,2 @@
+      reformat code 
+     except:          fs = ''       logger.info('Model Summary: %g layers, %g parameters, %g gradients%s' % (len(list(model.parameters())), n_p, n_g, fs))     logger.info(         'Model Summary: %g layers, %g parameters, %g gradients%s' % (len(list(model.parameters())), n_p, n_g, fs))      def load_classifier(name='resnet101', n=2): 

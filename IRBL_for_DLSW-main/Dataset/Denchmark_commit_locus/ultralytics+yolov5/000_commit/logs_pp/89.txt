@@ -1,0 +1,2 @@
+img size imgsize stride multiple stridemultiple verification
+parser add argument addargument agnostic nms agnosticnms action store true storetrue help class agnostic classagnostic nms parser add argument addargument augment action store true storetrue help augmented inference opt parser parse args parseargs opt img size imgsize check img size checkimgsize opt img size imgsize print opt torch grad nograd

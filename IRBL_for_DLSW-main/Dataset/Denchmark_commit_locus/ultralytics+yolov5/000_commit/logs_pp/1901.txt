@@ -1,0 +1,2 @@
+ema non blocking nonblocking true
+pbar tqdm enumerate dataloader total progress bar imgs targets paths pbar batch epoch number integrated batches since train start imgs imgs device float uint float imgs imgs device non blocking nonblocking true float uint float warmup

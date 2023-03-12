@@ -1,0 +1,2 @@
+      YOLOv5 v5.0 Release patch 1 (#2764)          * torch.jit.trace(model, img, strict=False)          * Update check_file()          * Update hubconf.py          * Update README.md 
+"""File for accessing YOLOv5 models via PyTorch Hub https://pytorch.org/hub/ultralytics_yolov5/ """YOLOv5 PyTorch Hub models https://pytorch.org/hub/ultralytics_yolov5/    Usage:      import torch 

@@ -1,0 +1,2 @@
+implement yaml safe load safeload implement yaml safe load safeload yaml safe dump safedump
+isinstance data str coco iscoco data endswith coco yaml open data data yaml load loader yaml safe loader safeloader data yaml safe load safeload check dataset checkdataset data check single cls singlecls else int data number classes iouv torch linspace device iou vector map

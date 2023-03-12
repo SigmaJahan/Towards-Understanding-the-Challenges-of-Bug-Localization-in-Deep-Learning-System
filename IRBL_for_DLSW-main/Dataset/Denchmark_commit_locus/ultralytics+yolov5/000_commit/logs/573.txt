@@ -1,0 +1,2 @@
+      PyTorch Hub and autoShape update (#1415) 
+ from pathlib import Path    import torch from PIL import Image    from models.yolo import Model  from utils.general import set_logging 

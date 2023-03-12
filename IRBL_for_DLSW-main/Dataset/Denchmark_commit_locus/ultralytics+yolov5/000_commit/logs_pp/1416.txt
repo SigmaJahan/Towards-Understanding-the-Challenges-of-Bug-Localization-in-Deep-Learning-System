@@ -1,0 +1,2 @@
+reverse plotting low high confidence
+namesint add string write results xyxy conf cls det xyxy conf cls reversed det save txt savetxt write file xywh xyxyxywh torch tensor xyxy view view tolist normalized xywh open txt path txtpath txt

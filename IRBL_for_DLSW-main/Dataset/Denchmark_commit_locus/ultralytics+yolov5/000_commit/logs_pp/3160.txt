@@ -1,0 +1,2 @@
+utils reorganization utils reorganization add new utils files cleanup simplify reduce datasets remove evolve load webcam loadwebcam cleanup
+def fuse conv fuseconvandbn conv fuse convolution batchnorm layers https tehnokv com posts fusing batchnorm conv fusingbatchnormandconv init fusedconv convd conv channels inchannels conv channels outchannels kernel size kernelsize conv kernel size kernelsize

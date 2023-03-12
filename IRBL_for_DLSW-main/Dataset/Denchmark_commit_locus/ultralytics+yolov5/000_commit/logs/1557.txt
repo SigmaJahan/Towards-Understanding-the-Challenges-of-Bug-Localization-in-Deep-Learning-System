@@ -1,0 +1,2 @@
+      Add Multi-Node support for DDP Training (#504)          * Add support for multi-node DDP          * Remove local_rank confusion          * Fix spacing 
+     # Train      if not opt.evolve:          tb_writer = None         if opt.local_rank in [-1, 0]:         if opt.global_rank in [-1, 0]:              print('Start Tensorboard with "tensorboard --logdir=runs", view at http://localhost:6006/')              tb_writer = SummaryWriter(log_dir=increment_dir('runs/exp', opt.name))   

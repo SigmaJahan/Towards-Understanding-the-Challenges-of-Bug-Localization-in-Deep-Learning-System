@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+rank dataloader sampler set epoch setepoch epoch pbar enumerate dataloader logger info epoch gpu mem gpumem giou obj cls total targets img size imgsize logger info epoch gpu mem gpumem box obj cls total targets img size imgsize rank pbar tqdm pbar total progress bar optimizer zero grad zerograd

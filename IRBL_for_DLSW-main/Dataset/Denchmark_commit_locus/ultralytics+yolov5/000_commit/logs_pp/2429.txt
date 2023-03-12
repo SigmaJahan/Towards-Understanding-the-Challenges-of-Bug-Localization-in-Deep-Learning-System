@@ -1,0 +1,2 @@
+add compute loss computeloss class
+results map map val loss valloss box obj cls scheduler last epoch lastepoch start epoch startepoch move scaler amp grad scaler gradscaler enabled cuda compute loss computeloss compute loss computeloss model init loss class logger info image sizes imgsz train imgsz test imgsztest testn using dataloader num workers numworkers dataloader workersn logging results save dir savedir

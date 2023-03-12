@@ -1,0 +1,2 @@
+log epoch log epoch capitalize log epoch capitalize update train new try using https docs wandb library logincremental logging logincrementallogging update train update test update train update plots update train update train label plot step update update update update update update update train update train
+writer tbwriter add graph addgraph model imgs add model tensorboard elif plots wandb wandb log mosaics wandb image str caption name save dir savedir glob train jpg exists exists commit false end batch end epoch

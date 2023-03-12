@@ -1,0 +1,2 @@
+flask rest api example add files update readme update readme update restapi pretrained true model eval used default loading model need call manually pep reformat pep reformat authored coauthoredby glenn jocher
+perform test request import pprint import requests detectionurl http localhost object detection objectdetection yolovs testimage zidane jpg image data imagedata open testimage read response requests post detectionurl files image image data imagedata json pprint pprint response

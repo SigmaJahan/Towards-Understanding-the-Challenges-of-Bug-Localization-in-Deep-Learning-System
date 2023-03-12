@@ -1,0 +1,2 @@
+      AutoAnchor bug fix 
+       # Get label wh      shapes = img_size * dataset.shapes / dataset.shapes.max(1, keepdims=True)     wh = torch.tensor(np.concatenate([l[:, 3:5] * s for s, l in zip(shapes, dataset.labels)])).float()  # wh     wh = wh[(wh > 2.0).all(1)].numpy()  # filter > 2 pixels     wh = np.concatenate([l[:, 3:5] * s for s, l in zip(shapes, dataset.labels)])  # wh     wh = wh[(wh > 2.0).all(1)]  # filter > 2 pixels        # Kmeans calculation      from scipy.cluster.vq import kmeans 

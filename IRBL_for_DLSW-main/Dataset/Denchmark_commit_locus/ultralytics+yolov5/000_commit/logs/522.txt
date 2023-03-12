@@ -1,0 +1,2 @@
+      Update train.py (#902)          * Update train.py with simplified ckpt names          * Return default hyps to hyp.scratch.yaml          Leave line commented for future use once mystery of best finetuning hyps to apply becomes clearer.          * Force test_batch*_pred.jpg replot on final epoch          This will allow you to see predictions final testing run after training completes in runs/exp0 
+ import argparse import glob  import logging  import math  import os 

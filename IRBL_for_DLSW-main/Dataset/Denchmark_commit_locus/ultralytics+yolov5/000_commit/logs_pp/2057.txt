@@ -1,0 +1,2 @@
+update test
+print speed inference nms total per gxg image batch size batchsize save json save json savejson map len jdict img ids imgids int path stem split dataloader dataset img files imgfiles save json savejson len jdict detections vals results detectionsvalsresults json weights split sep replace isinstance weights str else filename print coco ncoco map pycocotools saving

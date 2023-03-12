@@ -1,0 +1,2 @@
+release signed signedoffby glenn jocher
+output count scaling lbox giou lobj obj lobj obj else lcls cls tobj shape batch size red sum

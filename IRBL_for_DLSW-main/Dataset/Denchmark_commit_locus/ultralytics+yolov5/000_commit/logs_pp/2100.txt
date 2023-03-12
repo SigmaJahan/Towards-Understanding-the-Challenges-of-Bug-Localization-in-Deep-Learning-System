@@ -1,0 +1,2 @@
+pretrained model loading bug fix signed signedoffby glenn jocher
+yaml dump vars opt sort keys sortkeys false epochs opt epochs batch size batchsize opt batch size batchsize batch size per process batch size batchsize opt batch size batchsize batch size per process total batch size totalbatchsize opt total batch size totalbatchsize weights opt weights initial training weights local rank localrank opt local rank localrank

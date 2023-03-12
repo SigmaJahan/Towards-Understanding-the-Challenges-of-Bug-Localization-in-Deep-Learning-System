@@ -1,0 +1,2 @@
+update matplotlib use agg tight update matplotlib tight layout tightlayout true udpate udpate update png update update
+yticklabels names background labels else auto set facecolor setfacecolor fig axes set xlabel setxlabel true fig axes set ylabel setylabel predicted fig tight layout tightlayout fig savefig path save dir savedir confusion matrix confusionmatrix png dpi except exception pass

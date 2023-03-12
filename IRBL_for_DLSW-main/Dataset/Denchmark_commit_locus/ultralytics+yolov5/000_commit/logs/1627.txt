@@ -1,0 +1,2 @@
+      default check_git_status() to True 
+     if __name__ == '__main__':     check_git_status()      parser = argparse.ArgumentParser()      parser.add_argument('--epochs', type=int, default=300)      parser.add_argument('--batch-size', type=int, default=16) 

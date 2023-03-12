@@ -1,0 +1,2 @@
+improved corruption handling scan cache
+img label pbar try image image open img image verify pil verify imread img skimage verify skimage import shape exif size exifsize image image size image open img verify pil verify shape exif size exifsize image size assert shape shape image size pixels path isfile label open label

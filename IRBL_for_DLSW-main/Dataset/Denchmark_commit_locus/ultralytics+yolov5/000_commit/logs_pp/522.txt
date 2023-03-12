@@ -1,0 +1,2 @@
+update train update train simplified ckpt names return default hyps hyp scratch yaml leave line commented future use mystery best finetuning hyps apply becomes clearer force test batch pred testbatchpred jpg replot final epoch allow see predictions final testing run training completes runs exp
+import argparse import glob import logging import math import

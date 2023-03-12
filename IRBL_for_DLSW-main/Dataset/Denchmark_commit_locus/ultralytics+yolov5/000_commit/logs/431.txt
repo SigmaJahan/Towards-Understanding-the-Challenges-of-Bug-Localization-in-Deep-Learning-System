@@ -1,0 +1,2 @@
+      Update 4 main ops for paths and .run() (#3715)          * Add yolov5/ to path          * rename functions to run()          * cleanup          * rename fix          * CI fix          * cleanup find models/export.py 
+ from torch.utils.tensorboard import SummaryWriter  from tqdm import tqdm   FILE = Path(__file__).absolute() sys.path.append(FILE.parents[0].as_posix())  # add yolov5/ to path   import test  # for end-of-epoch mAP  from models.experimental import attempt_load  from models.yolo import Model 

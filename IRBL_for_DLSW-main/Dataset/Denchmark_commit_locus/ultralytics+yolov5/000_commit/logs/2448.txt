@@ -1,0 +1,2 @@
+      image weights compatible faster random index generator v2 for mosaic augmentation (#2383)          image weights compatible faster random index generator v2 for mosaic augmentation 
+       labels9, segments9 = [], []      s = self.img_size     indices = [index] + [self.indices[random.randint(0, self.n - 1)] for _ in range(8)]  # 8 additional image indices     indices = [index] + random.choices(self.indices, k=8)  # 8 additional image indices      for i, index in enumerate(indices):          # Load image          img, _, (h, w) = load_image(self, index) 

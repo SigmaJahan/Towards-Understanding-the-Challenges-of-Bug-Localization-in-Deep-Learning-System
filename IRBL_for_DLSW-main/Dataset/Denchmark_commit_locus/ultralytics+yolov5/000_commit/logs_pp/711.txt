@@ -1,0 +1,2 @@
+fix curl download windows
+nul platform system windows else dev null system curl cookie drive google com export downloadid path exists cookie large file curl cookie drive google com export downloadconfirm sid get token gettoken name curl cookie drive google com export downloadconfirm sid get token gettoken name else small file curl drive google com export downloadid name system execute capture return values

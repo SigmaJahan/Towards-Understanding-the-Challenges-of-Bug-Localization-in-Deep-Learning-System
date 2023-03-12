@@ -1,0 +1,2 @@
+      Add variable-stride inference support (#2091) 
+     class LoadWebcam:  # for inference     def __init__(self, pipe='0', img_size=640):     def __init__(self, pipe='0', img_size=640, stride=32):          self.img_size = img_size         self.stride = stride            if pipe.isnumeric():              pipe = eval(pipe)  # local camera 

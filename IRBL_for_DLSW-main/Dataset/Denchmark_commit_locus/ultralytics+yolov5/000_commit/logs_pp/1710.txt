@@ -1,0 +1,2 @@
+image weights imageweights bug fix
+single cls singlecls opt single cls singlecls stride int stride pad pad rank rank rank rank image weights imageweights image weights imageweights batch size batchsize min batch size batchsize len dataset min cpu count cpucount world size worldsize batch size batchsize batch size batchsize else workers number workers

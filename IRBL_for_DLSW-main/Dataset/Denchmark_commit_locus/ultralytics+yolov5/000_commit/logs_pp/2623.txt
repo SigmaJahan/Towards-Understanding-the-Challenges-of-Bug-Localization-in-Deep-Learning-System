@@ -1,0 +1,2 @@
+colorstr updates import error importerror message fix colorstr updates colorstr updates colorstr default blue bold train magenta train blue
+class load images labels loadimagesandlabels dataset training testing def init self path img size imgsize batch size batchsize augment false hyp none rect false image weights imageweights false cache images cacheimages false single cls singlecls false stride pad rank cache images cacheimages false single cls singlecls false stride pad prefix self img size imgsize img size imgsize self augment augment self hyp hyp

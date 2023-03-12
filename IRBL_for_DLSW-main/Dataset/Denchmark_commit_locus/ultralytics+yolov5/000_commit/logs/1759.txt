@@ -1,0 +1,2 @@
+      PyTorch Hub models default to CUDA:0 if available (#2472)          * PyTorch Hub models default to CUDA:0 if available          * device as string bug fix 
+                 f"Use 'git pull' to update or 'git clone {url}' to download latest."          else:              s = f'up to date with {url} �쐟'         print(s.encode().decode('ascii', 'ignore') if platform.system() == 'Windows' else s)         print(s.encode().decode('ascii', 'ignore') if platform.system() == 'Windows' else s)  # emoji-safe      except Exception as e:          print(e)   

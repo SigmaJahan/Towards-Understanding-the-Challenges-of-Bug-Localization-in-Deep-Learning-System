@@ -1,0 +1,2 @@
+revert test module confuse users
+name main parser argparse argument parser argumentparser prog eval parser argparse argument parser argumentparser prog test parser add argument addargument weights nargs type str default yolovs help model path parser add argument addargument data type str default data coco yaml help data path parser add argument addargument batch size batchsize type int default help size image batch

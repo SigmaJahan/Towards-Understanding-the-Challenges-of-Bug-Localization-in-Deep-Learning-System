@@ -1,0 +1,2 @@
+torch pytorch compatibility updates torch compatibility updates add inference verification
+attempt download attemptdownload model append torch load map location maplocation map location maplocation model float fuse eval load model compatibility updates model modules type hardswish leaky leakyrelu relu relu inplace true pytorch compatibility elif type conv non persistent buffers set nonpersistentbuffersset set pytorch compatibility len model return model return model else

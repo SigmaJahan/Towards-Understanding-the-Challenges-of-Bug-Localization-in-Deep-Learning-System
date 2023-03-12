@@ -1,0 +1,2 @@
+train results txt bucket bug fix
+open results file resultsfile write results map test losses testlosses giou obj cls len opt name opt bucket system gsutil results txt results resultss txt opt bucket opt name system gsutil results resultss txt results file resultsfile opt bucket opt name tensorboard writer tbwriter

@@ -1,0 +1,2 @@
+epoch logging update
+writer tbwriter writer tbwriter add scalar addscalar tag epoch tensorboard wandb wandb log tag wandb log tag step epoch commit tag tags update best map fitness array results reshape weighted combination map map

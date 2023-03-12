@@ -1,0 +1,2 @@
+remove weights directory remove weights directory cleanup
+second stage secondstage classifier classify false classify modelc load classifier loadclassifier name resnet initialize modelc load state dict loadstatedict torch load weights resnet map location maplocation device model device eval modelc load classifier loadclassifier name resnet initialize modelc load state dict loadstatedict torch load resnet map location maplocation device model device eval set dataloader vid path vidpath vid writer vidwriter none none

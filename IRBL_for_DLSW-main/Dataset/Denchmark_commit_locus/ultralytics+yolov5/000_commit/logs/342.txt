@@ -1,0 +1,2 @@
+      W&B DDP fix (#2574) 
+                         wandb_logger.log_model(                              last.parent, opt, epoch, fi, best_model=best_fitness == fi)                  del ckpt         wandb_logger.end_epoch(best_result=best_fitness == fi)                    # end epoch ----------------------------------------------------------------------------------------------------      # end training 

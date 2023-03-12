@@ -1,0 +1,2 @@
+hyperparameter evolution bug fix
+else append else hyp optimizer adam opt adam optimizer optim adam hyp betas hyp momentum adjust beta momentum else optimizer optim sgd hyp momentum hyp momentum nesterov true

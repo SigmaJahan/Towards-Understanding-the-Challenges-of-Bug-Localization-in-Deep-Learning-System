@@ -1,0 +1,2 @@
+eliminate total batch size totalbatchsize variable eliminate total batch size totalbatchsize variable cleanup update train
+process rank testloader create dataloader createdataloader test path testpath imgsz test imgsztest batch size batchsize single cls singlecls testloader create dataloader createdataloader test path testpath imgsz test imgsztest batch size batchsize worldsize single cls singlecls hyp hyp cache opt cache images cacheimages opt notest rect true rank workers opt workers pad prefix colorstr val

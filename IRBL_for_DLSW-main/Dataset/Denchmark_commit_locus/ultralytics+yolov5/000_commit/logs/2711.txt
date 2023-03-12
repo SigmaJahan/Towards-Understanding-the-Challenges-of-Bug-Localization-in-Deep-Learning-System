@@ -1,0 +1,2 @@
+      Initial model ensemble capability #318 
+ # This file contains experimental modules    from models.common import * from utils import google_utils      class CrossConv(nn.Module): 

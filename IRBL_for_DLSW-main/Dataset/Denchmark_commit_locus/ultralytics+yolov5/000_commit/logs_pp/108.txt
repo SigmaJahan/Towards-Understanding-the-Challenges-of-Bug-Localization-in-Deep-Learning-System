@@ -1,0 +1,2 @@
+generalized regression criterion renaming
+pxy sigmoid pwh sigmoid anchorsi pbox torch cat pxy pwh device predicted box giou bbox iou bboxiou pbox tboxi xyxy false ciou true giou prediction target lbox giou mean giou loss iou bbox iou bboxiou pbox tboxi xyxy false ciou true iou prediction target lbox iou mean iou loss objectness tobjb model model giou detach clamp type tobj dtype giou ratio tobjb model model iou detach clamp type tobj dtype iou ratio classification model cls loss multiple classes

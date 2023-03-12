@@ -1,0 +1,2 @@
+      Update PR curve (#1428)          * Update PR curve          * legend outside          * list(Path().glob()) 
+         pass     def plot_evolution(yaml_file='data/hyp.finetune.yaml'):  # from utils.general import *; plot_evolution() def plot_evolution(yaml_file='data/hyp.finetune.yaml'):  # from utils.plots import *; plot_evolution()      # Plot hyperparameter evolution results in evolve.txt      with open(yaml_file) as f:          hyp = yaml.load(f, Loader=yaml.FullLoader) 

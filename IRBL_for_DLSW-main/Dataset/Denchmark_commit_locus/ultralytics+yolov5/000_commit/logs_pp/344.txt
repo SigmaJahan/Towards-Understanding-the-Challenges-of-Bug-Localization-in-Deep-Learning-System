@@ -1,0 +1,2 @@
+ddp fix
+try import wandb wandb import init finish except import error importerror wandb none print colorstr wandb install weights biases yol yolov logging pip install wandb recommended wandbartifactprefix wandb artifact wandbartifact

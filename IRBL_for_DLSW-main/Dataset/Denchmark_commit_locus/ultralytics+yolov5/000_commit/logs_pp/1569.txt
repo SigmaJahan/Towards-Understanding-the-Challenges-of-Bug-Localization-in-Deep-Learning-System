@@ -1,0 +1,2 @@
+update caching
+return frames streams fps years def imglabel paths imglabelpaths img paths imgpaths define label paths function image paths sep images sep sep labels sep images labels substrings return replace replace split txt img paths imgpaths class load images labels loadimagesandlabels dataset training testing def init self path img size imgsize batch size batchsize augment false hyp none rect false image weights imageweights false cache images cacheimages false single cls singlecls false stride pad rank

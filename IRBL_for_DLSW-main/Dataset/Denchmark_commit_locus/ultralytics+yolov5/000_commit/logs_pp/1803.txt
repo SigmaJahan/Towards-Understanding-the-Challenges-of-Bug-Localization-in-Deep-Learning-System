@@ -1,0 +1,2 @@
+move hyp opt yaml save top train fixes bug scaled values saved hyp yaml would cause continuity issues resume
+model class weights classweights labels class weights labelstoclassweights dataset labels device attach class weights model names data dict datadict names save run settings open path log dir logdir hyp yaml yaml dump hyp sort keys sortkeys false open path log dir logdir opt yaml yaml dump vars opt sort keys sortkeys false class frequency labels concatenate dataset labels torch tensor labels classes

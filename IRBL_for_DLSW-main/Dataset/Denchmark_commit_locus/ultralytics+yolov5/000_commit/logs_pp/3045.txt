@@ -1,0 +1,2 @@
+update train hyp args accept hyp file dict
+mosaic image mixup probability mixup image mixup probability open opt hyp hyp yaml safe load safeload load hyps dict assert opt local rank localrank ddp mode implemented evolve opt notest opt nosave true true test save final epoch isinstance int float hyp values evolvable indices

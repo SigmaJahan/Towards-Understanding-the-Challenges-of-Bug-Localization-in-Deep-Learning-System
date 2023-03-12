@@ -1,0 +1,2 @@
+module updates
+pass max round else depth gain convd conv bottleneck spp conv dwconv mix convd mixconvd focus conv plus convplus bottleneck csp bottleneckcsp convd conv bottleneck spp conv dwconv mix convd mixconvd focus bottleneck csp bottleneckcsp cross conv crossconv chf args normal

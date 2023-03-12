@@ -1,0 +1,2 @@
+funnel relu frelu fix update train add frelu update activations pep format updates commonality models common conv update activations update case update activations authored coauthoredby glenn jocher
+staticmethod def forward return softplus tanh frelu https arxiv org abs class frelu module def init self chin kernel super init self conv convd groups self batch normd batchnormd staticmethod def forward self return torch max self self conv

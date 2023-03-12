@@ -1,0 +1,2 @@
+      Update utils.py 
+         g = 3.0  # loss gain          lobj *= g / bs          if nt:             lcls *= g / nt / model.nc             lcls *= g / nt / nc              lbox *= g / nt        loss = lbox + lobj + lcls 

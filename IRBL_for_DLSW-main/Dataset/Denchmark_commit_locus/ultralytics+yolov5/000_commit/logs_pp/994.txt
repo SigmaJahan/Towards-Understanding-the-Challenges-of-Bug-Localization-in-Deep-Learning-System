@@ -1,0 +1,2 @@
+check git status checkgitstatus improvements check online checkonline update general update check git status checkgitstatus reverse rev parse revparse order fetch improved responsiveness comment comment remove hyp giou compat warning
+hyperparameters open opt hyp hyp yaml load loader yaml full loader fullloader load hyps box hyp warn compatibility missing box renamed giou opt hyp https github com ultralytics yolov pull hyp box hyp pop giou train logger info opt

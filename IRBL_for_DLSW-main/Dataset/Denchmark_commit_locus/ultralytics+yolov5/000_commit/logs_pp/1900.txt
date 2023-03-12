@@ -1,0 +1,2 @@
+ema non blocking nonblocking true
+check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz exponential moving average ema torch utils torchutils model ema modelema model updates start epoch startepoch accumulate ema torch utils torchutils model ema modelema model start training time time

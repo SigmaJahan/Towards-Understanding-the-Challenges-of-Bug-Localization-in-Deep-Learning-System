@@ -1,0 +1,2 @@
+model freeze capability
+epochs ckpt epoch finetune additional epochs del ckpt state dict statedict image sizes int max model stride grid size max stride imgsz imgsz test imgsztest check img size checkimgsize opt img size imgsize verify imgsz multiples gsmultiples

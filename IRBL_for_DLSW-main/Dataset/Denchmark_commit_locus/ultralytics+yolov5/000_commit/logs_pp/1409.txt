@@ -1,0 +1,2 @@
+update train gsutil bucket fix
+system gsutil weights opt bucket opt bucket ispt else none upload finish opt evolve plot results plotresults save results png plot results plotresults save dir savedir log dir logdir save results png print epochs completed hours epoch start epoch startepoch time time dist destroy process group destroyprocessgroup local rank localrank else none dist destroy process group destroyprocessgroup rank else none torch cuda empty cache emptycache return results

@@ -1,0 +1,2 @@
+      Update matplotlib.use('Agg') tight (#1583)          * Update matplotlib tight_layout=True          * udpate          * udpate          * update          * png to ps          * update          * update 
+     plt.ylabel('output')      plt.grid()      plt.legend()     fig.tight_layout()      fig.savefig('comparison.png', dpi=200)     

@@ -1,0 +1,2 @@
+      model.add_nms() method 
+         self.info()          return self       def add_nms(self):  # fuse model Conv2d() + BatchNorm2d() layers         if type(self.model[-1]) is not NMS:  # if missing NMS             print('Adding NMS module... ')             m = NMS()  # module             m.f = -1  # from             m.i = self.model[-1].i + 1  # index             self.model.add_module(name='%s' % m.i, module=m)  # add         return self       def info(self, verbose=False):  # print model information          model_info(self, verbose)   

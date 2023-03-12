@@ -1,0 +1,2 @@
+      add util function to get most recent last.pt file     added logic in train.py __main__ to handle resuming from a run 
+     model.names = data_dict['names']        #save hyperparamter and training options in run folder     with open(os.path.join(log_dir, 'hyp.yaml', 'w')) as f:     with open(os.path.join(log_dir, 'hyp.yaml'), 'w') as f:          yaml.dump(hyp, f)       with open(os.path.join(log_dir, 'opt.yaml', 'w')) as f:     with open(os.path.join(log_dir, 'opt.yaml'), 'w') as f:          yaml.dump(opt, f)            # Class frequency 

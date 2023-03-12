@@ -1,0 +1,2 @@
+update torch utils torchutils
+environ cudavisibledevices device set environment variable assert torch cuda available isavailable cuda unavailable invalid device device requested check availability cuda torch cuda available isavailable cpu cuda cpu torch cuda available isavailable cuda torch cuda device count devicecount batch size batchsize check batch size batchsize compatible device count devicecount

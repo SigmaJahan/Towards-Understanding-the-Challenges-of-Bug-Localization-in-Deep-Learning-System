@@ -1,0 +1,2 @@
+test training default
+device type cpu torch cuda device count devicecount model data parallel dataparallel model training false else called train device next model parameters device get model device half false training true device next model parameters device get model device half device type cpu half precision supported cuda half model half configure model eval

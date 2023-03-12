@@ -1,0 +1,2 @@
+add silu inplace attempt load attemptload sleep sec load data update train add silu inplace attempt load attemptload authored coauthoredby wangliang authored coauthoredby glenn jocher
+compatibility updates model modules type hardswish leaky leakyrelu relu relu type hardswish leaky leakyrelu relu relu silu inplace true pytorch compatibility elif type conv non persistent buffers set nonpersistentbuffersset set pytorch compatibility

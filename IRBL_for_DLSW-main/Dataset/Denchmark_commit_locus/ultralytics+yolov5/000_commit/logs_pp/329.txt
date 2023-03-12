@@ -1,0 +1,2 @@
+add file size filesize function add file size filesize function update export
+torch jit trace model img strict false optimize mobile optimizeformobile https pytorch org tutorials recipes script optimized scriptoptimized html save print prefix export success saved print prefix export success saved file size filesize except exception print prefix export failure

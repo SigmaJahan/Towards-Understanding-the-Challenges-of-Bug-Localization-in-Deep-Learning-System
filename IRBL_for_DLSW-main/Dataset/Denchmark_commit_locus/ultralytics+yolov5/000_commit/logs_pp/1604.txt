@@ -1,0 +1,2 @@
+update mix mixup augmentation alpha beta per voc empirical results https github com ultralytics yolov issues issuecomment developerhye
+mix mixup https arxiv org pdf pdf random random hyp mixup img labels load mosaic loadmosaic self random randint self random beta mixup ratio alpha beta random beta mixup ratio alpha beta img img img astype uint labels concatenate labels labels

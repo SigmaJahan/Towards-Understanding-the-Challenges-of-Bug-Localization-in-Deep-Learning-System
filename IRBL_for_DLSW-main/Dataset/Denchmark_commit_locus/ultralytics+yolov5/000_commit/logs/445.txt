@@ -1,0 +1,2 @@
+      Sync train and test iou_thresh (#1465)          * Sync train and test iou_thresh          * Sync train and test iou_thresh          * weights names .lower()          * Notebook update 
+   def test(data,           weights=None,          batch_size=16,          batch_size=32,           imgsz=640,           conf_thres=0.001,           iou_thres=0.6,  # for NMS 

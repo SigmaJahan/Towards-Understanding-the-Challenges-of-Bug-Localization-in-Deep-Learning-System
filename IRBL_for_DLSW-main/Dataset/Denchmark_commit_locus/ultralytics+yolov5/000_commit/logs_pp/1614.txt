@@ -1,0 +1,2 @@
+kmean anchors kmeananchors update
+get label dataset load images labels loadimagesandlabels path augment true rect true open path data dict datadict yaml load loader yaml full loader fullloader model dict dataset load images labels loadimagesandlabels data dict datadict train augment true rect true img size imgsize img size imgsize else number augmentation repetitions zip dataset shapes dataset labels append max image normalized letterbox normalized

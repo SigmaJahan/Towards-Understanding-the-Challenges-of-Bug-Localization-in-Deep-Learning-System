@@ -1,0 +1,2 @@
+      Add verbose option to pytorch hub models (#2926)          * Add verbose and update print to logging          * Fix positonal param          * Revert auto formatting changes          * Update hubconf.py          Co-authored-by: Glenn Jocher <glenn.jocher@ultralytics.com> 
+     Returns:          pytorch model      """     set_logging(verbose=verbose)       model = torch.load(path_or_model) if isinstance(path_or_model, str) else path_or_model  # load checkpoint      if isinstance(model, dict):          model = model['ema' if model.get('ema') else 'model']  # load model 

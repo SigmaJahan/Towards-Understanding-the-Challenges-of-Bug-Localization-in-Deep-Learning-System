@@ -1,0 +1,2 @@
+switch default inference gpu
+path exists shutil rmtree delete output folder makedirs make new output folder half device type cpu half precision supported cuda half device type cpu half precision supported cuda load model google utils googleutils attempt download attemptdownload weights

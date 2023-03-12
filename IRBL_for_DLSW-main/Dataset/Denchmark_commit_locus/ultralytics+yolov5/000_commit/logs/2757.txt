@@ -1,0 +1,2 @@
+      Update export.py with --train mode argument (#3066) 
+     # Update model      if opt.half:          img, model = img.half(), model.half()  # to FP16     if opt.train:         model.train()  # training mode (no grid construction in Detect layer)      for k, m in model.named_modules():          m._non_persistent_buffers_set = set()  # pytorch 1.6.0 compatibility          if isinstance(m, models.common.Conv):  # assign export-friendly activations 

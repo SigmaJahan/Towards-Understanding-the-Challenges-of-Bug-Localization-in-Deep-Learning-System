@@ -1,0 +1,2 @@
+explicit opt function arguments explicit function arguments fix typo detect revert import order revert import order remove default value
+wandb logger wandblogger none compute loss computeloss none half precision halfprecision true coco iscoco false coco iscoco false opt none initialize load model set device training model none training called train

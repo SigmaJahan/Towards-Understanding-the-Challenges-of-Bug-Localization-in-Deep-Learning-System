@@ -1,0 +1,2 @@
+curl update curl update curl update
+raise exception dataset found def download url dir unzip true threads def download url dir unzip true curl false threads multi threaded multithreaded file download unzip function def download one downloadone url dir download file dir path url name filename exists print downloading url torch hub download url file downloadurltofile url progress true download curl system curl url retry curl download retry resume fail else torch hub download url file downloadurltofile url progress true torch download unzip suffix zip print unzipping suffix zip

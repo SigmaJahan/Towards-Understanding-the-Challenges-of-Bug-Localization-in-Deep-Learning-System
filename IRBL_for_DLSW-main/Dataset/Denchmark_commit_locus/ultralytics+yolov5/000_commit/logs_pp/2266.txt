@@ -1,0 +1,2 @@
+update inference default multi label multilabel false update inference default multi label multilabel false bug fix update plots update plots
+max nms maxnms maximum number boxes torchvision ops nms time limit timelimit seconds quit redundant true require redundant detections multi label multilabel multiple labels per box adds img multi label multilabel multiple labels per box adds img merge false use merge nms mergenms time time

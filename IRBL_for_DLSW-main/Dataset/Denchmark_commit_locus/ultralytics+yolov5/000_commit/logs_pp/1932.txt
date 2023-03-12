@@ -1,0 +1,2 @@
+export update
+except exception print torch script torchscript export failed export onnx onnx export try import onnx opt weights replace onnx filename model fuse onnx torch onnx export model img verbose false opset version opsetversion input names inputnames images

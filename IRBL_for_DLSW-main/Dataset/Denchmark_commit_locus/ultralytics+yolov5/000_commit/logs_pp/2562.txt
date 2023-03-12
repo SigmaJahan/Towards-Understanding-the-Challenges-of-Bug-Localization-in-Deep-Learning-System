@@ -1,0 +1,2 @@
+create pip ispip function returns true file part pip package useful contextual behavior modification python def pip ispip file pip package return site packages sitepackages path file absolute parts
+def docker isdocker environment docker container environment docker container return path workspace exists path dockerenv exists def colab iscolab environment google colab instance environment google colab instance try import google colab return true

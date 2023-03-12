@@ -1,0 +1,2 @@
+update loss criteria constructor
+lambda torch sigmoid silu profile profile speed iterations device device torch device cuda torch cuda available isavailable else cpu device device torch device cuda torch cuda available isavailable else cpu device requires grad requiresgrad true print torch version device type torch cuda get device properties getdeviceproperties device type cuda else

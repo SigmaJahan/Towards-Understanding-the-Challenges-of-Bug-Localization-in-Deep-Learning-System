@@ -1,0 +1,2 @@
+torch pytorch hub auto shape autoshape update torch pytorch hub auto shape autoshape update comment imgs reduce comment
+model load state dict loadstatedict state dict statedict strict false load len ckpt model names classes model names ckpt model names set class names attribute model model autoshape autoshaping pil inputs nms model model autoshape pil inputs nms return model except exception

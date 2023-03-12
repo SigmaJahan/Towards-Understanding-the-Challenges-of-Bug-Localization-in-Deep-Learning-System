@@ -1,0 +1,2 @@
+augmented inference
+return model def scale img scaleimg img ratio shape sameshape true img ratio def scale img scaleimg img ratio shape sameshape false img ratio scales img ratio img shape int ratio int ratio new size

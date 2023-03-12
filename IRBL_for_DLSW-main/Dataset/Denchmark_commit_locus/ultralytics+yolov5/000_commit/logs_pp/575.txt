@@ -1,0 +1,2 @@
+improved check requirements checkrequirements offline handling offlinehandling improve robustness check requirements checkrequirements function offline environments attempt pip installs offline
+try pkg require except exception distribution found distributionnotfound version conflict versionconflict requirements met print prefix found required yol yolov attempting auto update autoupdate try assert check online checkonline pip install skipped offline print check output checkoutput pip install shell true decode except exception print prefix

@@ -1,0 +1,2 @@
+      Add Multi-Node support for DDP Training (#504)          * Add support for multi-node DDP          * Remove local_rank confusion          * Fix spacing 
+     device = select_device(opt.device, batch_size=opt.batch_size)      opt.total_batch_size = opt.batch_size      opt.world_size = 1      opt.global_rank = -1           # DDP mode      if opt.local_rank != -1:          assert torch.cuda.device_count() > opt.local_rank 

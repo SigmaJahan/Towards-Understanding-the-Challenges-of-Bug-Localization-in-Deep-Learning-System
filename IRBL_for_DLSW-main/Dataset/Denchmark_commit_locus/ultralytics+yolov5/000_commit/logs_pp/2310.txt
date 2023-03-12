@@ -1,0 +1,2 @@
+ensures weights dir exists allows train run outside yolov directory
+mixed precision mixedprecision false installed wdir weights sep weights dir makedirs wdir exist existok true last wdir last best wdir best results file resultsfile results txt

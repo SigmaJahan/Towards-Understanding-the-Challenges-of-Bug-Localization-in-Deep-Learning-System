@@ -1,0 +1,2 @@
+demand ondemand pycocotools pip install
+parser add argument addargument half action store true storetrue help use half precision halfprecision inference opt parser parse args parseargs print opt check requirements checkrequirements exclude tensorboard pycocotools thop check requirements checkrequirements exclude tensorboard thop opt update update models fix source change warning sourcechangewarning opt weights yolovs yolovm yolovl yolovx

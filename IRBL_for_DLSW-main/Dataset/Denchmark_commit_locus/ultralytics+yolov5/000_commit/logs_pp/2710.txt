@@ -1,0 +1,2 @@
+initial model ensemble capability
+name main parser argparse argument parser argumentparser parser add argument addargument weights type str default weights yolovs help model path parser add argument addargument weights nargs type str default yolovs help model path parser add argument addargument source type str default inference images help source file folder webcam parser add argument addargument output type str default inference output help output folder output folder parser add argument addargument img size imgsize type int default help inference size pixels

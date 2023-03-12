@@ -1,0 +1,2 @@
+      PyTorch Hub and autoShape update (#1415)          * PyTorch Hub and autoShape update          * comment x for imgs          * reduce comment 
+             tcls = labels[:, 0].tolist() if nl else []  # target class              seen += 1               if pred is None:             if len(pred) == 0:                  if nl:                      stats.append((torch.zeros(0, niou, dtype=torch.bool), torch.Tensor(), torch.Tensor(), tcls))                  continue 

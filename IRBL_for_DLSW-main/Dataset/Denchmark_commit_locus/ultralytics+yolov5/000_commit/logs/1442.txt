@@ -1,0 +1,2 @@
+      VisDrone2019-DET Dataset Auto-Download (#2882)          * VisDrone Dataset Auto-Download          * add visdrone.yaml          * cleanup          * add VisDrone2019-DET-test-dev          * cleanup VOC 
+ import re  import subprocess  import time from itertools import repeat from multiprocessing.pool import ThreadPool  from pathlib import Path    import cv2 

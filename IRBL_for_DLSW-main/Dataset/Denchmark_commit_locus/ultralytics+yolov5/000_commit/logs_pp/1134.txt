@@ -1,0 +1,2 @@
+model definition update
+class model module def init self model yaml modelyaml yolovs yaml cfg number classes depth width depthwidth gains def init self model yaml modelyaml yolovs yaml none model input channels number classes super model self init open model yaml modelyaml self yaml load loader yaml full loader fullloader model dict self override yaml value define model self model self save parse model parsemodel self model savelist chout self model self save parse model parsemodel self model savelist chout print shape self forward torch zeros build strides anchors

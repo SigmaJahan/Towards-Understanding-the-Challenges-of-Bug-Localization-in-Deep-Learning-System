@@ -1,0 +1,2 @@
+fix set resume flag false check existance val dataset
+return data dict datadict def download dataset artifact downloaddatasetartifact self path alias path startswith wandbartifactprefix path path startswith wandbartifactprefix dataset artifact datasetartifact wandb use artifact useartifact remove prefix removeprefix path wandbartifactprefix alias assert dataset artifact datasetartifact none error dataset artifact exist datadir dataset artifact datasetartifact download

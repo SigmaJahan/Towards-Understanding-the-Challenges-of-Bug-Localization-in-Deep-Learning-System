@@ -1,0 +1,2 @@
+improves docs handling entities resuming wandb logger wandblogger adds latest tag match wandb defaults adds entity handling last tag fixes bug causing finished runs resume removes redundant last tag wandb artifact
+utilities tools tracking runs weights biases import json import sys pathlib import path

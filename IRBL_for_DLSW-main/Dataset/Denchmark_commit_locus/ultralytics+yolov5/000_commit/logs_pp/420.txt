@@ -1,0 +1,2 @@
+update main ops paths run add yolov path rename functions run cleanup rename fix fix cleanup find models export
+def main opt print colorstr detect join vars opt items check requirements checkrequirements exclude tensorboard thop detect vars opt run vars opt name main

@@ -1,0 +1,2 @@
+add colorstr add colorful update newline fix add git description always update loss scaling update loss scaling rename colorstr
+check anchors checkanchors dataset model model thr hyp anchor anchort imgsz imgsz model parameters hyp cls scale hyp cls class count hyp obj imgsz scale hyp obj image size output layers hyp box scale layers hyp cls scale classes layers hyp obj imgsz scale image size layers model attach number classes model model hyp hyp attach hyperparameters model model iou loss ratio obj loss objloss iou

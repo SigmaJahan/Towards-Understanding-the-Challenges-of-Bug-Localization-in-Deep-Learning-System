@@ -1,0 +1,2 @@
+input channel yaml addition
+self yaml yaml load loader yaml full loader fullloader model dict define model self yaml self yaml get input channels self yaml logger info overriding model yaml self yaml self yaml override yaml value self model self save parse model parsemodel deepcopy self yaml model savelist chout self model self save parse model parsemodel deepcopy self yaml model savelist self names str range self yaml default names print shape self forward torch zeros

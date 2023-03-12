@@ -1,0 +1,2 @@
+      Remove `is_coco` argument from `test()` (#3553) 
+                                               dataloader=testloader,                                                save_dir=save_dir,                                                save_json=True,                                               plots=False,                                               is_coco=is_coco)                                               plots=False)                # Strip optimizers              for f in last, best: 

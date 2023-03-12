@@ -1,0 +1,2 @@
+cleanup
+name main model create name weights yolovs pretrained true channels classes autoshape true verbose true pretrained model custom path model pathormodel path model custom model create name yolovs pretrained true channels classes autoshape true verbose true pretrained model custom path path model custom verify inference import
