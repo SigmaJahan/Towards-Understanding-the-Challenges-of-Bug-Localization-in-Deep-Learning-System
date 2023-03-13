@@ -1,10 +1,5 @@
-# Paper
-Misoo Kim, Youngkyoung Kim, Eunseok Lee, "An Empirical Study of IR-based Bug Localization for Deep Learning-based Software", International Conference on Software Testing, Verification and Validation (ICST), 2022 ([PPT](https://drive.google.com/file/d/1g__c_E4i3xNi0uFC5t9qZEr1GUrG4u0W/view?usp=sharing))
-
-# IRBL for DLSW
-This repository is a reproduction package for IRBL for DLSW projects.
-
-For data generation, scoring, and answering RQs, we separated all tasks arranged in alphabetical order. This separation can also reduce production errors when dealing with large amounts of the dataset. In addition, if you are curious about each operation, it will be easy to look at each file.
+# Bug Localization for Deep Learning software bugs
+This repository is a reproduction package for bug localization for deep learning software projects.
 
 ## Preparation
 - Environments: Python 3.8 + 22icst.yaml
@@ -43,5 +38,5 @@ These folders consist of Python files for the tasks below.
 6) Combines the similarity score from a_similarity_models.py (sf_sim) and similarity score from e_bug_sim.py (br_sim) and use the euqation from the paper for BugLocator methodology.
 
 ## 3_experimental results
-- 
+1) Finding the result of BluiR and Buglocator using MRR, MAP, Top@5,Top@10, Top@20, Top@50, Top@100
 
