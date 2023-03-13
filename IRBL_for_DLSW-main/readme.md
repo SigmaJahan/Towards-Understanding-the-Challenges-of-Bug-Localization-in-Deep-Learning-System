@@ -24,7 +24,7 @@ These folders consist of Python files for the tasks below.
 2) generate bug reports and search space (both source files and functions)
 3) extract specific textual information by regular expression and HTML header
 4) preprocess the bug report for query
-5) preprocess source files/functions for search space
+5) preprocess source files for search space
 6) generate ground truth files and (class, method, variable & comment)
 
 ## 2_scoring
