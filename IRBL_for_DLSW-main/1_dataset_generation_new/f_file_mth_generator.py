@@ -201,9 +201,9 @@ class_path = path_dict["class_path"]
 variable_path = path_dict["variable_path"]
 comment_path = path_dict["comment_path"]
 
-repos = os.listdir(base_path)
+# repos = os.listdir(base_path)
 file_list = []
-for repo in repos:
+for repo in ['paddlepaddle+paddle', 'ray-project+ray', 'tensorflow+tensorflow', 'pytorch+fairseq', 'tensorpack+tensorpack', 'pytorch+ignite', 'opencv+opencv', 'pytorchlightning+pytorch-lightning', 'tensorflow+addons', 'tensorflow+tfjs']:
     vers = os.listdir(base_path+repo+"\\")
     for ver in vers:
         if os.path.exists(file_out_path+repo+"\\"+ver+"\\python\\") is True:
