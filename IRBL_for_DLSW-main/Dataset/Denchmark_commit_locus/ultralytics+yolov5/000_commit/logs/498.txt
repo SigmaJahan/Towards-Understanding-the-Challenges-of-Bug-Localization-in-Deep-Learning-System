@@ -1,2 +1,0 @@
-      FP16 inference update 
-     # torch.save(torch.load(weights, map_location=device), weights)  # update model if SourceChangeWarning      # model.fuse()      model.to(device).eval()     if half:         model.half()  # to FP16        # Second-stage classifier      classify = False 

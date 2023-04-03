@@ -1,2 +1,0 @@
-remove redundant downloads mirror
-kmeans evolved anchors usage utils general import kmean anchors kmeananchors utils autoanchor import kmean anchors kmeananchors thr thr

@@ -1,2 +1,0 @@
-hub device mismatch bug fix
-detections shape conf cls prediction shape number classes prediction shape number classes prediction conf thres confthres candidates settings

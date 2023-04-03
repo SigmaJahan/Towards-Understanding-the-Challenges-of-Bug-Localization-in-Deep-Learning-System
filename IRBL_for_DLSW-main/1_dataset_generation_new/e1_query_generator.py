@@ -95,7 +95,6 @@ if os.path.exists(output_path) is False:
 denchmark_start_tag_r = re.compile('<denchmark(.*?)>')
 denchmark_end_tag_r = re.compile('</denchmark(.*?)>')
 pStrackRegex = re.compile("Traceback[\s\S]+?(?=^\[|\Z|Error:|\?)")
-#Traceback.*\n(\s+.*\n)*(.*?)\n*") #Traceback.*\n(\s+.*\n)*(.*?)\n")
 errorRegex = re.compile("((.*?).Error)")
 exceptRegex = re.compile("((.*?).Exception)")
 blizzard_CE_path = path_dict["blz_ce_path"]
@@ -207,7 +206,6 @@ for repo in repos:
                 
                 # 2.3. DATA-CE
                 # It is should be performed after extracting CE tokens by BLIZZARD tool
-                ###### TODO 모든 프로젝트에 대해 query_ce에 옮겨지고 나면, 관련 코드 지우고 blizzard 토큰이 있는 위치로 경로 변경
                 ce_path = blizzard_CE_path+repo+"\\"+version+"\\"+bug_id+"\\raw_pe_terms.txt"
                 if os.path.exists(ce_path) is True:
                     lines = open(ce_path, "r", encoding="utf8").readlines()

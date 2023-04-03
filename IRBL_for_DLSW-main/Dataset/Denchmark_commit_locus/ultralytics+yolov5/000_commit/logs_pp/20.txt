@@ -1,2 +1,0 @@
-auto anchor autoanchor fitness screen
-fitness copy pbar desc evolving anchors genetic algorithm fitness verbose print results printresults

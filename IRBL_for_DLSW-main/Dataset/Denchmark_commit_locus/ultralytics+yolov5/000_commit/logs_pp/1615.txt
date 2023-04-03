@@ -1,2 +1,0 @@
-kmean anchors kmeananchors update
-copy print results printresults print results printresults return

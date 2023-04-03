@@ -1,2 +1,0 @@
-simplified inference
-import argparse import glob import json import import shutil pathlib import path

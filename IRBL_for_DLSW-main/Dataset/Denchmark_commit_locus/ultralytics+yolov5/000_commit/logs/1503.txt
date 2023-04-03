@@ -1,2 +1,0 @@
-      hyperparameter evolution bug fix (#566) 
-                     imgs = F.interpolate(imgs, size=ns, mode='bilinear', align_corners=False)                # Autocast             with amp.autocast():             with amp.autocast(enabled=cuda):                  # Forward                  pred = model(imgs)   

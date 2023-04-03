@@ -1,2 +1,0 @@
-new colors class
-labels xywhxyxy labels img image fromarray ones dtype uint cls box labels image draw imagedraw draw img rectangle box width outline colorsint cls plot image draw imagedraw draw img rectangle box width outline colors cls plot imshow img axis

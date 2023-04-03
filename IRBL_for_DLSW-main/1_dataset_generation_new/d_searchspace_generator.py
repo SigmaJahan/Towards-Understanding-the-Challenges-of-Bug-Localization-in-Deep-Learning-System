@@ -27,9 +27,8 @@ output_path = path_dict["searchspace_path"]
 
 if os.path.exists(output_path) is False:
     os.makedirs(output_path)
-
-repos = os.listdir(bug_path)
-for repo in repos[:100]:
+#for specfic project
+for repo in ['paddlepaddle+paddle', 'ray-project+ray', 'tensorflow+tensorflow', 'pytorch+fairseq', 'tensorpack+tensorpack', 'pytorch+ignite', 'opencv+opencv', 'pytorchlightning+pytorch-lightning', 'tensorflow+addons', 'tensorflow+tfjs']:
     projects = os.listdir(base_path + repo)
     if len(projects) > 1:
         print('error #project > 1' + repo)

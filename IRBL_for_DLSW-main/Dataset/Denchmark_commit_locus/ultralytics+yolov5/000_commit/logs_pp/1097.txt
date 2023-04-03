@@ -1,2 +1,0 @@
-auto anchor autoanchor implementation
-std sigmas whitening dist kmeans iter points mean distance torch tensor torch tensor print results printresults plot plot none none tqdm range kmeans points mean distance

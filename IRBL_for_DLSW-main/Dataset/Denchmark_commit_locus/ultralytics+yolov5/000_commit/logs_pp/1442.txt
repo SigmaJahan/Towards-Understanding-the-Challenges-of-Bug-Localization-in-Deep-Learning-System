@@ -1,2 +1,0 @@
-vis drone det visdronedet dataset auto download autodownload vis drone visdrone dataset auto download autodownload add visdrone yaml cleanup add vis drone det test dev visdronedettestdev cleanup voc
-import import subprocess import time itertools import repeat multiprocessing pool import thread pool threadpool pathlib import path import

@@ -1,2 +1,0 @@
-update train
-save dir savedir glob train jpg exists end batch scheduler optimizer param groups paramgroups tensorboard scheduler step

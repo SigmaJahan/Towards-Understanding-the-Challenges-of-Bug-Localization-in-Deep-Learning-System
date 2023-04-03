@@ -1,2 +1,0 @@
-torch pytorch hub auto shape autoshape update
-model model fuse autoshape pil inputs nms verify inference pil import image imgs image open path data images glob jpg results model imgs results show

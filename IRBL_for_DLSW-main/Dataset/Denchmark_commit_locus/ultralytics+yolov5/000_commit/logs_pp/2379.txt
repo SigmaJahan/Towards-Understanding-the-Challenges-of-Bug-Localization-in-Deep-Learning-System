@@ -1,2 +1,0 @@
-funnel relu frelu staticmethod bug fix signed signedoffby glenn jocher
-self conv convd groups self batch normd batchnormd staticmethod def forward self return torch max self self conv

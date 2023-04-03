@@ -1,2 +1,0 @@
-module updates
-conf cls prediction shape number classes prediction conf thres confthres candidates settings min minwh max maxwh pixels minimum maximum box width height

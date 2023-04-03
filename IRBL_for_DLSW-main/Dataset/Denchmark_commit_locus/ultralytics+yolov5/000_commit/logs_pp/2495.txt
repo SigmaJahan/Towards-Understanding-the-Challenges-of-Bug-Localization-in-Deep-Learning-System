@@ -1,2 +1,0 @@
-add timeout class add timeout class rearrange order
-check internet connectivity import socket try socket create connection createconnection check host accesability socket create connection createconnection check host accessibility return true except error oserror return false

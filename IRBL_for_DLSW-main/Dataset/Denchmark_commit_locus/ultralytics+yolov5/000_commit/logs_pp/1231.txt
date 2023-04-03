@@ -1,2 +1,0 @@
-hub device mismatch bug fix
-merge false use merge nms mergenms time time output torch zeros prediction shape output torch zeros device prediction device prediction shape enumerate prediction image index image inference apply constraints max maxwh width height widthheight

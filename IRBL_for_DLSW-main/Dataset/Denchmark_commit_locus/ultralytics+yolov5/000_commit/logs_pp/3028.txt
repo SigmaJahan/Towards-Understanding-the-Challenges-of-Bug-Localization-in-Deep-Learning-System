@@ -1,2 +1,0 @@
-gsutil yaml evolving gcp bucket
-fig tight layout tightlayout legend fig savefig path save dir savedir results png dpi

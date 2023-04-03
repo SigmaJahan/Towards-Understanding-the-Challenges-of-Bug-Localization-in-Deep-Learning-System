@@ -1,2 +1,0 @@
-release signed signedoffby glenn jocher
-elif concat sum else elif detect list reversed else enumerate args append chx isinstance args int number anchors args list range args len else chf

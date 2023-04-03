@@ -1,2 +1,0 @@
-new colors class
-print plotting labels labels labels transpose classes boxes int max number classes colors color list colorlist data frame dataframe transpose columns width height seaborn correlogram

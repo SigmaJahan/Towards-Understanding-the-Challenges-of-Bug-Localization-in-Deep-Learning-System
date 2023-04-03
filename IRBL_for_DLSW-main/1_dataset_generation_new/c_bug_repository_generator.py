@@ -47,9 +47,8 @@ for repo in repos:
 
         commit_ids.append(commit_id)
 
-        # print("tag_date"+tag_date+" : tag_time"+tag_time)
+        
         date_time_str = tag_date + " " + tag_time + ".0"
-        # print("date is : "+date_time_str)
         date_time_obj = datetime.datetime.strptime(date_time_str, "%Y-%m-%d %H:%M:%S.%f")
         tag_date_dict[tag] = date_time_obj
 
@@ -91,7 +90,7 @@ for repo in repos:
             version_bug_dict[prev_tag] = []
         version_bug_dict[prev_tag].append(bug)
         buggy_versions.add(prev_tag)
-        # print(bug_path, prev_tag, prev_date, date_time_obj)
+      
 
     for buggy_version in buggy_versions:
         bug_ids = version_bug_dict[buggy_version]

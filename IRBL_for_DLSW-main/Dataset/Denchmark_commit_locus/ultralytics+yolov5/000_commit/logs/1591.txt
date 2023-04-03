@@ -1,2 +1,0 @@
-      Update loss criteria constructor (#1711) 
-

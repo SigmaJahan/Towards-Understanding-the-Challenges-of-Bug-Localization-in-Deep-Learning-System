@@ -1,2 +1,0 @@
-posix path posixpath str webcam bug fix
-stream results view img viewimg imshow imshow str wait key waitkey ord quit raise stop iteration stopiteration

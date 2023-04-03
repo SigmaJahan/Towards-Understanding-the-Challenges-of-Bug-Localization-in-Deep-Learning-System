@@ -1,7 +1,7 @@
 denchmark_path=D:\\ICSME-2023\\Dataset\\Denchmark\\
 git_path=D:\\ICSME-2023\\Dataset\\Denchmark_git\\
 tag_path=D:\\ICSME-2023\\Dataset\\Denchmark_tags\\
-bug_path=D:\\ICSME-2023\\Dataset\\Denchmark_bugs\\
+bug_path=D:\\ICSME-2023\\Dataset\\Denchmark\\Denchmark_bugs\\
 searchspace_path=D:\\ICSME-2023\\Dataset\\Denchmark_searchspace\\
 query_path=D:\\ICSME-2023\\Dataset\\Denchmark_query\\
 file_path=D:\\ICSME-2023\\Dataset\\Denchmark_file\\

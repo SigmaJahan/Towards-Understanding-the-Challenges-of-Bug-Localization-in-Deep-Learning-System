@@ -1,2 +1,0 @@
-profiling update
-print def forward self augment false profile false outputs outputs self model previous layer isinstance int else else earlier layers

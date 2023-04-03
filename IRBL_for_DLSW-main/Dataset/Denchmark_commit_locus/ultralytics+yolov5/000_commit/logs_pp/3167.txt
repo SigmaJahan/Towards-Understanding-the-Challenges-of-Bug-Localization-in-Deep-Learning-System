@@ -1,2 +1,0 @@
-silu citation correction
-import torch functional silu https arxiv org pdf pdf silu https arxiv org pdf pdf class silu module export friendly exportfriendly version silu staticmethod def forward

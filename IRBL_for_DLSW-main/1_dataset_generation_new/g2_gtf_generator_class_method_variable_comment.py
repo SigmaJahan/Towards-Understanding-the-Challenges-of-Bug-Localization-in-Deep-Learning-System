@@ -19,10 +19,10 @@ path_dict = loader()
 
 bugs_path = path_dict["bug_path"]
 gtfs_path = path_dict["gtf_path"]
-repos = os.listdir(bugs_path)
+# repos = os.listdir(bugs_path)
 target_bug_num = 0
 target_repo_num = 0
-for repo in repos:
+for repo in ['paddlepaddle+paddle', 'ray-project+ray', 'tensorflow+tensorflow', 'pytorch+fairseq', 'tensorpack+tensorpack', 'pytorch+ignite', 'opencv+opencv', 'pytorchlightning+pytorch-lightning', 'tensorflow+addons', 'tensorflow+tfjs']:
 
     versions = os.listdir(bugs_path+repo+"\\")
     project_bug_num = 0
@@ -154,7 +154,7 @@ for repo in repos:
                 if len(tokens) <= 2:
                     continue
                 comment_id = file_id+"|"+tokens[2]
-                comment_name = file_name+"|"+tokens[3].lower()
+                comment_name = file_name+"|"+tokens[-1].lower()
                 comment_dict[comment_id] = comment_name
                 comment_name_set.add(comment_name)
                 comment_dict_by_name[comment_name] = comment_id
