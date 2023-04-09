@@ -1,7 +1,6 @@
 import os
 import sklearn
 from sklearn.feature_extraction.text import TfidfVectorizer
-from rank_bm25 import BM25Okapi
 import util.ir_util as ir_util
 import math 
 
@@ -64,16 +63,26 @@ for repo in repos:
                     for line in lines:
                         key, value = line.strip().split('\t')
                         bm25_br_keymap[key.replace("python-", "")] = value
-            
+
             bluir_bm25_keymap = {}
-            for key in bm25_sf_keymap:
-                bm25_value = float(bm25_sf_keymap[key])
-                if key in bm25_file_keymap:
-                    bm25_value += float(bm25_file_keymap[key])
+            for key in bm25_file_keymap:
+                bm25_value = float(bm25_file_keymap[key])
+                if key in bm25_sf_keymap:
+                    bm25_value += float(bm25_sf_keymap[key])
                 if key in bm25_br_keymap:
                     bm25_value += float(bm25_br_keymap[key])
                 bluir_bm25_keymap[key] = bm25_value
-            
+
+            # Normalize bluir_bm25_keymap
+            if len(bluir_bm25_keymap) != 0:
+                max_value = max(bluir_bm25_keymap.values())
+                min_value = min(bluir_bm25_keymap.values())
+                if max_value != 0:
+                    print (repo + " " + version + " " + bug)
+                    for key in bluir_bm25_keymap:
+                        if max_value != min_value:
+                            bluir_bm25_keymap[key] = (bluir_bm25_keymap[key] - min_value) / (max_value - min_value)
+
             buglocator_rvsm_keymap = {}
             if os.path.exists(irbl_path + repo + "\\" + version + "\\" + bug) is True:
              f = open (irbl_path + repo + "\\" + version + "\\" + bug + "\\bluir_bm25_score.txt", "w")

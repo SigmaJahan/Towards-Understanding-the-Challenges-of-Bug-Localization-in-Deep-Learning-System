@@ -11,7 +11,7 @@ model_map_dict = {}
 lines = open("./results_rq1.txt","r", encoding="utf8").readlines()
 for line in lines:
     line = line.replace("\n","")
-    tokens = line.split("\t")
+    tokens = line.split(",")
     identifier = tokens[0]+"_"+tokens[1]+"_"+tokens[2]+"_"+tokens[3]
     if identifier in checked_bugs:
         continue

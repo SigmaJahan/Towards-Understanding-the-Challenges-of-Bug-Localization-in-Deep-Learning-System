@@ -30,7 +30,7 @@ def get_file_score(file_path, norm):
     if norm is True:
         norm_file_sim_dict = {}
         for id in file_sim_dict.keys():
-            score = file_sim_dict[id]           
+            score = file_sim_dict[id]
             if max_score >  min_score:
                 score = (score - min_score) / (max_score - min_score)
             elif max_score == min_score:
@@ -90,7 +90,7 @@ if os.path.exists("./results_rq1.txt") is False:
     gtfs_path = path_dict["gtf_path"]
     irbl_path = path_dict["irbl_path"]
 
-    norm = True
+    norm = False
     loc_bug_num = 0
     all_bugs = 0
     weights_mrr ={}
@@ -110,23 +110,31 @@ if os.path.exists("./results_rq1.txt") is False:
                 print(repo, ver, bug)
                 
                 score_path = irbl_path+repo+"\\"+ver+"\\"+bug+"\\"
-                file_scores = get_file_score(score_path+"sf_sim\\python_vsm.txt", norm)
-                top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000) 
+                # file_scores = get_file_score(score_path+"sf_sim\\python_vsm.txt", norm)
+                # top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000)
+                # f = open("./results_rq1.txt","a", encoding="utf8")
+                # f.write(repo+"\t"+ver+"\t"+bug+"\tvsm\t"+str(len(gtfs))+"\t"+str(top_rank)+"\t"+str(rr)+"\t"+str(ap)+"\n")
+                # f.close()
+
+                file_scores = get_file_score(score_path+"buglocator_score.txt", norm)
+                top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000)
                 f = open("./results_rq1.txt","a", encoding="utf8")
-                f.write(repo+"\t"+ver+"\t"+bug+"\tvsm\t"+str(len(gtfs))+"\t"+str(top_rank)+"\t"+str(rr)+"\t"+str(ap)+"\n")
+                f.write(repo+","+ver+","+bug+",buglocator,"+str(len(gtfs))+","+str(top_rank)+","+str(rr)+","+str(ap)+"\n")
                 f.close()
 
-                file_scores = get_file_score(score_path+"sf_sim\\python_rvsm.txt", norm)
+                file_scores = get_file_score(score_path+"bluir_bm25_score.txt", norm)
                 top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000) 
                 f = open("./results_rq1.txt","a", encoding="utf8")
-                f.write(repo+"\t"+ver+"\t"+bug+"\trvsm\t"+str(len(gtfs))+"\t"+str(top_rank)+"\t"+str(rr)+"\t"+str(ap)+"\n")
+                f.write(repo+","+ver+","+bug+",bluir,"+str(len(gtfs))+","+str(top_rank)+","+str(rr)+","+str(ap)+"\n")
                 f.close()
 
-
-                file_scores = get_file_score(score_path+"combined_bm25.txt", norm)
-                top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000) 
-                f = open("./results_rq1.txt","a", encoding="utf8")
-                f.write(repo+"\t"+ver+"\t"+bug+"\tbm25\t"+str(len(gtfs))+"\t"+str(top_rank)+"\t"+str(rr)+"\t"+str(ap)+"\n")
+                # convert the results_rq1.txt to CSV
+                f = open("./results_rq1.txt","r", encoding="utf8")
+                lines = f.readlines()
                 f.close()
-                                        
-
+                f = open("./results_rq1.csv","w", encoding="utf8")
+                for line in lines:
+                    line = line.replace("\n","")
+                    tokens = line.split(",")
+                    f.write(tokens[0]+","+tokens[1]+","+tokens[2]+","+tokens[3]+","+tokens[4]+","+tokens[5]+","+tokens[6]+","+tokens[7]+"\n")
+                f.close()
