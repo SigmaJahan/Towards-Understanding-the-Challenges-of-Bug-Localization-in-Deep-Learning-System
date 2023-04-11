@@ -31,4 +31,5 @@ This folder consists of python files for data preparation and generation for IRB
     8) **f_file_mth_generator.py**: Index source files and function (output: _file_path_, _function_path_)
     9) **g1_gtf_generator.py**: Generate ground truth source files (output: _gtf_path))
     10) **g2_gtf_generator_class_method_variable_comment.py**: Generate groud truth for class, methods, variable, comments (output: _gtf_path_) (e.g., %bug_id%_method.txt)
+    11) **h_commit_history_generator.py**: Generate commit history
             
