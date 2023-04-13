@@ -12,7 +12,7 @@ Each folder information is provided on Readme.md of each folder.
 IRBL for DLSW
 │   README.md
 │   22icst.yaml
-└───1_dataset_generation
+└───1_dataset_generation_new
 └───2_scoring
 └───3_experimental_results
 ```
