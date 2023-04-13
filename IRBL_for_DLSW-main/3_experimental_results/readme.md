@@ -8,4 +8,4 @@ This folder consists of python files for answering first research questions.
 
 a) **a_buglocator_bluir_rq1_data.py** & b)**b_buglocator_bluir_rq1_result.py** : Evaluate the BugLocator and BLUiR model using Top@K ranking, MRR & MAP. Generates the result on results.rq1.txt and has been converted results_rq1_buglocator_Bluir.csv
 
-c) **c_BLIA_data.py** & d) **d_BLIA_result.py** : Evaluate the BLIA model using Top@K ranking, MRR & MAP. Generates the result into results_rq3.txt, which is not uploaded here as the text file is 700+ mb. (Here the results_rq3.txt has been converted to csv as results.rq3_BLIA.csv)
+c) **c_BLIA_data.py** & d) **d_BLIA_result.py** : Evaluate the BLIA model using Top@K ranking, MRR & MAP. Generates the result into results_rq3.txt, which is not uploaded here as the text file is 700+ mb. (Here the results_rq3.txt has been converted to csv as results_rq1_BLIA.csv)
