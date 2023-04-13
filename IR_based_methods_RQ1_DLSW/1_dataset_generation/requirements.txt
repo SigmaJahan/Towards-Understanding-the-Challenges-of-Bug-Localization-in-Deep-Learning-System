@@ -19,4 +19,6 @@ typing-extensions==4.0.1
 zipp==3.7.0
 nltk.download('stopwords')
 nltk.download('punkt')
+csv == 1.0
+
 

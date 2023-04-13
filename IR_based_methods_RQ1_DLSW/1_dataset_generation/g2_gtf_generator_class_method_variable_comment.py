@@ -19,10 +19,10 @@ path_dict = loader()
 
 bugs_path = path_dict["bug_path"]
 gtfs_path = path_dict["gtf_path"]
-# repos = os.listdir(bugs_path)
+repos = os.listdir(bugs_path)
 target_bug_num = 0
 target_repo_num = 0
-for repo in ['paddlepaddle+paddle', 'ray-project+ray', 'tensorflow+tensorflow', 'pytorch+fairseq', 'tensorpack+tensorpack', 'pytorch+ignite', 'opencv+opencv', 'pytorchlightning+pytorch-lightning', 'tensorflow+addons', 'tensorflow+tfjs']:
+for repo in repos:
 
     versions = os.listdir(bugs_path+repo+"\\")
     project_bug_num = 0
