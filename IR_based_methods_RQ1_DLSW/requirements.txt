@@ -24,3 +24,4 @@ six~=1.16.0
 python-dateutil~=2.8.2
 certifi~=2022.12.7
 packaging~=23.0
+csv == 1.0

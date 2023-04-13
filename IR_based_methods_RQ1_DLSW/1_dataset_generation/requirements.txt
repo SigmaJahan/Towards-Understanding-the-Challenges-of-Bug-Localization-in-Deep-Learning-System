@@ -20,5 +20,6 @@ zipp==3.7.0
 nltk.download('stopwords')
 nltk.download('punkt')
 csv == 1.0
-
+json == 2.0.9
+datetime == 4.3
 

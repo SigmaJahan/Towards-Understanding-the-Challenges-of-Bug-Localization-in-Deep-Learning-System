@@ -23,7 +23,6 @@ repos = os.listdir(bugs_path)
 target_bug_num = 0
 target_repo_num = 0
 for repo in repos:
-
     versions = os.listdir(bugs_path+repo+"\\")
     project_bug_num = 0
     for version in versions:
