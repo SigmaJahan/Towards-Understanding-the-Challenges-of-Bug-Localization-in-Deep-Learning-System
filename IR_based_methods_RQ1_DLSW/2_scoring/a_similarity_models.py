@@ -4,6 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from rank_bm25 import BM25Okapi
 import util.ir_util as ir_util
 import math 
+import csv
 
 def loader():
     path_dict = {}

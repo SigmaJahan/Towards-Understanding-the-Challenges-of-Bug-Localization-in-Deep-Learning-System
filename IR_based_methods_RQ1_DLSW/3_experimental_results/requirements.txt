@@ -1,0 +1,24 @@
+camelsplit==1.0.1
+click==8.0.3
+colorama==0.4.4
+importlib-metadata==4.10.1
+joblib==1.1.0
+nltk==3.6.7
+numpy==1.22.1
+pyhumps==3.5.0
+python-dateutil==2.8.2
+rank-bm25==0.2.1
+regex==2022.1.18
+scikit-learn==1.0.2
+scipy==1.7.3
+six==1.16.0
+sklearn==0.0
+threadpoolctl==3.0.0
+tqdm==4.62.3
+typing-extensions==4.0.1
+zipp==3.7.0
+nltk.download('stopwords')
+nltk.download('punkt')
+matplotlib == 3.4.3
+seaborn == 0.11.2
+pandas == 1.3.3

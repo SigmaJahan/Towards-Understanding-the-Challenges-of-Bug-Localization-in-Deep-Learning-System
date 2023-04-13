@@ -110,11 +110,6 @@ if os.path.exists("./results_rq1.txt") is False:
                 print(repo, ver, bug)
                 
                 score_path = irbl_path+repo+"\\"+ver+"\\"+bug+"\\"
-                # file_scores = get_file_score(score_path+"sf_sim\\python_vsm.txt", norm)
-                # top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000)
-                # f = open("./results_rq1.txt","a", encoding="utf8")
-                # f.write(repo+"\t"+ver+"\t"+bug+"\tvsm\t"+str(len(gtfs))+"\t"+str(top_rank)+"\t"+str(rr)+"\t"+str(ap)+"\n")
-                # f.close()
 
                 file_scores = get_file_score(score_path+"buglocator_score.txt", norm)
                 top_rank, rr, ap, _, _  = evaluation(file_scores, gtfs, len(file_scores), 100000)

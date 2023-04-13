@@ -18,12 +18,8 @@ for line in lines:
     line = line.replace("\n","")    
     tokens = line.split("\t")   
     identifier = tokens[6]+"_"+tokens[7]+"_"+tokens[8]
-    #identifier = tokens[0]+"_"+tokens[1]+"_"+tokens[2]+"_"+tokens[3]  
-    # if identifier not in strace_bugs:
-    #     continue
     weights = ' '.join(tokens[:6]) #(+kday)
     top_rank = float(tokens[-3])
-    #top_rank = float(tokens[5])
     top1 = 0
     top5 = 0
     top10 = 0
