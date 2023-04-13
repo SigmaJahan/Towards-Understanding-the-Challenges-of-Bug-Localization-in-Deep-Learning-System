@@ -19,7 +19,7 @@ IRBL for DLSW
 
 These folders consist of Python files for the tasks below.
 
-## 1_dataset_generation
+## 1_dataset_generation_new
 1) download git repository and extract released versions
 2) generate bug reports and search space (both source files and functions)
 3) extract specific textual information by regular expression and HTML header
