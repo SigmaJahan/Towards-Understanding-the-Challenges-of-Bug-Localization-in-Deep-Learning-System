@@ -9,9 +9,8 @@ This repository serves as the code repository for the ICSME 2023 submission conc
 Each folder information is provided on Readme.md of each folder.
 
 
-```
 ## IR_based_methods_RQ1_DLSW
-```
+
 IRBL for DLSW
 │   README.md
 │   22icst.yaml
