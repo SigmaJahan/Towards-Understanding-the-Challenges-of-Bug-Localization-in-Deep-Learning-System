@@ -18,7 +18,7 @@
 
 ## IR_based_methods_RQ1_DLSW
 ```
-IRBL for DLSW
+IR_based_methods_RQ1_DLSW
 │   README.md
 │   23icsme.yaml
 └───1_dataset_generation
