@@ -5,6 +5,7 @@
 
 ## Preparation
 - Environments: Python 3.9 
+- Install Jupyter Notebook
 - We have dependencies stated in the 23icsme.yaml file
 - Each folder information is provided on Readme.md and requirements.txt of each folder
 - Install python libraries $ pip install -r scripts/requirements.txt (Provided in each folder)
@@ -20,12 +21,11 @@
 IRBL for DLSW
 │   README.md
 │   23icsme.yaml
-└───1_dataset_generation_new
+└───1_dataset_generation
 └───2_scoring
 └───3_experimental_results
 ```
-
-These folders consist of Python files for the tasks below.
+These folders consist of Python files/Jupyter Notebook for the tasks below.
 
 ** 1_dataset_generation **
 
