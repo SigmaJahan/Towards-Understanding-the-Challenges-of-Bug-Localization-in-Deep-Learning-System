@@ -47,7 +47,7 @@ b) 2_scoring
 
 c) 3_experimental results
 
-1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5,Top@10
+1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5, Top@10
 
 ## Manual_analysis_all_ICSME.ipynb 
 
