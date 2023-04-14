@@ -3,8 +3,10 @@ This repository serves as the code repository for the ICSME 2023 submission conc
 
 ## Preparation
 - Environments: Python 3.8 + 22icst.yaml
-- Download Denchmark-BRs
+- Download Denchmark-BRs (DLSW)
     - https://github.com/RosePasta/Denchmark_BRs
+- Download BugGL-BRs (NDLSW)
+    - https://github.com/muvvasandeep/BuGL
 ## Structure
 Each folder information is provided on Readme.md and requirements.txt of each folder.
 
@@ -53,3 +55,5 @@ c) 3_experimental results
 
 This includes the dataset of manual analysis and generating results from the manual analysis for RQ2 & RQ3 
 
+## Contributor
+Sigma Jahan (sigma.jahan@dal.ca)
