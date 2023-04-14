@@ -21,7 +21,8 @@ IRBL for DLSW
 
 These folders consist of Python files for the tasks below.
 
-a) 1_dataset_generation_new
+a) 1_dataset_generation
+
 1) download git repository and extract released versions
 2) generate bug reports and search space (both source files and functions)
 3) extract specific textual information by regular expression and HTML header
@@ -31,6 +32,7 @@ a) 1_dataset_generation_new
 7) generate commit history
 
 b) 2_scoring
+
 1) Compute the similarity between bug reports and source files with rVSM (sf_sim)
     - sf_sim with rVSM reference: Where should the bugs be fixed? more accurate information retrieval-based bug localization based on bug reports, ICSE'12
 2) Compute the similarity between a bug report and historical bug reports (br_sim)
@@ -45,6 +47,7 @@ b) 2_scoring
    - BLIA Reference: Improved bug localization based on code change histories and bug reports, IST'17
 
 c) 3_experimental results
+
 1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5,Top@10
 
 ## Manual_analysis_all_ICSME.ipynb 
