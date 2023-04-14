@@ -48,5 +48,6 @@ c) 3_experimental results
 1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5,Top@10
 
 ## Manual_analysis_all_ICSME.ipynb 
-This includes the generating results from the manual analysis for RQ2 & RQ3 
+
+This includes the dataset of manual analysis and generating results from the manual analysis for RQ2 & RQ3 
 
