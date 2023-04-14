@@ -1,5 +1,7 @@
-# ICSME-2023-Bug-Localization
-This repository serves as the code repository for the ICSME 2023 submission concerning Bug Localization for Deep Learning Bugs. Detailed steps are can be found inside each section.
+# Towards Automated Localization of Deep Learning Bugs
+
+# Project Description 
+**Abstract:** Software bugs (errors in computer programs) cost the global economy trillions of dollars annually and claim ~50\% of the programming time from software developers. One of the crucial steps toward correcting a bug is pinpointing its location within the software code,  which is a challenging task. The task is even more challenging with deep learning applications due to their black-box nature. Unlike traditional software bugs, the bugs in deep learning applications are hidden not only in the code but also in the models and training data. Thus, despite decades of research, traditional debugging methods might not be adequate for deep learning bugs due to their unique challenges. Given the rapid growth in deep learning applications, an automated approach for detecting deep learning bugs is highly warranted. The proposed research aims to (a) comprehensively assess the feasibility of traditional debugging methods for detecting deep learning bugs, (b) manual analysis of deep learning software bugs, and (c) gain a deeper understanding of the implication of extrinsic and intrinsic bugs. Recent incidents suggest that deep learning bugs could be costly and fatal (e.g., the Uber SUV accident in Arizona and the Tesla autopilot crash). The proposed research might significantly change the status quo. Our work provides important empirical evidence and actionable insights on deep learning bugs to advance academic research for automated software debugging.  
 
 ## Preparation
 - Environments: Python 3.8 + 22icst.yaml
@@ -22,7 +24,7 @@ IRBL for DLSW
 
 These folders consist of Python files for the tasks below.
 
-a) 1_dataset_generation
+** 1_dataset_generation **
 
 1) download git repository and extract released versions
 2) generate bug reports and search space (both source files and functions)
@@ -32,7 +34,7 @@ a) 1_dataset_generation
 6) generate ground truth files and (class, method, variable & comment)
 7) generate commit history
 
-b) 2_scoring
+** 2_scoring **
 
 1) Compute the similarity between bug reports and source files with rVSM (sf_sim)
     - sf_sim with rVSM reference: Where should the bugs be fixed? more accurate information retrieval-based bug localization based on bug reports, ICSE'12
@@ -47,7 +49,7 @@ b) 2_scoring
 8) Compute the commit score 
    - BLIA Reference: Improved bug localization based on code change histories and bug reports, IST'17
 
-c) 3_experimental results
+** 3_experimental results **
 
 1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5, Top@10
 
