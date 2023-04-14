@@ -71,4 +71,4 @@ https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-t
 
 # Something not working as expected?
 
-**Contact:** Sigma Jahan (sigma.jahan@dal.ca) or create an issue
+**Contact:** Sigma Jahan (sigma.jahan@dal.ca) or create an issue - https://github.com/SigmaJahan/Bug-Localization-IR-based-approaches-for-deep-learning-bugs/issues
