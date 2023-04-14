@@ -8,6 +8,9 @@ This repository serves as the code repository for the ICSME 2023 submission conc
 ## Structure
 Each folder information is provided on Readme.md of each folder.
 
+
+```
+## IR_based_methods_RQ1_DLSW
 ```
 IRBL for DLSW
 │   README.md
@@ -15,11 +18,10 @@ IRBL for DLSW
 └───1_dataset_generation_new
 └───2_scoring
 └───3_experimental_results
-```
 
 These folders consist of Python files for the tasks below.
 
-## 1_dataset_generation_new
+a) 1_dataset_generation_new
 1) download git repository and extract released versions
 2) generate bug reports and search space (both source files and functions)
 3) extract specific textual information by regular expression and HTML header
@@ -28,7 +30,7 @@ These folders consist of Python files for the tasks below.
 6) generate ground truth files and (class, method, variable & comment)
 7) generate commit history
 
-## 2_scoring
+b) 2_scoring
 1) Compute the similarity between bug reports and source files with rVSM (sf_sim)
     - sf_sim with rVSM reference: Where should the bugs be fixed? more accurate information retrieval-based bug localization based on bug reports, ICSE'12
 2) Compute the similarity between a bug report and historical bug reports (br_sim)
@@ -42,6 +44,11 @@ These folders consist of Python files for the tasks below.
 8) Compute the commit score 
    - BLIA Reference: Improved bug localization based on code change histories and bug reports, IST'17
 
-## 3_experimental results
+c) 3_experimental results
 1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5,Top@10
+
+## Manual_analysis_all_ICSME.ipynb 
+This includes the generating manual analysis for RQ2 & RQ3 
+
+
 
