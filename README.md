@@ -6,7 +6,7 @@ This repository serves as the code repository for the ICSME 2023 submission conc
 - Download Denchmark-BRs
     - https://github.com/RosePasta/Denchmark_BRs
 ## Structure
-Each folder information is provided on Readme.md of each folder.
+Each folder information is provided on Readme.md and requirements.txt of each folder.
 
 
 ## IR_based_methods_RQ1_DLSW
