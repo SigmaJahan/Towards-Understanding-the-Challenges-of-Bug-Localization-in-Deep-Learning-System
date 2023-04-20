@@ -77,18 +77,18 @@ By following these steps, you will be able to generate and preprocess the datase
 
 ### 2_scoring
 
-1) a_similarity_models.py - Compute the similarity between bug reports and source files with rVSM (sf_sim)
+1) a_similarity_models.py: Compute the similarity between bug reports and source files with rVSM (sf_sim)
     - sf_sim with rVSM reference: Where should the bugs be fixed? more accurate information retrieval-based bug localization based on bug reports, ICSE'12
-2) b_bug_sim.py - Compute the similarity between a bug report and historical bug reports (br_sim)
+2) b_bug_sim.py: Compute the similarity between a bug report and historical bug reports (br_sim)
     - br_sim reference: Where should the bugs be fixed? more accurate information retrieval-based bug localization based on bug reports, ICSE'12
-3) c_code_structure_sim.py - Compute code structure score - method, class, variable, comment scores individually 
+3) c_code_structure_sim.py: Compute code structure score - method, class, variable, comment scores individually 
     - BLUiR Reference: Improving Bug Localization using Structured Information Retrieval (ASE 2013)
-4) d_results_combination.py - Combines the scores from method, class, variable, comment and sum them together for each source file.
-5) e_final_similarity_bluir.py - Combines similarity score from a_similarity_models.py (sf_sim), similarity score from e_bug_sim.py (br_sim) and similarity score from h_results_combination.py (bm25_final) for the BluiR methodology.
-6) f_final_similarity_buglocator.py - Combines the similarity score from a_similarity_models.py (sf_sim) and similarity score from e_bug_sim.py (br_sim) and use the euqation from the paper for BugLocator methodology.
-7) g_strace_score.py - Compute similarity between bug report and stack trace
+4) d_results_combination.py: Combines the scores from method, class, variable, comment and sum them together for each source file.
+5) e_final_similarity_bluir.py: Combines similarity score from a_similarity_models.py (sf_sim), similarity score from e_bug_sim.py (br_sim) and similarity score from h_results_combination.py (bm25_final) for the BluiR methodology.
+6) f_final_similarity_buglocator.py: Combines the similarity score from a_similarity_models.py (sf_sim) and similarity score from e_bug_sim.py (br_sim) and use the    equation from the paper for BugLocator methodology.
+7) g_strace_score.py: Compute similarity between bug report and stack trace
    - BRATracer reference: Boosting bug-report-oriented fault localization with segmentation and stack-trace analysis, ICSME'14
-8) h_commit_score_irbl.py - Compute the commit score 
+8) h_commit_score_irbl.py: Compute the commit score 
    - BLIA Reference: Improved bug localization based on code change histories and bug reports, IST'17
 
 ### 3_experimental results
@@ -105,8 +105,8 @@ Evaluate the BLIA model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates 
 
 ### Manual_analysis_all_ICSME.ipynb 
 
-- Manual_analysis_all_ICSME.ipynb : This includes analysis from the manual analysis for RQ2 & RQ3
-- Python_Dataset_Manual analysis.xlsx : Manual Analysis of BugGL dataset
+- Manual_analysis_all_ICSME.ipynb: This includes analysis from the manual analysis for RQ2 & RQ3
+- Python_Dataset_Manual analysis.xlsx: Manual Analysis of BugGL dataset
 - Tagging DL_Non DL & Extrinsic_Intrinsic Bugs from Denchmark.xlsx:  Manual Analysis of Denchmark dataset
 
 ## Licensing Information
