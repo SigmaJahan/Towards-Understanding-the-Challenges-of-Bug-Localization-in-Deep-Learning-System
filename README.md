@@ -120,4 +120,4 @@ During the implementation of our study, we have referred the following Github re
 
 ## Contact Information
 
-For any issues or concerns regarding the replication package, please reach out to Sigma Jahan (sigma.jahan@dal.ca) or create an issue - https://github.com/SigmaJahan/Bug-Localization-IR-based-approaches-for-deep-learning-bugs/issues
+For any issues or concerns regarding the replication package, please reach out to Sigma Jahan (sigma.jahan@dal.ca) or create an issue - https://github.com/SigmaJahan/Bug-Localization-for-Deep-Learning-Software-Bugs/issues
