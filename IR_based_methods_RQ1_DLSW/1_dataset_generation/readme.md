@@ -25,11 +25,10 @@ This folder consists of python files for data preparation and generation for IRB
         nltk.download('stopwords')
         nltk.download('punkt')
         ```
-
     5) **e1_query_generator.py**: Generate query based on regular expression (output: _query_path_)
     6) **e2_query_generator_header.py**: Generate query based on HTML header (output: _query_path_)
-    8) **f_file_mth_generator.py**: Index source files and function (output: _file_path_, _function_path_)
+    8) **f_file_class_method_variable_comment_generator.py**: Index source files, class, method, variable and comment (output: file_path, class_path, function_path, variable_path, comment_path)
     9) **g1_gtf_generator.py**: Generate ground truth source files (output: _gtf_path))
     10) **g2_gtf_generator_class_method_variable_comment.py**: Generate groud truth for class, methods, variable, comments (output: _gtf_path_) (e.g., %bug_id%_method.txt)
-    11) **h_commit_history_generator.py**: Generate commit history
+    11) **h_commit_history_generator.py**: Generate commit history (outout: commit_path)
             
