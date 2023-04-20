@@ -1,12 +1,12 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie) [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=bugs)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie) [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie) [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=dalhousieuniversity_dalhousie&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=dalhousieuniversity_dalhousie)
 
-# Towards Automated Localization of bugs in Deep Learning Software Systems
-This repository contains the data, experiments, and analysis for the project "Towards Automated Localization of bugs in Deep Learning Softwar Systems", conducted as a part of directd study, under the guidance of Dr. Masud Rahman.
+# Towards Automated Bug Localization in Deep Learning Software Systems
+This repository contains the data, experiments, and analysis for the project "Towards Automated Bug Localization in Deep Learning Software Systems", conducted as a part of directed study, under the guidance of Dr. Masud Rahman.
 
 Git Repository Link: https://github.com/SigmaJahan/Bug-Localization-IR-based-approaches-for-deep-learning-bugs.git
 
-## Abstract:
+## Abstract
 Software bugs (errors in computer programs) cost the global economy trillions of dollars annually and claim ~50\% of the programming time from software developers. One of the crucial steps toward correcting a bug is pinpointing its location within the software code,  which is a challenging task. The task is even more challenging with deep learning applications due to their black-box nature. Unlike traditional software bugs, the bugs in deep learning applications are hidden not only in the code but also in the models and training data. Thus, despite decades of research, traditional debugging methods might not be adequate for deep learning bugs due to their unique challenges. Given the rapid growth in deep learning applications, an automated approach for detecting deep learning bugs is highly warranted. The proposed research aims to (a) comprehensively assess the feasibility of traditional debugging methods for detecting deep learning bugs, (b) manual analysis of deep learning software bugs, and (c) gain a deeper understanding of the implication of extrinsic and intrinsic bugs. Recent incidents suggest that deep learning bugs could be costly and fatal (e.g., the Uber SUV accident in Arizona and the Tesla autopilot crash). The proposed research might significantly change the status quo. Our work provides important empirical evidence and actionable insights on deep learning bugs to advance academic research for automated software debugging.  
 
 ## System Requirements
@@ -73,8 +73,6 @@ These folders consist of Python files/Jupyter Notebook for the tasks below.
 9) g2_gtf_generator_class_method_variable_comment.py: Generate groud truth for class, methods, variable, comments (output: gtf_path)
 10) h_commit_history_generator.py: Generate commit history (outout: commit_path)
 
-By following these steps, you will be able to generate and preprocess the dataset.
-
 ### 2_scoring
 
 1) a_similarity_models.py: Compute the similarity between bug reports and source files with rVSM (sf_sim)
@@ -93,15 +91,14 @@ By following these steps, you will be able to generate and preprocess the datase
 
 ### 3_experimental results
 
-a) a_buglocator_bluir_rq1_data.py
-b) b_buglocator_bluir_rq1_result.py 
-Evaluate the BugLocator and BLUiR model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result on results_rq1.txt. 
+1. a) a_buglocator_bluir_rq1_data.py & b) b_buglocator_bluir_rq1_result.py: Evaluate the BugLocator and BLUiR model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. 
+2. c) c_BLIA_data.py & d) d_BLIA_result.py: Evaluate the BLIA model using Top@K (K= 1, 5, 10) ranking, MRR & MAP.
 
-c) c_BLIA_data.py
-d) d_BLIA_result.py
-Evaluate the BLIA model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result into results_rq3.txt
-
-All the results from both dataset can be found as CSV: results_rq1_buglocator_bluir_Denchmark.csv, results_rq1_BLIA_Denchmark.csv, results_rq1_buglocator_bluir_BugGL.csv, results_rq1_BLIA_BugGL.csv
+All the results from both of the dataset can be found as: 
+1. results_rq1_buglocator_bluir_Denchmark.csv
+2. results_rq1_BLIA_Denchmark.csv
+3. results_rq1_buglocator_bluir_BugGL.csv
+4. results_rq1_BLIA_BugGL.csv
 
 ## Analysis of RQ2 & RQ3
 
@@ -123,4 +120,4 @@ During the implementation of our study, we have referred the following Github re
 
 ## Contact Information
 
-For any issues or concerns regarding the replication package, please reach out to Sigma Jahan (sigma.jahan@dal.ca) or create an issue - https://github.com/SigmaJahan/Bug-Localization-IR-based-approaches-for-deep-learning-bugs/issues
+For any issues or concerns regarding the replication package, please reach out to Sigma Jahan (sigma.jahan@dal.ca) or create an issue - https://github.com/SigmaJahan/Bug-Localization-for-Deep-Learning-Software-Bugs/issues
