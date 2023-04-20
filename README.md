@@ -58,7 +58,7 @@ IR_based_methods_RQ1_DLSW
 ```
 These folders consist of Python files/Jupyter Notebook for the tasks below.
 
-## 1_dataset_generation 
+### 1_dataset_generation 
 
 1) download git repository and extract released versions
 2) generate bug reports and search space (both source files and functions)
@@ -70,7 +70,7 @@ These folders consist of Python files/Jupyter Notebook for the tasks below.
 
 By following these steps, you will be able to generate and preprocess the dataset.
 
-## 2_scoring
+### 2_scoring
 
 1) Compute the similarity between bug reports and source files with rVSM (sf_sim)
     - sf_sim with rVSM reference: Where should the bugs be fixed? more accurate information retrieval-based bug localization based on bug reports, ICSE'12
@@ -85,13 +85,15 @@ By following these steps, you will be able to generate and preprocess the datase
 8) Compute the commit score 
    - BLIA Reference: Improved bug localization based on code change histories and bug reports, IST'17
 
-## 3_experimental results
+### 3_experimental results
 
 1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5, Top@10
 
-## Manual_analysis_all_ICSME.ipynb 
+## IR_based_methods_RQ1_DLSW
 
-This includes the dataset of manual analysis and generating results from the manual analysis for RQ2 & RQ3 
+### Manual_analysis_all_ICSME.ipynb 
+
+This includes the dataset of manual analysis and generating results from the manual analysis for RQ2 & RQ3 from our work.
 
 ## Licensing Information
 This project is licensed under the MIT License, a permissive open-source license that allows others to use, modify, and distribute the project's code with very few restrictions. This license can benefit research by promoting collaboration and encouraging the sharing of ideas and knowledge. With this license, researchers can build on existing code to create new tools, experiments, or projects, and easily adapt and customize the code to suit their specific research needs without worrying about legal implications. The open-source nature of the MIT License can help foster a collaborative research community, leading to faster innovation and progress in their respective fields. Additionally, the license can help increase the visibility and adoption of the project, attracting more researchers to use and contribute to it.
