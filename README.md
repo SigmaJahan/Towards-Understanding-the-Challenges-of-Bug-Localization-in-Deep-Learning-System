@@ -93,13 +93,21 @@ By following these steps, you will be able to generate and preprocess the datase
 
 ### 3_experimental results
 
-1) Evaluating Buglocator, BLUiR and BLIA using MRR, MAP, Top@1, Top@5, Top@10
+a) a_buglocator_bluir_rq1_data.py
+b) b_buglocator_bluir_rq1_result.py 
+Evaluate the BugLocator and BLUiR model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result on results.rq1.txt
 
-## IR_based_methods_RQ1_DLSW
+c) c_BLIA_data.py
+d) d_BLIA_result.py
+Evaluate the BLIA model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result into results_rq3.txt
+
+## Analysis of RQ2 & RQ3
 
 ### Manual_analysis_all_ICSME.ipynb 
 
-This includes the dataset of manual analysis and generating results from the manual analysis for RQ2 & RQ3 from our work.
+- Manual_analysis_all_ICSME.ipynb : This includes analysis from the manual analysis for RQ2 & RQ3
+- Python_Dataset_Manual analysis.xlsx : Manual Analysis of BugGL dataset
+- Tagging DL_Non DL & Extrinsic_Intrinsic Bugs from Denchmark.xlsx:  Manual Analysis of Denchmark dataset
 
 ## Licensing Information
 This project is licensed under the MIT License, a permissive open-source license that allows others to use, modify, and distribute the project's code with very few restrictions. This license can benefit research by promoting collaboration and encouraging the sharing of ideas and knowledge. With this license, researchers can build on existing code to create new tools, experiments, or projects, and easily adapt and customize the code to suit their specific research needs without worrying about legal implications. The open-source nature of the MIT License can help foster a collaborative research community, leading to faster innovation and progress in their respective fields. Additionally, the license can help increase the visibility and adoption of the project, attracting more researchers to use and contribute to it.
