@@ -93,15 +93,15 @@ By following these steps, you will be able to generate and preprocess the datase
 
 ### 3_experimental results
 
-a) a_buglocator_bluir_rq1_data.py
-b) b_buglocator_bluir_rq1_result.py 
-Evaluate the BugLocator and BLUiR model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result on results_rq1.txt. 
+a) a_buglocator_bluir_rq1_data.py & b) b_buglocator_bluir_rq1_result.py: Evaluate the BugLocator and BLUiR model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result on results_rq1.txt. 
 
-c) c_BLIA_data.py
-d) d_BLIA_result.py
-Evaluate the BLIA model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result into results_rq3.txt
+c) c_BLIA_data.py & d) d_BLIA_result.py: Evaluate the BLIA model using Top@K (K= 1, 5, 10) ranking, MRR & MAP. Generates the result into results_rq3.txt
 
-All the results from both dataset can be found as CSV: results_rq1_buglocator_bluir_Denchmark.csv, results_rq1_BLIA_Denchmark.csv, results_rq1_buglocator_bluir_BugGL.csv, results_rq1_BLIA_BugGL.csv
+All the results from both of the dataset can be found as: 
+1. results_rq1_buglocator_bluir_Denchmark.csv
+2. results_rq1_BLIA_Denchmark.csv
+3. results_rq1_buglocator_bluir_BugGL.csv
+4. results_rq1_BLIA_BugGL.csv
 
 ## Analysis of RQ2 & RQ3
 
