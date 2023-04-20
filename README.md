@@ -73,8 +73,6 @@ These folders consist of Python files/Jupyter Notebook for the tasks below.
 9) g2_gtf_generator_class_method_variable_comment.py: Generate groud truth for class, methods, variable, comments (output: gtf_path)
 10) h_commit_history_generator.py: Generate commit history (outout: commit_path)
 
-By following these steps, you will be able to generate and preprocess the dataset.
-
 ### 2_scoring
 
 1) a_similarity_models.py: Compute the similarity between bug reports and source files with rVSM (sf_sim)
