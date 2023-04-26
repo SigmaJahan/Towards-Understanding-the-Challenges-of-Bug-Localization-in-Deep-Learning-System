@@ -49,9 +49,9 @@ Note: Install Jupyter Notebook Each folder information is provided on readme.md 
 - Download BugGL-BRs (NDLSW)
     - https://github.com/muvvasandeep/BuGL
 
-## IR_based_methods_RQ1_DLSW
+## IR_based_methods_RQ1
 ```
-IR_based_methods_RQ1_DLSW
+IR_based_methods_RQ1
 │   README.md
 │   23icsme.yaml
 └───1_dataset_generation
@@ -100,9 +100,8 @@ All the results from both of the dataset can be found as:
 3. results_rq1_buglocator_bluir_BugGL.csv
 4. results_rq1_BLIA_BugGL.csv
 
-## Analysis of RQ2 & RQ3
+## Manual_Analysis_RQ2_RQ3
 
-### Manual_analysis_all_ICSME.ipynb 
 
 - a -- BugGL_Manual_Analysis.xlsx & Manual_BugGL.csv: Manual Analysis of BugGL dataset
 - b -- Denchmark_Manual_Analysis.xlsx & Manual_Denchmark.csv:  Manual Analysis of Denchmark dataset
