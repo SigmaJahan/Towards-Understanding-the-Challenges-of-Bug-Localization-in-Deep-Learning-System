@@ -104,9 +104,11 @@ All the results from both of the dataset can be found as:
 
 ### Manual_analysis_all_ICSME.ipynb 
 
-- Manual_analysis_all_ICSME.ipynb: This includes analysis from the manual analysis for RQ2 & RQ3
-- BugGL_Manual_Analysis.xlsx: Manual Analysis of BugGL dataset
-- Denchmark_Manual_Analysis.xlsx:  Manual Analysis of Denchmark dataset
+- a -- BugGL_Manual_Analysis.xlsx & Manual_BugGL.csv: Manual Analysis of BugGL dataset
+- b -- Denchmark_Manual_Analysis.xlsx & Manual_Denchmark.csv:  Manual Analysis of Denchmark dataset
+- c -- Correlation_Extrinsic_DL.ipynb: Correlation between extrinsic bug and deep learning bugs
+- d -- Analysis_RQ2_RQ3.ipynb: This includes analysis from the manual analysis for RQ2 & RQ3
+
 
 ## Licensing Information
 This project is licensed under the MIT License, a permissive open-source license that allows others to use, modify, and distribute the project's code with very few restrictions. This license can benefit research by promoting collaboration and encouraging the sharing of ideas and knowledge. With this license, researchers can build on existing code to create new tools, experiments, or projects, and easily adapt and customize the code to suit their specific research needs without worrying about legal implications. The open-source nature of the MIT License can help foster a collaborative research community, leading to faster innovation and progress in their respective fields. Additionally, the license can help increase the visibility and adoption of the project, attracting more researchers to use and contribute to it.
