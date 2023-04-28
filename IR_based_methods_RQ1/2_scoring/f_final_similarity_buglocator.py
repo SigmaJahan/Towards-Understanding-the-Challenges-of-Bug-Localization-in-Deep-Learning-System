@@ -7,7 +7,7 @@ import math
 
 def loader():
     path_dict = {}
-    lines = open("C:\\Users\\sigma\\Desktop\\ICSME-2023\\IRBL_for_DLSW-main\\IRBL_for_DLSW-main\\2_scoring\\z_config.txt","r", encoding="utf8").readlines()
+    lines = open("C:\\Users\\Desktop\\ICSME-2023\\IRBL_for_DLSW-main\\IRBL_for_DLSW-main\\2_scoring\\z_config.txt","r", encoding="utf8").readlines()
     for line in lines:
         line = line.replace("\n","")
         tokens = line.split("=",2)

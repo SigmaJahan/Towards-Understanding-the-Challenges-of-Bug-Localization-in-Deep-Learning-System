@@ -118,7 +118,3 @@ During the implementation of our study, we have referred the following Github re
 1. https://github.com/RosePasta/IRBL_for_DLSW
 2. https://github.com/exatoa/Bench4BL
 3. https://github.com/klausyoum/BLIA
-
-## Contact Information
-
-For any issues or concerns regarding the replication package, please reach out to Sigma Jahan (sigma.jahan@dal.ca) or create an issue - https://github.com/SigmaJahan/Bug-Localization-for-Deep-Learning-Software-Bugs/issues
