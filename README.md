@@ -5,7 +5,7 @@
 This repository contains the data, experiments, and analysis for the EMSE 2024 submission "Towards Understanding the Challenges of Bug Localization in Deep Learning Systems".
 
 ## Abstract
-Software bugs cost the global economy billions of dollars annually and claim ~50% of the programming time from software developers. One of the crucial steps toward correcting a bug is pinpointing its location within the software code, which is a challenging task. The task is even more challenging with deep learning applications due to their black-box nature. Unlike traditional software bugs, the bugs in deep learning applications are hidden not only in the code but also in the models and training data. Thus, despite decades of research, traditional debugging methods might not be adequate for deep-learning software systems due to their unique challenges. In this paper, we conduct a large-scale empirical study to better understand the challenges of localizing bugs in deep-learning software systems. First, we collect 2,365 bugs from deep-learning applications and 2,913 bugs from traditional software systems and determine the performance of four existing techniques in localizing these bugs. We found that existing techniques show poor performance in localizing bugs from deep-learning applications. Second, we also found that deep learning bugs are connected to artifacts other than source code (e.g., GPU, training data, external dependencies), which might explain the poor performance of the existing techniques for these bugs. Our work provides important empirical evidence and actionable insights for deep learning software bugs to advance academic research for automated software debugging. 
+Software bugs cost the global economy billions of dollars annually and claim ~50% of the programming time from software developers. Locating these bugs is crucial but challenging, particularly in deep-learning systems due to their black-box nature. These bugs are also hidden not only in the code but also in the models and training data, which might make traditional debugging methods less effective. In this article, we conduct a large-scale empirical study to better understand the challenges of localizing bugs in deep-learning systems. First, we determine the bug localization performance of four existing techniques using 2,365 bugs from deep-learning systems and 2,913 bugs from traditional systems. We found that existing techniques show significantly poor performance in localizing bugs from deep-learning systems. Second, we evaluate how different bug types in deep learning systems impact bug localization. We found that the effectiveness of localization techniques varied by bug type, highlighting the need for bug-type-specific approaches. For instance, DNNLOC was more effective with model and tensor bugs, while all techniques faced challenges with GPU bugs. Third, we explore the impact of extrinsic bugs on bug localization in deep learning systems. We found that deep learning bugs are often connected to artifacts other than source code (e.g., GPU, training data, external dependencies) and are more prevalent in deep learning systems than in traditional code, contributing to the poor performance of existing localization methods.
 
 ## System Requirements
 Operating System: Windows 11 or higher <br>
@@ -47,7 +47,7 @@ Note: Install Jupyter Notebook Each folder information is provided on readme.md 
 - Download BugGL-BRs (NDLSW)
     - https://github.com/muvvasandeep/BuGL
 
-## IR_based_methods_RQ1
+## RQ1_IR
 ```
 IR_based_methods_RQ1
 │   README.md
@@ -98,8 +98,27 @@ All the results from both of the datasets can be found as follows:
 3. results_rq1_buglocator_bluir_BugGL.csv
 4. results_rq1_BLIA_BugGL.csv
 
-## Manual_Analysis_RQ2_RQ3
+## RQ1_DL
+```
+DL_based_methods_RQ1
+│   README.md
+└───1_Data preprocessing
+└───2_Src
 
+```
+### 1_Data preprocessing
+
+1. Before implementing the src code, convert the JSON files from Denchmark dataset (or any other dataset) to CSV file (Use the code "data_preprocess_JSON_to_CSV.ipynb" for converting)
+2. Run the "data_preprocess_CSV_to_TSV_for_DNN+rVSM.ipynb" to process the CSV files for the model
+   
+
+### 2_Src
+1. Run the feature extraction file from src (define the paths accordingly)
+2. Run all other files including the main
+
+
+
+## Manual_Analysis_RQ2_RQ3
 
 - a -- BugGL_Manual_Analysis.xlsx & Manual_BugGL.csv: Manual Analysis of BugGL dataset
 - b -- Denchmark_Manual_Analysis.xlsx & Manual_Denchmark.csv:  Manual Analysis of Denchmark dataset
