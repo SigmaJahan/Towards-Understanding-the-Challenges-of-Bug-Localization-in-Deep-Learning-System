@@ -129,6 +129,7 @@ DL_based_methods_RQ1
     │   bjxnet_model.py       # Full bjXnet model architecture
     │   train.py              # Training script
     │   evaluate.py           # Evaluation script
+    │   cpg.py                # To automate CPG automation
     │   utils.py              # Utility functions
 
 
