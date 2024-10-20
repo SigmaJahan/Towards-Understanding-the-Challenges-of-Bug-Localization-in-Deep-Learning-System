@@ -101,6 +101,12 @@ All the results from both of the datasets can be found as follows:
 ## RQ1_DL
 ```
 DL_based_methods_RQ1
+│   
+└───bjXnet
+└───DNNLOC
+
+
+## DNNLOC
 │   README.md
 └───1_Data preprocessing
 └───2_Src
@@ -116,6 +122,11 @@ DL_based_methods_RQ1
 1. Run the feature extraction file from src (define the paths accordingly)
 2. Run all other files including the main
 
+
+## bjXnet
+│   README.md
+└───src
+└───READ.md & requirements.txt
 
 
 ## Manual_Analysis_RQ2_RQ3
