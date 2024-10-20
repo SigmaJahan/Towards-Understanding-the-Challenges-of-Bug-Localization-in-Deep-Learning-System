@@ -149,5 +149,8 @@ This project is licensed under the MIT License, a permissive open-source license
 During the implementation of our study, we have referred to the following Github repositories:
 
 1. https://github.com/RosePasta/IRBL_for_DLSW
-2. https://github.com/exatoa/Bench4BL
-3. https://github.com/klausyoum/BLIA
+2. https://github.com/RosePasta/Denchmark_BRs
+3. https://github.com/muvvasandeep/BuGL
+4. https://github.com/exatoa/Bench4BL
+5. https://github.com/klausyoum/BLIA
+6. https://github.com/joernio/joern/tree/master
