@@ -3,7 +3,8 @@
 This repository contains the data, experiments, and analysis for the EMSE 2024 submission "Towards Understanding the Challenges of Bug Localization in Deep Learning Systems".
 
 ## Abstract
-Software bugs cost the global economy billions of dollars annually and claim ~50% of the programming time from software developers. Locating these bugs is crucial but challenging, particularly in deep-learning systems due to their black-box nature. These bugs are also hidden not only in the code but also in the models and training data, which might make traditional debugging methods less effective. In this article, we conduct a large-scale empirical study to better understand the challenges of localizing bugs in deep-learning systems. First, we determine the bug localization performance of five existing techniques using 2,365 bugs from deep-learning systems and 2,913 bugs from traditional systems. We found that existing techniques show significantly poor performance in localizing bugs from deep-learning systems. Second, we evaluate how different bug types in deep learning systems impact bug localization. We found that the effectiveness of localization techniques varied by bug type, highlighting the need for bug-type-specific approaches. For instance, DNNLOC was more effective with model and tensor bugs, while all techniques faced challenges with GPU bugs. Third, we explore the impact of extrinsic bugs on bug localization in deep learning systems. We found that deep learning bugs are often connected to artifacts other than source code (e.g., GPU, training data, external dependencies) and are more prevalent in deep learning systems than in traditional code, contributing to the poor performance of existing localization methods.
+Software bugs cost the global economy billions of dollars annually and claim ~50% of the programming time from software developers. Locating these bugs is crucial for their resolution but challenging. It is even more challenging in deep-learning systems due to their black-box nature. Bugs in these systems are also hidden not only in the code but also in the models and training data, which might make traditional debugging methods less effective. In this article, we conduct a large-scale empirical study to better understand the challenges of localizing bugs in deep-learning systems. First, we determine the bug localization performance of five existing techniques using 2,365 bugs from deep-learning systems and 2,913 from traditional software. We found these techniques significantly underperform in localizing deep-learning system bugs. Second, we evaluate how different bug types in deep learning systems impact bug localization. We found that the effectiveness of localization techniques varies with bug type due to their unique challenges. For example, tensor bugs were more accessible to locate due to their structural nature, while all techniques struggled with GPU bugs due to their external dependencies. Third, we investigate the impact of bugs' extrinsic nature on localization in deep-learning systems. We found that deep learning bugs are often extrinsic and thus connected to artifacts other than source code (e.g., GPU, training data), contributing to the poor performance of existing localization methods.
+
 
 ## System Requirements
 Operating System: Windows 11 or higher <br>
@@ -12,13 +13,13 @@ Development Environment: VS Code <br>
 This experiment has been conducted in 3 parts, with different system configurations
 - Dataset Generation
     - RAM: 16GB
-    - GPU: Compute Canada
+    - GPU: Compute Canada Cedar
 - Scoring
     - RAM: 16GB
-    - GPU: Compute Canada
+    - GPU: Compute Canada Cedar
 - Experimental Results
     - RAM: 16GB
-    - GPU: N/A
+    - GPU: Compute Canada Cedar
 
 ## Installation Details
 
