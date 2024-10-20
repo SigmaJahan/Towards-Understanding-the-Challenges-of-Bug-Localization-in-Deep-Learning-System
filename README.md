@@ -12,10 +12,10 @@ Development Environment: VS Code <br>
 This experiment has been conducted in 3 parts, with different system configurations
 - Dataset Generation
     - RAM: 16GB
-    - GPU: N/A
+    - GPU: Compute Canada
 - Scoring
     - RAM: 16GB
-    - GPU: N/A
+    - GPU: Compute Canada
 - Experimental Results
     - RAM: 16GB
     - GPU: N/A
