@@ -101,21 +101,36 @@ All the results from both of the datasets can be found as follows:
 ## RQ1_DL
 ```
 DL_based_methods_RQ1
+│   
+└───bjXnet
+└───DNNLOC
+```
+## DNNLOC
 │   README.md
 └───1_Data preprocessing
 └───2_Src
-
-```
 ### 1_Data preprocessing
 
 1. Before implementing the src code, convert the JSON files from Denchmark dataset (or any other dataset) to CSV file (Use the code "data_preprocess_JSON_to_CSV.ipynb" for converting)
 2. Run the "data_preprocess_CSV_to_TSV_for_DNN+rVSM.ipynb" to process the CSV files for the model
    
-
 ### 2_Src
 1. Run the feature extraction file from src (define the paths accordingly)
 2. Run all other files including the main
 
+## bjXnet
+│   README.md
+│   requirements.txt
+└───src
+    │   data_processing.py    # Preprocess bug reports and source code
+    │   graph_encoder.py      # Code Property Graph and GNN encoder
+    │   text_encoder.py       # TextCNN for encoding bug reports and source code
+    │   attention_layer.py    # Attention mechanism implementation
+    │   bjxnet_model.py       # Full bjXnet model architecture
+    │   train.py              # Training script
+    │   evaluate.py           # Evaluation script
+    │   cpg.py                # To automate CPG automation
+    │   utils.py              # Utility functions
 
 
 ## Manual_Analysis_RQ2_RQ3
