@@ -1,0 +1,165 @@
+Run 1/20 -> Failed
+Run 2/20 -> Failed
+Run 3/20 -> Passed
+Run 4/20 -> Passed
+Run 5/20 -> Failed
+Run 6/20 -> Failed
+Run 7/20 -> Failed
+Run 8/20 -> Passed
+Run 9/20 -> Passed
+Run 10/20 -> Passed
+Run 11/20 -> Passed
+Run 12/20 -> Failed
+Run 13/20 -> Passed
+Run 14/20 -> Failed
+Run 15/20 -> Passed
+Run 16/20 -> Failed
+Run 17/20 -> Failed
+Run 18/20 -> Passed
+Run 19/20 -> Failed
+Run 20/20 -> Failed
+
+Pass/Fail Summary:
+Total Runs: 20, Failed: 11, Passed: 9
+
+Layer-Level Tarantula Scores:
+  conv2d_1: 0.1393
+  conv2d_2: 0.0446
+  conv2d_3: 0.0649
+  conv2d_4: 0.0150
+  dense_1: 0.0794
+  dense_2: 0.1467
+  faulty_output: 0.1889
+  conv2d_1: 0.5000
+  conv2d_2: 0.5000
+  conv2d_3: 0.5000
+  conv2d_4: 0.5000
+  dense_1: 0.5000
+  dense_2: 0.5000
+  faulty_output: 0.5000
+
+Neuron-Level Tarantula Scores for layer 'conv2d_1' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [conv2d_1] Neuron 4963: 0.9000
+  2. [conv2d_1] Neuron 9635: 0.9000
+  3. [conv2d_1] Neuron 21429: 0.9000
+  4. [conv2d_1] Neuron 38133: 0.9000
+  5. [conv2d_1] Neuron 50805: 0.9000
+  6. [conv2d_1] Neuron 4153: 0.8911
+  7. [conv2d_1] Neuron 4387: 0.8911
+  8. [conv2d_1] Neuron 5219: 0.8911
+  9. [conv2d_1] Neuron 5283: 0.8911
+  10. [conv2d_1] Neuron 6371: 0.8911
+Layer 'conv2d_1' - Mean: 0.5635, Median: 0.5510, Mode: 0.6207
+
+Neuron-Level Tarantula Scores for layer 'conv2d_2' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [conv2d_2] Neuron 108: 1.0000
+  2. [conv2d_2] Neuron 929: 1.0000
+  3. [conv2d_2] Neuron 993: 1.0000
+  4. [conv2d_2] Neuron 1943: 1.0000
+  5. [conv2d_2] Neuron 2007: 1.0000
+  6. [conv2d_2] Neuron 2028: 1.0000
+  7. [conv2d_2] Neuron 2092: 1.0000
+  8. [conv2d_2] Neuron 2097: 1.0000
+  9. [conv2d_2] Neuron 2158: 1.0000
+  10. [conv2d_2] Neuron 3991: 1.0000
+Layer 'conv2d_2' - Mean: 0.4241, Median: 0.4500, Mode: 0.4500
+
+Neuron-Level Tarantula Scores for layer 'conv2d_3' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [conv2d_3] Neuron 40: 1.0000
+  2. [conv2d_3] Neuron 56: 1.0000
+  3. [conv2d_3] Neuron 63: 1.0000
+  4. [conv2d_3] Neuron 66: 1.0000
+  5. [conv2d_3] Neuron 90: 1.0000
+  6. [conv2d_3] Neuron 121: 1.0000
+  7. [conv2d_3] Neuron 177: 1.0000
+  8. [conv2d_3] Neuron 184: 1.0000
+  9. [conv2d_3] Neuron 191: 1.0000
+  10. [conv2d_3] Neuron 194: 1.0000
+Layer 'conv2d_3' - Mean: 0.5071, Median: 0.5056, Mode: 0.4500
+
+Neuron-Level Tarantula Scores for layer 'conv2d_4' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [conv2d_4] Neuron 1756: 1.0000
+  2. [conv2d_4] Neuron 1938: 1.0000
+  3. [conv2d_4] Neuron 1975: 1.0000
+  4. [conv2d_4] Neuron 2266: 1.0000
+  5. [conv2d_4] Neuron 2962: 1.0000
+  6. [conv2d_4] Neuron 3023: 1.0000
+  7. [conv2d_4] Neuron 3151: 1.0000
+  8. [conv2d_4] Neuron 3663: 1.0000
+  9. [conv2d_4] Neuron 3919: 1.0000
+  10. [conv2d_4] Neuron 3930: 1.0000
+Layer 'conv2d_4' - Mean: 0.0175, Median: 0.0000, Mode: 0.0000
+
+Neuron-Level Tarantula Scores for layer 'dense_1' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [dense_1] Neuron 41: 1.0000
+  2. [dense_1] Neuron 125: 0.6207
+  3. [dense_1] Neuron 162: 0.5510
+  4. [dense_1] Neuron 16: 0.4500
+  5. [dense_1] Neuron 43: 0.4500
+  6. [dense_1] Neuron 49: 0.4500
+  7. [dense_1] Neuron 50: 0.4500
+  8. [dense_1] Neuron 76: 0.4500
+  9. [dense_1] Neuron 138: 0.4500
+  10. [dense_1] Neuron 148: 0.4500
+Layer 'dense_1' - Mean: 0.1293, Median: 0.1200, Mode: 0.0000
+
+Neuron-Level Tarantula Scores for layer 'dense_2' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [dense_2] Neuron 29: 0.3186
+  2. [dense_2] Neuron 71: 0.3186
+  3. [dense_2] Neuron 43: 0.2903
+  4. [dense_2] Neuron 15: 0.2903
+  5. [dense_2] Neuron 32: 0.2903
+  6. [dense_2] Neuron 51: 0.2596
+  7. [dense_2] Neuron 58: 0.2596
+  8. [dense_2] Neuron 33: 0.2348
+  9. [dense_2] Neuron 68: 0.2348
+  10. [dense_2] Neuron 76: 0.2348
+Layer 'dense_2' - Mean: 0.1143, Median: 0.1047, Mode: 0.0000
+
+Neuron-Level Tarantula Scores for layer 'faulty_output' (Top 10):
+Note: The index corresponds to that neuron's position in the layer.
+
+  1. [faulty_output] Neuron 78: 0.8911
+  2. [faulty_output] Neuron 5: 0.8675
+  3. [faulty_output] Neuron 3: 0.8182
+  4. [faulty_output] Neuron 84: 0.8182
+  5. [faulty_output] Neuron 87: 0.8182
+  6. [faulty_output] Neuron 7: 0.7500
+  7. [faulty_output] Neuron 8: 0.7500
+  8. [faulty_output] Neuron 79: 0.7500
+  9. [faulty_output] Neuron 80: 0.7500
+  10. [faulty_output] Neuron 28: 0.7317
+Layer 'faulty_output' - Mean: 0.2651, Median: 0.0464, Mode: 0.0000
+Layer: conv2d_1
+  Pass Runs: [0.07521350860595703, 0.060957756042480465, 0.06290531158447266, 0.0644728978474935, 0.03934768676757812, 0.07180386861165365, 0.13316291809082031, 0.06516680399576823, 0.04706385294596354]
+  Fail Runs: [0.32815999348958336, 0.21575637817382812, 0.2740481440226237, 0.21834346771240237, 0.030569610595703126, 0.3904277547200521, 0.15062217712402343, 0.15579045613606768, 0.08714167277018228, 0.11901777903238933, 0.19594567616780598]
+Layer: conv2d_2
+  Pass Runs: [0.07455547332763672, 0.039293162027994794, 0.03407034556070964, 0.05185340881347657, 0.04577203114827475, 0.07778616587320965, 0.08783721923828125, 0.03829886118570964, 0.05613909403483073]
+  Fail Runs: [0.03716527303059895, 0.011916389465332033, 0.03150301615397135, 0.02659285227457682, 0.034302419026692704, 0.06831114451090495, 0.008273022969563802, 0.016064732869466143, 0.13273476918538413, 0.0005479558308919271, 0.01804962158203125]
+Layer: conv2d_3
+  Pass Runs: [0.04620259602864583, 0.05892204284667969, 0.02469558715820313, 0.05176534016927084, 0.028400497436523432, 0.03716929117838542, 0.04832763671875, 0.08961036682128906, 0.04856608072916666]
+  Fail Runs: [0.14949381510416665, 0.05493804931640625, 0.18386179606119793, 0.036410649617513016, 0.04177640279134115, 0.11410092671712238, 0.07571940104166666, 0.048056869506835936, 0.05859311421712239, 0.03260169982910156, 0.06886505126953125]
+Layer: conv2d_4
+  Pass Runs: [0.0306408945719401, 0.0236895751953125, 0.03611223856608073, 0.044759063720703124, 0.048678868611653645, 0.02249280293782552, 0.01053955078125, 0.03944651285807292, 0.04040061950683594]
+  Fail Runs: [2.772013346354167e-06, 5.594889322916667e-07, 5.849202473958334e-07, 1.0172526041666667e-07, 0.0013061269124348958, 9.918212890625e-07, 7.502237955729166e-05, 1.932779947916667e-06, 4.8929850260416665e-05, 0.0013020833333333333, 0.0008211771647135416]
+Layer: dense_1
+  Pass Runs: [0.13609700520833334, 0.16152994791666667, 0.10204427083333333, 0.10778971354166667, 0.11276041666666667, 0.15525716145833335, 0.2090625, 0.13185546875, 0.1379069010416667]
+  Fail Runs: [0.005859375, 0.028645833333333332, 0.02734375, 0.03645833333333333, 0.025390625, 0.028014322916666667, 0.011725260416666668, 0.035807291666666664, 0.03255208333333333, 0.06640625, 0.03507161458333333]
+Layer: dense_2
+  Pass Runs: [0.22856770833333334, 0.190703125, 0.23404296875, 0.25367838541666665, 0.24804687500000003, 0.26586588541666667, 0.24240234375000003, 0.26897786458333334, 0.27953125]
+  Fail Runs: [0.053385416666666664, 0.07682291666666667, 0.09375, 0.07812500000000001, 0.08824869791666667, 0.03514973958333333, 0.04947916666666667, 0.0859375, 0.0625, 0.05338541666666667, 0.04557291666666667]
+Layer: faulty_output
+  Pass Runs: [0.021316666666666668, 0.05159166666666667, 0.0317, 0.024858333333333333, 0.041033333333333345, 0.025341666666666672, 0.03169166666666667, 0.029041666666666664, 0.025033333333333338]
+  Fail Runs: [0.33, 0.3233333333333333, 0.34333333333333327, 0.32, 0.314, 0.31333333333333335, 0.32833333333333337, 0.33333333333333337, 0.325, 0.22333333333333336, 0.3416666666666666]

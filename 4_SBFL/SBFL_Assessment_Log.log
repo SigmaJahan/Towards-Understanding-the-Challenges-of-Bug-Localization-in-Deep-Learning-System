@@ -1,0 +1,196 @@
+2025-02-18 18:36:04,612 - DEBUG - x_train shape: (5000, 32, 32, 3), y_train shape: (5000, 1)
+2025-02-18 18:36:04,678 - DEBUG - Starting run 1/20
+2025-02-18 18:36:04,938 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:36:04,938 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:36:04,938 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:36:04,938 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:36:04,938 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:36:04,939 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:36:04,939 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:37:40,504 - DEBUG - Training loss history: [4.606441497802734, 4.603240013122559, 4.601548671722412, 4.600526332855225, 4.599859237670898, 4.599429130554199]
+2025-02-18 18:37:40,510 - DEBUG - Starting run 2/20
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:37:40,685 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:39:23,228 - DEBUG - Training loss history: [4.606539726257324, 4.603050231933594, 4.60131311416626, 4.6004815101623535, 4.599915981292725, 4.5996551513671875]
+2025-02-18 18:39:23,232 - DEBUG - Starting run 3/20
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:39:23,432 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:41:14,142 - DEBUG - Training loss history: [4.576362133026123, 4.362003803253174, 4.138387203216553, 3.994635581970215, 3.865241050720215, 3.7205147743225098]
+2025-02-18 18:41:14,147 - DEBUG - Starting run 4/20
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:41:14,347 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:43:00,624 - DEBUG - Training loss history: [4.5880632400512695, 4.447897434234619, 4.234582901000977, 4.068214416503906, 3.9430015087127686, 3.8067078590393066]
+2025-02-18 18:43:00,629 - DEBUG - Starting run 5/20
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:43:00,804 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:44:51,182 - DEBUG - Training loss history: [4.606752872467041, 4.602969169616699, 4.601373672485352, 4.601657390594482, 4.600071430206299, 4.599700450897217]
+2025-02-18 18:44:51,186 - DEBUG - Starting run 6/20
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:44:51,371 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:46:29,844 - DEBUG - Training loss history: [4.60637903213501, 4.602929592132568, 4.601357936859131, 4.600404739379883, 4.599912166595459, 4.599597454071045]
+2025-02-18 18:46:29,848 - DEBUG - Starting run 7/20
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:46:30,036 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:48:25,504 - DEBUG - Training loss history: [4.6074066162109375, 4.603266716003418, 4.601637840270996, 4.600709915161133, 4.600152969360352, 4.599844455718994]
+2025-02-18 18:48:25,508 - DEBUG - Starting run 8/20
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:48:25,712 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:50:18,929 - DEBUG - Training loss history: [4.606475353240967, 4.508777141571045, 4.3398566246032715, 4.167989730834961, 4.026754856109619, 3.883610248565674]
+2025-02-18 18:50:18,934 - DEBUG - Starting run 9/20
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:50:19,130 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:52:04,786 - DEBUG - Training loss history: [4.5708513259887695, 4.317080974578857, 4.118988037109375, 3.977921962738037, 3.8105592727661133, 3.611323356628418]
+2025-02-18 18:52:04,790 - DEBUG - Starting run 10/20
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:52:04,969 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:53:52,225 - DEBUG - Training loss history: [4.574212074279785, 4.447139739990234, 4.345160961151123, 4.213830471038818, 4.0740485191345215, 3.9146499633789062]
+2025-02-18 18:53:52,229 - DEBUG - Starting run 11/20
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:53:52,428 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:55:38,716 - DEBUG - Training loss history: [4.533864498138428, 4.337324142456055, 4.188952922821045, 4.0441813468933105, 3.854936361312866, 3.6400859355926514]
+2025-02-18 18:55:38,719 - DEBUG - Starting run 12/20
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:55:38,902 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:57:29,216 - DEBUG - Training loss history: [4.606452941894531, 4.603132724761963, 4.601266860961914, 4.60031270980835, 4.59984827041626, 4.599555015563965]
+2025-02-18 18:57:29,220 - DEBUG - Starting run 13/20
+2025-02-18 18:57:29,423 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:57:29,424 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:57:29,424 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:57:29,424 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:57:29,424 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:57:29,424 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:57:29,424 - DEBUG - Tracking layer: faulty_output
+2025-02-18 18:59:28,466 - DEBUG - Training loss history: [4.580962657928467, 4.449361801147461, 4.2006049156188965, 3.9499402046203613, 3.6880979537963867, 3.356693744659424]
+2025-02-18 18:59:28,472 - DEBUG - Starting run 14/20
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: dense_1
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: dense_2
+2025-02-18 18:59:28,787 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:01:44,424 - DEBUG - Training loss history: [4.607062339782715, 4.603350639343262, 4.601701736450195, 4.600549697875977, 4.5998687744140625, 4.599506855010986]
+2025-02-18 19:01:44,428 - DEBUG - Starting run 15/20
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: dense_1
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: dense_2
+2025-02-18 19:01:44,640 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:03:47,414 - DEBUG - Training loss history: [4.530364990234375, 4.341764450073242, 4.14339017868042, 3.946470022201538, 3.716806173324585, 3.462815999984741]
+2025-02-18 19:03:47,417 - DEBUG - Starting run 16/20
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: dense_1
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: dense_2
+2025-02-18 19:03:47,621 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:05:39,729 - DEBUG - Training loss history: [4.60662317276001, 4.602872848510742, 4.602181434631348, 4.600778102874756, 4.599825382232666, 4.5995402336120605]
+2025-02-18 19:05:39,732 - DEBUG - Starting run 17/20
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: dense_1
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: dense_2
+2025-02-18 19:05:39,949 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:07:35,248 - DEBUG - Training loss history: [4.606881141662598, 4.60325288772583, 4.60150146484375, 4.6004862785339355, 4.599893569946289, 4.5995893478393555]
+2025-02-18 19:07:35,252 - DEBUG - Starting run 18/20
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: dense_1
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: dense_2
+2025-02-18 19:07:35,462 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:09:34,273 - DEBUG - Training loss history: [4.558465003967285, 4.383425235748291, 4.158074378967285, 3.971717596054077, 3.796624183654785, 3.597078800201416]
+2025-02-18 19:09:34,279 - DEBUG - Starting run 19/20
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: dense_1
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: dense_2
+2025-02-18 19:09:34,541 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:11:57,201 - DEBUG - Training loss history: [4.6016411781311035, 4.60371732711792, 4.6014299392700195, 4.600427150726318, 4.59988260269165, 4.599579334259033]
+2025-02-18 19:11:57,208 - DEBUG - Starting run 20/20
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: conv2d_1
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: conv2d_2
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: conv2d_3
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: conv2d_4
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: dense_1
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: dense_2
+2025-02-18 19:11:57,516 - DEBUG - Tracking layer: faulty_output
+2025-02-18 19:14:38,867 - DEBUG - Training loss history: [4.606494903564453, 4.603071689605713, 4.601474285125732, 4.603592395782471, 4.599998474121094, 4.59952974319458]
+2025-02-18 19:14:39,598 - DEBUG - Loaded backend Agg version v2.2.
+2025-02-18 19:15:55,589 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,592 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,646 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,648 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,697 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,699 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,751 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,753 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,800 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,802 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,855 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,857 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-02-18 19:15:55,905 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
