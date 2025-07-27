@@ -55,7 +55,6 @@ pip install -r requirements.txt
 ---
 
 ## Project Structure
-<details> <summary>Click to expand the full project structure</summary>
 ```
 .
 ├── 1_RQ1_IR
@@ -186,7 +185,6 @@ pip install -r requirements.txt
 ├── LICENSE
 ├── README.md
 ```
-</details>
 ---
 
 ## RQ1: IR-based Bug Localization Methods
